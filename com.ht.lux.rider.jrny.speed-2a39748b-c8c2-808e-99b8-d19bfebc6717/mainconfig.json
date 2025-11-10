@@ -23,7 +23,7 @@
           "Name": "Rider's Journey 3D: Speed Games - Luxe"
         },
         "created_time": "2025-11-06T08:33:00.000Z",
-        "last_edited_time": "2025-11-06T08:48:00.000Z",
+        "last_edited_time": "2025-11-10T13:04:00.000Z",
         "url": "https://www.notion.so/Rider-s-Journey-3D-Speed-Games-Luxe-2a39748bc8c2808e99b8d19bfebc6717",
         "children": {
           "Rider_s_Journey_3D__Speed_Games_-_Luxe__ProductCatalog_": {
@@ -66,20 +66,37 @@
                 "id": "2a39748b-c8c2-801d-a60c-c6ffba64ab26",
                 "title": "Rider's Journey 3D: Speed Games - Luxe (Default)",
                 "properties": {
-                  "isDefault": false,
-                  "RViewBandleName": [],
+                  "isDefault": true,
+                  "RViewBandleName": [
+                    "sample1"
+                  ],
                   "Disable Inter": false,
                   "Preview": [],
-                  "RViewGpPrefabName": [],
-                  "RViewAmazonPrefabName": [],
+                  "RViewGpPrefabName": [
+                    "sample1"
+                  ],
+                  "RViewAmazonPrefabName": [
+                    "sample1"
+                  ],
                   "Fallback Sku": [],
                   "Disable Banner": false,
-                  "RViewVersion": [],
-                  "Package bundle": [],
-                  "ViewName": [],
-                  "Sku": "",
-                  "Id": "",
-                  "RViewPrefabName": [],
+                  "RViewVersion": [
+                    "sample1"
+                  ],
+                  "Package bundle": [
+                    {
+                      "name": "subscriptionbundle_banner3",
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/c9254b82-ebb0-405d-8e3a-1559758e107a/subscriptionbundle_banner3.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VHP6LGTV%2F20251110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251110T132218Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLXdlc3QtMiJHMEUCIQDoT0iWB64w1goIR%2BCzl4jZNYHIEETWXZfV2jadGsTYdwIgCD%2BlQLdvuoiizSDErvWUGxIn1gjHUS%2BYNls2GxCPRIUq%2FwMIBhAAGgw2Mzc0MjMxODM4MDUiDDYESeorB0vVec%2BJ1SrcA6nrGKbeczM4%2BwtRq%2FurGo1oO3Mfkl5CmScs3csrscbpop%2Fm%2BGr2AfaPh8T35M28EMn0uNfTA0x0HGTicObiB9sTCA56GPmy0CIq08N9u7l0gyl8q7Q1%2FTweTLfbY5MzAVpieUoKMPB%2BmjSrmeVJ811q1aNFUcHmesJIXd7W4JbZCci3y%2B57onHp889XMhcHN6ZsFYHQwpwjY%2Ftu6GrEokxDg%2BxkEpdZ9E6ZQgFISoo%2BpqLttvQMwVoFurJ%2BNY0V8PZ6oS1dBInZ6vtGeN%2FzBFZhXeEeigbY566Jv0zUS0JDdxYh1Uji9bqaoUvcoror99qvyTMdFJngibWoRuvGVfsEae%2Bps0z5v664RWLmLPPheFfS%2F35mVbeYzVQQkmuqpDH5guzeTiok4R3YtiYdfBAlcLaQy1WoZmNPx6NUX9%2BinIasYdb4Bj4hEBJKQt9c2A6rA8wQ7yy00z1iF6Gis5Y5tazS18J72JSS76Gburat1geaZAJcw7xpoFP%2FlQl7gejSsreaGGwCOYWF6p4w%2FSa35rWqw3SFF%2BnhHdQw%2F3pbbQMmdF6MGwFo675SOTdjbb%2FqIyNQoyOmtQWbtAo6MyNuyo49fS%2FszOx9KGepH4MFiJl7rWLxLIdhW2b4MITMx8gGOqUBSagv6XLJZmZ3XaBNToO%2BpjAQHMf31r3TyzvK%2F2Wj06JcIbonBeaHWq8qCFL1J4%2B6nB2UTqfdhUgOS1AJqRlgrbjMn1VbZ0wHU9XJ9MUSC0FR9l9F5M8rOP87pmKFhd11SBoMk8N%2BxSMZrazokeb8h4PiJUx%2BHVVZIC5HlPF7HbfGd5lkL8cxY6nngx4WMFX4FUtv%2F9thekE12aX2H5WjddR3S3nE&X-Amz-Signature=d4e57dcedeb7130484c7e97e014ff983c445da72667d58a0ccbd48de46919075&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                    }
+                  ],
+                  "ViewName": [
+                    "sample3"
+                  ],
+                  "Sku": "com.test.vira.noads.week",
+                  "Id": "subscription_main",
+                  "RViewPrefabName": [
+                    "sample1"
+                  ],
                   "Subscription Data Catalog": [
                     "2a39748b-c8c2-8063-a7e6-e5eb12c9d5d5"
                   ],
@@ -87,22 +104,33 @@
                   "Name": "Rider's Journey 3D: Speed Games - Luxe (Default)"
                 },
                 "created_time": "2025-11-06T08:55:00.000Z",
-                "last_edited_time": "2025-11-06T08:57:00.000Z",
+                "last_edited_time": "2025-11-10T13:14:00.000Z",
                 "url": "https://www.notion.so/Rider-s-Journey-3D-Speed-Games-Luxe-Default-2a39748bc8c2801da60cc6ffba64ab26"
               }
             },
             "TkFormtSubscriptions": {
               "Subscriptions": [
                 {
-                  "Id": "",
-                  "Sku": "",
+                  "Id": "subscription_main",
+                  "Sku": "com.test.vira.noads.week",
                   "ParentSku": "",
                   "FallbackSkus": [],
                   "DisableInter": false,
                   "DisableBanner": false,
                   "LessAds": false,
-                  "ViewData": [],
-                  "IsDefault": false
+                  "ViewData": [
+                    {
+                      "Name": "sample3",
+                      "RemoteSettings": {
+                        "BundleName": "sample1",
+                        "PrefabName": "sample1",
+                        "Version": "sample1"
+                      },
+                      "AmazonPrefab": "sample1",
+                      "GpPrefab": "sample1"
+                    }
+                  ],
+                  "IsDefault": true
                 }
               ]
             }
