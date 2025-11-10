@@ -1,0 +1,153 @@
+{
+  "pageId": "2a39748b-c8c2-8044-b96f-c0fb571ff215",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Attack_Zone__Fire_Storm_-_Luxe": {
+        "id": "2a39748b-c8c2-8044-b96f-c0fb571ff215",
+        "title": "Attack Zone: Fire Storm - Luxe",
+        "properties": {
+          "bundleID": "com.ht.lux.attack.zone.fire",
+          "ProductCatalog": [
+            "2a39748b-c8c2-8082-bce0-f794860240eb"
+          ],
+          "Subscription Settings": [
+            "2a39748b-c8c2-8085-a6b9-d2f849653354"
+          ],
+          "MainData": [
+            "2a39748b-c8c2-806b-a107-f2462760bfc9"
+          ],
+          "Platform": "AMZ",
+          "RefreshConfig": null,
+          "ProjectKey": "2a39748bc8c28044b96fc0fb571ff215",
+          "Name": "Attack Zone: Fire Storm - Luxe"
+        },
+        "created_time": "2025-11-06T08:33:00.000Z",
+        "last_edited_time": "2025-11-06T08:46:00.000Z",
+        "url": "https://www.notion.so/Attack-Zone-Fire-Storm-Luxe-2a39748bc8c28044b96fc0fb571ff215",
+        "children": {
+          "Attack_Zone__Fire_Storm_-_Luxe__ProductCatalog_": {
+            "id": "2a39748b-c8c2-8082-bce0-f794860240eb",
+            "title": "Attack Zone: Fire Storm - Luxe (ProductCatalog)",
+            "properties": {
+              "Parent": [
+                "2a39748b-c8c2-8044-b96f-c0fb571ff215"
+              ],
+              "Products": [],
+              "Name": "Attack Zone: Fire Storm - Luxe (ProductCatalog)"
+            },
+            "created_time": "2025-11-06T08:46:00.000Z",
+            "last_edited_time": "2025-11-07T14:17:00.000Z",
+            "url": "https://www.notion.so/Attack-Zone-Fire-Storm-Luxe-ProductCatalog-2a39748bc8c28082bce0f794860240eb",
+            "TKFormatProductCatalog": {
+              "Products": []
+            }
+          },
+          "Attack_Zone__Fire_Storm_-_Luxe_(SubDataCatalog)": {
+            "id": "2a39748b-c8c2-8085-a6b9-d2f849653354",
+            "title": "Attack Zone: Fire Storm - Luxe (SubDataCatalog)",
+            "properties": {
+              "Platform": "AMZ",
+              "ToolKitSettigns": [
+                "2a39748b-c8c2-8044-b96f-c0fb571ff215"
+              ],
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": "com.ht.lux.attack.zone.fire",
+              "Name": "Attack Zone: Fire Storm - Luxe (SubDataCatalog)"
+            },
+            "created_time": "2025-11-06T08:45:00.000Z",
+            "last_edited_time": "2025-11-07T14:06:00.000Z",
+            "url": "https://www.notion.so/Attack-Zone-Fire-Storm-Luxe-SubDataCatalog-2a39748bc8c28085a6b9d2f849653354",
+            "TkFormtSubscriptions": {
+              "Subscriptions": []
+            }
+          },
+          "Attack_Zone__Fire_Storm_-_Luxe__MainData_": {
+            "id": "2a39748b-c8c2-806b-a107-f2462760bfc9",
+            "title": "Attack Zone: Fire Storm - Luxe (MainData)",
+            "properties": {
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                    "name": "AMZ",
+                    "color": "default"
+                  }
+                ]
+              },
+              "Multi-select": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "5f5946de-66a2-4550-abb2-1f2c40b088cc",
+                    "name": "Paid",
+                    "color": "green"
+                  }
+                ]
+              },
+              "App Name": "Attack Zone: Fire Storm - Luxe",
+              "Vaveda_key": "hallgez",
+              "Link to Promo": "https://drive.google.com/drive/folders/1qk-2xGeGPaIc1Cux4omTJK7Tyt1-hOj5",
+              "Version": "1.0.0",
+              "Bundle Version": "1",
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "1c678335-fb6a-495a-b794-7c555b5d0fd5",
+                    "name": "HAT-TRICK GAMES LIMITED",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Bundle Id": "com.ht.lux.doll.challenge.love",
+              "ToolKitSettigns": [
+                "2a39748b-c8c2-8044-b96f-c0fb571ff215"
+              ],
+              "Vaveda_secret": "UAruWyJ3n3W7f30iXGlaoD4F4vghuyhE",
+              "Name": "Attack Zone: Fire Storm - Luxe (MainData)"
+            },
+            "created_time": "2025-11-06T08:46:00.000Z",
+            "last_edited_time": "2025-11-07T14:18:00.000Z",
+            "url": "https://www.notion.so/Attack-Zone-Fire-Storm-Luxe-MainData-2a39748bc8c2806ba107f2462760bfc9",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1qk-2xGeGPaIc1Cux4omTJK7Tyt1-hOj5",
+                  "ProductName": "Attack Zone: Fire Storm - Luxe",
+                  "BundleIdentifier": "com.ht.lux.doll.challenge.love",
+                  "Version": "1.0.0",
+                  "BundleVersionCode": 1,
+                  "CompanyName": "HAT-TRICK GAMES LIMITED"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "hallgez"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "UAruWyJ3n3W7f30iXGlaoD4F4vghuyhE"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
