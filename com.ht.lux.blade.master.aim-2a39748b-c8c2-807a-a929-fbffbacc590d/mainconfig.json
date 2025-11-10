@@ -23,7 +23,7 @@
           "Name": "Blade Master Aim and Strike - Luxe"
         },
         "created_time": "2025-11-06T08:27:00.000Z",
-        "last_edited_time": "2025-11-10T12:55:00.000Z",
+        "last_edited_time": "2025-11-10T13:23:00.000Z",
         "url": "https://www.notion.so/Blade-Master-Aim-and-Strike-Luxe-2a39748bc8c2807aa929fbffbacc590d",
         "children": {
           "Blade_Master_Aim_and_Strike_-_Luxe__ProductCatalog_": {
@@ -71,7 +71,12 @@
                     "sample1"
                   ],
                   "Disable Inter": true,
-                  "Preview": [],
+                  "Preview": [
+                    {
+                      "name": "Screenshot_1",
+                      "url": ""
+                    }
+                  ],
                   "RViewGpPrefabName": [
                     "sample1"
                   ],
@@ -86,7 +91,7 @@
                   "Package bundle": [
                     {
                       "name": "subscriptionbundle_banner2",
-                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/1c58f51a-34c4-423f-9814-08ece173f3b5/subscriptionbundle_banner2.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466V6CLNTI3%2F20251110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251110T132356Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED0aCXVzLXdlc3QtMiJHMEUCIQD4wWTzalyc6FPTIR%2FkW8Hw1BB7QZMwx32sqDawcfftNwIgU%2FeZ74UEjns7AnhrCvyIGpmvpWEjUqqdQjcGScMkriYq%2FwMIBhAAGgw2Mzc0MjMxODM4MDUiDGkjhWjnp2f23N7j%2BircA7ExVh74UN6OoZvdEVxfhWpSddFoJjvyWdH1gOEiaZtTNPpuVOhPfevPsQQyIJCoD0jK3kbI27B4IBKxlXfPK1FkYopsLrZIpiavyvNwAGj6UNBkdTHKRRCVFIK26D%2FB0lTxy13motTOVGjZi%2BsfhXIbo6hPV8ekmYJWhJvKD8InoQ00nHX2mlVTItgb8LRUMOwkWE2lIewjbBSrWeLfM2vw6ed6kH4vp52ux88YBuzLReNTE2LbkbBZO5xknf3PMp7hcOL4NDVKiRefzbnvsAo4j7WVOo8a4i813FpOumJ9pY%2B3mpVOMXoKj8v4kZaXElk5DOhzOnYs015hKWB1ryqat9m9Auiy%2B%2Bq6yuwptUo3X1%2FCktaUvjlO1WiqOmYj7bWQtTgFcvWiMmhMtptV27vbJWzRXoT0smlKhqgOSbY7wO5GmDKL99J1ZiM3P%2BZ5MN1WdrFLNcntNuHUO0tpjfB8NrJwUlCLv4T6Wy6HZFAbQ%2BaWrdZNwJCO7r8rhNhC7gspAKgDf8PHoWIiAv251KgPmfUyKd7Lv80vasiwIu8tU6u94o%2FqE6aXi55Pi9eKkiuCeu957i59VMMEKGqkPfi7wKFM%2BFMF7Qe%2B940ZLcC631UYQne6PgeQX%2FrxMPjLx8gGOqUBU5gRhjIR5UX8XI98WXWyhFb1mb%2B261ItOynMIFl3yTGuKPK%2B4%2FZ6loyLKQYe4a9lGJVz5nfSnDGte99MUI5XrDsOAqudAy3gDv%2Bmk7W4KfcKGv1xR8s20MvAvH9vndDktLw1GA0V1w%2FqFF8FNoM4RKeL1%2BEpPWgls95iCA50st0FEqcHLdHJ0LM4texGadHTKTO41GAZeowqK1QsrawGKsUQBRRc&X-Amz-Signature=b69a5ae0bac1052925f2a52881f7357f515a916556179b8eb227c0877ec1b489&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/1c58f51a-34c4-423f-9814-08ece173f3b5/subscriptionbundle_banner2.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667R6NRCAZ%2F20251110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251110T132735Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLXdlc3QtMiJHMEUCIDUM6RNxocCUEbAEsjtP0NqwivSPWVnwn3nqhBla1pRRAiEAl2iizpClp0bwEvC9Uu9wNuPzMnO%2BtSqsqtDgpq%2FQivEq%2FwMIBhAAGgw2Mzc0MjMxODM4MDUiDNQlPCalwm%2BL%2B6bkVSrcA851hw2TsG3A4XSx0TjBexPBJS9vJNsmCbmle2XvsvwtCh2%2B3c1VnhtkbRaYhM7eM5LAtllHI9lcWPFgvuvUZzMs%2B1q7a75KuQKbCCdmuIMZCq9j3IzJcby2pQk3l%2FTNLwJqSLVjS5%2F0gjTpubTgfJls13NdA%2BJEe%2FznhG7IQtm0lFlqbOqUbW0c4bnrkiHTIKXrwXx52u361qXwFiPYVC8ZhXbpVI0jWZQsHTMbTg%2FTc4tNi%2FzDjiPXJShGn2yDDCNb4T4pTLzemEegsTW%2BhCSKM5a7nrgscrGww8WhAlsXsyAvAMgo023YsQig%2Bqy3bGgSfux%2FYjWdp4Cn5M5E%2FdNN2kbisRGbGYsBjiTqriWCcFOILmUXAlZVMqyV6tFVgZrHNdmVkQ1Ov75l404v6%2FijwxFkkJKKhnyZu6672h2pklH3jrnCuUMcq3s8QTEXMxohucOM4Kf9NLanseZbC4cAuUHSx6k1fUVOAB%2FNCenVIVMCt1hrQJPk%2FFg1AQhP%2F0EOn6lKw%2FcxJNp0TQxNBoa1rfjErLvqcqdVmpT7kM0BhX8rNB2aJwRHEFamHUVUoHkkJt%2FbVe4Avm7Jf6fUzfDwuzHwQRXhh6GrbohRER3rkPdaZFRRRz9sAZHnMJrMx8gGOqUB1CO0h1FqSwpgftJzPkJ5CkY67xoZFc61VQFB20H51RJ2Fn%2FD3niRgN8LRfZNl87Tf4hu%2Fkpr6y399t27LVK6MBxIJyu5lD8%2FM4sqzZF9vwwOmFghG0lQNQEXd0eL6JDhwFmTTUKufn4dmKBpJ8wyCQPu%2F0o6K%2FtuRzcPCp1m6j7fxTem2GmRzdjn9%2F3JttMCiofN2uJskLcs99Bt788F4DMmxIBV&X-Amz-Signature=e0ccea086781a2b75a26a06f4c862f0281c245cc2ac085ae0f8e2927b0e88fcf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                     }
                   ],
                   "ViewName": [
@@ -104,7 +109,7 @@
                   "Name": "Blade Master Aim and Strike - Luxe (DisableBanner)"
                 },
                 "created_time": "2025-11-06T08:56:00.000Z",
-                "last_edited_time": "2025-11-10T13:14:00.000Z",
+                "last_edited_time": "2025-11-10T13:24:00.000Z",
                 "url": "https://www.notion.so/Blade-Master-Aim-and-Strike-Luxe-DisableBanner-2a39748bc8c2807a96b6e6dc22527c59"
               }
             },
