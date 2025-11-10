@@ -23,7 +23,7 @@
           "Name": "Rider's Journey 3D: Speed Games - Luxe"
         },
         "created_time": "2025-11-06T08:33:00.000Z",
-        "last_edited_time": "2025-11-10T13:04:00.000Z",
+        "last_edited_time": "2025-11-10T13:22:00.000Z",
         "url": "https://www.notion.so/Rider-s-Journey-3D-Speed-Games-Luxe-2a39748bc8c2808e99b8d19bfebc6717",
         "children": {
           "Rider_s_Journey_3D__Speed_Games_-_Luxe__ProductCatalog_": {
@@ -71,7 +71,12 @@
                     "sample1"
                   ],
                   "Disable Inter": false,
-                  "Preview": [],
+                  "Preview": [
+                    {
+                      "name": "Screenshot_1",
+                      "url": ""
+                    }
+                  ],
                   "RViewGpPrefabName": [
                     "sample1"
                   ],
@@ -86,7 +91,7 @@
                   "Package bundle": [
                     {
                       "name": "subscriptionbundle_banner3",
-                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/c9254b82-ebb0-405d-8e3a-1559758e107a/subscriptionbundle_banner3.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VHP6LGTV%2F20251110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251110T132218Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLXdlc3QtMiJHMEUCIQDoT0iWB64w1goIR%2BCzl4jZNYHIEETWXZfV2jadGsTYdwIgCD%2BlQLdvuoiizSDErvWUGxIn1gjHUS%2BYNls2GxCPRIUq%2FwMIBhAAGgw2Mzc0MjMxODM4MDUiDDYESeorB0vVec%2BJ1SrcA6nrGKbeczM4%2BwtRq%2FurGo1oO3Mfkl5CmScs3csrscbpop%2Fm%2BGr2AfaPh8T35M28EMn0uNfTA0x0HGTicObiB9sTCA56GPmy0CIq08N9u7l0gyl8q7Q1%2FTweTLfbY5MzAVpieUoKMPB%2BmjSrmeVJ811q1aNFUcHmesJIXd7W4JbZCci3y%2B57onHp889XMhcHN6ZsFYHQwpwjY%2Ftu6GrEokxDg%2BxkEpdZ9E6ZQgFISoo%2BpqLttvQMwVoFurJ%2BNY0V8PZ6oS1dBInZ6vtGeN%2FzBFZhXeEeigbY566Jv0zUS0JDdxYh1Uji9bqaoUvcoror99qvyTMdFJngibWoRuvGVfsEae%2Bps0z5v664RWLmLPPheFfS%2F35mVbeYzVQQkmuqpDH5guzeTiok4R3YtiYdfBAlcLaQy1WoZmNPx6NUX9%2BinIasYdb4Bj4hEBJKQt9c2A6rA8wQ7yy00z1iF6Gis5Y5tazS18J72JSS76Gburat1geaZAJcw7xpoFP%2FlQl7gejSsreaGGwCOYWF6p4w%2FSa35rWqw3SFF%2BnhHdQw%2F3pbbQMmdF6MGwFo675SOTdjbb%2FqIyNQoyOmtQWbtAo6MyNuyo49fS%2FszOx9KGepH4MFiJl7rWLxLIdhW2b4MITMx8gGOqUBSagv6XLJZmZ3XaBNToO%2BpjAQHMf31r3TyzvK%2F2Wj06JcIbonBeaHWq8qCFL1J4%2B6nB2UTqfdhUgOS1AJqRlgrbjMn1VbZ0wHU9XJ9MUSC0FR9l9F5M8rOP87pmKFhd11SBoMk8N%2BxSMZrazokeb8h4PiJUx%2BHVVZIC5HlPF7HbfGd5lkL8cxY6nngx4WMFX4FUtv%2F9thekE12aX2H5WjddR3S3nE&X-Amz-Signature=d4e57dcedeb7130484c7e97e014ff983c445da72667d58a0ccbd48de46919075&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/c9254b82-ebb0-405d-8e3a-1559758e107a/subscriptionbundle_banner3.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662QY5WZXL%2F20251110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251110T132819Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED0aCXVzLXdlc3QtMiJIMEYCIQDq3iPzNj6ADbjaKOsjgbb7kxE9pkzpoM4fW98O6MakcgIhAJBx04xE2swnN65Q5ToqcqKbLP5%2FyCZ2TCHrlF32hTpJKv8DCAYQABoMNjM3NDIzMTgzODA1Igzn2P5fKqaFRunpFgYq3AOAOTv45rC2L%2B%2FCF7rN8yfglFEUR2ERKlQhtaZ34xR5CSg0CCM0TCFAG4SieNA9l%2BO0CTHXOfmEgv6KmzQeNoxni9R8IprXGx6nx%2BeiD4sTgP0hxPl0ifM43G6t8UBQSX7L7wIZnHVddN1LFPch2CwMaQR78sniPU6hmokLDaBRG%2F5rUlmgMUzlSPmDRgBGSrJpS9LjL0xfgp1umEkZJK2HHEuTgREXtP%2FghjO14aJgMMD2wMdqy%2BquXhMbSvL0wF%2B9QGxwSTQaoUbmQ%2FsN3H2s6pOPdnwjGMzFE0uMvSDqoqd1mzCkaWIvz08%2BYe2Sd3d%2FSjFt7qEfFCieRnb4du5hMOUxdZkDVZ8iUjcrUdyfP00roygyiBpmfXJgyxdRrWrhgyeNECI46B5eOootVtT5%2FxoDfnBoY28QhPC3F6zFt8iI2oPRgdm3%2FZZ8PkpyuNHYG4rmiC8GSvDtGZMksIOOeB13nlw1hgnUTFwd%2Fn3CBP6ToyOVNsWqbhKAm8jhWPZbCXl3Z0zL2Q87qOm5E5%2BplPILdBDB0CySC9s7a9is8RuOqxLjAzpiRHHoLNXlKNS9haECLWnIgpjupyzT0N1xewlj4A9VpIp%2BUkGO1c4%2FwPgMlJkLvY%2BA8ZgrAjDYy8fIBjqkAYswO9z5ojTrMjo7OvmFwqR0AnEPhjrpVSZzFUhBuVtlu7xHJyf6XvoCIPcrGLEAsSL7%2Bwk%2F6OFRUzY7QuKuRa%2FLr7rE01y6ajiXwc7bFNM4X%2BxiBJG4cSEyq9YqTiqNWf9qkiAgjFhrCFvO52UCKHHqa15S3MzTeYNC9jJ2mZl4HvdotY3KkaedJDSbCANlCoC%2Fb3l9PF%2B1if26AXiQa%2BNBJPuF&X-Amz-Signature=ad55446a499b2913c1b84009bd742825f6b204f18b0d700e5b941d54b5eb30bd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                     }
                   ],
                   "ViewName": [
@@ -104,7 +109,7 @@
                   "Name": "Rider's Journey 3D: Speed Games - Luxe (Default)"
                 },
                 "created_time": "2025-11-06T08:55:00.000Z",
-                "last_edited_time": "2025-11-10T13:14:00.000Z",
+                "last_edited_time": "2025-11-10T13:22:00.000Z",
                 "url": "https://www.notion.so/Rider-s-Journey-3D-Speed-Games-Luxe-Default-2a39748bc8c2801da60cc6ffba64ab26"
               }
             },
