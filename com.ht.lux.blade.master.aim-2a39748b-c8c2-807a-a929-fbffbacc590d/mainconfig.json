@@ -1,0 +1,197 @@
+{
+  "pageId": "2a39748b-c8c2-807a-a929-fbffbacc590d",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Blade_Master_Aim_and_Strike_-_Luxe": {
+        "id": "2a39748b-c8c2-807a-a929-fbffbacc590d",
+        "title": "Blade Master Aim and Strike - Luxe",
+        "properties": {
+          "bundleID": "com.ht.lux.blade.master.aim",
+          "ProductCatalog": [
+            "2a39748b-c8c2-80c7-8f51-c7947bd1a96e"
+          ],
+          "Subscription Settings": [
+            "2a39748b-c8c2-80da-974e-d945a37f1eba"
+          ],
+          "MainData": [
+            "2a39748b-c8c2-80e0-9463-d1eae57a8f93"
+          ],
+          "Platform": "Fire TV",
+          "RefreshConfig": null,
+          "ProjectKey": "2a39748bc8c2807aa929fbffbacc590d",
+          "Name": "Blade Master Aim and Strike - Luxe"
+        },
+        "created_time": "2025-11-06T08:27:00.000Z",
+        "last_edited_time": "2025-11-07T14:17:00.000Z",
+        "url": "https://www.notion.so/Blade-Master-Aim-and-Strike-Luxe-2a39748bc8c2807aa929fbffbacc590d",
+        "children": {
+          "Blade_Master_Aim_and_Strike_-_Luxe__ProductCatalog_": {
+            "id": "2a39748b-c8c2-80c7-8f51-c7947bd1a96e",
+            "title": "Blade Master Aim and Strike - Luxe (ProductCatalog)",
+            "properties": {
+              "Parent": [
+                "2a39748b-c8c2-807a-a929-fbffbacc590d"
+              ],
+              "Products": [],
+              "Name": "Blade Master Aim and Strike - Luxe (ProductCatalog)"
+            },
+            "created_time": "2025-11-06T08:45:00.000Z",
+            "last_edited_time": "2025-11-07T14:17:00.000Z",
+            "url": "https://www.notion.so/Blade-Master-Aim-and-Strike-Luxe-ProductCatalog-2a39748bc8c280c78f51c7947bd1a96e",
+            "TKFormatProductCatalog": {
+              "Products": []
+            }
+          },
+          "Blade_Master_Aim_and_Strike_-_Luxe_(SubDataCatalog)": {
+            "id": "2a39748b-c8c2-80da-974e-d945a37f1eba",
+            "title": "Blade Master Aim and Strike - Luxe (SubDataCatalog)",
+            "properties": {
+              "Platform": "Fire TV",
+              "ToolKitSettigns": [
+                "2a39748b-c8c2-807a-a929-fbffbacc590d"
+              ],
+              "Subscriptions": [
+                "2a39748b-c8c2-807a-96b6-e6dc22527c59"
+              ],
+              "Apply": null,
+              "bundleID": "com.ht.lux.blade.master.aim",
+              "Name": "Blade Master Aim and Strike - Luxe (SubDataCatalog)"
+            },
+            "created_time": "2025-11-06T08:44:00.000Z",
+            "last_edited_time": "2025-11-07T14:06:00.000Z",
+            "url": "https://www.notion.so/Blade-Master-Aim-and-Strike-Luxe-SubDataCatalog-2a39748bc8c280da974ed945a37f1eba",
+            "children": {
+              "Blade_Master_Aim_and_Strike_-_Luxe__DisableBanner_": {
+                "id": "2a39748b-c8c2-807a-96b6-e6dc22527c59",
+                "title": "Blade Master Aim and Strike - Luxe (DisableBanner)",
+                "properties": {
+                  "isDefault": false,
+                  "RViewBandleName": [],
+                  "Disable Inter": false,
+                  "Preview": [],
+                  "RViewGpPrefabName": [],
+                  "RViewAmazonPrefabName": [],
+                  "Fallback Sku": [],
+                  "Disable Banner": false,
+                  "RViewVersion": [],
+                  "Package bundle": [],
+                  "ViewName": [],
+                  "Sku": "",
+                  "Id": "",
+                  "RViewPrefabName": [],
+                  "Subscription Data Catalog": [
+                    "2a39748b-c8c2-80da-974e-d945a37f1eba"
+                  ],
+                  "Less Ads": false,
+                  "Name": "Blade Master Aim and Strike - Luxe (DisableBanner)"
+                },
+                "created_time": "2025-11-06T08:56:00.000Z",
+                "last_edited_time": "2025-11-06T08:57:00.000Z",
+                "url": "https://www.notion.so/Blade-Master-Aim-and-Strike-Luxe-DisableBanner-2a39748bc8c2807a96b6e6dc22527c59"
+              }
+            },
+            "TkFormtSubscriptions": {
+              "Subscriptions": [
+                {
+                  "Id": "",
+                  "Sku": "",
+                  "ParentSku": "",
+                  "FallbackSkus": [],
+                  "DisableInter": false,
+                  "DisableBanner": false,
+                  "LessAds": false,
+                  "ViewData": [],
+                  "IsDefault": false
+                }
+              ]
+            }
+          },
+          "Blade_Master_Aim_and_Strike_-_Luxe__MainData_": {
+            "id": "2a39748b-c8c2-80e0-9463-d1eae57a8f93",
+            "title": "Blade Master Aim and Strike - Luxe (MainData)",
+            "properties": {
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                    "name": "AMZ",
+                    "color": "default"
+                  }
+                ]
+              },
+              "Multi-select": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "5f5946de-66a2-4550-abb2-1f2c40b088cc",
+                    "name": "Paid",
+                    "color": "green"
+                  }
+                ]
+              },
+              "App Name": "Blade Master Aim and Strike - Luxe ",
+              "Vaveda_key": "sdenuez",
+              "Link to Promo": "https://drive.google.com/drive/folders/1UkYCV0ccR_1kYWF_zXQp1diN6xAOTiRl",
+              "Version": "1.0.0",
+              "Bundle Version": "1",
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "1c678335-fb6a-495a-b794-7c555b5d0fd5",
+                    "name": "HAT-TRICK GAMES LIMITED",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Bundle Id": "com.ht.lux.sktch.adv.color",
+              "ToolKitSettigns": [
+                "2a39748b-c8c2-807a-a929-fbffbacc590d"
+              ],
+              "Vaveda_secret": "jgw48rUz5t74RgJMSfjZlETK0Hfosf2t",
+              "Name": "Blade Master Aim and Strike - Luxe (MainData)"
+            },
+            "created_time": "2025-11-06T08:44:00.000Z",
+            "last_edited_time": "2025-11-07T14:17:00.000Z",
+            "url": "https://www.notion.so/Blade-Master-Aim-and-Strike-Luxe-MainData-2a39748bc8c280e09463d1eae57a8f93",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1UkYCV0ccR_1kYWF_zXQp1diN6xAOTiRl",
+                  "ProductName": "Blade Master Aim and Strike - Luxe ",
+                  "BundleIdentifier": "com.ht.lux.sktch.adv.color",
+                  "Version": "1.0.0",
+                  "BundleVersionCode": 1,
+                  "CompanyName": "HAT-TRICK GAMES LIMITED"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "sdenuez"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "jgw48rUz5t74RgJMSfjZlETK0Hfosf2t"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
