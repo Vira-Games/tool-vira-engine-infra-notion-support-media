@@ -1,0 +1,197 @@
+{
+  "pageId": "2a39748b-c8c2-80f1-9c0f-f7f0c2cb31bf",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Challenge__Race_to_Love_-_Luxe": {
+        "id": "2a39748b-c8c2-80f1-9c0f-f7f0c2cb31bf",
+        "title": "Challenge: Race to Love - Luxe",
+        "properties": {
+          "bundleID": "com.ht.lux.doll.challenge.love",
+          "ProductCatalog": [
+            "2a39748b-c8c2-8028-b169-ec16b4f599b9"
+          ],
+          "Subscription Settings": [
+            "2a39748b-c8c2-804e-be6c-cd6b837e4400"
+          ],
+          "MainData": [
+            "2a39748b-c8c2-801a-9bbf-f23e88da77bc"
+          ],
+          "Platform": "AMZ",
+          "RefreshConfig": null,
+          "ProjectKey": "2a39748bc8c280f19c0ff7f0c2cb31bf",
+          "Name": "Challenge: Race to Love - Luxe"
+        },
+        "created_time": "2025-11-06T08:33:00.000Z",
+        "last_edited_time": "2025-11-06T08:50:00.000Z",
+        "url": "https://www.notion.so/Challenge-Race-to-Love-Luxe-2a39748bc8c280f19c0ff7f0c2cb31bf",
+        "children": {
+          "Challenge__Race_to_Love_-_Luxe__ProductCatalog_": {
+            "id": "2a39748b-c8c2-8028-b169-ec16b4f599b9",
+            "title": "Challenge: Race to Love - Luxe (ProductCatalog)",
+            "properties": {
+              "Parent": [
+                "2a39748b-c8c2-80f1-9c0f-f7f0c2cb31bf"
+              ],
+              "Products": [],
+              "Name": "Challenge: Race to Love - Luxe (ProductCatalog)"
+            },
+            "created_time": "2025-11-06T08:49:00.000Z",
+            "last_edited_time": "2025-11-07T14:17:00.000Z",
+            "url": "https://www.notion.so/Challenge-Race-to-Love-Luxe-ProductCatalog-2a39748bc8c28028b169ec16b4f599b9",
+            "TKFormatProductCatalog": {
+              "Products": []
+            }
+          },
+          "Challenge__Race_to_Love_-_Luxe_(SubDataCatalog)": {
+            "id": "2a39748b-c8c2-804e-be6c-cd6b837e4400",
+            "title": "Challenge: Race to Love - Luxe (SubDataCatalog)",
+            "properties": {
+              "Platform": "AMZ",
+              "ToolKitSettigns": [
+                "2a39748b-c8c2-80f1-9c0f-f7f0c2cb31bf"
+              ],
+              "Subscriptions": [
+                "2a39748b-c8c2-803f-934e-ea94fbc7cf42"
+              ],
+              "Apply": null,
+              "bundleID": "com.ht.lux.doll.challenge.love",
+              "Name": "Challenge: Race to Love - Luxe (SubDataCatalog)"
+            },
+            "created_time": "2025-11-06T08:49:00.000Z",
+            "last_edited_time": "2025-11-07T14:06:00.000Z",
+            "url": "https://www.notion.so/Challenge-Race-to-Love-Luxe-SubDataCatalog-2a39748bc8c2804ebe6ccd6b837e4400",
+            "children": {
+              "Challenge__Race_to_Love_-_Luxe__Disable_Banner_": {
+                "id": "2a39748b-c8c2-803f-934e-ea94fbc7cf42",
+                "title": "Challenge: Race to Love - Luxe  (Disable Banner)",
+                "properties": {
+                  "isDefault": false,
+                  "RViewBandleName": [],
+                  "Disable Inter": false,
+                  "Preview": [],
+                  "RViewGpPrefabName": [],
+                  "RViewAmazonPrefabName": [],
+                  "Fallback Sku": [],
+                  "Disable Banner": false,
+                  "RViewVersion": [],
+                  "Package bundle": [],
+                  "ViewName": [],
+                  "Sku": "",
+                  "Id": "",
+                  "RViewPrefabName": [],
+                  "Subscription Data Catalog": [
+                    "2a39748b-c8c2-804e-be6c-cd6b837e4400"
+                  ],
+                  "Less Ads": false,
+                  "Name": "Challenge: Race to Love - Luxe  (Disable Banner)"
+                },
+                "created_time": "2025-11-06T08:55:00.000Z",
+                "last_edited_time": "2025-11-06T08:57:00.000Z",
+                "url": "https://www.notion.so/Challenge-Race-to-Love-Luxe-Disable-Banner-2a39748bc8c2803f934eea94fbc7cf42"
+              }
+            },
+            "TkFormtSubscriptions": {
+              "Subscriptions": [
+                {
+                  "Id": "",
+                  "Sku": "",
+                  "ParentSku": "",
+                  "FallbackSkus": [],
+                  "DisableInter": false,
+                  "DisableBanner": false,
+                  "LessAds": false,
+                  "ViewData": [],
+                  "IsDefault": false
+                }
+              ]
+            }
+          },
+          "Challenge__Race_to_Love_-_Luxe__MainData_": {
+            "id": "2a39748b-c8c2-801a-9bbf-f23e88da77bc",
+            "title": "Challenge: Race to Love - Luxe (MainData)",
+            "properties": {
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                    "name": "AMZ",
+                    "color": "default"
+                  }
+                ]
+              },
+              "Multi-select": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "5f5946de-66a2-4550-abb2-1f2c40b088cc",
+                    "name": "Paid",
+                    "color": "green"
+                  }
+                ]
+              },
+              "App Name": "Challenge: Race to Love - Luxe ",
+              "Vaveda_key": "ackefmz",
+              "Link to Promo": "https://drive.google.com/drive/folders/1n7psBISSdcV8BfkoXyyoGwUUlpzPNvGd",
+              "Version": "1.0.0",
+              "Bundle Version": "1",
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "1c678335-fb6a-495a-b794-7c555b5d0fd5",
+                    "name": "HAT-TRICK GAMES LIMITED",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Bundle Id": "com.ht.lux.attack.zone.fire",
+              "ToolKitSettigns": [
+                "2a39748b-c8c2-80f1-9c0f-f7f0c2cb31bf"
+              ],
+              "Vaveda_secret": "53qEZCF1ETHN2ibxQDQ9XeQqnHQ2hxiE",
+              "Name": "Challenge: Race to Love - Luxe (MainData)"
+            },
+            "created_time": "2025-11-06T08:49:00.000Z",
+            "last_edited_time": "2025-11-06T09:15:00.000Z",
+            "url": "https://www.notion.so/Challenge-Race-to-Love-Luxe-MainData-2a39748bc8c2801a9bbff23e88da77bc",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1n7psBISSdcV8BfkoXyyoGwUUlpzPNvGd",
+                  "ProductName": "Challenge: Race to Love - Luxe ",
+                  "BundleIdentifier": "com.ht.lux.attack.zone.fire",
+                  "Version": "1.0.0",
+                  "BundleVersionCode": 1,
+                  "CompanyName": "HAT-TRICK GAMES LIMITED"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "ackefmz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "53qEZCF1ETHN2ibxQDQ9XeQqnHQ2hxiE"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
