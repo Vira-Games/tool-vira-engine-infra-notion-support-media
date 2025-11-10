@@ -23,7 +23,7 @@
           "Name": "Challenge: Race to Love - Luxe"
         },
         "created_time": "2025-11-06T08:33:00.000Z",
-        "last_edited_time": "2025-11-10T13:04:00.000Z",
+        "last_edited_time": "2025-11-10T13:22:00.000Z",
         "url": "https://www.notion.so/Challenge-Race-to-Love-Luxe-2a39748bc8c280f19c0ff7f0c2cb31bf",
         "children": {
           "Challenge__Race_to_Love_-_Luxe__ProductCatalog_": {
@@ -71,7 +71,12 @@
                     "sample1"
                   ],
                   "Disable Inter": false,
-                  "Preview": [],
+                  "Preview": [
+                    {
+                      "name": "Screenshot_1",
+                      "url": ""
+                    }
+                  ],
                   "RViewGpPrefabName": [
                     "sample1"
                   ],
@@ -86,7 +91,7 @@
                   "Package bundle": [
                     {
                       "name": "subscriptionbundle_banner3",
-                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/2a2592ac-8a8c-4f4f-ae9c-2a6c446d8d65/subscriptionbundle_banner3.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Y5BS4LVH%2F20251110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251110T132218Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED0aCXVzLXdlc3QtMiJIMEYCIQDwURQeVpXAXvlnWvKJYRZD7KvZGvj6REYh7jfctJ0MmQIhALVUbd8EXBJUt7IrGhJGyqv26NJzgv9CII0HeKylNq0BKv8DCAYQABoMNjM3NDIzMTgzODA1IgyE61wgqk%2FVws2N4zkq3AMzcqmdvcVrDf1wj3JVit2zwZjWDaslO95kCe8%2BHU4oSN2TCc3nWBmwiHx%2BnUwXVR6xcPv58W%2BKnxywemJuEQMnyOSdIid5YTXRCAuvZ%2BUhM3mv1lw3lyKzG0mSuU6yEnfJ%2Bw6Wnknq2IgMpT9IPDRUEYWhm%2Fz%2BcFGdYIFScHwqM9N3PLvVDG1JBi%2BMgVMuCWi6iHi%2FK4KVrO0izDXdCkOOtdy3X2fCTdCmG%2F13BzcVuGRfKYU6d5spN6SzN1Lbg%2FxoMvATl3OxWMAt3XZtw2aWJJKdwcajDMCN1eQuDVF%2BqpgU6U%2BFa9%2B84jmvyLLH028uqt0VIsv5Y%2BbcwWmNIkmzDfNk39KOHOxT4e9XTU1f%2BOLPK15SPbNUX6h6hHTum9MZ1W%2FeZR3FBPsZtcNTj9bLVP5aUIgUtvP9TZUj8tON1otBEdw2c64BoMzeUb%2Bl3ZDwOIZQ476pejnKtgS11GuMQeUV8SZmzWOXXDT8g%2BZC3cPRl1fCbqU9%2F7HpPVwAvuZd%2F%2FMXhAON%2FNR%2BvPD8nY%2BuOK05MgOiT%2BgPK%2FpoAlswsNg5b2oTl3BZeJBHx7q4US%2BisBsaK4uuWiTkSMtJ8dNz2Cruw%2FufMtpA8RAQ%2Ff318ibACDPmxzFnPk5ORzD9y8fIBjqkAZ%2FDmi7BsLlDmsW%2FXlCnM81ennNzEGqjkyUvo5DApNaG1e7urAKAa3GITe1442D%2FvLzpgPAq8uBqA4etIjvSf%2BFruKcVo4kl4V2OwOQ3JeMNmJLXQ7yBTIShFYDzqvd2%2BvETI4Mr0NMF13V5ULgRAJlbWY8jBW2eYzll%2FzIbqLyvT9%2BcC1Nz9JXGS2PGSDHfVIFZN4vWj28yQ55TokWZi%2FwYXoeJ&X-Amz-Signature=ea811b715aa0930ff1ccf950df0031b96d80b154e65bd4236b569a2104d166fa&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/2a2592ac-8a8c-4f4f-ae9c-2a6c446d8d65/subscriptionbundle_banner3.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667KLTULZ7%2F20251110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251110T132830Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED0aCXVzLXdlc3QtMiJGMEQCIBQXfPq3ugnUjpVu%2FPUxlkZ0k5fh%2BdD4Q4fJ0AF0CEHWAiBpAfI5Tl57DfNLbYntNAUsOtJy1VKrNwWii1R6EmknDSr%2FAwgGEAAaDDYzNzQyMzE4MzgwNSIMHdQNoAnetUy5VBslKtwDY15Mlg19Lxewye8rS3QzWOQPlkQtFUDLq0x06VA%2FNHITNTJKUf3yMGixmb10hxElnePjrQSTCfOvXwQWxhCh%2BreVilc91LxIBXMnZXYsM0Ffln3h4k6FcayQozBhQB7AMZJ4QxT0yqd%2BBWOrMXSBgB%2FrxfBIOplnVBkaX3a3MpC1y5wHbuTiQ2fzbtJbnfsE86IeBY5HH9njVt%2FaSgyyQygbwfR7XqkXZoMEjqQuZTYSLbKSb51bYPvPiQtF8oHB%2FuWFLNE1hLzctKAjF07ikhQ9oPUDMCWvoRI1W5ZNakwtIamIpdmczzBYBJFRqiSwjfbBXU5jLb7bqCVTT2hOqUiWnlbH2Xkro6yjo%2FRuYuML982Ze2NAqoF8vE6msQV6K33vV%2B3K%2FWSc9d4uRvGfRruce69OZySuGALeKQfcRo0z8hmTjCbtIx2g8j0xtkCrQFOteNGM20e4e9fLG%2FzUJ%2FN7TPMVddvRgzFpu2GP0zlm2QERWGPXS9o554U2HK4ZGclmaxRqSDmFbz7Crofv6GvpLCUJLx%2BsAaBLKgdoT%2Br785GdGPhXle%2FTkQfdzVBZvVOxwHcs5zyOJ2sAMa%2BbMHy%2B5cwK455S0G4WdI9Cok7h3K1UqTGOVLOd7k0wgsvHyAY6pgFWODGm1G6zyyvSfHxXQ7iYM5gVYVLWKgtJ8ghSd8VSeNdegZjWkMb2zjHhzKA2YujdcLHQLaw0J4kPg0iv9NfCiKjD1uQ14n30zcEEreJ5RY9rE9105q6eozVrps5eOTpmQ0PnNdR%2FNjM7WzO8v%2FAVoudCVKoGr03uDnnP%2B1p0%2BcAlvz5l%2ByQw0YbisTvBE4seDS5%2BmxrRwBhlMIxRsHV%2BlMq0QEZB&X-Amz-Signature=71fe4ecad4e0467f58189fa17d11ce583b8a219339340891c058cb93f505cfb0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                     }
                   ],
                   "ViewName": [
@@ -104,7 +109,7 @@
                   "Name": "Challenge: Race to Love - Luxe  (Disable Banner)"
                 },
                 "created_time": "2025-11-06T08:55:00.000Z",
-                "last_edited_time": "2025-11-10T13:15:00.000Z",
+                "last_edited_time": "2025-11-10T13:22:00.000Z",
                 "url": "https://www.notion.so/Challenge-Race-to-Love-Luxe-Disable-Banner-2a39748bc8c2803f934eea94fbc7cf42"
               }
             },
