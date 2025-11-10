@@ -23,7 +23,7 @@
           "Name": "Attack Zone: Fire Storm - Luxe"
         },
         "created_time": "2025-11-06T08:33:00.000Z",
-        "last_edited_time": "2025-11-10T13:22:00.000Z",
+        "last_edited_time": "2025-11-10T15:04:00.000Z",
         "url": "https://www.notion.so/Attack-Zone-Fire-Storm-Luxe-2a39748bc8c28044b96fc0fb571ff215",
         "children": {
           "Attack_Zone__Fire_Storm_-_Luxe__ProductCatalog_": {
@@ -90,8 +90,8 @@
                 ]
               },
               "App Name": "Attack Zone: Fire Storm - Luxe",
-              "Vaveda_key": "hallgez",
-              "Link to Promo": "https://drive.google.com/drive/folders/1qk-2xGeGPaIc1Cux4omTJK7Tyt1-hOj5",
+              "Vaveda_key": "ackefmz",
+              "Link to Promo": "https://drive.google.com/drive/folders/1n7psBISSdcV8BfkoXyyoGwUUlpzPNvGd",
               "Version": "1.0.0",
               "Bundle Version": "1",
               "Account": {
@@ -106,22 +106,22 @@
                 ]
               },
               "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
-              "Bundle Id": "com.ht.lux.doll.challenge.love",
+              "Bundle Id": "com.ht.lux.attack.zone.fire",
               "ToolKitSettigns": [
                 "2a39748b-c8c2-8044-b96f-c0fb571ff215"
               ],
-              "Vaveda_secret": "UAruWyJ3n3W7f30iXGlaoD4F4vghuyhE",
+              "Vaveda_secret": "53qEZCF1ETHN2ibxQDQ9XeQqnHQ2hxiE",
               "Name": "Attack Zone: Fire Storm - Luxe (MainData)"
             },
             "created_time": "2025-11-06T08:46:00.000Z",
-            "last_edited_time": "2025-11-07T14:18:00.000Z",
+            "last_edited_time": "2025-11-10T15:13:00.000Z",
             "url": "https://www.notion.so/Attack-Zone-Fire-Storm-Luxe-MainData-2a39748bc8c2806ba107f2462760bfc9",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "https://drive.google.com/drive/folders/1qk-2xGeGPaIc1Cux4omTJK7Tyt1-hOj5",
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1n7psBISSdcV8BfkoXyyoGwUUlpzPNvGd",
                   "ProductName": "Attack Zone: Fire Storm - Luxe",
-                  "BundleIdentifier": "com.ht.lux.doll.challenge.love",
+                  "BundleIdentifier": "com.ht.lux.attack.zone.fire",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
                   "CompanyName": "HAT-TRICK GAMES LIMITED"
@@ -134,11 +134,11 @@
                     },
                     {
                       "KeyName": "JAM_AppKey",
-                      "Key": "hallgez"
+                      "Key": "ackefmz"
                     },
                     {
                       "KeyName": "JAM_SecretKey",
-                      "Key": "UAruWyJ3n3W7f30iXGlaoD4F4vghuyhE"
+                      "Key": "53qEZCF1ETHN2ibxQDQ9XeQqnHQ2hxiE"
                     }
                   ],
                   "IsAmazon": true
