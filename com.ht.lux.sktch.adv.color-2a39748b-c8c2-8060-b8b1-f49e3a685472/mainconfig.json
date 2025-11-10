@@ -23,7 +23,7 @@
           "Name": "Sketch Adventure: Color Design - Luxe"
         },
         "created_time": "2025-11-06T08:33:00.000Z",
-        "last_edited_time": "2025-11-10T13:05:00.000Z",
+        "last_edited_time": "2025-11-10T13:18:00.000Z",
         "url": "https://www.notion.so/Sketch-Adventure-Color-Design-Luxe-2a39748bc8c28060b8b1f49e3a685472",
         "children": {
           "Sketch_Adventure__Color_Design_-_Luxe__ProductCatalog_": {
@@ -72,7 +72,12 @@
                     "sample1"
                   ],
                   "Disable Inter": false,
-                  "Preview": [],
+                  "Preview": [
+                    {
+                      "name": "Screenshot_1",
+                      "url": ""
+                    }
+                  ],
                   "RViewGpPrefabName": [
                     "sample1"
                   ],
@@ -87,7 +92,7 @@
                   "Package bundle": [
                     {
                       "name": "subscriptionbundle_banner2",
-                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/735a6322-8776-4c6a-a6a7-e4161303f9fe/subscriptionbundle_banner2.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662TCPAWCJ%2F20251110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251110T131848Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDwaCXVzLXdlc3QtMiJIMEYCIQCa3OxsDCF%2BUWH0fK98cWGHUEtVcnoX9gRmi2hBx%2F07igIhAOgTjKru%2FJQA0ucFjl2v007g4m74j3F6mO89RqfQDaXxKv8DCAUQABoMNjM3NDIzMTgzODA1IgzdSjkzo8gmp2TLE%2Foq3AP2H1FWoNfZG%2B47P1vSKgCQRsxlBg9b%2BAf3iJFysLaYvWgq3mhCAjr0rQKYcvowCTZ1NQ03XEj0GqA3DhxqLK4HQ%2BcEtM0bdfWWmLHMmmTZH4i%2ByoDdZ2lOIblVxLOmfTneXEXENXq8y2D6Bc79xr0QAj5fv9Ee9qPe1HlH9RTojKKq5SFSvO6ffH7gm0KwcR9G%2FlhM1xlQRoi1xLmHcJrM1s6dH9P29Z6rNVA2lGVqzf4foxvJmQT2ShnLS5aqjoPYkQoFCO7mgYfvqK8Yxp%2Bj0rtV8l8gqA%2BuGbgmrQpM3yrtoU0rPrgjFcNoKaq21uX08MOpyvA8nkFnjPYI3QiHvFRdmAk5nBuJMN3NLWRnXHbdqqIz6fsCmkOxghogYF9HzfIrx8H6DG4CO248vBSuOonHJJ0J6UWFbpR5uIwEeqBL87ZkuKxqf9okeAJaz2mQo847B6Cp%2FeDUQUTxxvQe6XsdS6eqE7c36kYw2QNeJUjU0DE7TLx7NlrN%2FRt45t3CvSM%2FXgUlt473RWnci1nQ%2FM57HslMxJvtISzUI2wp3vnHKt8aJYflO7A5SMvVyU35IDKvT8Ntv5AnQ7u1lj0n7WPCwcDbgcQ0mHKH0Oiymr%2BbJPJ4xKpO4vRtpTCYocfIBjqkAWgF32w6CHGtg%2BzDRhRbgjG7YIqS5Sm9GJ68h1bwkjKt1oHLLYy%2BALcqnQQDXNtDoLjP4oJgRQPJyvCh4BLXflCJBmOoQ2iqBnbKPtOGzm4ubuojWdsuwsAYzSWlihzVZQ%2FOpWIwRqMTyR8bEpNkFP17cYj9IxEhSYsFn9e%2FGYGD9cF8kG7nOlo9riexVa8GJNseh2T4%2B5RAErcfo1adEJonH0Gi&X-Amz-Signature=9d7df3a7ce8d36d4f71b946ffc64e3ea08d24e3a4328a83a49353b1162e0e4d4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/735a6322-8776-4c6a-a6a7-e4161303f9fe/subscriptionbundle_banner2.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QTZAHC7C%2F20251110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251110T132845Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLXdlc3QtMiJGMEQCIFvQs6Vt9fsyRNLiocSyLgIKOGcmXbzpayFKhhFrxqY0AiBa145hxpbaVV9bYo7fcyDouE0hUzLR9ADd%2FklWbRHyDir%2FAwgGEAAaDDYzNzQyMzE4MzgwNSIMd69BPcG8W0qY47OoKtwDnhmPGqzdiBJGfk7uiSg%2FaG6EIJSRGGwt2CzXziApM1KRbDgzNDwZItaH5QrVKYhnBOnhj3q6t09u7%2F1mkpnB6VGuJgT9Qe3fZ6DRxZMqDSsrubPCBu4saFEK4Pgvwd82c6vd1w%2BAfjNXNiWamT6aIILgpYVyt3pchxAnB6thlLc%2BBlvd7TeU%2BEsoFIUye3n87B0j%2B72B8ZV5ySYzzrxu%2FiVLiDIqMmQvSFDOXhV9SJCX6SKuuKUn85Coi8DmYJg%2FMEeY0YREN45hquFVms6D%2BYUIyuW4dGarD0dm%2BoAYehuLbgmTRPYVMvac5KX0uFRhDKne1mCthmhgl%2FoRsX1XsavcCxTraavHnESpkl7UcjivcOQjcOBIjICGEGWAuB3FGEaakkJPf9HwYhjaFLz5F%2BsA8drCfJaE47ji0ZbPWpb%2BQGFTBZC3vC%2FHF69Uv6ycI6W3a0RfcxxwJESCE5bClZtY1aoLkBuy182%2B0%2Ft2oEkpNrTCvFCXDrWSBmZP2UvW%2BknjkBiFkVrZLQPM1id5orNpjlcDCr5GIbjH1RHIPMiA81ZQvcz7v6ku%2F7c85mHTAlUoYqg5X5MmhrB6p85m3jq2rX970fR14tz4GkVzlaCIOzmRI6eAyPfe9gUwkMzHyAY6pgFl9N1spWS4ic3T%2FEl2laEamnkJu1RTocPHAeFeYZKB44So61pyMou1T49%2BUlxI1NX0CyiqthbPDp2%2F9L%2FUavIdGV2lPvvh1CY1OjmRcuFJ4xwpXL%2BOiFmefsKgDzOro%2FGZjsNfnxsIw3dD4PV7rPcH3PKWnriOa1kwa8xiH%2Fl5KNRTAR22Ce8BI%2BqmA1k%2BqwJtprXF%2BybN0w0MteHgRJfPJ11L0Vp0&X-Amz-Signature=8069c0a9e0066e02c9c28201ef4f98666ff8ee3e7cec8743fcbb6d517f8b8da6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                     }
                   ],
                   "ViewName": [
@@ -105,7 +110,7 @@
                   "Name": "Sketch Adventure: Color Design - Luxe (Disable Banner)"
                 },
                 "created_time": "2025-11-06T08:55:00.000Z",
-                "last_edited_time": "2025-11-10T13:15:00.000Z",
+                "last_edited_time": "2025-11-10T13:19:00.000Z",
                 "url": "https://www.notion.so/Sketch-Adventure-Color-Design-Luxe-Disable-Banner-2a39748bc8c2805096cef7a89251e552"
               },
               "Sketch_Adventure__Color_Design_-_Luxe__Default_": {
@@ -117,7 +122,12 @@
                     "sample1"
                   ],
                   "Disable Inter": false,
-                  "Preview": [],
+                  "Preview": [
+                    {
+                      "name": "Screenshot_1",
+                      "url": ""
+                    }
+                  ],
                   "RViewGpPrefabName": [
                     "sample1"
                   ],
@@ -132,7 +142,7 @@
                   "Package bundle": [
                     {
                       "name": "subscriptionbundle_banner3",
-                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/ae0e61c0-6ef0-4a2e-afea-a6a63eba362a/subscriptionbundle_banner3.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664CGH6S4A%2F20251110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251110T131847Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED0aCXVzLXdlc3QtMiJHMEUCIEeUM%2FnBsgnnbZsHk8XvRD%2BtU8Pl6Z%2BGQc0TrEpwqtouAiEAxzqH7wVzSOvNWFAYlQIFXfcvHkqUowcguv4KV1gY3dQq%2FwMIBhAAGgw2Mzc0MjMxODM4MDUiDAplDE6urzes%2FS0vvCrcA4bIthZvD1fVmxSBo4xbJtVrgFutGk7scNbSLlhRFCdnRz50di87wGpMTz6HYrs6lF9rKBBMnz6XepdNnLQ6Cy6xzEWu0WaTdSq%2BOwqtEHsCU8eZcTeQs8R%2FIzCiKyJxza5rhsOQoStTqduS8VwNGVtKWXHd6MkVHoxWMBR%2BIe0Dm%2B7DE2KHS3pL7nwzFvQA%2BOVOktWko9beExM3T1o%2B9ND0ZylI9zopacPXcEKMwuk7HRjMq42XJt7RaijkUIcZHFpbn0ix4fuJmNAVfuoDE0odzStnRC2GBjaBiH65V5W9th6fEtxh1jCpJM4JdRBPxrHRl9iY8ZG6MV4ClramNrYBnYw8TF%2BVjdSfaOQzxqkim%2BgmVCpzwySi4bkwJf9NaOejy%2FKvXAOHUljlFKmv4ZUovuyzKsYyl0g0ayb27u5TRQDqEvpTS%2FvjZ2ouyiUSi07IO4%2FA4ZXIqBZkz%2BcjuYE5IyThDpdSJCo0nbK4YInfATqbWoo8iAR2ZENt%2BSkv78%2BHI6FhP2ylzZwl3vVuQTxeSQOR4FKNPNvTm0hG9tAxFZQnAa5ERe%2B9D03pwm3k9nZ0PIxYHEYie18C0lzIm9od1drIkg%2BxszNMkrt2iJoiFZHVskVWLrDudnARMILLx8gGOqUBRnMh2whr9gbrRKdZ0emxtV%2FoYDoGeb5L4wYvnVUvytJsXtVGmFWBxpP9IRZoYJGO0ySc5llQw7PcZFO40ZiycRrDyXr9q6Yr8cR8QcXt6dk%2BHxDAeXVStMLRKoZZqwtKQjI%2BV07Lu9979Kph63FBGWSDFS5D5836cLxICSvD%2Bh7CA1F5T5z7liD6qZWuKn7Hdss2gbSYdBk6y2i9Hg5iHTrUKpIi&X-Amz-Signature=821004ebb7bfe2026dfe7b71d20886d8e574facbe505281af982cdc649ef679e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/ae0e61c0-6ef0-4a2e-afea-a6a63eba362a/subscriptionbundle_banner3.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SCVS5NWW%2F20251110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251110T132846Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED0aCXVzLXdlc3QtMiJIMEYCIQCKk9kdPkD0WIpOy9eG3m3JjsWUivUGEm2wP5zSbO5cAQIhAJdc6Cm%2F5K%2BRo1xIaq1Yw6%2BsgCzYhcLGXy9rRUQIcrSaKv8DCAYQABoMNjM3NDIzMTgzODA1IgzAmCph2nVYYaxixTAq3APZZB827CrWIwu136%2Bz7i3iNqZ4Y84PJ82rk10ClXMFKaBSGAmXX8GFZmimDyrUoGlLfi2MhnVh6Y2WdAlVb80JklZtiySnFcJHcb%2BtCqF%2BiwfF9X%2FImuq5ARAax47nHsxTxYM0mob663f0SZoB49CQUPBirWbra8hTqDUVyTJAAdbJu6Evu9S1u6osIQa%2FI6F%2BD8vNGkFg3rcgmdPrT2RNYwyB5BC%2BoCsM7lt2O5cQpN2guyxbOcQohEQ7mW4zhxRT7ijanlCGcy1i14oMhwc4QwWYij9sksbUgxmrMgEfqNI7O%2BzH7Ztloi7uezDv9GBke9sU2KkH2acfo%2FaGpbFd7yPxF11xSUddd6iYCIlkuOGjybCcAT0OPvOALBf3ESMUE%2Bd8kqT5CFQGrPTPRVcrAX8iAsI6oNKUuB6vcX7zQUhoyxPUVO6o4FdLsp4DyvMZG3JRvQAHqCoMZdegPcKjerMH147t52oIL%2Fd1EtQgkgCX4%2B9%2FVeu3ctzgk7s2LDgLUNsgfGbhEVKpnYNucmr2f%2F0zWr2iA5%2FqTuBx3HYQDs%2F0HO0geRfw9R2SqwW2hW491zsp%2B3T2qucfkyy9FZ7AyHtIHsgffnIMUXq2NDRGNyhFgS6HPqmNSVSt7jDry8fIBjqkASoU9TEB9PjgItMrHxhFNN5TmV3kMiGBOM3w7hcrOCkv3MAR%2FLtCDmoff7DM5juWvT6Vn4xqC0g%2Frrdq9uMrzChP9bXhJWmV6yQtVmXwIxmjRppaqf2IM4ze10COxtzeJKlnLxyrw41GL9NBGb5a9WlysXwY9gNOf5PXpi5AXmPI7OeJyspH1DoC%2B1ktpxMdV5rLAyU%2F87MYie2PKpKIAlLq3Pjz&X-Amz-Signature=5fd07280322783b21f3394d67ceb2896835338ded42f2b714bc887012f4a1066&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                     }
                   ],
                   "ViewName": [
@@ -150,7 +160,7 @@
                   "Name": "Sketch Adventure: Color Design - Luxe (Default)"
                 },
                 "created_time": "2025-11-06T08:55:00.000Z",
-                "last_edited_time": "2025-11-10T13:15:00.000Z",
+                "last_edited_time": "2025-11-10T13:19:00.000Z",
                 "url": "https://www.notion.so/Sketch-Adventure-Color-Design-Luxe-Default-2a39748bc8c28021b0aef4552364d094"
               }
             },
