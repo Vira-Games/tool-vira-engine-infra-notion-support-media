@@ -1,0 +1,237 @@
+{
+  "pageId": "2a39748b-c8c2-8060-b8b1-f49e3a685472",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Sketch_Adventure__Color_Design_-_Luxe": {
+        "id": "2a39748b-c8c2-8060-b8b1-f49e3a685472",
+        "title": "Sketch Adventure: Color Design - Luxe",
+        "properties": {
+          "bundleID": "com.ht.lux.sktch.adv.color",
+          "ProductCatalog": [
+            "2a39748b-c8c2-8011-8fc8-e029a57d6470"
+          ],
+          "Subscription Settings": [
+            "2a39748b-c8c2-80a9-839d-c8cca4034dcd"
+          ],
+          "MainData": [
+            "2a39748b-c8c2-805f-856f-f1fc3ccaf1f6"
+          ],
+          "Platform": "Fire TV",
+          "RefreshConfig": null,
+          "ProjectKey": "2a39748bc8c28060b8b1f49e3a685472",
+          "Name": "Sketch Adventure: Color Design - Luxe"
+        },
+        "created_time": "2025-11-06T08:33:00.000Z",
+        "last_edited_time": "2025-11-06T08:53:00.000Z",
+        "url": "https://www.notion.so/Sketch-Adventure-Color-Design-Luxe-2a39748bc8c28060b8b1f49e3a685472",
+        "children": {
+          "Sketch_Adventure__Color_Design_-_Luxe__ProductCatalog_": {
+            "id": "2a39748b-c8c2-8011-8fc8-e029a57d6470",
+            "title": "Sketch Adventure: Color Design - Luxe (ProductCatalog)",
+            "properties": {
+              "Parent": [
+                "2a39748b-c8c2-8060-b8b1-f49e3a685472"
+              ],
+              "Products": [],
+              "Name": "Sketch Adventure: Color Design - Luxe (ProductCatalog)"
+            },
+            "created_time": "2025-11-06T08:53:00.000Z",
+            "last_edited_time": "2025-11-07T14:17:00.000Z",
+            "url": "https://www.notion.so/Sketch-Adventure-Color-Design-Luxe-ProductCatalog-2a39748bc8c280118fc8e029a57d6470",
+            "TKFormatProductCatalog": {
+              "Products": []
+            }
+          },
+          "Sketch_Adventure__Color_Design_-_Luxe_(SubDataCatalog)": {
+            "id": "2a39748b-c8c2-80a9-839d-c8cca4034dcd",
+            "title": "Sketch Adventure: Color Design - Luxe (SubDataCatalog)",
+            "properties": {
+              "Platform": "Fire TV",
+              "ToolKitSettigns": [
+                "2a39748b-c8c2-8060-b8b1-f49e3a685472"
+              ],
+              "Subscriptions": [
+                "2a39748b-c8c2-8050-96ce-f7a89251e552",
+                "2a39748b-c8c2-8021-b0ae-f4552364d094"
+              ],
+              "Apply": null,
+              "bundleID": "com.ht.lux.sktch.adv.color",
+              "Name": "Sketch Adventure: Color Design - Luxe (SubDataCatalog)"
+            },
+            "created_time": "2025-11-06T08:53:00.000Z",
+            "last_edited_time": "2025-11-07T14:06:00.000Z",
+            "url": "https://www.notion.so/Sketch-Adventure-Color-Design-Luxe-SubDataCatalog-2a39748bc8c280a9839dc8cca4034dcd",
+            "children": {
+              "Sketch_Adventure__Color_Design_-_Luxe__Disable_Banner_": {
+                "id": "2a39748b-c8c2-8050-96ce-f7a89251e552",
+                "title": "Sketch Adventure: Color Design - Luxe (Disable Banner)",
+                "properties": {
+                  "isDefault": false,
+                  "RViewBandleName": [],
+                  "Disable Inter": false,
+                  "Preview": [],
+                  "RViewGpPrefabName": [],
+                  "RViewAmazonPrefabName": [],
+                  "Fallback Sku": [],
+                  "Disable Banner": false,
+                  "RViewVersion": [],
+                  "Package bundle": [],
+                  "ViewName": [],
+                  "Sku": "",
+                  "Id": "",
+                  "RViewPrefabName": [],
+                  "Subscription Data Catalog": [
+                    "2a39748b-c8c2-80a9-839d-c8cca4034dcd"
+                  ],
+                  "Less Ads": false,
+                  "Name": "Sketch Adventure: Color Design - Luxe (Disable Banner)"
+                },
+                "created_time": "2025-11-06T08:55:00.000Z",
+                "last_edited_time": "2025-11-06T08:58:00.000Z",
+                "url": "https://www.notion.so/Sketch-Adventure-Color-Design-Luxe-Disable-Banner-2a39748bc8c2805096cef7a89251e552"
+              },
+              "Sketch_Adventure__Color_Design_-_Luxe__Default_": {
+                "id": "2a39748b-c8c2-8021-b0ae-f4552364d094",
+                "title": "Sketch Adventure: Color Design - Luxe (Default)",
+                "properties": {
+                  "isDefault": false,
+                  "RViewBandleName": [],
+                  "Disable Inter": false,
+                  "Preview": [],
+                  "RViewGpPrefabName": [],
+                  "RViewAmazonPrefabName": [],
+                  "Fallback Sku": [],
+                  "Disable Banner": false,
+                  "RViewVersion": [],
+                  "Package bundle": [],
+                  "ViewName": [],
+                  "Sku": "",
+                  "Id": "",
+                  "RViewPrefabName": [],
+                  "Subscription Data Catalog": [
+                    "2a39748b-c8c2-80a9-839d-c8cca4034dcd"
+                  ],
+                  "Less Ads": false,
+                  "Name": "Sketch Adventure: Color Design - Luxe (Default)"
+                },
+                "created_time": "2025-11-06T08:55:00.000Z",
+                "last_edited_time": "2025-11-06T08:58:00.000Z",
+                "url": "https://www.notion.so/Sketch-Adventure-Color-Design-Luxe-Default-2a39748bc8c28021b0aef4552364d094"
+              }
+            },
+            "TkFormtSubscriptions": {
+              "Subscriptions": [
+                {
+                  "Id": "",
+                  "Sku": "",
+                  "ParentSku": "",
+                  "FallbackSkus": [],
+                  "DisableInter": false,
+                  "DisableBanner": false,
+                  "LessAds": false,
+                  "ViewData": [],
+                  "IsDefault": false
+                },
+                {
+                  "Id": "",
+                  "Sku": "",
+                  "ParentSku": "",
+                  "FallbackSkus": [],
+                  "DisableInter": false,
+                  "DisableBanner": false,
+                  "LessAds": false,
+                  "ViewData": [],
+                  "IsDefault": false
+                }
+              ]
+            }
+          },
+          "Sketch_Adventure__Color_Design_-_Luxe__MainData_": {
+            "id": "2a39748b-c8c2-805f-856f-f1fc3ccaf1f6",
+            "title": "Sketch Adventure: Color Design - Luxe (MainData)",
+            "properties": {
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                    "name": "AMZ",
+                    "color": "default"
+                  }
+                ]
+              },
+              "Multi-select": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "5f5946de-66a2-4550-abb2-1f2c40b088cc",
+                    "name": "Paid",
+                    "color": "green"
+                  }
+                ]
+              },
+              "App Name": "Sketch Adventure: Color Design - Luxe",
+              "Vaveda_key": "aeasstz",
+              "Link to Promo": "https://drive.google.com/drive/folders/1Xq6I82t91LVr0FDhQwxXXmp8VZrJj1mu",
+              "Version": "1.0.0",
+              "Bundle Version": "1",
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "1c678335-fb6a-495a-b794-7c555b5d0fd5",
+                    "name": "HAT-TRICK GAMES LIMITED",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Bundle Id": "com.ht.lux.blade.master.aim",
+              "ToolKitSettigns": [
+                "2a39748b-c8c2-8060-b8b1-f49e3a685472"
+              ],
+              "Vaveda_secret": "Op1hqdRs7UuUsBalB1Q5QnHx8WpclC8s",
+              "Name": "Sketch Adventure: Color Design - Luxe (MainData)"
+            },
+            "created_time": "2025-11-06T08:53:00.000Z",
+            "last_edited_time": "2025-11-06T09:15:00.000Z",
+            "url": "https://www.notion.so/Sketch-Adventure-Color-Design-Luxe-MainData-2a39748bc8c2805f856ff1fc3ccaf1f6",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1Xq6I82t91LVr0FDhQwxXXmp8VZrJj1mu",
+                  "ProductName": "Sketch Adventure: Color Design - Luxe",
+                  "BundleIdentifier": "com.ht.lux.blade.master.aim",
+                  "Version": "1.0.0",
+                  "BundleVersionCode": 1,
+                  "CompanyName": "HAT-TRICK GAMES LIMITED"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "aeasstz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "Op1hqdRs7UuUsBalB1Q5QnHx8WpclC8s"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
