@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "smpprjz - Sample Project - VIP"
+              "string": null
             }
           },
           "(List)BundleId": "com.vira.sample.project",
@@ -24,7 +24,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "com.vira.sample.project123"
+              "string": null
             }
           },
           "MaxParentVersion": {
@@ -32,7 +32,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "2.0.2"
+              "string": ""
             }
           },
           "Subscription Settings": [
@@ -48,7 +48,8 @@
             "2ab9748b-c8c2-80e7-9815-fbc6d9c22d0c",
             "2ae9748b-c8c2-8052-8d5b-c9d2553fefec",
             "2ae9748b-c8c2-80a1-946b-ca43c015ef21",
-            "2ae9748b-c8c2-8034-971e-ecdca9cba6c8"
+            "2bc9748b-c8c2-8021-8150-f9829cb45df3",
+            "2bc9748b-c8c2-80f1-ad29-f46bb3b015ae"
           ],
           "RefreshConfig": null,
           "(List)Version": "1.0.0",
@@ -57,14 +58,14 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "33"
+              "string": null
             }
           },
           "ProjectKey": "2ae9748bc8c281a9bbebe4d5a884a088",
           "Name": "Sample Project - VIP"
         },
         "created_time": "2025-11-17T08:45:00.000Z",
-        "last_edited_time": "2025-11-17T08:53:00.000Z",
+        "last_edited_time": "2025-11-19T07:45:00.000Z",
         "url": "https://www.notion.so/Sample-Project-VIP-2ae9748bc8c281a9bbebe4d5a884a088",
         "children": {
           "Sample_Project_-_VIP__ProductCatalog_": {
