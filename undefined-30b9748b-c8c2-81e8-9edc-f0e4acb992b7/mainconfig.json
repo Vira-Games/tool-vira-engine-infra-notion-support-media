@@ -60,7 +60,7 @@
           "Name": "Magic Master: Element War"
         },
         "created_time": "2026-02-18T16:08:00.000Z",
-        "last_edited_time": "2026-02-19T08:24:00.000Z",
+        "last_edited_time": "2026-02-19T12:33:00.000Z",
         "url": "https://www.notion.so/Magic-Master-Element-War-30b9748bc8c281e89edcf0e4acb992b7",
         "children": {
           "Magic_Master__Element_War_ProductCatalog": {
@@ -152,7 +152,13 @@
                 ]
               },
               "AF Key": "mQvBH4wGQYL4EVg5UgUKNH",
-              "Bundle Id": "com.master.magic",
+              "Bundle Id": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
               "Vaveda_secret": "A4VWvXaYyHPcWeB4YDhZrorIvOye0I8D",
               "Name": "Magic Master: Element War (MainData)"
             },
@@ -164,7 +170,13 @@
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/u/0/folders/1Di37oDSDawkBwt6veD2lzhwV7E8O8203",
                   "ProductName": "Magic Master: Element War",
-                  "BundleIdentifier": "com.master.magic",
+                  "BundleIdentifier": {
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
                   "Version": {
                     "type": "formula",
                     "formula": {
