@@ -60,7 +60,7 @@
           "Name": "Magic Master: Element War"
         },
         "created_time": "2026-02-18T16:08:00.000Z",
-        "last_edited_time": "2026-02-19T12:33:00.000Z",
+        "last_edited_time": "2026-02-19T13:35:00.000Z",
         "url": "https://www.notion.so/Magic-Master-Element-War-30b9748bc8c281e89edcf0e4acb992b7",
         "children": {
           "Magic_Master__Element_War_ProductCatalog": {
@@ -127,13 +127,21 @@
                 ]
               },
               "App Name": "Magic Master: Element War",
+              "VersionFormula": {
+                "id": "PczY",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.3.7"
+                }
+              },
               "Vaveda_key": "mmslmnz",
               "Link to Promo": "https://drive.google.com/drive/u/0/folders/1Di37oDSDawkBwt6veD2lzhwV7E8O8203",
               "Version": {
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "1.3.7"
                 }
               },
               "Parent": [
@@ -156,7 +164,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "com.master.magic"
                 }
               },
               "Vaveda_secret": "A4VWvXaYyHPcWeB4YDhZrorIvOye0I8D",
@@ -174,14 +182,14 @@
                     "type": "formula",
                     "formula": {
                       "type": "string",
-                      "string": null
+                      "string": "com.master.magic"
                     }
                   },
                   "Version": {
                     "type": "formula",
                     "formula": {
                       "type": "string",
-                      "string": null
+                      "string": "1.3.7"
                     }
                   },
                   "BundleVersionCode": 1,
