@@ -1,0 +1,176 @@
+{
+  "pageId": "30b9748b-c8c2-81e8-9edc-f0e4acb992b7",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Magic_Master__Element_War": {
+        "id": "30b9748b-c8c2-81e8-9edc-f0e4acb992b7",
+        "title": "Magic Master: Element War",
+        "properties": {
+          "ProductCatalog": [
+            "30b9748b-c8c2-8169-9d7c-df0167177e0c"
+          ],
+          "MaxParent": "mmslmnz - Magic Master: Element War",
+          "(List)BundleId": "com.master.magic",
+          "MaxParentBundleID": "com.master.magic",
+          "MaxParentVersion": "1.3.7",
+          "Subscription Settings": [
+            "30b9748b-c8c2-81a1-af2a-caa533ec504f"
+          ],
+          "MainData": [
+            "30b9748b-c8c2-8124-bea7-ed585ef40cb1"
+          ],
+          "(List)Bundle Version": "12",
+          "Platform": "Fire TV",
+          "💼 All Projects": [
+            "1de9748b-c8c2-8053-af29-e5e9e2f92e5b"
+          ],
+          "RefreshConfig": null,
+          "(List)Version": "1.3.7",
+          "MaxParentBundleVersion": "12",
+          "ProjectKey": "30b9748b-c8c2-81e8-9edc-f0e4acb992b7",
+          "Name": "Magic Master: Element War"
+        },
+        "created_time": "2026-02-18T16:08:00.000Z",
+        "last_edited_time": "2026-02-19T13:40:00.000Z",
+        "url": "https://www.notion.so/Magic-Master-Element-War-30b9748bc8c281e89edcf0e4acb992b7",
+        "children": {
+          "Magic_Master__Element_War_ProductCatalog": {
+            "id": "30b9748b-c8c2-8169-9d7c-df0167177e0c",
+            "title": "Magic Master: Element War ProductCatalog",
+            "properties": {
+              "Parent": [
+                "30b9748b-c8c2-81e8-9edc-f0e4acb992b7"
+              ],
+              "Products": [],
+              "Name": "Magic Master: Element War ProductCatalog"
+            },
+            "created_time": "2026-02-18T16:08:00.000Z",
+            "last_edited_time": "2026-02-18T16:12:00.000Z",
+            "url": "https://www.notion.so/Magic-Master-Element-War-ProductCatalog-30b9748bc8c281699d7cdf0167177e0c"
+          },
+          "Magic_Master__Element_War_SubDataCatalog": {
+            "id": "30b9748b-c8c2-81a1-af2a-caa533ec504f",
+            "title": "Magic Master: Element War SubDataCatalog",
+            "properties": {
+              "Parent": [
+                "30b9748b-c8c2-81e8-9edc-f0e4acb992b7"
+              ],
+              "Platform": "Fire TV",
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "Name": "Magic Master: Element War SubDataCatalog"
+            },
+            "created_time": "2026-02-18T16:08:00.000Z",
+            "last_edited_time": "2026-02-18T16:10:00.000Z",
+            "url": "https://www.notion.so/Magic-Master-Element-War-SubDataCatalog-30b9748bc8c281a1af2acaa533ec504f"
+          },
+          "Magic_Master__Element_War__MainData_": {
+            "id": "30b9748b-c8c2-8124-bea7-ed585ef40cb1",
+            "title": "Magic Master: Element War (MainData)",
+            "properties": {
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                    "name": "AMZ",
+                    "color": "default"
+                  }
+                ]
+              },
+              "Multi-select": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "App Name": "Magic Master: Element War",
+              "Version": "1.3.7",
+              "Vaveda_key": "mmslmnz",
+              "Link to Promo": "https://drive.google.com/drive/u/0/folders/1Di37oDSDawkBwt6veD2lzhwV7E8O8203",
+              "VersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.3.7"
+                }
+              },
+              "Parent": [
+                "30b9748b-c8c2-81e8-9edc-f0e4acb992b7"
+              ],
+              "Bundle Version": "1",
+              "Bundle Id": "com.master.magic",
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "408006c9-5cbb-4ec1-a15d-4b7f3cbc703e",
+                    "name": "Medoc Games",
+                    "color": "red"
+                  }
+                ]
+              },
+              "AF Key": "mQvBH4wGQYL4EVg5UgUKNH",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.master.magic"
+                }
+              },
+              "Vaveda_secret": "A4VWvXaYyHPcWeB4YDhZrorIvOye0I8D",
+              "Name": "Magic Master: Element War (MainData)"
+            },
+            "created_time": "2026-02-18T16:08:00.000Z",
+            "last_edited_time": "2026-02-19T12:32:00.000Z",
+            "url": "https://www.notion.so/Magic-Master-Element-War-MainData-30b9748bc8c28124bea7ed585ef40cb1",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/u/0/folders/1Di37oDSDawkBwt6veD2lzhwV7E8O8203",
+                  "ProductName": "Magic Master: Element War",
+                  "BundleIdentifier": "com.master.magic",
+                  "Version": "1.3.7",
+                  "BundleVersionCode": 1,
+                  "CompanyName": "Medoc Games"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "mQvBH4wGQYL4EVg5UgUKNH"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "mmslmnz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "A4VWvXaYyHPcWeB4YDhZrorIvOye0I8D"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
