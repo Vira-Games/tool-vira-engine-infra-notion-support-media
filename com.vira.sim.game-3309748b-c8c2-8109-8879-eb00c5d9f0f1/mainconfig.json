@@ -1,0 +1,170 @@
+{
+  "pageId": "3309748b-c8c2-8109-8879-eb00c5d9f0f1",
+  "configData": {
+    "pages": {
+      "Life_Sim_3D": {
+        "id": "3309748b-c8c2-8109-8879-eb00c5d9f0f1",
+        "title": "Life Sim 3D",
+        "properties": {
+          "Product Catalog": [
+            "3309748b-c8c2-8112-8605-e0ea90ef0be8"
+          ],
+          "Max Parent": "[Life Sim 3D] - Vira tool kit 2.0 (2.8.1 clone)",
+          "Max Parent Link To Promo": "https://play.google.com/store/apps/details?id=com.vira.sim.game&hl=uk",
+          "List Bundle Id": [
+            "",
+            "com.vira.sim.game",
+            "com.vira.sim.game",
+            "51",
+            "51",
+            "51",
+            "51",
+            "51",
+            "com.vira.sim.game"
+          ],
+          "Max Parent Bundle Id": "com.vira.sim.game",
+          "Max Parent Version": "2.8.2",
+          "Subscription Settings": [
+            "3309748b-c8c2-81e9-bc59-f5f8964027d9"
+          ],
+          "Main Data": [
+            "3309748b-c8c2-819c-807f-c964b3f45f1c"
+          ],
+          "List Bundle Version": [
+            "",
+            "85",
+            "51",
+            "0",
+            "com.vira.sim.game",
+            "com.vira.sim.game",
+            "0",
+            "0",
+            "51"
+          ],
+          "Platform": "GP",
+          "All Projects": [
+            "2be9748b-c8c2-80c1-95c1-dce7ec182178",
+            "3339748b-c8c2-80a9-aea0-c4d6422aa270",
+            "3129748b-c8c2-8057-abd5-e723df691f14",
+            "2be9748b-c8c2-806f-884a-e6432b856df5",
+            "2c79748b-c8c2-8052-922d-d354f7c07d48",
+            "2cd9748b-c8c2-8033-bb09-cb13282acadb",
+            "2ed9748b-c8c2-805c-aef2-fd6d7bc11725",
+            "2f69748b-c8c2-8058-8be1-cb3ddca44f05",
+            "3299748b-c8c2-807e-873c-fead68f6fcc5"
+          ],
+          "List Version": [
+            "",
+            "2.8.2",
+            "2.8.0",
+            "2.3.2",
+            "2.3.3",
+            "2.3.3",
+            "2.6.1",
+            "2.6.1-2.6.2",
+            "2.7.2"
+          ],
+          "Max Parent Bundle Version": "85",
+          "Project Key": "3309748b-c8c2-8109-8879-eb00c5d9f0f1",
+          "List Link To Promo": [
+            "",
+            "https://play.google.com/store/apps/details?id=com.vira.sim.game&hl=uk",
+            "https://play.google.com/store/apps/details?id=com.vira.sim.game&hl=uk",
+            "https://play.google.com/store/apps/details?id=com.vira.sim.game&hl=uk",
+            "https://play.google.com/store/apps/details?id=com.vira.sim.game&hl=uk",
+            "https://apps.apple.com/ua/app/life-sim-3d-family-simulator/id6747178992?l=ru",
+            "https://apps.apple.com/ua/app/life-sim-3d-family-simulator/id6747178992?l=ru",
+            "https://apps.apple.com/ua/app/life-sim-3d-family-simulator/id6747178992?l=ru",
+            "https://play.google.com/store/apps/details?id=com.vira.sim.game&hl=uk"
+          ],
+          "Name": "Life Sim 3D"
+        },
+        "url": "https://www.notion.so/Life-Sim-3D-3309748bc8c281098879eb00c5d9f0f1",
+        "children": {
+          "Life_Sim_3D_ProductCatalog": {
+            "id": "3309748b-c8c2-8112-8605-e0ea90ef0be8",
+            "title": "Life Sim 3D ProductCatalog",
+            "properties": {
+              "Parent": [],
+              "Products": [],
+              "Name": "Life Sim 3D ProductCatalog"
+            },
+            "url": "https://www.notion.so/Life-Sim-3D-ProductCatalog-3309748bc8c281128605e0ea90ef0be8"
+          },
+          "Life_Sim_3D_SubDataCatalog": {
+            "id": "3309748b-c8c2-81e9-bc59-f5f8964027d9",
+            "title": "Life Sim 3D SubDataCatalog",
+            "properties": {
+              "Parent": [],
+              "Platform": [],
+              "Subscriptions": [],
+              "Bundle Id": [],
+              "Name": "Life Sim 3D SubDataCatalog"
+            },
+            "url": "https://www.notion.so/Life-Sim-3D-SubDataCatalog-3309748bc8c281e9bc59f5f8964027d9"
+          },
+          "Life_Sim_3D_MainData": {
+            "id": "3309748b-c8c2-819c-807f-c964b3f45f1c",
+            "title": "Life Sim 3D MainData",
+            "properties": {
+              "Link to Promo Rollup": [
+                "https://play.google.com/store/apps/details?id=com.vira.sim.game&hl=uk"
+              ],
+              "Bundle Version Rollup": [
+                "85"
+              ],
+              "Platform": [
+                "GP"
+              ],
+              "Paid Free": [
+                "Free"
+              ],
+              "App Name": "Life Sim 3D: family simulator",
+              "Version": "2.8.2",
+              "Vaveda_key": "",
+              "Link to Promo": "https://play.google.com/store/apps/details?id=com.vira.sim.game&hl=uk",
+              "Version Rollup": [
+                "2.8.2"
+              ],
+              "Parent": [
+                "3309748b-c8c2-8109-8879-eb00c5d9f0f1"
+              ],
+              "Bundle Version": "85",
+              "Bundle Id": "com.vira.sim.game",
+              "Account": {
+                "multi_select": [
+                  {
+                    "name": "Vira Games Inc"
+                  }
+                ]
+              },
+              "AF Key": "",
+              "Bundle Id Rollup": [
+                "com.vira.sim.game"
+              ],
+              "Vaveda_secret": "",
+              "Name": "Life Sim 3D MainData"
+            },
+            "url": "https://www.notion.so/Life-Sim-3D-MainData-3309748bc8c2819c807fc964b3f45f1c",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://play.google.com/store/apps/details?id=com.vira.sim.game&hl=uk",
+                  "ProductName": "Life Sim 3D: family simulator",
+                  "BundleIdentifier": "com.vira.sim.game",
+                  "Version": "2.8.2",
+                  "BundleVersionCode": 85,
+                  "CompanyName": "Vira Games Inc"
+                },
+                "SDKSettings": {
+                  "Keys": [],
+                  "IsAmazon": true
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
