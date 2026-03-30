@@ -113,9 +113,13 @@
               "Bundle Version Rollup": [
                 "85"
               ],
-              "Platform": [
-                "GP"
-              ],
+              "Platform": {
+                "multi_select": [
+                  {
+                    "name": "GP"
+                  }
+                ]
+              },
               "Paid Free": [
                 "Free"
               ],
@@ -158,7 +162,7 @@
                 },
                 "SDKSettings": {
                   "Keys": [],
-                  "IsAmazon": true
+                  "IsAmazon": false
                 }
               }
             }
