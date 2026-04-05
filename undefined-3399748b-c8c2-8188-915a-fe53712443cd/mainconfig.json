@@ -1,0 +1,147 @@
+{
+  "pageId": "3399748b-c8c2-8188-915a-fe53712443cd",
+  "configData": {
+    "pages": {
+      "Tear_Robots__Fight_Master": {
+        "id": "3399748b-c8c2-8188-915a-fe53712443cd",
+        "title": "Tear Robots: Fight Master",
+        "properties": {
+          "Product Catalog": [
+            "3399748b-c8c2-8178-b4cd-ef8fba8cdaa4"
+          ],
+          "Max Parent": "trbfmsz - Tear Robots: Fight Master",
+          "Max Parent Link To Promo": "https://drive.google.com/drive/folders/1waHJJfQcq0mec2iKW5ALIEfGYhcticlI",
+          "List Bundle Id": [
+            "com.vira.tear.robots.amz"
+          ],
+          "Max Parent Bundle Id": "com.vira.tear.robots.amz",
+          "Max Parent Version": "1.0.4",
+          "Subscription Settings": [
+            "3399748b-c8c2-8117-80a8-e8a2e4202a45"
+          ],
+          "Main Data": [
+            "3399748b-c8c2-812c-b05d-c793fcca5d76"
+          ],
+          "List Bundle Version": [
+            "17"
+          ],
+          "Platform": "Fire TV",
+          "All Projects": [
+            "2d29748b-c8c2-8089-beca-cc0e6a288a37"
+          ],
+          "List Version": [
+            "1.0.4"
+          ],
+          "Max Parent Bundle Version": "17",
+          "Project Key": "3399748b-c8c2-8188-915a-fe53712443cd",
+          "List Link To Promo": [
+            "https://drive.google.com/drive/folders/1waHJJfQcq0mec2iKW5ALIEfGYhcticlI"
+          ],
+          "Name": "Tear Robots: Fight Master"
+        },
+        "url": "https://www.notion.so/Tear-Robots-Fight-Master-3399748bc8c28188915afe53712443cd",
+        "children": {
+          "Tear_Robots__Fight_Master_ProductCatalog": {
+            "id": "3399748b-c8c2-8178-b4cd-ef8fba8cdaa4",
+            "title": "Tear Robots: Fight Master ProductCatalog",
+            "properties": {
+              "Parent": [],
+              "Products": [],
+              "Name": "Tear Robots: Fight Master ProductCatalog"
+            },
+            "url": "https://www.notion.so/Tear-Robots-Fight-Master-ProductCatalog-3399748bc8c28178b4cdef8fba8cdaa4"
+          },
+          "Tear_Robots__Fight_Master_SubDataCatalog": {
+            "id": "3399748b-c8c2-8117-80a8-e8a2e4202a45",
+            "title": "Tear Robots: Fight Master SubDataCatalog",
+            "properties": {
+              "Parent": [],
+              "Platform": [],
+              "Subscriptions": [],
+              "Bundle Id": [],
+              "Name": "Tear Robots: Fight Master SubDataCatalog"
+            },
+            "url": "https://www.notion.so/Tear-Robots-Fight-Master-SubDataCatalog-3399748bc8c2811780a8e8a2e4202a45"
+          },
+          "Tear_Robots__Fight_Master_MainData": {
+            "id": "3399748b-c8c2-812c-b05d-c793fcca5d76",
+            "title": "Tear Robots: Fight Master MainData",
+            "properties": {
+              "Link to Promo Rollup": [
+                "https://drive.google.com/drive/folders/1waHJJfQcq0mec2iKW5ALIEfGYhcticlI"
+              ],
+              "Bundle Version Rollup": [
+                "17"
+              ],
+              "Platform": {
+                "multi_select": [
+                  {
+                    "name": "AMZ"
+                  }
+                ]
+              },
+              "Paid Free": [
+                "Free"
+              ],
+              "App Name": "Tear Robots: Fight Master",
+              "Version": "1.0.4",
+              "Vaveda_key": "trbfmsz",
+              "Link to Promo": "https://drive.google.com/drive/folders/1waHJJfQcq0mec2iKW5ALIEfGYhcticlI",
+              "Version Rollup": [
+                "1.0.4"
+              ],
+              "Parent": [
+                "3399748b-c8c2-8188-915a-fe53712443cd"
+              ],
+              "Bundle Version": "17",
+              "Bundle Id": "com.vira.tear.robots.amz",
+              "Account": {
+                "multi_select": [
+                  {
+                    "name": "Vira Games Inc"
+                  }
+                ]
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Bundle Id Rollup": [
+                "com.vira.tear.robots.amz"
+              ],
+              "Vaveda_secret": "AmCaE7xHG2W2TZc8Yp3Ky4YYnquLH0GU",
+              "Name": "Tear Robots: Fight Master MainData"
+            },
+            "url": "https://www.notion.so/Tear-Robots-Fight-Master-MainData-3399748bc8c2812cb05dc793fcca5d76",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1waHJJfQcq0mec2iKW5ALIEfGYhcticlI",
+                  "ProductName": "Tear Robots: Fight Master",
+                  "BundleIdentifier": "com.vira.tear.robots.amz",
+                  "Version": "1.0.4",
+                  "BundleVersionCode": 17,
+                  "CompanyName": "Vira Games Inc"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "trbfmsz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "AmCaE7xHG2W2TZc8Yp3Ky4YYnquLH0GU"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
