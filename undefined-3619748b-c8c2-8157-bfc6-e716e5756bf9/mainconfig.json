@@ -69,7 +69,7 @@
           "Name": "Backrooms prop hunt"
         },
         "created_time": "2026-05-15T13:16:00.000Z",
-        "last_edited_time": "2026-05-15T14:08:00.000Z",
+        "last_edited_time": "2026-05-15T15:06:00.000Z",
         "url": "https://www.notion.so/Backrooms-prop-hunt-3619748bc8c28157bfc6e716e5756bf9",
         "children": {
           "Backrooms_prop_hunt_ProductCatalog": {
@@ -221,31 +221,10 @@
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": {
-                    "id": "%5CVgk",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": "https://drive.google.com/drive/u/0/folders/1xcCN5eLsq00PWFr6iTZgsquRd-7ml2oq"
-                    }
-                  },
+                  "LinkToPromo": "https://drive.google.com/drive/u/0/folders/1xcCN5eLsq00PWFr6iTZgsquRd-7ml2oq",
                   "ProductName": "Backrooms prop hunt",
-                  "BundleIdentifier": {
-                    "id": "%5E%7D%3Aj",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": "com.omni.backrooms.prop.hunt"
-                    }
-                  },
-                  "Version": {
-                    "id": "PczY",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": "1.0.0"
-                    }
-                  },
+                  "BundleIdentifier": "com.omni.backrooms.prop.hunt",
+                  "Version": "1.0.0",
                   "BundleVersionCode": 1,
                   "CompanyName": "OmniPlay Studios"
                 },
