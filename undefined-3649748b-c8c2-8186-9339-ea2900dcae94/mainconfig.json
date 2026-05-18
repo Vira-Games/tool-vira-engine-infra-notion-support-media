@@ -69,7 +69,7 @@
           "Name": "Bike Master: Xtreme Racing"
         },
         "created_time": "2026-05-18T13:48:00.000Z",
-        "last_edited_time": "2026-05-18T13:50:00.000Z",
+        "last_edited_time": "2026-05-18T13:51:00.000Z",
         "url": "https://www.notion.so/Bike-Master-Xtreme-Racing-3649748bc8c281869339ea2900dcae94",
         "children": {
           "Bike_Master__Xtreme_Racing_ProductCatalog": {
@@ -130,23 +130,35 @@
               "Platform": {
                 "id": "%3AyyE",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                    "name": "AMZ",
+                    "color": "default"
+                  }
+                ]
               },
               "Paid/Free": {
                 "id": "Bnjr",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
               },
-              "App Name": "",
+              "App Name": "Bike Master: Xtreme Racing",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.0"
+                  "string": "1.0.5"
                 }
               },
-              "Vaveda_key": "",
+              "Vaveda_key": "msxtrcz",
               "Link to Promo": {
                 "id": "%5CVgk",
                 "type": "formula",
@@ -170,7 +182,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1"
+                  "string": "7"
                 }
               },
               "Bundle Id": {
@@ -178,35 +190,54 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.vira.dust.atv.racing"
+                  "string": "com.vira.xtreme.bike"
                 }
               },
               "Account": {
                 "id": "e%7C~F",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "9ecec9b7-588e-4561-be81-1d12af7a34f4",
+                    "name": "Vira Games Inc",
+                    "color": "pink"
+                  }
+                ]
               },
-              "AF Key": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Bundle Id Rollup": "Bike Master: Xtreme Racing",
-              "Vaveda_secret": "",
+              "Vaveda_secret": "ZMMHVU1E0GauUlIcgC66Tac2NZSNQdiq",
               "Name": "Bike Master: Xtreme Racing MainData"
             },
             "created_time": "2026-05-18T13:48:00.000Z",
-            "last_edited_time": "2026-05-18T13:48:00.000Z",
+            "last_edited_time": "2026-05-18T13:57:00.000Z",
             "url": "https://www.notion.so/Bike-Master-Xtreme-Racing-MainData-3649748bc8c28179927fdf9ed901b053",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/u/0/folders/1IFfubVdG1sHFw_NDl4b6XchTm7gNcz_D",
-                  "ProductName": "",
-                  "BundleIdentifier": "com.vira.dust.atv.racing",
-                  "Version": "1.0.0",
-                  "BundleVersionCode": 1,
-                  "CompanyName": ""
+                  "ProductName": "Bike Master: Xtreme Racing",
+                  "BundleIdentifier": "com.vira.xtreme.bike",
+                  "Version": "1.0.5",
+                  "BundleVersionCode": 7,
+                  "CompanyName": "Vira Games Inc"
                 },
                 "SDKSettings": {
-                  "Keys": [],
-                  "IsAmazon": false
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "msxtrcz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "ZMMHVU1E0GauUlIcgC66Tac2NZSNQdiq"
+                    }
+                  ],
+                  "IsAmazon": true
                 }
               }
             }
@@ -752,7 +783,7 @@
               "Public key": [
                 {
                   "name": "AppstoreAuthenticationKey.pem",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/c40481a7-d4a2-47c4-bf89-a19eb5499adb/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466X2CN2IYJ%2F20260518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260518T135056Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC4FkvSKYi9jKtRWEjab9AiqMVrzXIe9%2FiWwF6MuazqngIgFPz5Nvs8jjM%2Fr7%2BSTqeTPOPXrP6jDKL6wh3yljKQGXoqiAQIv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDHjq4T4D7dISd%2FsbuyrcA%2FMissmibGSOK46UNtXPnQrZYC9haebTyrUjhXQp4A1Ua1RAk1yiNznVGgs4TSos5HYeTtbFDkcZXjqR1j85ufCCAP8PeQJTOnXj2oYYuBXrUQ9n33UszCs0GjkexDbdXA9QUw0bhKkDAtnXvsCMfkyiKx3gP%2FyZxMzv6ErwiJkIaxyeVgSWMCdqa3dboYsUtX%2FUV%2Bnt3%2FFzxQbEIBJI99CLwxJXByuNGKbuq4o1wOILmG1Bw5dDYbD1TxAaVjevs2i%2BPvQF7efr0N4iMfC9u%2BIbK7JzfteN7hCJSsiNTVA4oZl16MT5lAJ6aoAXJzuIABZjbFEfHx6ocwhenD77amo%2FZ4QKrmFUE86J33D3Ipozhvh6MObZ9OuVqQcih6YeaHWzTLtixYMwG1rJ6OnMNePKh9QXraY1yCUI1auE9I5rwK7NYq%2BC5zyGedInpxfG%2Ft%2B%2F7U9FAcBXSEjyf7N31TG5oKzbk64NHNgDvO51fZzdYaOVRO2BPJNCdxUIytlRd24s3fE4NnoVuImyYUwlMv2dkAOco%2BQsJXaPawNNVa6lO%2FVivQd1IkPvas%2BHKY3flUiSIbWUq7vtZM5d21LBs%2BnFBPcpjhl8wGX1kdncVhawgkapNvpC5Z16PiYnMJqurNAGOqUB9pLCf4OicN%2FdsOkB3F0n9015fqLOAIQ7HJRCkuUEfr9DMrZ7faDXvFVWCa9ngfvSo8WCNQnuNI9LVSR1efmM4QdlH0G5mzcrSKQ43tR0lJfmhuYl07WiXWuyrdpwZGmaBfdyzyjRF37FI3WX%2B%2FSGznHY73Ww8O8MBjrC7Tws%2B%2BS9QdT9sh%2BW5%2FhuzOMQv6M6E%2B8icKCA132%2BL24A%2FjvroCH%2B1N7C&X-Amz-Signature=9324a2a6ce73f97389766b37a902837d3748ab0a2f8ec74949215ab6ae87b104&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/c40481a7-d4a2-47c4-bf89-a19eb5499adb/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RUZTX5LJ%2F20260518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260518T135804Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCVp%2BdGg7wMgMn6lSFugyFl%2FkgrRv545Cwv1PQsF50HLgIgcTa4Q3bBN%2F1H%2Fcd8nMIFlXEHaGknEmq91eATGsbTKSkqiAQIv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDNgo2%2FcOJ4jhW6g8LircA0U2GOf441UKEvD23hju5alJ8vbUCRH2ulEKxP2OoTJ7trtk5TIFdLBNEDrqfistivy9sk8HEcGN0Rm85OWQ%2BDxy8iyj0FD8G6F9iHjOIsioGZB6SQfJvLuQAuTmZFr4U5to%2Bkg0OzjfqpAzRKn%2BmtAqScT4b96aVLDdnHA0DHnlDj4Ae63CADCPJDgsdPVL9UBu%2FYA9c9CLd6WUPMV1IyAcwlZD9RaXAtVBIpmT9LO1gbnNCLMK0crGtkg%2F%2BTOxjtTvgJ292LIw53uBhl%2BawdY%2BvgpZQs%2BnhRMSYL6SZZ6M7BSIlfR%2BwtvD0tAfVnz7aGFxQwDsFxIJfdaK9naobo8eK%2BuGi5UlZmjD0lYUSp3J8gg2WYRUT3Kx8FYcmZAKb3sknM3%2BYhmR%2BtY9zMjASFdlWA%2B1zLcsxr9xI6sIOjB2gOHD1mZveQJsE0LPClri%2FOThs7DzDSmmHGzfISI1f5KDipHuCWCu9MP0Gjv%2BP2X7RKaD5tfcBl2QuTEmzORsUd02Od%2F3%2BAdJXzQEAkS2UrQqZRcti2KvjCeOgj78gjdPp9rlF7tPtn%2F94dza6CiprLTMKrEaVxs3PlgnwA7eEliYaIg83xpf0nSlkT96g2IWoLjZPKgH%2Bcq1F4wKMKCtrNAGOqUByM%2F8t7Ti3TJxh6khGCsRZmo88PoKszyxWpsaHBdIy95L84aLGL0vgqsLyCJVFaH80QEmOmzg2dhK6USx3auwLgvc5M7e%2BRKQExiWYLcUMw54NA6lO1jxN3YzVkscqju8nmTFoYT6w8ENYxaL8wMsPpIBuCRCBg8Ew8stCtGCvTE3oxnyMogY1ap2pe9S0UiP0ZSFielPz4oUdIOtRiBQSn7%2BlCMn&X-Amz-Signature=6c5442f375fa56981aaf147810705338a8c3b1bfa62644ff50641b44dfef6cd4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "Q2_26",
