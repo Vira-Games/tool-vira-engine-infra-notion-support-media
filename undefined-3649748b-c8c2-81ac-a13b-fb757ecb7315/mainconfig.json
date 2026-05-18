@@ -69,7 +69,7 @@
           "Name": "Squishy Octopus"
         },
         "created_time": "2026-05-18T10:34:00.000Z",
-        "last_edited_time": "2026-05-18T10:34:00.000Z",
+        "last_edited_time": "2026-05-18T10:41:00.000Z",
         "url": "https://www.notion.so/Squishy-Octopus-3649748bc8c281aca13bfb757ecb7315",
         "children": {
           "Squishy_Octopus_ProductCatalog": {
@@ -146,7 +146,7 @@
                   "string": "1.0.4"
                 }
               },
-              "Vaveda_key": "",
+              "Vaveda_key": "cmvrsqz",
               "Link to Promo": {
                 "id": "%5CVgk",
                 "type": "formula",
@@ -186,7 +186,7 @@
                 "type": "multi_select",
                 "multi_select": []
               },
-              "AF Key": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Bundle Id Rollup": {
                 "type": "formula",
                 "formula": {
@@ -194,11 +194,11 @@
                   "string": null
                 }
               },
-              "Vaveda_secret": "",
+              "Vaveda_secret": "3ZzvxIxfv8h8VR9mQij5ybhxnMtZ4MWJ",
               "Name": "Squishy Octopus MainData"
             },
             "created_time": "2026-05-18T10:34:00.000Z",
-            "last_edited_time": "2026-05-18T10:34:00.000Z",
+            "last_edited_time": "2026-05-18T10:43:00.000Z",
             "url": "https://www.notion.so/Squishy-Octopus-MainData-3649748bc8c28118bafde18f4c8583d6",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
@@ -211,7 +211,20 @@
                   "CompanyName": ""
                 },
                 "SDKSettings": {
-                  "Keys": [],
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "cmvrsqz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "3ZzvxIxfv8h8VR9mQij5ybhxnMtZ4MWJ"
+                    }
+                  ],
                   "IsAmazon": false
                 }
               }
@@ -774,7 +787,7 @@
               "Public key": [
                 {
                   "name": "AppstoreAuthenticationKey.pem",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/09acb411-d398-4880-9f18-88a69254f514/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466R5ISUY7J%2F20260518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260518T104153Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCzwUwfQa0qXbCwEpo044Ywj%2FJexlltlk5eUzXBjHwzMQIgSTE9SSHUDdJ%2BqqVBfKD3fpiFLHs0but5kgh%2F%2BN%2FlhsUqiAQIu%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDJYnisT4euOtI7oK2SrcA7EEtQYZUzlFt84xNHc2ze3m7tqx1gJI553vMsAptXyqS%2BgbU7DGulVI%2Ff0NyNV0qm5lcYdPob6eSQ98PlNWtMhapHDLOYuCtbExOJW1Aqs5Ab6M3ccSAWSE7hZTrOGJ58zGkk5a7M%2BJ%2BvwpfF8RkFKwvRgU%2FIik2cf%2BrLLyzhKEM1PrUHlzZ5vqP%2FE9vWQ7KoXnZkt0eQT9zpH3yyWy%2Fdr2t155qxGToqmdELURzm9O%2Bjj5uR1eXSzfVYhmIj3ok3G2kYmNCeW4nb%2Fm8A3%2FGpTbUl5%2BZ2%2BT%2BZI8Z9kBvkMrcGwubTLzDQjcS%2Fx1%2BCZpxOM0B%2FtshdRQ7zHDAl2BEGujKX%2FnKK327zeyn0anPTuQr%2FGCwNZQUzwinWeZTVFECTdIf3X8ErU6C1d2Xm0PbCQ6WA8hs6SjRp4RyUfgKte3sLGu9NB5b9nQmZc7hlkpN4FO4VJJCakyc2fo%2BfYcEEnQjPNOGZt%2BVvZAEJEVpN8N6m6t8mBA2kjbGqUGXvpfDmyCKB%2B1zXYVKNEQRO3HNQAbysKRKHHwLDA5K%2B4Kfczl422OVK1c3rN03goBwROiuzmQqLuvqEfjcfzfuxsjGjBynCR37wVXrB4tEj8Ea5WGpocF55S%2F%2F8wqrZMFMMHAq9AGOqUBdfr98zdquta9Hu7p%2F1QksXptLvqIBWfMQeVPepV5o8XiSyBiHKsnN9kTOLQW%2FXEOvyLc2Ex5OCjoA1%2BtPTW6ekC85BQ7EQnRTi1NYop%2FwqIarL0a3W%2FQTjym5nbPLX0oLxU%2BmBIgVKJdOnAlf8bWc29CEr85Zzv8FvSql7uHnP4%2F5nGzXSYj6thV38srn%2BBgh5%2BI4aAeov2YPoad3lwXRWM5l%2Fx4&X-Amz-Signature=6c7377bd6205057afeda9bbf458276ec988a443f9c4ade9c131acdf23245956e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/09acb411-d398-4880-9f18-88a69254f514/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666TAF3ZBK%2F20260518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260518T104451Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCme0B1cbMib8nJW5TfmrsSsWwuxZmYJyrSMG9m%2F9qs2QIhALll%2FpJO3DvwVU%2BD52OfF%2BRsGJNr%2FAymrOJPzvP8qMPGKogECLv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igy0pQUQE%2BFaBUANmDIq3ANp0t4Yzk5DAh4vcKY9JhtgDIMMvLKKso5dKZg3wIF46rP0TnUbJGBRpbFJrFkvSt1xEgG75iewIdVBiVubiNZsrRO1gYOh5eHjXlkqBUADMYrXC5vIeHWgCWyahYC%2F5QP9gfktIW4a8sResU%2FblPzFvFMyIfeI8Xe2QTXT3TGhBDwWzSj3xm5IPuEmHJ%2BscBGZQnJHMX%2B7KwmviYofP1R383p8yPU%2FXsrZ7vX7qWApL1V9tRwbS2X62MKyW29Oi6oz%2B%2BvT05hBLQ2jkTGnnd9ySJk%2BZBv%2BIIpCvAsQDPt8uX9DM6iarm4YFv3hsyFgaJWzf33z6mqwwnRRYG6b%2BLbmx9s5o3LpeIY%2FUFmkbGdTrLDmafJvs%2F%2B%2FqjmotB%2Bp6qZuvlwFe5reSKCtZe8FCffQ2Oi564n9sMfG0SMDuOrz42EUwVKvCFagVyGbej923H%2BPlk86FCq6wZyWNK%2Bd05YOwpvzA9KQw%2BQyepQwNj55HWtaksR9PnXi8bzf46hn61llcgUjHikPcfEJECuG2BAps%2FSVJNmoz%2FLeNk6wMPi%2Bdna2RVFOWXCmc2e3IcYla%2BF6uswC%2BiKH6jSIDd3VNDQVY45T0e8%2Fzh90ecCXmJYFPy1oVAA%2BdDqirjtjKjDXwqvQBjqkAWk1qutJK3bm8PMW5%2BpjjfJuMi1FgOpTogkm6m7jeOi1iOp%2FE%2FwasRq7rzYGQrYkkJYZeMyrpgZzNeJN6zw1nRnvD5yJGU%2Br%2B8sWy2ul%2BoXfTv7Muq23axHYauSpHiywaW6kB2JTtLx13dzfM%2FycHASnVyXaVfwUxCQUi6Utw5qPCuCHqtkL%2FZfPzhurnPAr0aaUepfEE8jAMFb6qWj3ATqzz%2FN2&X-Amz-Signature=176154a2aefd72f519715e76d3f42b071d4e5dfc925d2f8ad4f7d0f1c9ecb875&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "",
