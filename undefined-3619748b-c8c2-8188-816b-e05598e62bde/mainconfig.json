@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "msxtrcz - Bike Master: Xtreme Racing"
+              "string": null
             }
           },
           "MaxParentLinkToPromo": {
@@ -23,7 +23,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "https://drive.google.com/drive/u/0/folders/1IFfubVdG1sHFw_NDl4b6XchTm7gNcz_D"
+              "string": null
             }
           },
           "(List)BundleId": "com.vira.xtreme.bike",
@@ -32,7 +32,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "com.vira.xtreme.bike"
+              "string": null
             }
           },
           "MaxParentVersion": {
@@ -40,7 +40,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "1.0.5"
+              "string": "Bike Master: Xtreme Racing MainData"
             }
           },
           "Subscription Settings": [
@@ -55,13 +55,13 @@
             "34a9748b-c8c2-807b-b730-d7358318b4dc"
           ],
           "RefreshConfig": null,
-          "(List)Version": "1.0.5",
+          "(List)Version": "Bike Master: Xtreme Racing MainData",
           "MaxParentBundleVersion": {
             "id": "fVoO",
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "7"
+              "string": null
             }
           },
           "ProjectKey": "3619748b-c8c2-8188-816b-e05598e62bde",
@@ -69,7 +69,7 @@
           "Name": "Bike Master: Xtreme Racing"
         },
         "created_time": "2026-05-15T13:29:00.000Z",
-        "last_edited_time": "2026-05-15T14:16:00.000Z",
+        "last_edited_time": "2026-05-15T15:31:00.000Z",
         "url": "https://www.notion.so/Bike-Master-Xtreme-Racing-3619748bc8c28188816be05598e62bde",
         "children": {
           "Bike_Master__Xtreme_Racing_ProductCatalog": {
@@ -100,7 +100,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.vira.xtreme.bike"
+                  "string": null
                 }
               },
               "Name": "Bike Master: Xtreme Racing SubDataCatalog"
@@ -117,14 +117,14 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "https://drive.google.com/drive/u/0/folders/1IFfubVdG1sHFw_NDl4b6XchTm7gNcz_D"
+                  "string": null
                 }
               },
               "BundleVersionRollup": {
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "7"
+                  "string": null
                 }
               },
               "Platform": {
@@ -155,7 +155,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.5"
+                  "string": "1.0.0"
                 }
               },
               "Vaveda_key": "msxtrcz",
@@ -164,14 +164,14 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "https://drive.google.com/drive/u/0/folders/1IFfubVdG1sHFw_NDl4b6XchTm7gNcz_D"
+                  "string": null
                 }
               },
               "VersionRollup": {
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.5"
+                  "string": "Bike Master: Xtreme Racing MainData"
                 }
               },
               "Parent": [
@@ -182,7 +182,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "7"
+                  "string": "1"
                 }
               },
               "Bundle Id": {
@@ -190,7 +190,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.vira.xtreme.bike"
+                  "string": "com.vira.dust.atv.racing"
                 }
               },
               "Account": {
@@ -205,13 +205,7 @@
                 ]
               },
               "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
-              "Bundle Id Rollup": {
-                "type": "formula",
-                "formula": {
-                  "type": "string",
-                  "string": "com.vira.xtreme.bike"
-                }
-              },
+              "Bundle Id Rollup": "Bike Master: Xtreme Racing",
               "Vaveda_secret": "ZMMHVU1E0GauUlIcgC66Tac2NZSNQdiq",
               "Name": "Bike Master: Xtreme Racing MainData"
             },
@@ -221,11 +215,11 @@
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "https://drive.google.com/drive/u/0/folders/1IFfubVdG1sHFw_NDl4b6XchTm7gNcz_D",
+                  "LinkToPromo": "",
                   "ProductName": "Bike Master: Xtreme Racing",
-                  "BundleIdentifier": "com.vira.xtreme.bike",
-                  "Version": "1.0.5",
-                  "BundleVersionCode": 7,
+                  "BundleIdentifier": "com.vira.dust.atv.racing",
+                  "Version": "1.0.0",
+                  "BundleVersionCode": 1,
                   "CompanyName": "Vira Games Inc"
                 },
                 "SDKSettings": {
@@ -304,7 +298,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 14
+                  "number": 15
                 }
               },
               "Are all prop. filled? ": {
@@ -413,7 +407,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-05-15T14:00:00.000Z"
+                "last_edited_time": "2026-05-17T14:00:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -584,6 +578,11 @@
               "Outdated / unused elements are removed from GDD": true,
               "Applovin Key": "",
               "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
               "Version": "1.0.5",
               "Show": {
                 "id": "RfDI",
@@ -609,8 +608,13 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 19
+                  "number": 20
                 }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
               },
               "Bundle Version": "7",
               "Days for Art": {
@@ -618,7 +622,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 19
+                  "number": 20
                 }
               },
               "BB SDK Key (iOS)": "",
@@ -779,7 +783,7 @@
               "Public key": [
                 {
                   "name": "AppstoreAuthenticationKey.pem",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/c40481a7-d4a2-47c4-bf89-a19eb5499adb/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466R5GTXDRM%2F20260515%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260515T153137Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIF8MMb0v22hkmB9401b8v%2FW75QgIUKOFMrGhO9M%2FkZ50AiBD1fFsW5M8GkMx4ojEnuZBlhmaZJNMvtxSA4Cw4znmRCr%2FAwh3EAAaDDYzNzQyMzE4MzgwNSIMYxEB4%2B105gzQ%2FT0TKtwDbndK4y5vNmcDycN%2F8zxGMMkm1dNQsI86qyxP0jci5UKYZT8fpPUySY6P361%2BRniWsjEMOvXvbav9ybsGsTwTGoA5m7lbXS%2F65a2lfKvY11Pqfv1fJN0ytFrmLR64GQu2GDkX9Iad7attzz6oZRkkWcr%2FQ8GhKU%2FIuy1BNsjaZF9huvmAm48X7i5vOzMkxqzRYUOwdsXxlRDv1D2onSqx4prQwjLNpOFr5MjUtzE%2Biu1GK4UU4tApgAFaXDCUBBSaUj%2FrojRfnnEleq3zhrXUrm%2FurQ4XKLmEbFGPHdGlotp0JJXZ4U3OUmdWwbbspr%2F37k0FwfyGRVHpdbFMf2bJhauS9wocbnaEm6riIzUXzl6RFdRII1VRdu%2F2FnuP6dS%2Bs%2F5mKf0R2A48x%2BGKz4qiHmh%2FZeqiBYYxuLnftdM17v7m%2B6wuOgzR6Z8VxQ19gFwLb8vTdCWfF9W%2Buuu0C6ukQR39S6XarbMuzW4KTrG4indRqrOn4auMWrWs1ykKG2mbXfn2sMGF08f4NwjR%2F8E8QjcAV1PzL1NzXiZjWK4Ch4Jmuj%2B57gwqttBiZzvYsF3MpSDe4nHJoxGEvhptKAyKtTa5gxd3M%2FMCF%2FzsyFmcu7CQKxKwCE%2BRI%2BMk8Dwwn86c0AY6pgHufezuGfasv0Hho6%2BU1HxjcgIS0dVu4JzluimUd6UrIj8eGzKJmLLdi4OTKIncumqpwKH3FgXwtqdU0NheGchyMdz%2BKCocgQhnEYevCIuPl8zw65VY4Pkus4jlB9rfQoval%2BH7R6i1JY3DSMKMHq1myDE5g%2FNSxkYLeiwE%2FmGEsYticBG6RHBOdgP5H0uaEPQqtua7CpN%2F1s3jAbogkwOYNiZoTU%2Fo&X-Amz-Signature=9683a0054b3f98fd308dd52a06e8ec141e28f77b4dc9bd0629c6e5ceec0d9495&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/c40481a7-d4a2-47c4-bf89-a19eb5499adb/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SWLYX7T4%2F20260518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260518T125007Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHkXqcCbV413mCNbUwO%2Ff7YhBgBzztTMdm%2F9zMgkyBKGAiEA8%2B9d3fGb5Pi9FxEiawOQA2%2BtRCVG5YZ1FvB4tLoTJpwqiAQIvv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDPbe7B1GsPvN%2F%2BXwuircA1p2kOnx3npLbhJ9XyCSpf8ssZZ8HB6sNY%2FWO%2BP1fLWTnWgzoMGdBA48nTUd1riyh9tULJf4tjyzy9x5sFsodve0fnDTIekYCZhCtpTKgcHwgFDp%2FHebKyHVeN4LfQjSaw2RjyA1v89pr4ibQVw0%2Fd12%2FlPvh22FqjhP2Tu8eZ6a6Xwjm5ifHChH5oWrHhmLc%2Fd9XW1%2Bp5ieDMXWUVeJF7mjL4uSk0kAWLFMOdRvTcZMcmrGVt%2FU5k%2BopOr0qlmLz%2Brk%2BcsFlNmgJLIsd4VsYLOyVvKTsl0XYRyCJhg%2FRkdw9mdkghXP7VHAERyFLTI6FXM5jeLWEsmZTaeh6p1NWCP8NVEycWwY0e%2BbG93pm0%2FmxwsF6bOd2wmxnTmwi7y%2FVCbTC2HY3%2FfVuIG3yjQzJaLqbs1CBa5FvM%2B3R8T8b5cy1SHDZIoyQWH%2FFZ7fMnRypWiVNL49Ce0SzouRsWFKRlvdytC7OBgZhqrSG0bAY0WUoab1DLm6wgVKYMHQ5IMZmcfusgiqhjg5UjcFAWJpsYs1NXO7qZGHbSW2wj0utfedVABL0VuncO%2BEI0TgdvaoUgkDn0mHaTr665pLCQ1WvanC3hO4zBLHd1%2Fc6hBhwPn3hHOwuTNq3PvSO%2FcEMN%2BJrNAGOqUB55LmSzFQYUmuQMR0KMQQ060MhmUteP9%2BWfZRx%2FY5wNTgzKmaltCETB4BaZxVpeeXspLe%2Bj7XSz9oBGTJVMmyr1CWbsbAtqGOkm7QKlT8sKM3P0Gbm94XcAL8WQdLiBE%2FcT%2BUvgSATy7x9GPp02TL1jriNsUe6LEQ%2Bho68%2BuJLllkEmvjtl9hZYBbg3ZgA%2FT2DrfUgzLiwhUnwb4RyERmZrJb3wCk&X-Amz-Signature=ccfb70aee4d8f79b1cb50bdb25d6fbf041247b85b35bc0e0d6dbcdae2a143202&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "Q2_26",
@@ -817,6 +821,11 @@
                 "id": "jqbZ",
                 "type": "number",
                 "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": null
               },
               "D3PTM": {
                 "id": "kamA",
@@ -1073,7 +1082,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 14
+                  "number": 15
                 }
               },
               "BALANCE": "",
@@ -1126,7 +1135,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-04-22T09:00:00.000Z",
-            "last_edited_time": "2026-05-15T14:00:00.000Z",
+            "last_edited_time": "2026-05-17T14:00:00.000Z",
             "url": "https://www.notion.so/msxtrcz-Bike-Master-Xtreme-Racing-34a9748bc8c2807bb730d7358318b4dc",
             "children": {
               "Bike_Master__Xtreme_Racing__Fire_TV_-_Free_": {
@@ -1507,7 +1516,7 @@
                     "type": "formula",
                     "formula": {
                       "type": "number",
-                      "number": 1.11
+                      "number": 4
                     }
                   },
                   "Device": {
@@ -1907,6 +1916,11 @@
                       "Outdated / unused elements are removed from GDD": false,
                       "Applovin Key": "",
                       "Full Pack  Fire TV ": null,
+                      "iPad Screens": {
+                        "id": "R%5EzP",
+                        "type": "url",
+                        "url": null
+                      },
                       "Version": "1.0.0",
                       "Show": {
                         "id": "RfDI",
@@ -1932,6 +1946,11 @@
                           "type": "string",
                           "string": null
                         }
+                      },
+                      "iPhone Screens": {
+                        "id": "SeX%7C",
+                        "type": "url",
+                        "url": null
                       },
                       "Bundle Version": "1",
                       "Days for Art": {
@@ -2137,6 +2156,11 @@
                         "id": "jqbZ",
                         "type": "number",
                         "number": null
+                      },
+                      "Full Pack GP": {
+                        "id": "k%60op",
+                        "type": "url",
+                        "url": null
                       },
                       "D3PTM": {
                         "id": "kamA",
