@@ -1,0 +1,2025 @@
+{
+  "pageId": "3649748b-c8c2-81b6-8f54-d744d9153966",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "___DUST__Dirt_ATV_Offroad_Racing": {
+        "id": "3649748b-c8c2-81b6-8f54-d744d9153966",
+        "title": "🚙 DUST: Dirt ATV Offroad Racing",
+        "properties": {
+          "ProductCatalog": [
+            "3649748b-c8c2-8177-9e71-c2f79a0f780e"
+          ],
+          "MaxParent": {
+            "id": "F%7BpA",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": null
+            }
+          },
+          "MaxParentLinkToPromo": {
+            "id": "GC%3FS",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": null
+            }
+          },
+          "(List)BundleId": "com.vira.dust.atv.racing",
+          "MaxParentBundleID": {
+            "id": "LAsk",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": null
+            }
+          },
+          "MaxParentVersion": {
+            "id": "Njfg",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "🚙 DUST: Dirt ATV Offroad Racing MainData"
+            }
+          },
+          "Subscription Settings": [
+            "3649748b-c8c2-81bc-9f8a-d601ca08d4bc"
+          ],
+          "MainData": [
+            "3649748b-c8c2-81d0-89a3-cc0c992b9d60"
+          ],
+          "(List)Bundle Version": "1",
+          "Platform": "",
+          "💼 All Projects": [
+            "2cb9748b-c8c2-80ea-96e3-f68f4eec5f2b"
+          ],
+          "RefreshConfig": null,
+          "(List)Version": "🚙 DUST: Dirt ATV Offroad Racing MainData",
+          "MaxParentBundleVersion": {
+            "id": "fVoO",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": null
+            }
+          },
+          "ProjectKey": "3649748b-c8c2-81b6-8f54-d744d9153966",
+          "(List)LinkToPromo": "",
+          "Name": "🚙 DUST: Dirt ATV Offroad Racing"
+        },
+        "created_time": "2026-05-18T11:31:00.000Z",
+        "last_edited_time": "2026-05-18T11:31:00.000Z",
+        "url": "https://www.notion.so/DUST-Dirt-ATV-Offroad-Racing-3649748bc8c281b68f54d744d9153966",
+        "children": {
+          "___DUST__Dirt_ATV_Offroad_Racing_ProductCatalog": {
+            "id": "3649748b-c8c2-8177-9e71-c2f79a0f780e",
+            "title": "🚙 DUST: Dirt ATV Offroad Racing ProductCatalog",
+            "properties": {
+              "Parent": [
+                "3649748b-c8c2-81b6-8f54-d744d9153966"
+              ],
+              "Products": [],
+              "Name": "🚙 DUST: Dirt ATV Offroad Racing ProductCatalog"
+            },
+            "created_time": "2026-05-18T11:31:00.000Z",
+            "last_edited_time": "2026-05-18T11:32:00.000Z",
+            "url": "https://www.notion.so/DUST-Dirt-ATV-Offroad-Racing-ProductCatalog-3649748bc8c281779e71c2f79a0f780e"
+          },
+          "___DUST__Dirt_ATV_Offroad_Racing_SubDataCatalog": {
+            "id": "3649748b-c8c2-81bc-9f8a-d601ca08d4bc",
+            "title": "🚙 DUST: Dirt ATV Offroad Racing SubDataCatalog",
+            "properties": {
+              "Parent": [
+                "3649748b-c8c2-81b6-8f54-d744d9153966"
+              ],
+              "Platform": "",
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "Name": "🚙 DUST: Dirt ATV Offroad Racing SubDataCatalog"
+            },
+            "created_time": "2026-05-18T11:31:00.000Z",
+            "last_edited_time": "2026-05-18T11:31:00.000Z",
+            "url": "https://www.notion.so/DUST-Dirt-ATV-Offroad-Racing-SubDataCatalog-3649748bc8c281bc9f8ad601ca08d4bc"
+          },
+          "___DUST__Dirt_ATV_Offroad_Racing_MainData": {
+            "id": "3649748b-c8c2-81d0-89a3-cc0c992b9d60",
+            "title": "🚙 DUST: Dirt ATV Offroad Racing MainData",
+            "properties": {
+              "LinkToPromoRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "BundleVersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "1199d632-6232-4fa8-a5e3-3387a8afec5c",
+                    "name": "GP",
+                    "color": "brown"
+                  }
+                ]
+              },
+              "Paid/Free": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "App Name": "DUST: Dirt ATV Offroad Racing",
+              "Version": {
+                "id": "PczY",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.0"
+                }
+              },
+              "Vaveda_key": "",
+              "Link to Promo": {
+                "id": "%5CVgk",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "VersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "🚙 DUST: Dirt ATV Offroad Racing MainData"
+                }
+              },
+              "Parent": [
+                "3649748b-c8c2-81b6-8f54-d744d9153966"
+              ],
+              "Bundle Version": {
+                "id": "%5D~p%60",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1"
+                }
+              },
+              "Bundle Id": {
+                "id": "%5E%7D%3Aj",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.vira.dust.atv.racing"
+                }
+              },
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "9ecec9b7-588e-4561-be81-1d12af7a34f4",
+                    "name": "Vira Games Inc",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "AF Key": "R29irBunm2FYe6atZVkNSc",
+              "Bundle Id Rollup": "🚙 DUST: Dirt ATV Offroad Racing",
+              "Vaveda_secret": "",
+              "Name": "🚙 DUST: Dirt ATV Offroad Racing MainData"
+            },
+            "created_time": "2026-05-18T11:31:00.000Z",
+            "last_edited_time": "2026-05-18T11:42:00.000Z",
+            "url": "https://www.notion.so/DUST-Dirt-ATV-Offroad-Racing-MainData-3649748bc8c281d089a3cc0c992b9d60",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "",
+                  "ProductName": "DUST: Dirt ATV Offroad Racing",
+                  "BundleIdentifier": "com.vira.dust.atv.racing",
+                  "Version": "1.0.0",
+                  "BundleVersionCode": 1,
+                  "CompanyName": "Vira Games Inc"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "R29irBunm2FYe6atZVkNSc"
+                    }
+                  ],
+                  "IsAmazon": false
+                }
+              }
+            }
+          },
+          "Page_2cb9748b-c8c2-80ea-96e3-f68f4eec5f2b": {
+            "id": "2cb9748b-c8c2-80ea-96e3-f68f4eec5f2b",
+            "title": "Page 2cb9748b-c8c2-80ea-96e3-f68f4eec5f2b",
+            "properties": {
+              "CR_SUB_WW": {
+                "id": "%3A%3Br_",
+                "type": "number",
+                "number": null
+              },
+              "Create Paid Promo Rebuild ": null,
+              "Installs US": {
+                "id": "%3Au%7BN",
+                "type": "number",
+                "number": null
+              },
+              "Creatives Status": {
+                "id": "%3B%60E%3C",
+                "type": "status",
+                "status": {
+                  "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "[Icon]": null,
+              "TOP AMZ for Sub Screen Upates": [],
+              "Ref Name": "",
+              "ASIN": "",
+              "Missing Info for Dev(Cross)": {
+                "id": "%3Cv%60H",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Full game name\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Date Team Finish"
+                }
+              },
+              "New promo link": {
+                "id": "%3DU%3BG",
+                "type": "url",
+                "url": null
+              },
+              "Date Dev Start": {
+                "id": "%3D%7B%3Ej",
+                "type": "date",
+                "date": {
+                  "start": "2025-12-16",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Clone": null,
+              "Days in Dev -> Release": {
+                "id": "%3EkOQ",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 109
+                }
+              },
+              "Are all prop. filled? ": {
+                "id": "%3Epbv",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "false"
+                }
+              },
+              "All Projects Info Old": [],
+              "AF Link": {
+                "id": "%40G%5E%3A",
+                "type": "url",
+                "url": "https://hq1.appsflyer.com/unified-ltv/dashboard#appIds=com.vira.dust.atv.racing"
+              },
+              "Long Description": "",
+              "BB SDK Key (Android)": "rTsQm/aBGP0CnEYAb0S7ZfqImB4OLpwM7CA77ofl6hy+axJNUCYRG739PGOQ4rQX",
+              "Icon Promo Request": false,
+              "pLTV 180": {
+                "id": "%40zGB",
+                "type": "number",
+                "number": null
+              },
+              "Developer": {
+                "id": "%40%7Cvk",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "7b6c6c5e-4c9d-4c79-bc11-992759710280",
+                    "name": "Andrey Shibun",
+                    "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJzsmKVkRP3phNc9AQz48KykRmIeEkG4uWc0gj4X=s100",
+                    "type": "person",
+                    "person": {
+                      "email": "andrey.shibun@vaveda.games"
+                    }
+                  },
+                  {
+                    "object": "user",
+                    "id": "c2e68be8-40d9-4ea1-89df-d00432326044",
+                    "name": "Yury Martsinkevich",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/93f57c75-5dd3-4bd2-afb5-9dbd0a447bc3/icon_EvolvingMonsters_AmazonFree_512.01.png",
+                    "type": "person",
+                    "person": {
+                      "email": "yuriy.martsinkevich@vira.games"
+                    }
+                  }
+                ]
+              },
+              "PROGRESSION": "",
+              "🎯 AllPages": [],
+              "Project Subs Metrics": [],
+              "Status (Copy)": {
+                "id": "BVo%40",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Mintegral Status": "",
+              "Creo Link": "",
+              "Days Start-Finish": {
+                "id": "Bzh%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "Sum SP": "",
+              "Created time": {
+                "id": "B~Qf",
+                "type": "created_time",
+                "created_time": "2025-12-16T11:32:00.000Z"
+              },
+              "All subscriptions for the current build are filled": false,
+              "Missing info for Promo rebuild": {
+                "id": "CkT%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Promo Link\n⚠️ Full Game name"
+                }
+              },
+              "CPI": {
+                "id": "Cxr%40",
+                "type": "number",
+                "number": null
+              },
+              "Teams use": {
+                "id": "D%40CI",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Status": {
+                "id": "DYYJ",
+                "type": "status",
+                "status": {
+                  "id": "gPu~",
+                  "name": "DEVELOPMENT",
+                  "color": "blue"
+                }
+              },
+              "Date Development Status Set": {
+                "id": "D%60fU",
+                "type": "date",
+                "date": {
+                  "start": "2025-12-16",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Last edited time": {
+                "id": "Dj%3Fm",
+                "type": "last_edited_time",
+                "last_edited_time": "2026-05-18T11:32:00.000Z"
+              },
+              "Project Link": {
+                "id": "DjJJ",
+                "type": "url",
+                "url": null
+              },
+              "Date Art Finish": {
+                "id": "Do%3DG",
+                "type": "date",
+                "date": null
+              },
+              "Bundle ID": "com.vira.dust.atv.racing",
+              "Price": {
+                "id": "EUeu",
+                "type": "number",
+                "number": null
+              },
+              "Project Score Analysys": "",
+              "[Promo] Tasks ": [],
+              "TECH": "",
+              "CTR TEST": {
+                "id": "Ejyo",
+                "type": "number",
+                "number": null
+              },
+              "Subscription screen changes include links to actual references (expected UI)": false,
+              "GD": {
+                "id": "FHAP",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "00f65e4e-295d-4e11-93d4-ec18738bd3d9",
+                    "name": "Stanislav Kramarenko",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/d85b4bb7-2e8b-4bec-bdf0-f55fd71ce3ee/9f23c1cdc1a98b258e3e0029e1e48594.jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "stanislav.kramarenko@vira.games"
+                    }
+                  }
+                ]
+              },
+              "CONTENT": "",
+              "Due": {
+                "id": "FaCd",
+                "type": "date",
+                "date": null
+              },
+              "Link to Old Promo": {
+                "id": "FbpI",
+                "type": "url",
+                "url": null
+              },
+              "QA Task File": "",
+              "Task from Growth": [],
+              "ASO Name & Description": null,
+              "External\\internal": "",
+              "⏺️ ASO | Calendar": [],
+              "Product Features": "",
+              "Promo Task ": [],
+              "Monetization DB": [],
+              "Banner Key": "597f6e768c2ab2ac",
+              "Date Info Updated": {
+                "id": "HqDO",
+                "type": "date",
+                "date": null
+              },
+              "Short Description": "",
+              "Creo Status": "",
+              "Amz Int & Port Tasks Template": null,
+              "Tools": {
+                "id": "IZP%3F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "CreateTKSettings": null,
+              "Subscription JSON": [],
+              "Days Start-Release": {
+                "id": "JXlK",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "AMZ releaseId": "",
+              "[Logotype]": null,
+              "CR Subs, %": {
+                "id": "KKZH",
+                "type": "number",
+                "number": null
+              },
+              "Date": {
+                "id": "LkTZ",
+                "type": "date",
+                "date": null
+              },
+              "D3REW": {
+                "id": "M%5E%40L",
+                "type": "number",
+                "number": null
+              },
+              "Each config has its own separate description": false,
+              "CR Total, %": {
+                "id": "MguI",
+                "type": "number",
+                "number": null
+              },
+              "D7INT": {
+                "id": "MqkG",
+                "type": "number",
+                "number": null
+              },
+              "PaidConfigGroup": [],
+              "D1INT": {
+                "id": "N%3AM%60",
+                "type": "number",
+                "number": null
+              },
+              "Automation Info (AppStore)": "",
+              "Previous Status": {
+                "id": "NSz%7D",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Traffic Source": {
+                "id": "N%5E%3Cm",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Game Type": {
+                "id": "NcId",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Create Task (No Check)": null,
+              "Developer AMZ AppStore Link": "",
+              "pLTV 7": {
+                "id": "OPM%5C",
+                "type": "number",
+                "number": null
+              },
+              "Interstitial Key": "c4b03a2d12353294",
+              "BB Game ID (iOS)": "",
+              "Team ": "RnD Production Team",
+              "Ref Link": "https://play.google.com/store/apps/details?id=com.redbull.offroad&hl=ru",
+              "Build Paid Icon": null,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+              "Create Paid Icon": null,
+              "ByteBrew Link": {
+                "id": "QD%3Cd",
+                "type": "url",
+                "url": "https://dashboard.bytebrew.io/console/kBxTycuuB/engagement"
+              },
+              "Outdated / unused elements are removed from GDD": false,
+              "Applovin Key": "ZkOo78V5ga6pEBNIN0E3mJLRZFdhy5BQ7cv3ZXULM6vc4Tr1oP86mBOGN5pJcNTPN1FdBSpCL4dDw6zoWL08Ag",
+              "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
+              "Version": "1.0.0",
+              "Show": {
+                "id": "RfDI",
+                "type": "number",
+                "number": null
+              },
+              "QA | Tasks": [],
+              "Fullsreen Banner Promo Request": false,
+              "📽️ Creatives Team Tasks": [],
+              "Bright SDK Review Status": {
+                "id": "SXax",
+                "type": "status",
+                "status": {
+                  "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                  "name": "Implementation",
+                  "color": "default"
+                }
+              },
+              "Days for Art Test": {
+                "id": "SdR%3B",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
+              },
+              "Bundle Version": "1",
+              "Days for Art": {
+                "id": "T%3Edc",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "BB SDK Key (iOS)": "",
+              "Feature description matches the latest implementation": false,
+              "Create New \"QA Task\"": null,
+              "Status  Promo": {
+                "id": "TWT%3A",
+                "type": "status",
+                "status": {
+                  "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Click": {
+                "id": "TkDm",
+                "type": "number",
+                "number": null
+              },
+              "GA Game Key": "",
+              "CTR Video link": "",
+              "Link to Automation": {
+                "id": "VRV%3B",
+                "type": "url",
+                "url": null
+              },
+              "Days in QA": {
+                "id": "VgPc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 0
+                }
+              },
+              "parent": "🚙DUST: Dirt ATV Offroad Racing",
+              "Genre": {
+                "id": "V~Gf",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "f09ad6e3-5863-48c6-9798-a91bb273927c",
+                    "name": "Racing",
+                    "color": "gray"
+                  }
+                ]
+              },
+              "BB Game ID (Android)": "kBxTycuuB",
+              "Date QA Finished": {
+                "id": "X%5Cma",
+                "type": "date",
+                "date": null
+              },
+              "Task Create Info": "",
+              "GDD Doc": "https://www.notion.so/viragames/Racing-Game-Dust-2999748bc8c280a78b46c48cccbb1584?source=copy_link#2b69748bc8c280489400d195fc2816c8",
+              "Full Pack Amz": null,
+              "Missing Info for QA Task": {
+                "id": "ZSo%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Full game name\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Date Team Finish\n⚠️ Promo Link"
+                }
+              },
+              "[Screenshots]": null,
+              "Specialist": {
+                "id": "Zy%3F%3A",
+                "type": "people",
+                "people": []
+              },
+              "A/B Group": "",
+              "Full Pack TV Promo Request": false,
+              "Date Team Finish": {
+                "id": "%5B%5E%3AX",
+                "type": "date",
+                "date": null
+              },
+              "IPM STATIC": {
+                "id": "%5Bagu",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_key": "",
+              "Groups": [],
+              "D1RET": {
+                "id": "%5D%3DAl",
+                "type": "number",
+                "number": null
+              },
+              "[Fullscreen Banner]": null,
+              "CR_SUB_US": {
+                "id": "%5Dz%7CJ",
+                "type": "number",
+                "number": null
+              },
+              "D7BAN": {
+                "id": "%5E%3A%3F%3B",
+                "type": "number",
+                "number": null
+              },
+              "MONETIZATION": "",
+              "D3BAN": {
+                "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "Full game name": "",
+              "Firebase PLIST": [],
+              "Are all prop filled": {
+                "id": "_%5D%5E%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Date to QA"
+                }
+              },
+              "D1REW": {
+                "id": "_bnb",
+                "type": "number",
+                "number": null
+              },
+              "ASO Name & Descripton Request": false,
+              "Build changes are marked in the task": false,
+              "Promo status info": "",
+              "Average FPS": {
+                "id": "a%3Fdf",
+                "type": "number",
+                "number": null
+              },
+              "Polishing": "",
+              "ExtraComments": "",
+              "Full Pack Promo Request": false,
+              "Art Subs Links": "",
+              "Sprint": {
+                "id": "afeU",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Documentation link": "",
+              "Clone From": "",
+              "D7RET": {
+                "id": "bE%7C%3A",
+                "type": "number",
+                "number": null
+              },
+              "Test - Button No Validation": null,
+              "Release Type": "First Release",
+              "GDD is updated for the current game version": false,
+              "Link to ASO": {
+                "id": "d%3BwX",
+                "type": "url",
+                "url": "https://www.notion.so/Name-Description-Racing-Game_GP-34f9748bc8c281498ee3e7d99fb35260?d=c7d9748bc8c283d6b3e98314835b5358&source=copy_link"
+              },
+              "Create Paid Banner": null,
+              "Prod Promo Approve": "",
+              "RW Key": "5fb200e7f77aafbc",
+              "What's new": "",
+              "100% Release Date": {
+                "id": "e%5Ec%7C",
+                "type": "date",
+                "date": null
+              },
+              "Api key": "",
+              "[Static Banner]": null,
+              "Public key": [],
+              "Quarter": "Q4_25",
+              "Create AF & Vaveda Pages": null,
+              "LTV_180_WW": {
+                "id": "gCUp",
+                "type": "number",
+                "number": null
+              },
+              "Crit Bugs": "",
+              "IPM(CP)": {
+                "id": "hQ%5C%5B",
+                "type": "number",
+                "number": null
+              },
+              "Refund Rate": {
+                "id": "h%5Cxv",
+                "type": "number",
+                "number": null
+              },
+              "Keywords": "",
+              "IOS Distribution profile": [],
+              "Status 1": {
+                "id": "ihRL",
+                "type": "status",
+                "status": {
+                  "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Logotype Banner Promo Request": false,
+              "Slack Channel Link": "https://viragames.slack.com/archives/C09NL3NBQM7",
+              "CTR": {
+                "id": "jqbZ",
+                "type": "number",
+                "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": "https://drive.google.com/drive/folders/1z4f-jSo8kieyqS8AUNSzByIBUFZVRghK"
+              },
+              "D3PTM": {
+                "id": "kamA",
+                "type": "number",
+                "number": null
+              },
+              "D7REW": {
+                "id": "kuEV",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_secret": "",
+              "ViraToolKit version": "2.0.0",
+              "Priority": "",
+              "App ID(iOS)": "",
+              "Int&Port Epics": [],
+              "ToolKitSettings": [
+                "3649748b-c8c2-81b6-8f54-d744d9153966"
+              ],
+              "Link to store": "",
+              "QA checking": "",
+              "Date Release": {
+                "id": "nTQx",
+                "type": "date",
+                "date": null
+              },
+              "D3RET": {
+                "id": "n%5CF~",
+                "type": "number",
+                "number": null
+              },
+              "Cross-Promo AMZ": [],
+              "Paid\\Free": "Free",
+              "AMZ AppStore": null,
+              "RESULTS": "",
+              "AF Key": "R29irBunm2FYe6atZVkNSc",
+              "Goals": "",
+              "Firebase JSON": [
+                {
+                  "name": "google-services.json",
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/38c61a66-9a59-4982-a9d4-6aef0cf43042/google-services.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46652QCH46B%2F20260518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260518T115331Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDlfFv1t1eCfrb04t8jZt9QOb7fUyM6WguqPswuMXx9PAiBxkXeUAUfgcwaPwAh7E6VbJYWQRZZ227CIZgt%2BPKV6fiqIBAi8%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMgtp1vIW%2F04krSWfSKtwDIt2%2BMqzlGntvHVAdG2k7452QfAaQy88AxcnIIyO48rBmN4lTUab%2F%2Fnmb%2BYGfEF6AA8a1p87Bit2FWerqaKOuF55vGttvwmXu4G5CZ%2BCxvqXUjB78%2BCuTC%2FB34JxidcTzmo41hQY6%2BbvDPZAa1H6DXqz3kdLd6FIZ9cU5wRUvcPgGTxkVB7dcI%2BKEdILLkL%2FhWJ1slbyepumW6ji3DEY%2FsR0oLvoR0UF2pu5XIo8c%2F5nKNqp7W%2BmmH%2BqnPfauS4mqSTS5HiP9tXPFL4ZzSJyWJLX8UgMCKEHy4y2PfKPxf%2F%2FqsIegGye6x07Dp%2FyHnLNfgCsFiHJR%2BZ4tCa7x9m8QdHRR3RAsasuGeb5qNV8boGCqBUGe8gSAIAxtFE0nWEUfr26xGCgRuwXQ%2F6OTTBgGmf55nkhwDBhnBB%2BUXli7PQT8HRKYaWUwHHuLBkXlHCfcHaFI%2BfwQouY0kzrFZZDVPj3aIzMJWaGRdi7zdMQgdyqKvYx8h8Jnlrm9nknhIheQ0AZkknWq7puNYdl4R4wJ5NVU%2BPfKbMGtivY9e%2FBT%2Fm%2Fm3Fqrh2MZfMLDYHrsrmDj769LbuqrDUrH%2FXs32Pvzwqm%2BMOxhAEyv1ZUJPSzUy7DvDATb0F3Pehb354ow0%2Ber0AY6pgG5u5wqwIQbJOIxUHKw7ULc1RUkoVdU%2FOnErt2RrdPj6zIM7DizrY5RSSnoDXv6MqpShyP%2BknpNuWIXCG96T%2Fqmff3CjziW%2B803ld8m7IvAEaUd08zsVm7doPJTgnECky78Bo4blTDWbUWVyX5A9hNOO4bLF2bCUran4ttNOsrS1%2F4tzrk2fh1Uyri%2FDBGqHWoOovsjxhSRHIQ1ufQ5U%2F%2FzdpEzUInA&X-Amz-Signature=d80e6e9b63d1c0a0d207939f1eef670f5175660a7ca4d1d044ff566a96c07ec4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                }
+              ],
+              "QA": "",
+              "Hypothesys": [],
+              "AMZ appId": "",
+              "Opt-In": {
+                "id": "p_Ic",
+                "type": "number",
+                "number": null
+              },
+              "New Tasks & Requests": [],
+              "Last edited by": {
+                "id": "qUWF",
+                "type": "last_edited_by",
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
+                  "name": "Tools Team Helper",
+                  "avatar_url": null,
+                  "type": "bot",
+                  "bot": {}
+                }
+              },
+              "Account": {
+                "id": "qhXd",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "cd4ae8a7-72b6-4051-8d1d-1a17973ae494",
+                    "name": "Vira Games Inc",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "Date to QA": {
+                "id": "q%7D%3F%5C",
+                "type": "date",
+                "date": null
+              },
+              "Sub-team": "Pluribus",
+              "Date Team Start": {
+                "id": "rKeG",
+                "type": "date",
+                "date": {
+                  "start": "2025-10-23",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Created by": {
+                "id": "r%5BBI",
+                "type": "created_by",
+                "created_by": {
+                  "object": "user",
+                  "id": "233d872b-594c-8130-9d01-0002039920c3",
+                  "name": "Vladyslav Petrenko",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/8f2ce141-f90f-456b-8cb8-8895b2d87c89/photo_5282768950872104018_y.jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "vladyslav.petrenko@vira.games"
+                  }
+                }
+              },
+              "Tech Project Doc": "",
+              "Sub-subscription 1": {
+                "id": "sCtp",
+                "type": "url",
+                "url": null
+              },
+              "Automated Team": {
+                "id": "sDNL",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "If release is not required:  Need Release checkbox is unchecked": false,
+              "UI": "",
+              "Test - Button Validation": null,
+              "Admob Key": "ca-app-pub-1156383915014504~2297502649",
+              "Firebase Link": {
+                "id": "upQD",
+                "type": "url",
+                "url": "https://console.firebase.google.com/project/vira-games-rnd/analytics/app/android:com.vira.dust.atv.racing/overview/reports~2Fdashboard%3Fr%3Dfirebase-overview&fpn%3D1078724374363"
+              },
+              "Monetization": [],
+              "Cross Promo Video status": "",
+              "CPI (Mint) Test Dates": {
+                "id": "v%5Bi%60",
+                "type": "date",
+                "date": null
+              },
+              "Date Art Start": {
+                "id": "v%5D~D",
+                "type": "date",
+                "date": null
+              },
+              "Last Status Change": {
+                "id": "wQFr",
+                "type": "date",
+                "date": {
+                  "start": "2025-12-16",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D1PTM": {
+                "id": "wgp%7B",
+                "type": "number",
+                "number": null
+              },
+              "Link to Promo": "",
+              "[Creatives] Tasks": [],
+              "ipm TEST": {
+                "id": "xWSH",
+                "type": "number",
+                "number": null
+              },
+              "Art Assets Link": {
+                "id": "x%5C%3DY",
+                "type": "url",
+                "url": null
+              },
+              "Total installs": {
+                "id": "x%5DWz",
+                "type": "number",
+                "number": null
+              },
+              "LTV_180_US ": {
+                "id": "xfen",
+                "type": "number",
+                "number": null
+              },
+              "Sub-s Database": [],
+              "Amz Console: On Auto support": false,
+              "Create QA Task": false,
+              "3D Artist": {
+                "id": "zHXV",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "23bd872b-594c-81bf-9a59-000228214484",
+                    "name": "Yehor Tymchenko",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/3fe52adc-c001-4144-803a-d59b9d34de70/51LBViajQL.jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "yehor.tymchenko@vira.games"
+                    }
+                  }
+                ]
+              },
+              " GA Secret Key": "",
+              "Task Tracker Link": {
+                "id": "%7BIp%3F",
+                "type": "url",
+                "url": "https://www.notion.so/viragames/PLURIBUS-2059748bc8c281c68868c5388699767a"
+              },
+              "D3INT": {
+                "id": "%7BL%5C%3B",
+                "type": "number",
+                "number": null
+              },
+              "Percent of Release": {
+                "id": "%7BRbl",
+                "type": "number",
+                "number": null
+              },
+              "AppMagic Info": [],
+              "StartUp Time": {
+                "id": "%7BZ_P",
+                "type": "number",
+                "number": null
+              },
+              "D1BAN": {
+                "id": "%7BeFD",
+                "type": "number",
+                "number": null
+              },
+              "IPM (CP) Test Dates": {
+                "id": "%7Be%5E%3E",
+                "type": "date",
+                "date": null
+              },
+              "Platform": "GP",
+              "temp_tk_version_link": {
+                "id": "%7CeXN",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "Open ImportPackageWindow.cs"
+                }
+              },
+              "Screenshot Promo Request": false,
+              "Sub-item": [],
+              "Date Art Finish Test": {
+                "id": "%7Dwfx",
+                "type": "date",
+                "date": null
+              },
+              "GIT LINK": "https://gitlab.com/vira-games/amazon-projects/big-game-dust-racing.git",
+              "D7PTM": {
+                "id": "~%3F%3B%40",
+                "type": "number",
+                "number": null
+              },
+              "Parent Project": [
+                "2a79748b-c8c2-80aa-b365-f9c2721b87ff"
+              ],
+              "Days in Dev -> QA": {
+                "id": "~FLK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 109
+                }
+              },
+              "BALANCE": "",
+              "Description for QA": "",
+              "Prod Approved": false,
+              "Static Banner Promo Request": false,
+              "IPM": {
+                "id": "~oXr",
+                "type": "number",
+                "number": null
+              },
+              "Sent To QA": {
+                "id": "~sjG",
+                "type": "date",
+                "date": null
+              },
+              "Promo info checking": {
+                "id": "~wLr",
+                "type": "formula",
+                "formula": {
+                  "type": "boolean",
+                  "boolean": false
+                }
+              },
+              "Project": "🚙 DUST: Dirt ATV Offroad Racing",
+              "Description": "",
+              "SubscriptionRevenueEvent": false,
+              "AMZ Metrics Date & Comment": "",
+              "GD 2": {
+                "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Amz StartUp Time": {
+                "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                "type": "number",
+                "number": null
+              },
+              "Status 2": "",
+              "Days": {
+                "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                "type": "number",
+                "number": null
+              },
+              "Asana Link": {
+                "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                "type": "url",
+                "url": null
+              },
+              "Need a new Video?": false
+            },
+            "created_time": "2025-12-16T11:32:00.000Z",
+            "last_edited_time": "2026-05-18T11:32:00.000Z",
+            "url": "https://www.notion.so/DUST-Dirt-ATV-Offroad-Racing-2cb9748bc8c280ea96e3f68f4eec5f2b",
+            "children": {
+              "Page_2a79748b-c8c2-80aa-b365-f9c2721b87ff": {
+                "id": "2a79748b-c8c2-80aa-b365-f9c2721b87ff",
+                "title": "Page 2a79748b-c8c2-80aa-b365-f9c2721b87ff",
+                "properties": {
+                  "CR_SUB_WW": {
+                    "id": "%3A%3Br_",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Create Paid Promo Rebuild ": null,
+                  "Installs US": {
+                    "id": "%3Au%7BN",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Creatives Status": {
+                    "id": "%3B%60E%3C",
+                    "type": "status",
+                    "status": {
+                      "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                      "name": "Not started",
+                      "color": "default"
+                    }
+                  },
+                  "[Icon]": null,
+                  "TOP AMZ for Sub Screen Upates": [],
+                  "Ref Name": "",
+                  "ASIN": "",
+                  "Missing Info for Dev(Cross)": {
+                    "id": "%3Cv%60H",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "⚠️ Full game name\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ ViraToolKit version\n⚠️ GIT Link\n⚠️ AF Link\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Finish"
+                    }
+                  },
+                  "New promo link": {
+                    "id": "%3DU%3BG",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Date Dev Start": {
+                    "id": "%3D%7B%3Ej",
+                    "type": "date",
+                    "date": {
+                      "start": "2025-11-10",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Clone": null,
+                  "Days in Dev -> Release": {
+                    "id": "%3EkOQ",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 137
+                    }
+                  },
+                  "Are all prop. filled? ": {
+                    "id": "%3Epbv",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "false"
+                    }
+                  },
+                  "All Projects Info Old": [],
+                  "AF Link": {
+                    "id": "%40G%5E%3A",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Long Description": "",
+                  "BB SDK Key (Android)": "",
+                  "Icon Promo Request": false,
+                  "pLTV 180": {
+                    "id": "%40zGB",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Developer": {
+                    "id": "%40%7Cvk",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "7b6c6c5e-4c9d-4c79-bc11-992759710280",
+                        "name": "Andrey Shibun",
+                        "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJzsmKVkRP3phNc9AQz48KykRmIeEkG4uWc0gj4X=s100",
+                        "type": "person",
+                        "person": {
+                          "email": "andrey.shibun@vaveda.games"
+                        }
+                      },
+                      {
+                        "object": "user",
+                        "id": "c2e68be8-40d9-4ea1-89df-d00432326044",
+                        "name": "Yury Martsinkevich",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/93f57c75-5dd3-4bd2-afb5-9dbd0a447bc3/icon_EvolvingMonsters_AmazonFree_512.01.png",
+                        "type": "person",
+                        "person": {
+                          "email": "yuriy.martsinkevich@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  "PROGRESSION": "",
+                  "🎯 AllPages": [],
+                  "Project Subs Metrics": [],
+                  "Status (Copy)": {
+                    "id": "BVo%40",
+                    "type": "status",
+                    "status": {
+                      "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                      "name": "BACKLOG",
+                      "color": "gray"
+                    }
+                  },
+                  "Mintegral Status": "",
+                  "Creo Link": "",
+                  "Days Start-Finish": {
+                    "id": "Bzh%3A",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "Sum SP": "",
+                  "Created time": {
+                    "id": "B~Qf",
+                    "type": "created_time",
+                    "created_time": "2025-11-10T09:54:00.000Z"
+                  },
+                  "All subscriptions for the current build are filled": false,
+                  "Missing info for Promo rebuild": {
+                    "id": "CkT%3A",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "⚠️ Promo Link\n⚠️ Full Game name"
+                    }
+                  },
+                  "CPI": {
+                    "id": "Cxr%40",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Teams use": {
+                    "id": "D%40CI",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Status": {
+                    "id": "DYYJ",
+                    "type": "status",
+                    "status": {
+                      "id": "gPu~",
+                      "name": "DEVELOPMENT",
+                      "color": "blue"
+                    }
+                  },
+                  "Date Development Status Set": {
+                    "id": "D%60fU",
+                    "type": "date",
+                    "date": {
+                      "start": "2025-11-10",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Last edited time": {
+                    "id": "Dj%3Fm",
+                    "type": "last_edited_time",
+                    "last_edited_time": "2026-05-13T10:25:00.000Z"
+                  },
+                  "Project Link": {
+                    "id": "DjJJ",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Date Art Finish": {
+                    "id": "Do%3DG",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Bundle ID": "com.vira.dust.atv.racing",
+                  "Price": {
+                    "id": "EUeu",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Project Score Analysys": "",
+                  "[Promo] Tasks ": [],
+                  "TECH": "",
+                  "CTR TEST": {
+                    "id": "Ejyo",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Subscription screen changes include links to actual references (expected UI)": false,
+                  "GD": {
+                    "id": "FHAP",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "00f65e4e-295d-4e11-93d4-ec18738bd3d9",
+                        "name": "Stanislav Kramarenko",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/d85b4bb7-2e8b-4bec-bdf0-f55fd71ce3ee/9f23c1cdc1a98b258e3e0029e1e48594.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "stanislav.kramarenko@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  "CONTENT": "",
+                  "Due": {
+                    "id": "FaCd",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Link to Old Promo": {
+                    "id": "FbpI",
+                    "type": "url",
+                    "url": null
+                  },
+                  "QA Task File": "",
+                  "Task from Growth": [],
+                  "ASO Name & Description": null,
+                  "External\\internal": "",
+                  "⏺️ ASO | Calendar": [],
+                  "Product Features": "",
+                  "Promo Task ": [],
+                  "Monetization DB": [],
+                  "Banner Key": "",
+                  "Date Info Updated": {
+                    "id": "HqDO",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Short Description": "",
+                  "Creo Status": "",
+                  "Amz Int & Port Tasks Template": null,
+                  "Tools": {
+                    "id": "IZP%3F",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "CreateTKSettings": null,
+                  "Subscription JSON": [],
+                  "Days Start-Release": {
+                    "id": "JXlK",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "AMZ releaseId": "",
+                  "[Logotype]": null,
+                  "CR Subs, %": {
+                    "id": "KKZH",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Date": {
+                    "id": "LkTZ",
+                    "type": "date",
+                    "date": null
+                  },
+                  "D3REW": {
+                    "id": "M%5E%40L",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Each config has its own separate description": false,
+                  "CR Total, %": {
+                    "id": "MguI",
+                    "type": "number",
+                    "number": null
+                  },
+                  "D7INT": {
+                    "id": "MqkG",
+                    "type": "number",
+                    "number": null
+                  },
+                  "PaidConfigGroup": [],
+                  "D1INT": {
+                    "id": "N%3AM%60",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Automation Info (AppStore)": "",
+                  "Previous Status": {
+                    "id": "NSz%7D",
+                    "type": "status",
+                    "status": {
+                      "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                      "name": "BACKLOG",
+                      "color": "gray"
+                    }
+                  },
+                  "Traffic Source": {
+                    "id": "N%5E%3Cm",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Game Type": {
+                    "id": "NcId",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Create Task (No Check)": null,
+                  "Developer AMZ AppStore Link": "",
+                  "pLTV 7": {
+                    "id": "OPM%5C",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Interstitial Key": "",
+                  "BB Game ID (iOS)": "",
+                  "Team ": "RnD Production Team",
+                  "Ref Link": "https://play.google.com/store/apps/details?id=com.redbull.offroad&hl=ru",
+                  "Build Paid Icon": null,
+                  "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+                  "Create Paid Icon": null,
+                  "ByteBrew Link": {
+                    "id": "QD%3Cd",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Outdated / unused elements are removed from GDD": false,
+                  "Applovin Key": "",
+                  "Full Pack  Fire TV ": null,
+                  "iPad Screens": {
+                    "id": "R%5EzP",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Version": "",
+                  "Show": {
+                    "id": "RfDI",
+                    "type": "number",
+                    "number": null
+                  },
+                  "QA | Tasks": [],
+                  "Fullsreen Banner Promo Request": false,
+                  "📽️ Creatives Team Tasks": [],
+                  "Bright SDK Review Status": {
+                    "id": "SXax",
+                    "type": "status",
+                    "status": {
+                      "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                      "name": "Implementation",
+                      "color": "default"
+                    }
+                  },
+                  "Days for Art Test": {
+                    "id": "SdR%3B",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "iPhone Screens": {
+                    "id": "SeX%7C",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Bundle Version": "",
+                  "Days for Art": {
+                    "id": "T%3Edc",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "BB SDK Key (iOS)": "",
+                  "Feature description matches the latest implementation": false,
+                  "Create New \"QA Task\"": null,
+                  "Status  Promo": {
+                    "id": "TWT%3A",
+                    "type": "status",
+                    "status": {
+                      "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                      "name": "Not started",
+                      "color": "default"
+                    }
+                  },
+                  "Click": {
+                    "id": "TkDm",
+                    "type": "number",
+                    "number": null
+                  },
+                  "GA Game Key": "",
+                  "CTR Video link": "",
+                  "Link to Automation": {
+                    "id": "VRV%3B",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Days in QA": {
+                    "id": "VgPc",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0
+                    }
+                  },
+                  "parent": "",
+                  "Genre": {
+                    "id": "V~Gf",
+                    "type": "multi_select",
+                    "multi_select": [
+                      {
+                        "id": "f09ad6e3-5863-48c6-9798-a91bb273927c",
+                        "name": "Racing",
+                        "color": "gray"
+                      }
+                    ]
+                  },
+                  "BB Game ID (Android)": "",
+                  "Date QA Finished": {
+                    "id": "X%5Cma",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Task Create Info": "",
+                  "GDD Doc": "https://www.notion.so/viragames/Racing-Game-Dust-2999748bc8c280a78b46c48cccbb1584?source=copy_link#2b69748bc8c280489400d195fc2816c8",
+                  "Full Pack Amz": null,
+                  "Missing Info for QA Task": {
+                    "id": "ZSo%3D",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "⚠️ Full game name\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ ViraToolKit version\n⚠️ GIT Link\n⚠️ AF Link\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Finish\n⚠️ Promo Link"
+                    }
+                  },
+                  "[Screenshots]": null,
+                  "Specialist": {
+                    "id": "Zy%3F%3A",
+                    "type": "people",
+                    "people": []
+                  },
+                  "A/B Group": "",
+                  "Full Pack TV Promo Request": false,
+                  "Date Team Finish": {
+                    "id": "%5B%5E%3AX",
+                    "type": "date",
+                    "date": null
+                  },
+                  "IPM STATIC": {
+                    "id": "%5Bagu",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Vaveda_key": "",
+                  "Groups": [],
+                  "D1RET": {
+                    "id": "%5D%3DAl",
+                    "type": "number",
+                    "number": null
+                  },
+                  "[Fullscreen Banner]": null,
+                  "CR_SUB_US": {
+                    "id": "%5Dz%7CJ",
+                    "type": "number",
+                    "number": null
+                  },
+                  "D7BAN": {
+                    "id": "%5E%3A%3F%3B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "MONETIZATION": "",
+                  "D3BAN": {
+                    "id": "%5EQH%40",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Full game name": "",
+                  "Firebase PLIST": [],
+                  "Are all prop filled": {
+                    "id": "_%5D%5E%3A",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "⚠️ Git Link\n⚠️ Date to QA"
+                    }
+                  },
+                  "D1REW": {
+                    "id": "_bnb",
+                    "type": "number",
+                    "number": null
+                  },
+                  "ASO Name & Descripton Request": false,
+                  "Build changes are marked in the task": false,
+                  "Promo status info": "",
+                  "Average FPS": {
+                    "id": "a%3Fdf",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Polishing": "",
+                  "ExtraComments": "",
+                  "Full Pack Promo Request": false,
+                  "Art Subs Links": "",
+                  "Sprint": {
+                    "id": "afeU",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Documentation link": "",
+                  "Clone From": "",
+                  "D7RET": {
+                    "id": "bE%7C%3A",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Test - Button No Validation": null,
+                  "Release Type": "",
+                  "GDD is updated for the current game version": false,
+                  "Link to ASO": {
+                    "id": "d%3BwX",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Create Paid Banner": null,
+                  "Prod Promo Approve": "",
+                  "RW Key": "",
+                  "What's new": "",
+                  "100% Release Date": {
+                    "id": "e%5Ec%7C",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Api key": "",
+                  "[Static Banner]": null,
+                  "Public key": [],
+                  "Quarter": "Q4_25",
+                  "Create AF & Vaveda Pages": null,
+                  "LTV_180_WW": {
+                    "id": "gCUp",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Crit Bugs": "",
+                  "IPM(CP)": {
+                    "id": "hQ%5C%5B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Refund Rate": {
+                    "id": "h%5Cxv",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Keywords": "",
+                  "IOS Distribution profile": [],
+                  "Status 1": {
+                    "id": "ihRL",
+                    "type": "status",
+                    "status": {
+                      "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                      "name": "Not started",
+                      "color": "default"
+                    }
+                  },
+                  "Logotype Banner Promo Request": false,
+                  "Slack Channel Link": "https://viragames.slack.com/archives/C09NL3NBQM7",
+                  "CTR": {
+                    "id": "jqbZ",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Full Pack GP": {
+                    "id": "k%60op",
+                    "type": "url",
+                    "url": null
+                  },
+                  "D3PTM": {
+                    "id": "kamA",
+                    "type": "number",
+                    "number": null
+                  },
+                  "D7REW": {
+                    "id": "kuEV",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Vaveda_secret": "",
+                  "ViraToolKit version": "",
+                  "Priority": "High",
+                  "App ID(iOS)": "",
+                  "Int&Port Epics": [],
+                  "ToolKitSettings": [],
+                  "Link to store": "",
+                  "QA checking": "",
+                  "Date Release": {
+                    "id": "nTQx",
+                    "type": "date",
+                    "date": null
+                  },
+                  "D3RET": {
+                    "id": "n%5CF~",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Cross-Promo AMZ": [],
+                  "Paid\\Free": "Free",
+                  "AMZ AppStore": null,
+                  "RESULTS": "",
+                  "AF Key": "",
+                  "Goals": "",
+                  "Firebase JSON": [],
+                  "QA": "",
+                  "Hypothesys": [],
+                  "AMZ appId": "",
+                  "Opt-In": {
+                    "id": "p_Ic",
+                    "type": "number",
+                    "number": null
+                  },
+                  "New Tasks & Requests": [],
+                  "Last edited by": {
+                    "id": "qUWF",
+                    "type": "last_edited_by",
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "233d872b-594c-8130-9d01-0002039920c3",
+                      "name": "Vladyslav Petrenko",
+                      "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/8f2ce141-f90f-456b-8cb8-8895b2d87c89/photo_5282768950872104018_y.jpg",
+                      "type": "person",
+                      "person": {
+                        "email": "vladyslav.petrenko@vira.games"
+                      }
+                    }
+                  },
+                  "Account": {
+                    "id": "qhXd",
+                    "type": "multi_select",
+                    "multi_select": [
+                      {
+                        "id": "cd4ae8a7-72b6-4051-8d1d-1a17973ae494",
+                        "name": "Vira Games Inc",
+                        "color": "blue"
+                      }
+                    ]
+                  },
+                  "Date to QA": {
+                    "id": "q%7D%3F%5C",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Sub-team": "Pluribus",
+                  "Date Team Start": {
+                    "id": "rKeG",
+                    "type": "date",
+                    "date": {
+                      "start": "2025-10-23",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Created by": {
+                    "id": "r%5BBI",
+                    "type": "created_by",
+                    "created_by": {
+                      "object": "user",
+                      "id": "00f65e4e-295d-4e11-93d4-ec18738bd3d9",
+                      "name": "Stanislav Kramarenko",
+                      "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/d85b4bb7-2e8b-4bec-bdf0-f55fd71ce3ee/9f23c1cdc1a98b258e3e0029e1e48594.jpg",
+                      "type": "person",
+                      "person": {
+                        "email": "stanislav.kramarenko@vira.games"
+                      }
+                    }
+                  },
+                  "Tech Project Doc": "",
+                  "Sub-subscription 1": {
+                    "id": "sCtp",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Automated Team": {
+                    "id": "sDNL",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "If release is not required:  Need Release checkbox is unchecked": false,
+                  "UI": "",
+                  "Test - Button Validation": null,
+                  "Admob Key": "",
+                  "Firebase Link": {
+                    "id": "upQD",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Monetization": [],
+                  "Cross Promo Video status": "",
+                  "CPI (Mint) Test Dates": {
+                    "id": "v%5Bi%60",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Date Art Start": {
+                    "id": "v%5D~D",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Last Status Change": {
+                    "id": "wQFr",
+                    "type": "date",
+                    "date": {
+                      "start": "2025-11-10",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "D1PTM": {
+                    "id": "wgp%7B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Link to Promo": "",
+                  "[Creatives] Tasks": [],
+                  "ipm TEST": {
+                    "id": "xWSH",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Art Assets Link": {
+                    "id": "x%5C%3DY",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Total installs": {
+                    "id": "x%5DWz",
+                    "type": "number",
+                    "number": null
+                  },
+                  "LTV_180_US ": {
+                    "id": "xfen",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Sub-s Database": [],
+                  "Amz Console: On Auto support": false,
+                  "Create QA Task": false,
+                  "3D Artist": {
+                    "id": "zHXV",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "23bd872b-594c-81bf-9a59-000228214484",
+                        "name": "Yehor Tymchenko",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/3fe52adc-c001-4144-803a-d59b9d34de70/51LBViajQL.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "yehor.tymchenko@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  " GA Secret Key": "",
+                  "Task Tracker Link": {
+                    "id": "%7BIp%3F",
+                    "type": "url",
+                    "url": null
+                  },
+                  "D3INT": {
+                    "id": "%7BL%5C%3B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Percent of Release": {
+                    "id": "%7BRbl",
+                    "type": "number",
+                    "number": null
+                  },
+                  "AppMagic Info": [],
+                  "StartUp Time": {
+                    "id": "%7BZ_P",
+                    "type": "number",
+                    "number": null
+                  },
+                  "D1BAN": {
+                    "id": "%7BeFD",
+                    "type": "number",
+                    "number": null
+                  },
+                  "IPM (CP) Test Dates": {
+                    "id": "%7Be%5E%3E",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Platform": "GP",
+                  "temp_tk_version_link": {
+                    "id": "%7CeXN",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "Open ImportPackageWindow.cs"
+                    }
+                  },
+                  "Screenshot Promo Request": false,
+                  "Sub-item": [
+                    "2cb9748b-c8c2-80ea-96e3-f68f4eec5f2b",
+                    "34f9748b-c8c2-80be-a5e3-e8b22d77035a"
+                  ],
+                  "Date Art Finish Test": {
+                    "id": "%7Dwfx",
+                    "type": "date",
+                    "date": null
+                  },
+                  "GIT LINK": "",
+                  "D7PTM": {
+                    "id": "~%3F%3B%40",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Parent Project": [],
+                  "Days in Dev -> QA": {
+                    "id": "~FLK",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 137
+                    }
+                  },
+                  "BALANCE": "",
+                  "Description for QA": "",
+                  "Prod Approved": false,
+                  "Static Banner Promo Request": false,
+                  "IPM": {
+                    "id": "~oXr",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Sent To QA": {
+                    "id": "~sjG",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Promo info checking": {
+                    "id": "~wLr",
+                    "type": "formula",
+                    "formula": {
+                      "type": "boolean",
+                      "boolean": false
+                    }
+                  },
+                  "Project": "🚙DUST: Dirt ATV Offroad Racing",
+                  "Description": "",
+                  "SubscriptionRevenueEvent": false,
+                  "AMZ Metrics Date & Comment": "",
+                  "GD 2": {
+                    "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Amz StartUp Time": {
+                    "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Status 2": "",
+                  "Days": {
+                    "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Asana Link": {
+                    "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Need a new Video?": false
+                },
+                "created_time": "2025-11-10T09:54:00.000Z",
+                "last_edited_time": "2026-05-13T10:25:00.000Z",
+                "url": "https://www.notion.so/DUST-Dirt-ATV-Offroad-Racing-2a79748bc8c280aab365f9c2721b87ff"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
