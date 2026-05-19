@@ -69,7 +69,7 @@
           "Name": "Merge Army: Millitary Defence"
         },
         "created_time": "2026-05-19T14:16:00.000Z",
-        "last_edited_time": "2026-05-19T14:17:00.000Z",
+        "last_edited_time": "2026-05-19T14:19:00.000Z",
         "url": "https://www.notion.so/Merge-Army-Millitary-Defence-3659748bc8c2810a9727c1bd5f70ddbd",
         "children": {
           "Merge_Army__Millitary_Defence_ProductCatalog": {
@@ -130,23 +130,35 @@
               "Platform": {
                 "id": "%3AyyE",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "139dd12c-6430-4f6c-9f32-0ec4ef9119d4",
+                    "name": "Fire TV",
+                    "color": "purple"
+                  }
+                ]
               },
               "Paid/Free": {
                 "id": "Bnjr",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
               },
-              "App Name": "",
+              "App Name": "Merge Army: Millitary Defence",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.4"
+                  "string": "1.0.6"
                 }
               },
-              "Vaveda_key": "",
+              "Vaveda_key": "mlltdfz",
               "Link to Promo": {
                 "id": "%5CVgk",
                 "type": "formula",
@@ -170,7 +182,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "5"
+                  "string": "8"
                 }
               },
               "Bundle Id": {
@@ -178,35 +190,54 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.CalibroGames.StackSlider"
+                  "string": "com.merge.army"
                 }
               },
               "Account": {
                 "id": "e%7C~F",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "95cb02b5-f4c0-4806-b39e-ba6ef9511467",
+                    "name": "Capricorn Team",
+                    "color": "green"
+                  }
+                ]
               },
-              "AF Key": "",
+              "AF Key": "3WD2WnWbqjNMGdZF5fsd2Q",
               "Bundle Id Rollup": "Merge Army: Millitary Defence",
-              "Vaveda_secret": "",
+              "Vaveda_secret": "jFVPqieNEiOtgkJnTQLTq6fIvMxPfr0c",
               "Name": "Merge Army: Millitary Defence MainData"
             },
             "created_time": "2026-05-19T14:16:00.000Z",
-            "last_edited_time": "2026-05-19T14:16:00.000Z",
+            "last_edited_time": "2026-05-19T14:52:00.000Z",
             "url": "https://www.notion.so/Merge-Army-Millitary-Defence-MainData-3659748bc8c2810e859de5b5eb6bf3a4",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/folders/13-oCxyMj3dlnTWXcHrgExRSoGspnCTIn",
-                  "ProductName": "",
-                  "BundleIdentifier": "com.CalibroGames.StackSlider",
-                  "Version": "1.0.4",
-                  "BundleVersionCode": 5,
-                  "CompanyName": ""
+                  "ProductName": "Merge Army: Millitary Defence",
+                  "BundleIdentifier": "com.merge.army",
+                  "Version": "1.0.6",
+                  "BundleVersionCode": 8,
+                  "CompanyName": "Capricorn Team"
                 },
                 "SDKSettings": {
-                  "Keys": [],
-                  "IsAmazon": false
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "3WD2WnWbqjNMGdZF5fsd2Q"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "mlltdfz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "jFVPqieNEiOtgkJnTQLTq6fIvMxPfr0c"
+                    }
+                  ],
+                  "IsAmazon": true
                 }
               }
             }
@@ -361,7 +392,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-05-19T14:16:00.000Z"
+                "last_edited_time": "2026-05-19T14:41:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -822,11 +853,13 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
-                  "avatar_url": null,
-                  "type": "bot",
-                  "bot": {}
+                  "id": "0731b4d9-9ba8-4dad-81c5-01ec2c730937",
+                  "name": "Maksym Kuzmych",
+                  "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocI4_NGdfXmjdTaplNGoO4nrlzK9E4B5v5XEvrf4hfeh=s100",
+                  "type": "person",
+                  "person": {
+                    "email": "maksym.kuzmych@vira.games"
+                  }
                 }
               },
               "Account": {
@@ -1071,7 +1104,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-03-24T09:33:00.000Z",
-            "last_edited_time": "2026-05-19T14:16:00.000Z",
+            "last_edited_time": "2026-05-19T14:41:00.000Z",
             "url": "https://www.notion.so/mlltdfz-Merge-Army-Millitary-Defence-32d9748bc8c2805981f6f28c61ec0020",
             "children": {
               "Page_14d9748b-c8c2-8042-a111-e08c29841a7f": {
