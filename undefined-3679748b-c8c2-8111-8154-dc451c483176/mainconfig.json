@@ -190,7 +190,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.merge.army"
+                  "string": "com.vira.heli.girl"
                 }
               },
               "Account": {
@@ -217,7 +217,7 @@
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/u/4/folders/1DiHrX6qR_TDNAgmO_1jghiYgsxmpv6f6",
                   "ProductName": "Air Shooter: Girl Got Gun",
-                  "BundleIdentifier": "com.merge.army",
+                  "BundleIdentifier": "com.vira.heli.girl",
                   "Version": "1.0.3",
                   "BundleVersionCode": 9,
                   "CompanyName": "Vira Games Inc"
@@ -775,7 +775,7 @@
               "Public key": [
                 {
                   "name": "AppstoreAuthenticationKey.pem",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/c63b5180-af05-4934-8401-fb435a52e8d4/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662B6LEM3S%2F20260521%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260521T103734Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDoaCXVzLXdlc3QtMiJHMEUCIQDjRTYeWvCV%2F55oDrfMHrJIMYvsoq1or8tdBHO5O%2BhoQwIgFNvypdYjUctl2LNbvMjH%2Fh1%2BENCwi5HwvZYxgQ2slX8q%2FwMIAxAAGgw2Mzc0MjMxODM4MDUiDBKJ7%2FJrvDXIvD9nLCrcA8bwfzt%2FiDsyUu%2FdIurNtC7k3DXZJ1SS99qLavAvFqsBYxwSnM0LRnhvId1NPYAUqI3ir6%2FRhWx6DQlj8Xa9992sl7zitz2aZSpcUQpwaTLZm9SeX5WyrsNzJpXU1JaNx5g%2FR73LVXYhhI69v%2FUN4v2%2BdAqI1tOIag%2Bkr1Eq0DnTjjXqGbuZ1aKzZXrdbhkTbH1I5OS3Bxcco0fpxdbJwHH64ftUq1X1%2Baw6NSWYiM4HuPnGy0K4f7erwMdME%2FKdmNRsgGHvq1Z2FOEbi3%2BNksD9hBsUXL1vl6Y5BiPc%2Ftnen366D%2FZnBGDoXX9bQ0bgtsFksbFGSREwupqk6Rfaw1YvNNUhUan41Wzm97xpUDeYUQmWKyhs7rIwb6RII3GhA1sr8P9w7WYy3FK8KBqWtQiEDaVBQakLSKLEKmQJCVyD7B2Y4p1z30c5ikfNkiOPiS63Du0Qe2YWPkeagmvUMlUSFIEMxqTCydu7za8NvolulFm8pJdTxIxlxzRzuDd2jD8teHnUS%2FkY8bO9QqIuzb2nSwBeUNzKg5B%2F2vo28iKyuk%2BA5GUWgsef%2FTPMcaDe%2FlzLRUJxJXFCpKwrT1Sb3Cix%2FGwnBuJOoEx9Rk8eA306OX8BI8AsQ6FWioEgMMGuu9AGOqUB1TSQ8Tq06aABMvHkjaNaxGqLqoHzlmqAwM1bMmD7eZzyBF0%2BHF8H3fEXOovrJLoizCvHqQ34sWluj05zc4koDrwIhPpzwOGuNjBwCv5JbXTKzWlHZCtxaArKRz93niUTsnsbguwV1HB2cO1Lzf6HNUZuvfWV%2BNyE68YnHMncDx60MilRq%2BpiUkcaDubHy5oY4EDAPAOSWvgxlZFx9iJoh9zhy93J&X-Amz-Signature=963afbc2bf78f5770423dea5eab29fe036bbfcb005a9a5f2c49a51cf4cbf7b20&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/c63b5180-af05-4934-8401-fb435a52e8d4/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664FYGGTUE%2F20260521%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260521T111031Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDoaCXVzLXdlc3QtMiJIMEYCIQCZ4SoIDHb9cUmaydPIBuwq9fgdSoDb7t%2BoQyyAwFT1JgIhAOAnb8Fqu%2FxV4CKLDRdU4Ime5s%2Bpe7gbRMQmBzkRPo4lKv8DCAMQABoMNjM3NDIzMTgzODA1IgwQZTMKFtIjHh%2Betskq3AMWqjX6jZy%2Bdv78Xh51vYvf1vXwAGjDrXpYJpZY%2FwEcbkJqpHRbztnVmQeYCi585EWdkcWITPrM4LaJ95wAwwbgd3ZbL5ua%2FCJ4fmzOOL%2B0LP88IAXfrbSYbKI5n5j97jLouAuxBdSuhDK%2BXGFeNJJ3An1aQf7QS2PUGFgtWBaZ5J65tXKl3s9YRBG0%2BZskjf0clQOE38Q81tmbQbwVpFuhmicyQK9dfwfZnLE%2BwFRcUBblNGQ0GJvWbBEvZhwCy20BIMy%2FVJ8F8SdFeTEpm%2FvO2%2FrfV%2Flvx7mHGLyq6W3Nzs9cytZJ%2BgHs25z9TayDuw2QfPUoWEDJkmDvxS1nl8PlIOgvhix2fMvauroUP4puo8SHWJR64AV8Ut0MuHkjCJMKpIsySm5QoLype0sFip0er9tb%2Fdnsqz4wp7cFhlBLkzILWVkC8ggbhCZV98%2FhD0KwuA6Vhz9Dg5MBHTbtUYQ277CsVH7di0Iep9mXcri7lnTQQqxmOHtqETh%2FJKbD5AW3C3VYY9ym%2BHIkQjVg0CQUtLDVnempbel0yFESbM%2FxDGmlGJzZp7KDk1e4%2FVZVXxsqpm4m%2BSJBYqkQnlaE2U%2F3VEBuDIK%2Ft0L%2BJet8ahn0xDM%2B1dzbWJmiROMoGzDcrrvQBjqkAVf5ZpcxadmZle7J7gMxCj2h6J1B1P3s2u%2F5GgQb4bKuth6ETLmBVddUQ2iaGR%2B9pvX%2Biwxro%2BNkhMonHoq6KwWOCLnu1%2BfXMY5%2BLzazuJQAiSufdCeKYYc3OqZFc6lJ%2Fgl0oDJ9wcRYhYDLlra9RSPn%2FVxbZLdHPVv0qivJ0SxzK%2BpeZc1PEsA5ulrmN%2BmbrintXeuFKFDkrYA7Hxh4yyWMPkGs&X-Amz-Signature=8558e82f8c7b772eead371843bc17756589d2f120cbae5e51d326646b3c1164a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "",
