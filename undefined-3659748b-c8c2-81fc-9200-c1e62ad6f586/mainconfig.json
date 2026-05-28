@@ -69,7 +69,7 @@
           "Name": "Stack Slider: Stack and Slide"
         },
         "created_time": "2026-05-19T10:43:00.000Z",
-        "last_edited_time": "2026-05-19T11:25:00.000Z",
+        "last_edited_time": "2026-05-28T09:19:00.000Z",
         "url": "https://www.notion.so/Stack-Slider-Stack-and-Slide-3659748bc8c281fc9200c1e62ad6f586",
         "children": {
           "Stack_Slider__Stack_and_Slide_ProductCatalog": {
@@ -155,7 +155,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.5"
+                  "string": "1.0.4"
                 }
               },
               "Vaveda_key": "stslssz",
@@ -182,7 +182,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "11"
+                  "string": "5"
                 }
               },
               "Bundle Id": {
@@ -190,7 +190,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.game.fist.boxing"
+                  "string": "com.CalibroGames.StackSlider"
                 }
               },
               "Account": {
@@ -217,9 +217,9 @@
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/folders/1-9c0hSdrkgwz9qxxgC9-guDfrC_tsFpQ",
                   "ProductName": "Stack Slider: Stack and Slide",
-                  "BundleIdentifier": "com.game.fist.boxing",
-                  "Version": "1.0.5",
-                  "BundleVersionCode": 11,
+                  "BundleIdentifier": "com.CalibroGames.StackSlider",
+                  "Version": "1.0.4",
+                  "BundleVersionCode": 5,
                   "CompanyName": "Calibro Games"
                 },
                 "SDKSettings": {
