@@ -69,7 +69,7 @@
           "Name": "Stack Slider: Stack and Slide"
         },
         "created_time": "2026-05-19T10:43:00.000Z",
-        "last_edited_time": "2026-05-28T09:19:00.000Z",
+        "last_edited_time": "2026-05-28T09:33:00.000Z",
         "url": "https://www.notion.so/Stack-Slider-Stack-and-Slide-3659748bc8c281fc9200c1e62ad6f586",
         "children": {
           "Stack_Slider__Stack_and_Slide_ProductCatalog": {
@@ -205,7 +205,13 @@
                 ]
               },
               "AF Key": "mvAoCbgSSZSRtEes6DPrMd",
-              "Bundle Id Rollup": "Stack Slider: Stack and Slide",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.CalibroGames.StackSlider"
+                }
+              },
               "Vaveda_secret": "h52zwlDZgNCE5N1c67lOswvHcfkC0Qcw",
               "Name": "Stack Slider: Stack and Slide MainData"
             },
