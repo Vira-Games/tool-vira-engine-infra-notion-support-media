@@ -69,7 +69,7 @@
           "Name": "Stack Slider: Stack and Slide"
         },
         "created_time": "2026-05-19T10:43:00.000Z",
-        "last_edited_time": "2026-05-19T10:48:00.000Z",
+        "last_edited_time": "2026-05-19T11:25:00.000Z",
         "url": "https://www.notion.so/Stack-Slider-Stack-and-Slide-3659748bc8c281fc9200c1e62ad6f586",
         "children": {
           "Stack_Slider__Stack_and_Slide_ProductCatalog": {
@@ -155,7 +155,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.4"
+                  "string": "1.0.5"
                 }
               },
               "Vaveda_key": "stslssz",
@@ -182,7 +182,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "5"
+                  "string": "11"
                 }
               },
               "Bundle Id": {
@@ -190,7 +190,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.CalibroGames.StackSlider"
+                  "string": "com.game.fist.boxing"
                 }
               },
               "Account": {
@@ -217,9 +217,9 @@
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/folders/1-9c0hSdrkgwz9qxxgC9-guDfrC_tsFpQ",
                   "ProductName": "Stack Slider: Stack and Slide",
-                  "BundleIdentifier": "com.CalibroGames.StackSlider",
-                  "Version": "1.0.4",
-                  "BundleVersionCode": 5,
+                  "BundleIdentifier": "com.game.fist.boxing",
+                  "Version": "1.0.5",
+                  "BundleVersionCode": 11,
                   "CompanyName": "Calibro Games"
                 },
                 "SDKSettings": {
@@ -298,7 +298,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 10
+                  "number": 17
                 }
               },
               "Are all prop. filled? ": {
@@ -407,7 +407,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-05-19T10:43:00.000Z"
+                "last_edited_time": "2026-05-27T14:01:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -862,9 +862,9 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
-                  "avatar_url": null,
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
                   "type": "bot",
                   "bot": {}
                 }
@@ -1058,7 +1058,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 10
+                  "number": 17
                 }
               },
               "BALANCE": "",
@@ -1111,7 +1111,7 @@
               "Need a new Video?": false
             },
             "created_time": "2024-11-28T20:13:00.000Z",
-            "last_edited_time": "2026-05-19T10:43:00.000Z",
+            "last_edited_time": "2026-05-27T14:01:00.000Z",
             "url": "https://www.notion.so/stslssz-Stack-Slider-Stack-and-Slide-14c9748bc8c281848342e4e7326a194a",
             "children": {
               "Page_13c9748b-c8c2-8182-a661-fcfe2218fe5d": {
