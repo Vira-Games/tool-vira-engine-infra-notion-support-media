@@ -50,7 +50,7 @@
             "36f9748b-c8c2-81aa-abe0-e38c6574e124"
           ],
           "(List)Bundle Version": "14",
-          "Platform": "",
+          "Platform": "Fire TV",
           "💼 All Projects": [
             "36b9748b-c8c2-81d5-ab13-d0bb945b4c4a"
           ],
@@ -69,7 +69,7 @@
           "Name": "Hole Black: Super Fruit Swallow Game"
         },
         "created_time": "2026-05-29T13:06:00.000Z",
-        "last_edited_time": "2026-05-29T13:06:00.000Z",
+        "last_edited_time": "2026-05-29T13:19:00.000Z",
         "url": "https://www.notion.so/Hole-Black-Super-Fruit-Swallow-Game-36f9748bc8c281c091eec78cb0e48da0",
         "children": {
           "Hole_Black__Super_Fruit_Swallow_Game_ProductCatalog": {
@@ -93,7 +93,7 @@
               "Parent": [
                 "36f9748b-c8c2-81c0-91ee-c78cb0e48da0"
               ],
-              "Platform": "",
+              "Platform": "Fire TV",
               "Subscriptions": [],
               "Apply": null,
               "bundleID": {
@@ -807,7 +807,7 @@
               "Public key": [
                 {
                   "name": "AppstoreAuthenticationKey.pem",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/df51cbd5-457a-40ec-b761-6a396c828f5f/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46646NTWBQZ%2F20260529%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260529T131931Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDDw%2F4LXLHoeo80W%2BMZnj4pjp9HhRkl55efDPaqGgUXHwIhAKQ6TVdlMK4D2fqM%2FjVii6UZh%2BwQRChQgnAkAbgpQHmyKogECMX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwzBPaINtdysMe6VyAq3APhJO3Lo73YKKhO3PHHC0F5gnKlgbLpzmRg7XlZyihzySGFMHevxDKpS80UGMOLzgGmE8L%2BVF3g1XUcwPsJATqoX%2FR%2Fntg9HsY6boDfSjwtyYBwUgIK0LPqk5dbduW9t6hkg1dpctX4LSq51Z8573bNJfrc6SRl0FOA6s0nIgxpyZbdxNc%2BoO%2FVWsH3ohYmt%2F1mL%2FfomqafDqS5NoaW%2FWwoSESzz7r7t84CeHKduSHHk%2FpH6cU16p9yTEtWGAcdT2%2BOWSzrwtPBL%2By59IRryYxvLauXmaEguWWpZluayydBaB7MeVDZo8u%2Fmjx4yfNYNNaJsZKkB7PifYRMse0M4FVtv%2B6SwK85mf17f8zesS1LNyUjWXqhJTNJE4dtIVbz9x1PeNE%2Bm5NOmI%2FVnJX6e9TJXN3FN%2B6BZpgOpHXBXyWxcUhgr%2Bmrf3JtRxxeSvw4XwuOIfq3g8bDtbHFmsb7k2fNeOO0Zr6Hy%2F4WxkRv1hRKZ%2B8hegAhW8xtA0wT1%2BUoFLPTx%2BW0gTgj7%2F00ZwfDMBmjxKnYGMJ%2FBFu6S%2BsmofWQ881Gfh0D68fgHxFEYh7SU6v9OM6wBZx2PR%2BBwjqQfI0dDW6O6KqSuRdjorFYdi7TFlaI5ymUX7wxbv6zazCchubQBjqkAfhkrhlq4luITsUv5M6dt74YX09oiwWiGocg0IgyXE6444nqdmoxPxcoxN4AkPYLJ%2Fp5M4y18IPZpjEeyMVORagzR2zJSZ9kqT60xJCIXZSKijQEwJjr1RiaOnEBD4Q41mD8QI2YwFuI0rSuAVJfFmlkszsCmNd9b%2BHpsf9e3%2BxZbo6WlArlfpjF7Of%2BYkl6rCMUO04TLDI7Gi47JjrPHNsmG2zD&X-Amz-Signature=b18582a0b18bb0e785ab0c97acc2f144a4d2002c59cd7772753f440d6ed6f213&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/df51cbd5-457a-40ec-b761-6a396c828f5f/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666CZNZPLE%2F20260529%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260529T131943Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDpIvFfoYD9aXtbYwXCbVt2D62sH6CCDW1v4uw5u86ISQIhAJvuUOEMPBh%2FWKSTuWk33P3DCl8kF2rwIfICA42Gl88NKogECMX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgzjY06sRv4fbsDzlJcq3AMiHFHhGHwFn0BGiiK6D%2FrQkeRFAtC1Q8t9zdWPUqc4kpC6eK1MscsS5TjYoNNAYncRhdN14IihSX6nI8ZWcjIIdv%2BlLH2fbnTd7hZxaFCgo%2B%2BC3gh4YeK6vnPXiPMiQ4xtxR0JquM49azM1X2nBVwGyzOzgwan%2BcSVcLRN83ocT6AnLoBZORuati%2BKd4qiaG8kHT2CP298RlQGrIZ%2Bg5Vp4xKzX9okcIQCZ%2FcMIzwqdq%2BvPHD3BJufKelI%2Byxvs7qZemRvw0cGt%2FXiba1ihkkxs7RAraBsaNCce5sHSFGjCivKgeZ9wsZZwm2FZznitTm0THSd0eQwUJ2uW1WGHzJ3zYRUJCcVctgDFiFSgOOlJjHC2Aspdo%2FJZVxHWJsIlICy5b8xTU8FufPIcems0DRamCVUDjPtpBwf1J%2FBxJyXJPr%2FXnAwnaJo7LwKFh1BLqNv07HbeNszsYi6wEcaHZsjdLooJdetVJj9lqRjCsM%2FuZxWatoYeY6vida4oiyI3wTrM8haQvlGGHq%2B4seglN3MhWQ0TxavSFh79%2FHM%2F4NWjr2xWa9rwA%2FUahnaB6Lg6mB%2BfHAPCnWsqhUxn3DBpC51MroDJuQQLLbnI2Kl7WP5ppqhqBnhzI9XqFE1mjDHhObQBjqkAe%2BjgZea8rVBHMP7Iy74LpcupoB4K0ftdTzwFE2JMEbjqrSkmnoV4FymVo3iWHMHnO7NBE%2FNopD5c%2Bg3B%2BnKPiEfYE4LDPXt%2F2esvlep%2Fxqzajc%2BkAbstZbjpdBIxemfq5y76s0oHvxc8gSZHXvgZ5elR407MN9e06yIKDebKRRJFCOOcsltWjiUMeF4i67Ed7QUhv%2FWIZA%2FG6aPtyTWz1EzndTt&X-Amz-Signature=91f584481697b55071cf89b5d9efc7b77d460a38c8b1ba2e88d5e05d97bb896c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "Q3_26",
