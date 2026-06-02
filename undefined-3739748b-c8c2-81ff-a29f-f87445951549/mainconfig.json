@@ -69,7 +69,7 @@
           "Name": "Levitating Sword"
         },
         "created_time": "2026-06-02T13:01:00.000Z",
-        "last_edited_time": "2026-06-02T13:03:00.000Z",
+        "last_edited_time": "2026-06-02T13:05:00.000Z",
         "url": "https://www.notion.so/Levitating-Sword-3739748bc8c281ffa29ff87445951549",
         "children": {
           "Levitating_Sword_ProductCatalog": {
@@ -130,14 +130,26 @@
               "Platform": {
                 "id": "%3AyyE",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "139dd12c-6430-4f6c-9f32-0ec4ef9119d4",
+                    "name": "Fire TV",
+                    "color": "purple"
+                  }
+                ]
               },
               "Paid/Free": {
                 "id": "Bnjr",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
               },
-              "App Name": "",
+              "App Name": "Levitating Sword",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
@@ -146,7 +158,7 @@
                   "string": "1.2.3"
                 }
               },
-              "Vaveda_key": "",
+              "Vaveda_key": "lvttngz",
               "Link to Promo": {
                 "id": "%5CVgk",
                 "type": "formula",
@@ -184,9 +196,15 @@
               "Account": {
                 "id": "e%7C~F",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "408006c9-5cbb-4ec1-a15d-4b7f3cbc703e",
+                    "name": "Medoc Games",
+                    "color": "red"
+                  }
+                ]
               },
-              "AF Key": "",
+              "AF Key": "2yJ9gwFNpPnc5BLTucysVL",
               "Bundle Id Rollup": {
                 "type": "formula",
                 "formula": {
@@ -194,25 +212,38 @@
                   "string": "com.medocgames.levitatingsword"
                 }
               },
-              "Vaveda_secret": "",
+              "Vaveda_secret": "TzioWwozHTsv14zXFrsnaPE0qbsf5gpu",
               "Name": "Levitating Sword MainData"
             },
             "created_time": "2026-06-02T13:01:00.000Z",
-            "last_edited_time": "2026-06-02T13:01:00.000Z",
+            "last_edited_time": "2026-06-02T13:38:00.000Z",
             "url": "https://www.notion.so/Levitating-Sword-MainData-3739748bc8c28148918df764e14b80c7",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/folders/118hoB0Zwlx8heNQzn2YsJfw3QkVPBFqc",
-                  "ProductName": "",
+                  "ProductName": "Levitating Sword",
                   "BundleIdentifier": "com.medocgames.levitatingsword",
                   "Version": "1.2.3",
                   "BundleVersionCode": 11,
-                  "CompanyName": ""
+                  "CompanyName": "Medoc Games"
                 },
                 "SDKSettings": {
-                  "Keys": [],
-                  "IsAmazon": false
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "2yJ9gwFNpPnc5BLTucysVL"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "lvttngz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "TzioWwozHTsv14zXFrsnaPE0qbsf5gpu"
+                    }
+                  ],
+                  "IsAmazon": true
                 }
               }
             }
@@ -786,7 +817,7 @@
               "Public key": [
                 {
                   "name": "PublicKey_LevitationSword.txt",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/2b1bfb7a-aed6-405e-8ac1-b49e3a64c1a1/PublicKey_LevitationSword.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663LMOSQDJ%2F20260602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260602T130505Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFsaCXVzLXdlc3QtMiJHMEUCIFeX6WRsgAhP9bYVop0P38%2B64baRIZh9HrSy4MJIKgBoAiEAo2llO5%2Fm%2FvEwG3OvkqDPjxchVVisElNvQQsyP59CeFUq%2FwMIIxAAGgw2Mzc0MjMxODM4MDUiDFW3S0zMOVzUh6hoUSrcA9iRjpCadv6FbGTF50A8MSyIxavcptd0%2Fr8Qx7xbntittLj%2BGMpkalKEx1OmQylxAZXoxTU9TbSwkHsfe1XR6xSz7dzFEyYSJXIhj1rvv0ONukEnin2AE8%2FCtjQ%2FxaMHH%2By2TNEAPTUdpU58TKj1BSLe75LzTMmGqukzKehTcMlsMOorNH%2BJ22UGyyaXCoTZmPgUR125gb1bM8Aut%2B4ftOOBTEkZPbnMi4Kwsn2bHDBrvHv5DUig3Xc8SdARnTdYE5OcJEeGUyu11XB4vB2dWVPOdDtzIBdHcS6BR48b%2FKwsperkDXtLYBrckZa4sZedpzFeoBhkbkgvuGST4dXUgHcciqsvjgszgK7bGsLtTtdGq0TO0sZPkH7xtkHCehnwAnBjtoG5deVeISG3juZXMIEEGJ8lc73hbvbOEgSWcaCRJeeKap3x0rdFGTULK8iVWVH814nHB4bKBYPNiuBeYgMhCakIJqD1gKfZCf1xfIalI5VsQpHelPDq%2B301fI8i5PO5NYVL3Lj5TCZ%2F4L4ORIC80ALRoGIEKYKJYHUeUngo15NSW30%2BpsE5UjPdqNUzw0N3K%2B1XgV3yrr8gekkdqUKF6W3aGyWOX%2F8tXHQVATS2rM2z8IUkhSGir0zjMIHd%2BtAGOqUBEAFtNh7RkjARdkOkbOmWeN5ttrBuHSwkO%2Bpfimf7MaJZ72iq6sVuZLF1uHSI1zpom0VF3Fjz15hX0Bhy3d2UPJHkdATSpSinu0sMapWjitCfDgNBQUlbt2RqiFWkfgndFcGT5zjy%2Bw7e%2Ber5Mf9a%2B3hvO6d%2FcpePVgC%2B8uKTWEJLhLSUFp9S5rrD4OJUMtSCiV%2BG%2BMhaFw1AKrN7xFGw9peJNTyY&X-Amz-Signature=9a438845d481a786fb4041a5918b12bf87f3da3a586dae37f387e26b4520bfa7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/2b1bfb7a-aed6-405e-8ac1-b49e3a64c1a1/PublicKey_LevitationSword.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RGRDZXW2%2F20260602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260602T133902Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEF0aCXVzLXdlc3QtMiJIMEYCIQDzMD%2FYsQo%2BARxyxmCo%2FQcgRtWD9TTZuJ066YEHtyPaMwIhAPOIyuNGzDgjRIVuVbpIypkJriz%2BjUNAfQrUs2wTu2ZDKv8DCCYQABoMNjM3NDIzMTgzODA1IgylX1LBPcIy9FK68ZQq3ANbb3JYdTP2DZE7JLSVggsso%2FynIQdYdfqCzylPf3CCALb0WhfDhNe%2FeJczPx%2FHzmgCMooVIyhbzOwqr8EYrnF1sMrYMoyINzDqoQ150VC%2BCiJPm6dyl557oVisXyd4r7Wi%2BhNccnX5OyBAACiVVZnBxkxWuzCY2MGpoUEdaw6Ju2mlzrC9zu3KVny7Fk6nCXXyAU2v%2BU9aB%2B582xX9wnlwROIL%2BcXnuWPKbBdWlBwDV%2Bj1xYppUF5F4Bi7wb6mT%2Fi%2FInXbvZlmqyf3Zm1qMKpY39sMTwYt%2B2uexfOmzPWSEWPykvlAj4XCWMvmxWvQvXgAgy3CTfZIyAGUUvaobQS%2BV8X%2F%2Frkeqg0K1qGP6vsFH5QGrpfFtKmjF0ZBZg4Y6X5uPxnk5FZ4Q3QVY7Z6Mxzb2cfi2Wt%2B%2BbY6mbjkm37Wci7BJ71FfKOf2i0Khr%2FpuI04bbQXJ%2FE2mvl45X0rszFjqCqKI%2BHj8qSuQOyq%2B6LZS2Mc0%2F7tmok79NXOhbRBfuNCQ4kImuY%2FT5S7w1%2FfTs7vGtiOrM4qDEIC2m8oioltAZhA9vCYf7eQCju4ID%2B3tLor0HDGE15TJhDYK2tfJ%2FbPyPDL7Zq2ow7IXtnBQdSkYy4RfsNJx3dpLNamuDDjqfvQBjqkAYkBZ9vBAYwP7CcredVzeMm%2FR%2FwN61or2cvVR6ODOl8pgdzGf1quloP%2BsYyT42SsIy57F%2BhyBPN4rq4zaCYZ24%2Bdv7xejeS6ygbAUdCG%2BgNyKXaMObltzfYY1xwx6pyXhfts4eZp6qRhVuP9Tqthux%2FTaEozmQpMY3JCejrTNqYgeG9QXECmVyUrs%2FRd9zQRSZGIvlffZz56BnNygWDfhHFcqxEE&X-Amz-Signature=3e4eca1c54df76f7906649bffd89e54a91a1e870ef9565edbf895a576bbd82f0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "",
