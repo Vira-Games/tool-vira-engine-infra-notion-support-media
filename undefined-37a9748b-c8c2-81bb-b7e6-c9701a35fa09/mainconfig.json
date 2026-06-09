@@ -69,7 +69,7 @@
           "Name": "Ride Master: Zombie Attack"
         },
         "created_time": "2026-06-09T10:42:00.000Z",
-        "last_edited_time": "2026-06-09T10:43:00.000Z",
+        "last_edited_time": "2026-06-09T10:56:00.000Z",
         "url": "https://app.notion.com/p/Ride-Master-Zombie-Attack-37a9748bc8c281bbb7e6c9701a35fa09",
         "children": {
           "Ride_Master__Zombie_Attack_ProductCatalog": {
@@ -158,7 +158,7 @@
                   "string": "1.2.8"
                 }
               },
-              "Vaveda_key": "",
+              "Vaveda_key": "mszmttz",
               "Link to Promo": {
                 "id": "%5CVgk",
                 "type": "formula",
@@ -198,7 +198,7 @@
                 "type": "multi_select",
                 "multi_select": []
               },
-              "AF Key": "",
+              "AF Key": "HL8rH8Ntgc58TxDokch5TS",
               "Bundle Id Rollup": {
                 "type": "formula",
                 "formula": {
@@ -206,11 +206,11 @@
                   "string": "com.moon.ride.zombie"
                 }
               },
-              "Vaveda_secret": "",
+              "Vaveda_secret": "2R3GZpbtou5LPxOBncmyxL14RrwWPLap",
               "Name": "Ride Master: Zombie Attack MainData"
             },
             "created_time": "2026-06-09T10:42:00.000Z",
-            "last_edited_time": "2026-06-09T10:46:00.000Z",
+            "last_edited_time": "2026-06-09T11:12:00.000Z",
             "url": "https://app.notion.com/p/Ride-Master-Zombie-Attack-MainData-37a9748bc8c281889351ce11cce00653",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
@@ -223,7 +223,20 @@
                   "CompanyName": ""
                 },
                 "SDKSettings": {
-                  "Keys": [],
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "HL8rH8Ntgc58TxDokch5TS"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "mszmttz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "2R3GZpbtou5LPxOBncmyxL14RrwWPLap"
+                    }
+                  ],
                   "IsAmazon": true
                 }
               }
@@ -757,7 +770,7 @@
               "Public key": [
                 {
                   "name": "PublicKey_RideMaster.txt",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/994bde6c-2e86-4807-b8aa-868ecb7212d7/PublicKey_RideMaster.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SCW2SSN2%2F20260609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260609T105626Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAIaCXVzLXdlc3QtMiJIMEYCIQCFe4cJ9GFLEgUBIXF1%2B4ZTNm7ltoy%2FmZTkOU36QQVwFwIhAIagAMm8rYx%2FUN1oUlJmPhdbhmhkdjHSBz4l%2FutY6UgMKogECMv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igwjlom88AKkv9gVvtIq3APmBox7DHhxXqEIFzVCrWmPKsbVyihuCYc%2FrVysKP26nLD6cy3qcvpCrnRp5taArQV%2FEupBWLh9cUq24ivR4YsOyJeTz0gkAE9GsJFIFIQbYVidDAWm2gUPLRsg9AA65nOpN4K68juQ2DkBKRYCGpLyM0HgPVD2c%2FTxvdJGup0ekczoaMmRWwNZM%2FstPd5jLu85dc%2Fy3YMNOkOYL2%2BIfKG8X4AIhirISAGflPFIQb%2FJNc0xUskmnJBr6PH4nwirG1PC%2FdG%2FWzx200f9tCqFyEjx3RPYVAikDwbM%2FPBnyAVymHWqY7nV%2Bcng%2BQBX7d2RoYgk3uIZOC3ZFPrX15IffYUCgTqkDc0%2FfoFfFBw3Wn8B5lvatwBTW3pZGfOwl%2B1VZ6F%2F8aRqFSz5gTgeQPJmnrI70auatmIE5xuypyxBJaZU3bsC1hk0W1C63k%2B2UCu2NwWOYx3Wli%2B0X8ZcBuKxd7u4lzcQRRqegyXZelYAzLiD18Im1gwh%2B4EjpvxkEIsVN6GyLRZkapti%2BRcxLa6ATJaUg%2Bd9aUo8TMh%2BctGTenVsglpnIzAnWLvLlDzcOk8ifI%2BawgacHgk8RG9%2FMHdXM4cHsB2CHb9ONxjEf0rV3MWbpNusEXncF4jNhkCqJTCYup%2FRBjqkAXBz1LqWsrU1nba9n9bMd7gxO80%2BRcAbqCtzHmralFxAkztptV0i20pYt57Gwx1wzrCrpo9U5K7smLS0rawmnVtq1UG8i4PKrf82SkiXHxI22WS0s5sJq4FdEKHZ8fqcsQwgkPtfmCXFzz6E5C8%2FsnQMa23ivDBauv8rG93YRktlUHXFx3%2BsrpdDOktkxdLeFA6p%2BYp02683ZawYfXkQTnVVjIe1&X-Amz-Signature=be1c654738fde9ff36189267386d10f654c43e1bf7d16814086ea75408a9b75b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/994bde6c-2e86-4807-b8aa-868ecb7212d7/PublicKey_RideMaster.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WAUVVLDK%2F20260609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260609T111246Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAMaCXVzLXdlc3QtMiJHMEUCIAk%2BeP%2BB2OGr5PHAqgsx4n0Sq4kjYXcmLMFrWivKhEDxAiEAirPkXPBnXUVFNHeYGt498oRN6tIUBv7ZQhCzL0JnvuwqiAQIzP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDPrwAh%2B%2BFB0LSVRDmyrcAwTU7zrXpN2YanlU9RlAkdChEtWWXwiobRN3FdstIYrGLCY6S3wtWklN1NMO73rwFrOatgarHsCDTeP0%2FgO4ShkNjYJCXpTtxW%2BwWKKMwumSR%2FZjgr8eOc8qo%2BIjMq0ZJF0omNJDru77Ssk9M5pRtH%2B9lPUt%2FS54ITPNuLAhmTsb1z%2B7dZW35SzvNiQRKdnCklc4e6sgrrYN0iIWZiXmwB2HknlnBuWKNwnLUg%2FTdxZMbPY3RY4YfzYf0dIjSul9wipqpjp6%2F7fudKsIJUn70ffKWuoPbjhhmiLPT%2BumUPHl7yTxbjxQxMKa2RsdGvxpOwMfd8ZlzNzTEXzhPBSWUfi1UccBy2tcMFLCNKYTXmLMtwdYu49pmUM07XekKpG9VkS4YAnsVAf8GOtqlNu6jGrRpgSpxHZBDiIM7xT3UEN0%2B4sffg%2Bn26C2B2JgHN4w0b4QfadZNeHLvVw5EhlMQTIfNknbJIk4J7Ul%2FvRhjP4tJJNeOvMg5aE9u8ssG%2BcT%2B7bZ99TJPcV5JQZrqzIDL4v8T%2B5T8MgJ0tTzkR%2Fc41hKYxbynHueUNRG%2BbngGBLyQXyr5cDtFVKlpA%2FhoMapOexddzXV%2BTsbUM2LFDd4p0CePXkaPoiJ4PFY1yJZMJLjn9EGOqUBw0ZJ3AKW3gyOMYhPf0UKxbxKYIropo0M%2BEmWhEg8tToAt7hvqQd80hHQW5bQqURJAja1hyi1VLuwyUAdjC2078sn%2BAIA5bmc6FEXQqZv4RKUN9f6o3StwyzZBELE73y0zMnciWmY%2B5Ar5piJAxMmjH9QzLgkUs4AUpbwYkO3PPgsg3WrYiUW5fyUa6AyZoz241SI41QASjFeS0GBFS63bJqNFKdS&X-Amz-Signature=e696cbde7ea6c5768f107c54703feea256318b17c9725bb19dc76cc0860aae9e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "",
