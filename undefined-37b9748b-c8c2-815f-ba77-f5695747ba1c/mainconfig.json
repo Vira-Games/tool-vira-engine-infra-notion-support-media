@@ -69,7 +69,7 @@
           "Name": "Office Goose: Peck or Perish"
         },
         "created_time": "2026-06-10T12:03:00.000Z",
-        "last_edited_time": "2026-06-10T12:03:00.000Z",
+        "last_edited_time": "2026-06-10T12:06:00.000Z",
         "url": "https://app.notion.com/p/Office-Goose-Peck-or-Perish-37b9748bc8c2815fba77f5695747ba1c",
         "children": {
           "Office_Goose__Peck_or_Perish_ProductCatalog": {
@@ -405,7 +405,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-10T12:03:00.000Z"
+                "last_edited_time": "2026-06-10T12:39:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -492,7 +492,7 @@
                   "string": null
                 }
               },
-              "AMZ releaseId": "",
+              "AMZ releaseId": "amzn1.devportal.apprelease.acee13218e384f61a1e86ce9d454ce7d",
               "[Logotype]": null,
               "CR Subs, %": {
                 "id": "KKZH",
@@ -526,7 +526,7 @@
                 "type": "number",
                 "number": null
               },
-              "Automation Info (AppStore)": "▶️ Automation \"Amazon AppStore Page Creation\" has started",
+              "Automation Info (AppStore)": "✅ AMZ page created",
               "Previous Status": {
                 "id": "NSz%7D",
                 "type": "status",
@@ -553,7 +553,7 @@
                 ]
               },
               "Create Task (No Check)": null,
-              "Developer AMZ AppStore Link": "",
+              "Developer AMZ AppStore Link": "https://developer.amazon.com/apps-and-games/console/app/amzn1.devportal.mobileapp.a4cb1a69db904933ae1ce447ad3117c3/release/amzn1.devportal.apprelease.acee13218e384f61a1e86ce9d454ce7d/submission/app-files",
               "pLTV 7": {
                 "id": "OPM%5C",
                 "type": "number",
@@ -867,7 +867,7 @@
               "Firebase JSON": [],
               "QA": "",
               "Hypothesys": [],
-              "AMZ appId": "",
+              "AMZ appId": "amzn1.devportal.mobileapp.a4cb1a69db904933ae1ce447ad3117c3",
               "Opt-In": {
                 "id": "p_Ic",
                 "type": "number",
@@ -879,9 +879,9 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
-                  "avatar_url": null,
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
                   "type": "bot",
                   "bot": {}
                 }
@@ -1122,7 +1122,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-10T10:50:00.000Z",
-            "last_edited_time": "2026-06-10T12:03:00.000Z",
+            "last_edited_time": "2026-06-10T12:39:00.000Z",
             "url": "https://app.notion.com/p/ffcgprz-Office-Goose-Peck-or-Perish-37b9748bc8c280b5b641d5d3699c1bdb",
             "children": {
               "Page_37b9748b-c8c2-808c-b54e-fec84b075649": {
