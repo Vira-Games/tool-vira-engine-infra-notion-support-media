@@ -69,8 +69,8 @@
           "Name": "Rapid Run: Shortcut Rush"
         },
         "created_time": "2026-05-27T12:54:00.000Z",
-        "last_edited_time": "2026-05-27T12:54:00.000Z",
-        "url": "https://www.notion.so/Rapid-Run-Shortcut-Rush-36d9748bc8c281c6b673c7ae8bb8ab62",
+        "last_edited_time": "2026-05-27T12:56:00.000Z",
+        "url": "https://app.notion.com/p/Rapid-Run-Shortcut-Rush-36d9748bc8c281c6b673c7ae8bb8ab62",
         "children": {
           "Rapid_Run__Shortcut_Rush_ProductCatalog": {
             "id": "36d9748b-c8c2-816f-ae03-c70f40a83f5a",
@@ -84,7 +84,7 @@
             },
             "created_time": "2026-05-27T12:54:00.000Z",
             "last_edited_time": "2026-05-27T12:54:00.000Z",
-            "url": "https://www.notion.so/Rapid-Run-Shortcut-Rush-ProductCatalog-36d9748bc8c2816fae03c70f40a83f5a"
+            "url": "https://app.notion.com/p/Rapid-Run-Shortcut-Rush-ProductCatalog-36d9748bc8c2816fae03c70f40a83f5a"
           },
           "Rapid_Run__Shortcut_Rush_SubDataCatalog": {
             "id": "36d9748b-c8c2-8174-8704-dbdb80f41363",
@@ -107,7 +107,7 @@
             },
             "created_time": "2026-05-27T12:54:00.000Z",
             "last_edited_time": "2026-05-27T12:54:00.000Z",
-            "url": "https://www.notion.so/Rapid-Run-Shortcut-Rush-SubDataCatalog-36d9748bc8c281748704dbdb80f41363"
+            "url": "https://app.notion.com/p/Rapid-Run-Shortcut-Rush-SubDataCatalog-36d9748bc8c281748704dbdb80f41363"
           },
           "Rapid_Run__Shortcut_Rush_MainData": {
             "id": "36d9748b-c8c2-8192-bee6-f764c90db10a",
@@ -143,7 +143,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.3"
+                  "string": "1.0.4"
                 }
               },
               "Vaveda_key": "",
@@ -170,7 +170,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "9"
+                  "string": null
                 }
               },
               "Bundle Id": {
@@ -178,7 +178,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.vira.heli.girl"
+                  "string": "com.elbow.race.shortcut"
                 }
               },
               "Account": {
@@ -187,21 +187,27 @@
                 "multi_select": []
               },
               "AF Key": "",
-              "Bundle Id Rollup": "Rapid Run: Shortcut Rush",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.elbow.race.shortcut"
+                }
+              },
               "Vaveda_secret": "",
               "Name": "Rapid Run: Shortcut Rush MainData"
             },
             "created_time": "2026-05-27T12:54:00.000Z",
             "last_edited_time": "2026-05-27T12:54:00.000Z",
-            "url": "https://www.notion.so/Rapid-Run-Shortcut-Rush-MainData-36d9748bc8c28192bee6f764c90db10a",
+            "url": "https://app.notion.com/p/Rapid-Run-Shortcut-Rush-MainData-36d9748bc8c28192bee6f764c90db10a",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/folders/1vvbwcAAWuq1rjZ3H1SPCirMWxFNyy2Q3",
                   "ProductName": "",
-                  "BundleIdentifier": "com.vira.heli.girl",
-                  "Version": "1.0.3",
-                  "BundleVersionCode": 9,
+                  "BundleIdentifier": "com.elbow.race.shortcut",
+                  "Version": "1.0.4",
+                  "BundleVersionCode": 1,
                   "CompanyName": ""
                 },
                 "SDKSettings": {
@@ -267,7 +273,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 12
+                  "number": 23
                 }
               },
               "Are all prop. filled? ": {
@@ -359,20 +365,24 @@
                 "id": "DYYJ",
                 "type": "status",
                 "status": {
-                  "id": "k^_c",
-                  "name": "ART CREATION",
+                  "id": "gPu~",
+                  "name": "DEVELOPMENT",
                   "color": "blue"
                 }
               },
               "Date Development Status Set": {
                 "id": "D%60fU",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-06-04",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-05-27T12:54:00.000Z"
+                "last_edited_time": "2026-06-10T14:01:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -382,7 +392,11 @@
               "Date Art Finish": {
                 "id": "Do%3DG",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-05-27",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "Bundle ID": "com.elbow.race.shortcut",
               "Price": {
@@ -450,6 +464,7 @@
               },
               "CreateTKSettings": null,
               "Subscription JSON": [],
+              "GetGitlabInfo": null,
               "Days Start-Release": {
                 "id": "JXlK",
                 "type": "formula",
@@ -568,7 +583,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 27
+                  "number": 38
                 }
               },
               "iPhone Screens": {
@@ -582,7 +597,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 27
+                  "number": 26
                 }
               },
               "BB SDK Key (iOS)": "",
@@ -705,12 +720,14 @@
               },
               "ASO Name & Descripton Request": false,
               "Build changes are marked in the task": false,
+              "Unity version": "",
               "Promo status info": "",
               "Average FPS": {
                 "id": "a%3Fdf",
                 "type": "number",
                 "number": null
               },
+              "Autobuild_buildNumber": "",
               "Polishing": "",
               "ExtraComments": "",
               "Full Pack Promo Request": false,
@@ -839,9 +856,9 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
-                  "avatar_url": null,
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
                   "type": "bot",
                   "bot": {}
                 }
@@ -922,7 +939,7 @@
                 "id": "wQFr",
                 "type": "date",
                 "date": {
-                  "start": "2026-02-27",
+                  "start": "2026-06-04",
                   "end": null,
                   "time_zone": null
                 }
@@ -957,6 +974,7 @@
               "Sub-s Database": [],
               "Amz Console: On Auto support": false,
               "Create QA Task": false,
+              "Create UA Tasks": null,
               "3D Artist": {
                 "id": "zHXV",
                 "type": "people",
@@ -1035,7 +1053,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 12
+                  "number": 23
                 }
               },
               "BALANCE": "",
@@ -1088,8 +1106,8 @@
               "Need a new Video?": false
             },
             "created_time": "2026-02-27T08:43:00.000Z",
-            "last_edited_time": "2026-05-27T12:54:00.000Z",
-            "url": "https://www.notion.so/rpshrtz-Rapid-Run-Shortcut-Rush-3149748bc8c28041aadad3a6b395d79b",
+            "last_edited_time": "2026-06-10T14:01:00.000Z",
+            "url": "https://app.notion.com/p/rpshrtz-Rapid-Run-Shortcut-Rush-3149748bc8c28041aadad3a6b395d79b",
             "children": {
               "Page_2149748b-c8c2-8011-845f-d668c96b6c1a": {
                 "id": "2149748b-c8c2-8011-845f-d668c96b6c1a",
@@ -1304,6 +1322,7 @@
                   },
                   "CreateTKSettings": null,
                   "Subscription JSON": [],
+                  "GetGitlabInfo": null,
                   "Days Start-Release": {
                     "id": "JXlK",
                     "type": "formula",
@@ -1547,12 +1566,14 @@
                   },
                   "ASO Name & Descripton Request": false,
                   "Build changes are marked in the task": false,
+                  "Unity version": "",
                   "Promo status info": "",
                   "Average FPS": {
                     "id": "a%3Fdf",
                     "type": "number",
                     "number": null
                   },
+                  "Autobuild_buildNumber": "",
                   "Polishing": "",
                   "ExtraComments": "",
                   "Full Pack Promo Request": false,
@@ -1789,6 +1810,7 @@
                   "Sub-s Database": [],
                   "Amz Console: On Auto support": false,
                   "Create QA Task": false,
+                  "Create UA Tasks": null,
                   "3D Artist": {
                     "id": "zHXV",
                     "type": "people",
@@ -1911,7 +1933,7 @@
                 },
                 "created_time": "2025-06-16T16:48:00.000Z",
                 "last_edited_time": "2026-04-29T07:00:00.000Z",
-                "url": "https://www.notion.so/Rapid-Run-Shortcut-Rush-2149748bc8c28011845fd668c96b6c1a"
+                "url": "https://app.notion.com/p/Rapid-Run-Shortcut-Rush-2149748bc8c28011845fd668c96b6c1a"
               }
             }
           }
