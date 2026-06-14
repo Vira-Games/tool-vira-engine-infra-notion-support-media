@@ -69,7 +69,7 @@
           "Name": "Snack Eating Rush"
         },
         "created_time": "2026-06-14T10:37:00.000Z",
-        "last_edited_time": "2026-06-14T10:39:00.000Z",
+        "last_edited_time": "2026-06-14T10:50:00.000Z",
         "url": "https://app.notion.com/p/Snack-Eating-Rush-37f9748bc8c281f58cb2fd5c5b23f520",
         "children": {
           "Snack_Eating_Rush_ProductCatalog": {
@@ -130,14 +130,26 @@
               "Platform": {
                 "id": "%3AyyE",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                    "name": "AMZ",
+                    "color": "default"
+                  }
+                ]
               },
               "Paid/Free": {
                 "id": "Bnjr",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "5f5946de-66a2-4550-abb2-1f2c40b088cc",
+                    "name": "Paid",
+                    "color": "green"
+                  }
+                ]
               },
-              "App Name": "",
+              "App Name": "Snack Eating Rush",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
@@ -184,7 +196,13 @@
               "Account": {
                 "id": "e%7C~F",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "92605583-f259-4456-b32b-553b61eb828d",
+                    "name": "FreezyPixel Studio",
+                    "color": "red"
+                  }
+                ]
               },
               "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Bundle Id Rollup": {
@@ -198,17 +216,17 @@
               "Name": "Snack Eating Rush MainData"
             },
             "created_time": "2026-06-14T10:38:00.000Z",
-            "last_edited_time": "2026-06-14T10:38:00.000Z",
+            "last_edited_time": "2026-06-14T10:50:00.000Z",
             "url": "https://app.notion.com/p/Snack-Eating-Rush-MainData-37f9748bc8c281228213de817d732078",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/u/6/folders/1OIoi9MlRIBsB5kCN9IdjOvKEjXpb7yrT",
-                  "ProductName": "",
+                  "ProductName": "Snack Eating Rush",
                   "BundleIdentifier": "com.mvl.sna.etrush",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
-                  "CompanyName": ""
+                  "CompanyName": "FreezyPixel Studio"
                 },
                 "SDKSettings": {
                   "Keys": [
@@ -225,7 +243,7 @@
                       "Key": "sgV7ZF5KRz8C0qG7FfghGsC8xo5z0YzC"
                     }
                   ],
-                  "IsAmazon": false
+                  "IsAmazon": true
                 }
               }
             }
