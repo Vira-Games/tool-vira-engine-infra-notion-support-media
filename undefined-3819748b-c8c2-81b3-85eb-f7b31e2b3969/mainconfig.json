@@ -50,7 +50,7 @@
             "3819748b-c8c2-815a-8976-cf178c0322ce"
           ],
           "(List)Bundle Version": "16",
-          "Platform": "",
+          "Platform": "Fire TV",
           "💼 All Projects": [
             "34a9748b-c8c2-807e-8785-dc1f826a4c4b"
           ],
@@ -69,7 +69,7 @@
           "Name": "Balls Escape: Cut the Ropes"
         },
         "created_time": "2026-06-16T12:05:00.000Z",
-        "last_edited_time": "2026-06-16T12:05:00.000Z",
+        "last_edited_time": "2026-06-16T13:45:00.000Z",
         "url": "https://app.notion.com/p/Balls-Escape-Cut-the-Ropes-3819748bc8c281b385ebf7b31e2b3969",
         "children": {
           "Balls_Escape__Cut_the_Ropes_ProductCatalog": {
@@ -93,7 +93,7 @@
               "Parent": [
                 "3819748b-c8c2-81b3-85eb-f7b31e2b3969"
               ],
-              "Platform": "",
+              "Platform": "Fire TV",
               "Subscriptions": [],
               "Apply": null,
               "bundleID": {
