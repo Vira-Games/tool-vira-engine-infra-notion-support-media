@@ -50,7 +50,7 @@
             "3829748b-c8c2-811f-aa29-e04f39403aa7"
           ],
           "(List)Bundle Version": "13",
-          "Platform": "",
+          "Platform": "Fire TV",
           "💼 All Projects": [
             "36b9748b-c8c2-80cb-9895-f8b7403de76e"
           ],
@@ -69,7 +69,7 @@
           "Name": "Agent Hunt - Hitman Cowboy"
         },
         "created_time": "2026-06-17T09:13:00.000Z",
-        "last_edited_time": "2026-06-17T09:13:00.000Z",
+        "last_edited_time": "2026-06-17T10:24:00.000Z",
         "url": "https://app.notion.com/p/Agent-Hunt-Hitman-Cowboy-3829748bc8c28191894ccaa715983b27",
         "children": {
           "Agent_Hunt_-_Hitman_Cowboy_ProductCatalog": {
@@ -93,7 +93,7 @@
               "Parent": [
                 "3829748b-c8c2-8191-894c-caa715983b27"
               ],
-              "Platform": "",
+              "Platform": "Fire TV",
               "Subscriptions": [],
               "Apply": null,
               "bundleID": {
@@ -130,14 +130,26 @@
               "Platform": {
                 "id": "%3AyyE",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "139dd12c-6430-4f6c-9f32-0ec4ef9119d4",
+                    "name": "Fire TV",
+                    "color": "purple"
+                  }
+                ]
               },
               "Paid/Free": {
                 "id": "Bnjr",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
               },
-              "App Name": "",
+              "App Name": "Agent Hunt - Hitman Cowboy",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
@@ -146,7 +158,7 @@
                   "string": "1.0.4"
                 }
               },
-              "Vaveda_key": "",
+              "Vaveda_key": "cmpnclz",
               "Link to Promo": {
                 "id": "%5CVgk",
                 "type": "formula",
@@ -186,7 +198,7 @@
                 "type": "multi_select",
                 "multi_select": []
               },
-              "AF Key": "",
+              "AF Key": "2qdLPfUNm8cnCsZts8hvYm",
               "Bundle Id Rollup": {
                 "type": "formula",
                 "formula": {
@@ -194,25 +206,38 @@
                   "string": "com.pencil.agent.cowboy"
                 }
               },
-              "Vaveda_secret": "",
+              "Vaveda_secret": "k7DHIS59Bz0icSCTqimFUQ0p0fJ3BQJW",
               "Name": "Agent Hunt - Hitman Cowboy MainData"
             },
             "created_time": "2026-06-17T09:13:00.000Z",
-            "last_edited_time": "2026-06-17T09:13:00.000Z",
+            "last_edited_time": "2026-06-17T10:26:00.000Z",
             "url": "https://app.notion.com/p/Agent-Hunt-Hitman-Cowboy-MainData-3829748bc8c2811faa29e04f39403aa7",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/folders/19FqySTiELcuZ3-_v_RZ1BWLwzuzStUIi",
-                  "ProductName": "",
+                  "ProductName": "Agent Hunt - Hitman Cowboy",
                   "BundleIdentifier": "com.pencil.agent.cowboy",
                   "Version": "1.0.4",
                   "BundleVersionCode": 13,
                   "CompanyName": ""
                 },
                 "SDKSettings": {
-                  "Keys": [],
-                  "IsAmazon": false
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "2qdLPfUNm8cnCsZts8hvYm"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "cmpnclz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "k7DHIS59Bz0icSCTqimFUQ0p0fJ3BQJW"
+                    }
+                  ],
+                  "IsAmazon": true
                 }
               }
             }
@@ -746,7 +771,7 @@
               "Public key": [
                 {
                   "name": "PublicKey_AgentHunt.txt",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/2b88d650-a097-461c-b07f-481591534f18/PublicKey_AgentHunt.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VF25Y6HF%2F20260617%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260617T093240Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDa%2FTlEaODDqIokoUoSknfhPbK8RFzAXLX%2FpH%2BSUMQdWAiAvrpsv1UmFcQ4PwbjlBFmzX5Cxrzm%2FPeRfmbBhrzuIriqIBAiK%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMJ2uIgPfSpihkdqt9KtwD%2BD%2BSg4FKU6wmtGo%2FRY%2B8GejhMqm5AVvh39rFAg73DWCAcHDIrDE7zXaWLMqGjyEzgmGqRJUG1NiL61x00nKCJ5HDaRBzfnoNH1e%2BQn%2FccAgLlc7RZuIgHZJR7REmhO%2Ba%2F5dnF%2B3YL1aJXdEPdEBLMYxtoaO%2Fc6mai%2FAfoSv0HeukJZ4s4pB%2Bn48IgzXKvJ2pPbawQGVqkqn3JFfL3W0Htljgz%2BIQu9w3LgpgWyJZCMiPtEzoB06E5UmZZ70zqaFkdBfhY0iHNgTyP94srJ8PCzR%2BlPaoKzrclvW5bbwdZRuUHcZh5ysoMfPOXiZQ4ejyQwmW1HL3bzbsCXjLKrxspGNlaefOKMa8de8yRwHUcufQPmNR%2FDOrBG%2BUFRJwcjFKBI9C%2FD167acKN0KZ2oyYFo7rkafRoaJRL7L%2B7XPnJDnJ%2Fmsz67dhIaFsSRrME62e3MMHGFXC2i9uLwT0FseFmTKdzwvZUOaCteRa5z9aoGuSGO7%2FX%2B9aHO4KQUIP8YKbRLRhOVdpvrIrggrkU%2BCY9qZC4CeknXZ6Ip11qZc%2B4Kbor2QZYh8a6n81%2FZKlpaBs2kcBgY2Fyx82r1qnk85XzYUVoewfQ5xqCve%2B3BrsWltWSJGlI2UUf%2BQKyr0wmLPJ0QY6pgE1I4BR1WeRai80kkaKNSao00lq68%2BC0f6vmncy9gBESAOaS23EdUwAyX2j%2BFBoqF9Q6NqzmIXFjNxIm6p4ZiI9WBDOBVrR2LEutg3%2F2A8hX8Rdf98Ro%2B846YQr4fwXhYPGdYAfLgr9K8pUltrOIyFQFgfcSH5lCdNX2HKE421k2GVlFbSyQdQcxPrfHOvZSn5fiu9Rm%2B8y7ZHgY1ZQYfhpA2InK66k&X-Amz-Signature=6d5e90cebce0ff3e2819db8e4c429306df4c0c3905b87c9a81bdc488801e58c2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/2b88d650-a097-461c-b07f-481591534f18/PublicKey_AgentHunt.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZTDD7X67%2F20260617%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260617T102751Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEML%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDmcGz3wkbgS3BDKmArVq6ecnjKYaPVJmhTTiBEEldfjQIgNhi23YjupdEvdwuS6IFNarGaCHE%2F35LPuerDDzbpVL0qiAQIi%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFhQb7c90rbzyjrh1CrcA6zFP0QxQkR4cvQDJriXQM%2BX14zvrOttO54N2PGxm%2BTuNHKP9DpFJlPivWO%2FC%2FBXU2SDt6oGGTNrk2wTrvGCho0ArygxXCWAPgVYxbN2NeYS%2B%2FAJs3vlxZFMwrQCJKzLitrtaBATb5gWAwTDgTeZ%2BlCkhpn3YkytNLPO3rWvMPss%2BhbUgZmQ%2FTzQXhi7t1iYs23HTfVNzimFLLwXHr0G4q%2F%2F9S9x0jrAdcf%2BvXl%2BEZNu4uIDHjadOospu0nPejhn56FMa8nnL4bAC7uEBbCCmNs7Ya8stX2QO7ehhAOPR1MpPHeGYhd9wJXpWvcHgdB4QXfJ3DsDcYTVa0JK3YaJYNw49cGW6%2Bjx6SkgcQTCDs8G48B5CGa%2FJvy8saWNz3w2klO9Rc0q5eIxPF3KmXVMkWbv%2Bb4QRBBJdurxVaZ8WeC8egWgs%2Bl%2FaDBVj%2F7mXkkL9ocezvL%2BfzXvJp9MscuiEjue9w2K8p3n8CRgDzqYI7RsPqgfJZLUO5ttUkoPjrM5bbeNTatl70HlfZDQt3QtGz5PWy4qQIiywMavlLvgJR5Sm%2Fr2M7i%2FbVmM0U5ILrHUbBlPRWV6iu4O0VAJq1hiaMuI9SEPEBsdh2%2FW1FFmp9yupCZL9b4UEY7%2FO2NvMMTaydEGOqUBhrOF5tFZKPS49X0kw8WyYmhtt591KstAjeNkbokw9%2FzxLUdcp%2BAhJEuIGW9nb%2Fslhdo6TbPTyM2rT3dwdxENDsv14hcAmJ95PDvQFHfd1Aqjfp6unOcmgAI1vtRvjk%2Bz9ZqYN7n2biOX%2Bl%2BoaO0lrYqcB5ECOJ6896yXRQdrOzY3VvnRBVb2nBEBJhnPUmpmLsFC0BpRWmuNohDTIX3jBh9K%2FbMo&X-Amz-Signature=4b9f61feae48849f7d3a89b22f3a375cf4f41d14a1a50a56003ec1c71bb013f2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "",
