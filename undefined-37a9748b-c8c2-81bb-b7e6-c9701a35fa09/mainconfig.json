@@ -69,7 +69,7 @@
           "Name": "Ride Master: Zombie Attack"
         },
         "created_time": "2026-06-09T10:42:00.000Z",
-        "last_edited_time": "2026-06-09T10:56:00.000Z",
+        "last_edited_time": "2026-06-09T11:12:00.000Z",
         "url": "https://app.notion.com/p/Ride-Master-Zombie-Attack-37a9748bc8c281bbb7e6c9701a35fa09",
         "children": {
           "Ride_Master__Zombie_Attack_ProductCatalog": {
@@ -196,7 +196,13 @@
               "Account": {
                 "id": "e%7C~F",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "de18d9eb-e33b-4b85-9bc6-f5c35b7f6371",
+                    "name": "Coreleague Games",
+                    "color": "gray"
+                  }
+                ]
               },
               "AF Key": "HL8rH8Ntgc58TxDokch5TS",
               "Bundle Id Rollup": {
@@ -210,7 +216,7 @@
               "Name": "Ride Master: Zombie Attack MainData"
             },
             "created_time": "2026-06-09T10:42:00.000Z",
-            "last_edited_time": "2026-06-09T11:12:00.000Z",
+            "last_edited_time": "2026-06-09T11:19:00.000Z",
             "url": "https://app.notion.com/p/Ride-Master-Zombie-Attack-MainData-37a9748bc8c281889351ce11cce00653",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
@@ -220,7 +226,7 @@
                   "BundleIdentifier": "com.moon.ride.zombie",
                   "Version": "1.2.8",
                   "BundleVersionCode": 15,
-                  "CompanyName": ""
+                  "CompanyName": "Coreleague Games"
                 },
                 "SDKSettings": {
                   "Keys": [
@@ -286,15 +292,19 @@
               "Date Dev Start": {
                 "id": "%3D%7B%3Ej",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-06-09",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "Clone": null,
               "Days in Dev -> Release": {
                 "id": "%3EkOQ",
                 "type": "formula",
                 "formula": {
-                  "type": "string",
-                  "string": null
+                  "type": "number",
+                  "number": 9
                 }
               },
               "Are all prop. filled? ": {
@@ -386,8 +396,8 @@
                 "id": "DYYJ",
                 "type": "status",
                 "status": {
-                  "id": "k^_c",
-                  "name": "ART CREATION",
+                  "id": "gPu~",
+                  "name": "DEVELOPMENT",
                   "color": "blue"
                 }
               },
@@ -395,7 +405,7 @@
                 "id": "D%60fU",
                 "type": "date",
                 "date": {
-                  "start": "2026-03-06",
+                  "start": "2026-06-09",
                   "end": null,
                   "time_zone": null
                 }
@@ -403,7 +413,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-09T10:42:00.000Z"
+                "last_edited_time": "2026-06-17T13:59:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -594,7 +604,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 3
+                  "number": 10
                 }
               },
               "iPhone Screens": {
@@ -608,7 +618,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 3
+                  "number": 10
                 }
               },
               "BB SDK Key (iOS)": "",
@@ -732,6 +742,7 @@
                 "type": "number",
                 "number": null
               },
+              "Autobuild_buildNumber": "",
               "Polishing": "",
               "ExtraComments": "",
               "Full Pack Promo Request": false,
@@ -770,7 +781,7 @@
               "Public key": [
                 {
                   "name": "PublicKey_RideMaster.txt",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/994bde6c-2e86-4807-b8aa-868ecb7212d7/PublicKey_RideMaster.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WAUVVLDK%2F20260609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260609T111246Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAMaCXVzLXdlc3QtMiJHMEUCIAk%2BeP%2BB2OGr5PHAqgsx4n0Sq4kjYXcmLMFrWivKhEDxAiEAirPkXPBnXUVFNHeYGt498oRN6tIUBv7ZQhCzL0JnvuwqiAQIzP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDPrwAh%2B%2BFB0LSVRDmyrcAwTU7zrXpN2YanlU9RlAkdChEtWWXwiobRN3FdstIYrGLCY6S3wtWklN1NMO73rwFrOatgarHsCDTeP0%2FgO4ShkNjYJCXpTtxW%2BwWKKMwumSR%2FZjgr8eOc8qo%2BIjMq0ZJF0omNJDru77Ssk9M5pRtH%2B9lPUt%2FS54ITPNuLAhmTsb1z%2B7dZW35SzvNiQRKdnCklc4e6sgrrYN0iIWZiXmwB2HknlnBuWKNwnLUg%2FTdxZMbPY3RY4YfzYf0dIjSul9wipqpjp6%2F7fudKsIJUn70ffKWuoPbjhhmiLPT%2BumUPHl7yTxbjxQxMKa2RsdGvxpOwMfd8ZlzNzTEXzhPBSWUfi1UccBy2tcMFLCNKYTXmLMtwdYu49pmUM07XekKpG9VkS4YAnsVAf8GOtqlNu6jGrRpgSpxHZBDiIM7xT3UEN0%2B4sffg%2Bn26C2B2JgHN4w0b4QfadZNeHLvVw5EhlMQTIfNknbJIk4J7Ul%2FvRhjP4tJJNeOvMg5aE9u8ssG%2BcT%2B7bZ99TJPcV5JQZrqzIDL4v8T%2B5T8MgJ0tTzkR%2Fc41hKYxbynHueUNRG%2BbngGBLyQXyr5cDtFVKlpA%2FhoMapOexddzXV%2BTsbUM2LFDd4p0CePXkaPoiJ4PFY1yJZMJLjn9EGOqUBw0ZJ3AKW3gyOMYhPf0UKxbxKYIropo0M%2BEmWhEg8tToAt7hvqQd80hHQW5bQqURJAja1hyi1VLuwyUAdjC2078sn%2BAIA5bmc6FEXQqZv4RKUN9f6o3StwyzZBELE73y0zMnciWmY%2B5Ar5piJAxMmjH9QzLgkUs4AUpbwYkO3PPgsg3WrYiUW5fyUa6AyZoz241SI41QASjFeS0GBFS63bJqNFKdS&X-Amz-Signature=e696cbde7ea6c5768f107c54703feea256318b17c9725bb19dc76cc0860aae9e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/994bde6c-2e86-4807-b8aa-868ecb7212d7/PublicKey_RideMaster.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667SWZSKXA%2F20260618%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260618T115204Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFDJBhMsvgOhWq4VrQMkhY%2FfDhgrMsl7gPJzsJlu1aS3AiAccMyG4ac88C7FufVh6LiUAaLdLFvX04GpoB%2B2F2QgXSqIBAih%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMqaWpWTHmridxx0ZJKtwDN9kbW%2Bdj6IMYRmkEr0wR%2FLnD44VX0FLvH%2BsRPnfQR79JEdJ74BlubrXKaaPZRH12wvnRrwR%2BbjpucPueQX%2Bi1JBVJtJXLuXBsSELKH4jdK7L5SJQ6mdIV5LA%2FidysWtSygfvEb%2BHaZKTbUEvjTBiWFKIfiGkZaOM9ajSvDqxylCoFyfKTC3wN52Cjwe6O%2FzvBQJRDy3s8q3H8b0KjXey4C484uYg7%2BsBbTlJRGun52yaNithNh8POxJg0%2FoGV5hejoNAu7pgsQlnqIVymXjc0G3ZFhhkj2YgLITPeJnHyoYrFGsQp4nTbk4wL4JQ%2BojJ1Nmb7uSmnjoCHLLfDgdfRxwaoLG0g5yaD8DcBtcu44caXohA5WirpVEHlFnHwT1I9wB7sb%2BjraK0x2sfIhdVv6qX%2FXlumc8LH%2B6xcrv%2FcDctpnf7GpAc4aJfKBXm5fnz2XsWlSHA7zTeIVhH9ExeOpToxEhFbhdBH46IhlG8uRi3GamSvnwJOCTHvf9blv6D9M60Oh4tMDp15rwpCmtTn4Y7EBWtyTZe9w9GoYj7HLibSBT83BV9SO45Hhre3hq2e06sCXBtZVNhvvYwdd9i48%2FBUY6HN6EfZ8tU8HqmPBz5Tj9wLMiUSQ7CsNQwzLvO0QY6pgFzl0rR1VUp6oc%2FO364m5Fdbg%2BKNyAz%2F3sprlXf7w5LAvOOFvPkmsuslH2B4VCD7nvH6zBXZTG%2FlBIpRz0CQEC2TqstKRgGUtXSyHBDSutAKEKV4FxvSTK9IzGB2ugUqQucG2y%2FPprdi5jgM%2BlchGBrF8x8dLNJMY%2FViMFiuEqyqJnyIiJNNlVfarVYNOge3FLauW0nQJ2mBV6k1%2BuDzQt3LW5%2FhE2b&X-Amz-Signature=ea1eaffbd0a70016e7c6b329373980a44d0098fe5cf7e11e4401dcaa395205dd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "",
@@ -865,9 +876,9 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
-                  "avatar_url": null,
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
                   "type": "bot",
                   "bot": {}
                 }
@@ -952,7 +963,7 @@
                 "id": "wQFr",
                 "type": "date",
                 "date": {
-                  "start": "2026-06-08",
+                  "start": "2026-06-09",
                   "end": null,
                   "time_zone": null
                 }
@@ -1123,7 +1134,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-05T12:16:00.000Z",
-            "last_edited_time": "2026-06-09T10:42:00.000Z",
+            "last_edited_time": "2026-06-17T13:59:00.000Z",
             "url": "https://app.notion.com/p/mszmttz-Ride-Master-Zombie-Attack-6b29748bc8c283b988d081394da0e8d6",
             "children": {
               "Page_13c9748b-c8c2-8188-bc2e-f8beb303d078": {
@@ -1617,6 +1628,7 @@
                     "type": "number",
                     "number": null
                   },
+                  "Autobuild_buildNumber": "",
                   "Polishing": "",
                   "ExtraComments": "",
                   "Full Pack Promo Request": false,
