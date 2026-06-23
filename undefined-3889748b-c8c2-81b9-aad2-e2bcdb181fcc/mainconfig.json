@@ -50,7 +50,7 @@
             "3889748b-c8c2-81d2-bf0b-f3c91b6010cf"
           ],
           "(List)Bundle Version": "1",
-          "Platform": "",
+          "Platform": "AMZ",
           "💼 All Projects": [
             "3879748b-c8c2-8006-ae22-df2cdffc60a2"
           ],
@@ -69,7 +69,7 @@
           "Name": "Fighter With The Fire"
         },
         "created_time": "2026-06-23T10:20:00.000Z",
-        "last_edited_time": "2026-06-23T10:20:00.000Z",
+        "last_edited_time": "2026-06-23T11:50:00.000Z",
         "url": "https://app.notion.com/p/Fighter-With-The-Fire-3889748bc8c281b9aad2e2bcdb181fcc",
         "children": {
           "Fighter_With_The_Fire_ProductCatalog": {
@@ -93,7 +93,7 @@
               "Parent": [
                 "3889748b-c8c2-81b9-aad2-e2bcdb181fcc"
               ],
-              "Platform": "",
+              "Platform": "AMZ",
               "Subscriptions": [],
               "Apply": null,
               "bundleID": {
@@ -149,7 +149,7 @@
                   }
                 ]
               },
-              "App Name": "",
+              "App Name": "Fighter With The Fire",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
@@ -158,7 +158,7 @@
                   "string": "1.0.0"
                 }
               },
-              "Vaveda_key": "",
+              "Vaveda_key": "fghtfgz",
               "Link to Promo": {
                 "id": "%5CVgk",
                 "type": "formula",
@@ -198,7 +198,7 @@
                 "type": "multi_select",
                 "multi_select": []
               },
-              "AF Key": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Bundle Id Rollup": {
                 "type": "formula",
                 "formula": {
@@ -206,24 +206,37 @@
                   "string": "com.hrfrggms.fghtr.with"
                 }
               },
-              "Vaveda_secret": "",
+              "Vaveda_secret": "3Bp5eXst6FQD30bz3wRUhWBoaeekHRt5",
               "Name": "Fighter With The Fire MainData"
             },
             "created_time": "2026-06-23T10:20:00.000Z",
-            "last_edited_time": "2026-06-23T11:49:00.000Z",
+            "last_edited_time": "2026-06-23T11:53:00.000Z",
             "url": "https://app.notion.com/p/Fighter-With-The-Fire-MainData-3889748bc8c281d2bf0bf3c91b6010cf",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "",
-                  "ProductName": "",
+                  "ProductName": "Fighter With The Fire",
                   "BundleIdentifier": "com.hrfrggms.fghtr.with",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
                   "CompanyName": ""
                 },
                 "SDKSettings": {
-                  "Keys": [],
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "fghtfgz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "3Bp5eXst6FQD30bz3wRUhWBoaeekHRt5"
+                    }
+                  ],
                   "IsAmazon": true
                 }
               }
