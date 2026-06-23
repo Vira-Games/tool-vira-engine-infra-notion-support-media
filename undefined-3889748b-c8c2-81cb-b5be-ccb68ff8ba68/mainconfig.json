@@ -69,7 +69,7 @@
           "Name": "slcrymmy - Slicer of Yummy"
         },
         "created_time": "2026-06-23T12:52:00.000Z",
-        "last_edited_time": "2026-06-23T12:52:00.000Z",
+        "last_edited_time": "2026-06-23T13:20:00.000Z",
         "url": "https://app.notion.com/p/slcrymmy-Slicer-of-Yummy-3889748bc8c281cbb5beccb68ff8ba68",
         "children": {
           "slcrymmy_-_Slicer_of_Yummy_ProductCatalog": {
@@ -196,7 +196,13 @@
               "Account": {
                 "id": "e%7C~F",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "hiqp",
+                    "name": "DreamByte Games",
+                    "color": "gray"
+                  }
+                ]
               },
               "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Bundle Id Rollup": {
@@ -210,7 +216,7 @@
               "Name": "slcrymmy - Slicer of Yummy MainData"
             },
             "created_time": "2026-06-23T12:52:00.000Z",
-            "last_edited_time": "2026-06-23T13:18:00.000Z",
+            "last_edited_time": "2026-06-23T13:41:00.000Z",
             "url": "https://app.notion.com/p/slcrymmy-Slicer-of-Yummy-MainData-3889748bc8c2812da520c445c67b3380",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
@@ -220,7 +226,7 @@
                   "BundleIdentifier": "com.drmbtgmz.slcr.yummy",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
-                  "CompanyName": ""
+                  "CompanyName": "DreamByte Games"
                 },
                 "SDKSettings": {
                   "Keys": [
