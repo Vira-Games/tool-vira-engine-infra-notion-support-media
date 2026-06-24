@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "jtmnjmz - Jet Man"
+              "string": "jetmanz - Jet Man"
             }
           },
           "MaxParentLinkToPromo": {
@@ -26,13 +26,13 @@
               "string": null
             }
           },
-          "(List)BundleId": "com.fxyply.jt.man",
+          "(List)BundleId": "com.frflw.jt.man",
           "MaxParentBundleID": {
             "id": "LAsk",
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "com.fxyply.jt.man"
+              "string": "com.frflw.jt.man"
             }
           },
           "MaxParentVersion": {
@@ -69,7 +69,7 @@
           "Name": "jtman - Jet Man"
         },
         "created_time": "2026-06-23T12:47:00.000Z",
-        "last_edited_time": "2026-06-23T13:18:00.000Z",
+        "last_edited_time": "2026-06-24T10:25:00.000Z",
         "url": "https://app.notion.com/p/jtman-Jet-Man-3889748bc8c281f290afe6c46e0a471a",
         "children": {
           "jtman_-_Jet_Man_ProductCatalog": {
@@ -100,7 +100,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.fxyply.jt.man"
+                  "string": "com.frflw.jt.man"
                 }
               },
               "Name": "jtman - Jet Man SubDataCatalog"
@@ -158,7 +158,7 @@
                   "string": "1.0.0"
                 }
               },
-              "Vaveda_key": "jtmnjmz",
+              "Vaveda_key": "jetmanz",
               "Link to Promo": {
                 "id": "%5CVgk",
                 "type": "formula",
@@ -190,7 +190,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.fxyply.jt.man"
+                  "string": "com.frflw.jt.man"
                 }
               },
               "Account": {
@@ -209,21 +209,21 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.fxyply.jt.man"
+                  "string": "com.frflw.jt.man"
                 }
               },
-              "Vaveda_secret": "LaHbu9TyWxwkxEtvpTNPzUc2L0YdF1BB",
+              "Vaveda_secret": "N1ukDk1ZTmTpAWvLossJRc2j8iUs2YHh",
               "Name": "jtman - Jet Man MainData"
             },
             "created_time": "2026-06-23T12:47:00.000Z",
-            "last_edited_time": "2026-06-24T09:31:00.000Z",
+            "last_edited_time": "2026-06-24T10:26:00.000Z",
             "url": "https://app.notion.com/p/jtman-Jet-Man-MainData-3889748bc8c281b183ced07c48fc6750",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "",
                   "ProductName": "Jet Man",
-                  "BundleIdentifier": "com.fxyply.jt.man",
+                  "BundleIdentifier": "com.frflw.jt.man",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
                   "CompanyName": "FreeFlow Games"
@@ -236,11 +236,11 @@
                     },
                     {
                       "KeyName": "JAM_AppKey",
-                      "Key": "jtmnjmz"
+                      "Key": "jetmanz"
                     },
                     {
                       "KeyName": "JAM_SecretKey",
-                      "Key": "LaHbu9TyWxwkxEtvpTNPzUc2L0YdF1BB"
+                      "Key": "N1ukDk1ZTmTpAWvLossJRc2j8iUs2YHh"
                     }
                   ],
                   "IsAmazon": true
@@ -315,7 +315,7 @@
               "AF Link": {
                 "id": "%40G%5E%3A",
                 "type": "url",
-                "url": "https://hq1.appsflyer.com/apps/settings?appId=com.fxyply.jt.man-Amazon"
+                "url": "https://hq1.appsflyer.com/apps/settings?appId=com.frflw.jt.man-Amazon"
               },
               "Long Description": "",
               "BB SDK Key (Android)": "",
@@ -405,7 +405,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-24T08:59:00.000Z"
+                "last_edited_time": "2026-06-24T10:23:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -417,7 +417,7 @@
                 "type": "date",
                 "date": null
               },
-              "Bundle ID": "com.fxyply.jt.man",
+              "Bundle ID": "com.frflw.jt.man",
               "Price": {
                 "id": "EUeu",
                 "type": "number",
@@ -686,7 +686,7 @@
                 "type": "number",
                 "number": null
               },
-              "Vaveda_key": "jtmnjmz",
+              "Vaveda_key": "jetmanz",
               "Groups": [],
               "D1RET": {
                 "id": "%5D%3DAl",
@@ -822,7 +822,7 @@
                 "type": "number",
                 "number": null
               },
-              "Vaveda_secret": "LaHbu9TyWxwkxEtvpTNPzUc2L0YdF1BB",
+              "Vaveda_secret": "N1ukDk1ZTmTpAWvLossJRc2j8iUs2YHh",
               "ViraToolKit version": "",
               "Priority": "",
               "App ID(iOS)": "",
@@ -863,13 +863,11 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "918fdaf5-ccd0-4ba4-9dd7-100e8f690d84",
-                  "name": "Oleksandr Tokar",
-                  "avatar_url": null,
-                  "type": "person",
-                  "person": {
-                    "email": "oleksandr.tokar@vira.games"
-                  }
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
+                  "type": "bot",
+                  "bot": {}
                 }
               },
               "Account": {
@@ -1072,7 +1070,7 @@
                   "boolean": false
                 }
               },
-              "Project": "jtmnjmz - Jet Man",
+              "Project": "jetmanz - Jet Man",
               "Description": "",
               "SubscriptionRevenueEvent": false,
               "AMZ Metrics Date & Comment": "",
@@ -1100,8 +1098,8 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-22T22:58:00.000Z",
-            "last_edited_time": "2026-06-24T08:59:00.000Z",
-            "url": "https://app.notion.com/p/jtmnjmz-Jet-Man-3879748bc8c280ab9034c61f491f22e7",
+            "last_edited_time": "2026-06-24T10:23:00.000Z",
+            "url": "https://app.notion.com/p/jetmanz-Jet-Man-3879748bc8c280ab9034c61f491f22e7",
             "children": {
               "Page_13c9748b-c8c2-81b7-baa3-f19d5bc30c8b": {
                 "id": "13c9748b-c8c2-81b7-baa3-f19d5bc30c8b",
