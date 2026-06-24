@@ -130,14 +130,26 @@
               "Platform": {
                 "id": "%3AyyE",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                    "name": "AMZ",
+                    "color": "default"
+                  }
+                ]
               },
               "Paid/Free": {
                 "id": "Bnjr",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "5f5946de-66a2-4550-abb2-1f2c40b088cc",
+                    "name": "Paid",
+                    "color": "green"
+                  }
+                ]
               },
-              "App Name": "",
+              "App Name": "Shoot and Stack",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
@@ -184,7 +196,13 @@
               "Account": {
                 "id": "e%7C~F",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "hiqp",
+                    "name": "DreamByte Games",
+                    "color": "gray"
+                  }
+                ]
               },
               "AF Key": "",
               "Bundle Id Rollup": {
@@ -198,21 +216,21 @@
               "Name": "Shoot and Stack MainData"
             },
             "created_time": "2026-06-24T10:30:00.000Z",
-            "last_edited_time": "2026-06-24T10:30:00.000Z",
+            "last_edited_time": "2026-06-24T10:34:00.000Z",
             "url": "https://app.notion.com/p/Shoot-and-Stack-MainData-3899748bc8c2810698c2c248485d4490",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/u/6/folders/1TZJ0KgtDnDTDkw-vItF0xuLtzaZtKfUP",
-                  "ProductName": "",
+                  "ProductName": "Shoot and Stack",
                   "BundleIdentifier": "com.mvl.sht.stck",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
-                  "CompanyName": ""
+                  "CompanyName": "DreamByte Games"
                 },
                 "SDKSettings": {
                   "Keys": [],
-                  "IsAmazon": false
+                  "IsAmazon": true
                 }
               }
             }
@@ -384,7 +402,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-24T10:30:00.000Z"
+                "last_edited_time": "2026-06-24T10:33:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -822,7 +840,7 @@
                 "number": null
               },
               "Vaveda_secret": "Eca9gwwWUp5y2joQLGmBhPbxAfnlvKJp",
-              "ViraToolKit version": "1.8.9",
+              "ViraToolKit version": "2.0.2",
               "Priority": "",
               "App ID(iOS)": "",
               "Int&Port Epics": [],
@@ -870,11 +888,13 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
+                  "id": "27ed872b-594c-810e-913e-00023cf6c8cd",
+                  "name": "Dmytro Kosharenko",
                   "avatar_url": null,
-                  "type": "bot",
-                  "bot": {}
+                  "type": "person",
+                  "person": {
+                    "email": "dmytro.kosharenko@vira.games"
+                  }
                 }
               },
               "Account": {
@@ -1111,7 +1131,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-04-24T08:50:00.000Z",
-            "last_edited_time": "2026-06-24T10:30:00.000Z",
+            "last_edited_time": "2026-06-24T10:33:00.000Z",
             "url": "https://app.notion.com/p/shtnstz-Shoot-and-Stack-34c9748bc8c281359a86f87a8926ca83",
             "children": {
               "_Clone__shtncmz_-_Shooting_Hole__Combine_and_Stack__CreateKeys_": {
@@ -1292,7 +1312,7 @@
                     "type": "number",
                     "number": null
                   },
-                  "ViraToolKit version": "1.8.9",
+                  "ViraToolKit version": "2.0.2",
                   "Priority": "Medium",
                   "What's new": "nothing",
                   "All Projects Info": [
