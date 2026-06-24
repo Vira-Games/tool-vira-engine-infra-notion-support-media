@@ -1,0 +1,2621 @@
+{
+  "pageId": "3879748b-c8c2-8180-b362-e0b2be229875",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Ragdoll_Flip_3D": {
+        "id": "3879748b-c8c2-8180-b362-e0b2be229875",
+        "title": "Ragdoll Flip 3D",
+        "properties": {
+          "ProductCatalog": [
+            "3879748b-c8c2-817f-9e87-c2bdf19f2c4d"
+          ],
+          "MaxParent": {
+            "id": "F%7BpA",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "rgdllfz - Ragdoll Flip 3D"
+            }
+          },
+          "MaxParentLinkToPromo": {
+            "id": "GC%3FS",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "https://drive.google.com/drive/u/0/folders/1bB2x6gRL3hLavfkY7VOO3XiOv5KtUdXu"
+            }
+          },
+          "(List)BundleId": "com.mvl.rgd.fpl",
+          "MaxParentBundleID": {
+            "id": "LAsk",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "com.mvl.rgd.fpl"
+            }
+          },
+          "MaxParentVersion": {
+            "id": "Njfg",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1.0.0"
+            }
+          },
+          "Subscription Settings": [
+            "3879748b-c8c2-8122-b51b-d99ecd294515"
+          ],
+          "MainData": [
+            "3879748b-c8c2-8173-996b-feaaa9ea61ce"
+          ],
+          "(List)Bundle Version": "1",
+          "Platform": "",
+          "💼 All Projects": [
+            "34c9748b-c8c2-8138-a225-db9645152aec"
+          ],
+          "RefreshConfig": null,
+          "(List)Version": "1.0.0",
+          "MaxParentBundleVersion": {
+            "id": "fVoO",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1"
+            }
+          },
+          "ProjectKey": "3879748b-c8c2-8180-b362-e0b2be229875",
+          "(List)LinkToPromo": "https://drive.google.com/drive/u/0/folders/1bB2x6gRL3hLavfkY7VOO3XiOv5KtUdXu",
+          "Name": "Ragdoll Flip 3D"
+        },
+        "created_time": "2026-06-22T13:21:00.000Z",
+        "last_edited_time": "2026-06-22T13:22:00.000Z",
+        "url": "https://app.notion.com/p/Ragdoll-Flip-3D-3879748bc8c28180b362e0b2be229875",
+        "children": {
+          "Ragdoll_Flip_3D_ProductCatalog": {
+            "id": "3879748b-c8c2-817f-9e87-c2bdf19f2c4d",
+            "title": "Ragdoll Flip 3D ProductCatalog",
+            "properties": {
+              "Parent": [
+                "3879748b-c8c2-8180-b362-e0b2be229875"
+              ],
+              "Products": [],
+              "Name": "Ragdoll Flip 3D ProductCatalog"
+            },
+            "created_time": "2026-06-22T13:22:00.000Z",
+            "last_edited_time": "2026-06-22T13:22:00.000Z",
+            "url": "https://app.notion.com/p/Ragdoll-Flip-3D-ProductCatalog-3879748bc8c2817f9e87c2bdf19f2c4d"
+          },
+          "Ragdoll_Flip_3D_SubDataCatalog": {
+            "id": "3879748b-c8c2-8122-b51b-d99ecd294515",
+            "title": "Ragdoll Flip 3D SubDataCatalog",
+            "properties": {
+              "Parent": [
+                "3879748b-c8c2-8180-b362-e0b2be229875"
+              ],
+              "Platform": "",
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.mvl.rgd.fpl"
+                }
+              },
+              "Name": "Ragdoll Flip 3D SubDataCatalog"
+            },
+            "created_time": "2026-06-22T13:22:00.000Z",
+            "last_edited_time": "2026-06-22T13:22:00.000Z",
+            "url": "https://app.notion.com/p/Ragdoll-Flip-3D-SubDataCatalog-3879748bc8c28122b51bd99ecd294515"
+          },
+          "Ragdoll_Flip_3D_MainData": {
+            "id": "3879748b-c8c2-8173-996b-feaaa9ea61ce",
+            "title": "Ragdoll Flip 3D MainData",
+            "properties": {
+              "LinkToPromoRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/u/0/folders/1bB2x6gRL3hLavfkY7VOO3XiOv5KtUdXu"
+                }
+              },
+              "BundleVersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1"
+                }
+              },
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                    "name": "AMZ",
+                    "color": "default"
+                  }
+                ]
+              },
+              "Paid/Free": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "5f5946de-66a2-4550-abb2-1f2c40b088cc",
+                    "name": "Paid",
+                    "color": "green"
+                  }
+                ]
+              },
+              "App Name": "Ragdoll Flip 3D",
+              "Version": {
+                "id": "PczY",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.0"
+                }
+              },
+              "Vaveda_key": "rgdllfz",
+              "Link to Promo": {
+                "id": "%5CVgk",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/u/0/folders/1bB2x6gRL3hLavfkY7VOO3XiOv5KtUdXu"
+                }
+              },
+              "VersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.0"
+                }
+              },
+              "Parent": [
+                "3879748b-c8c2-8180-b362-e0b2be229875"
+              ],
+              "Bundle Version": {
+                "id": "%5D~p%60",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1"
+                }
+              },
+              "Bundle Id": {
+                "id": "%5E%7D%3Aj",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.mvl.rgd.fpl"
+                }
+              },
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "H^CN",
+                    "name": "ArcadeNova",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.mvl.rgd.fpl"
+                }
+              },
+              "Vaveda_secret": "4BUIURBawHha1rKKadThkVEpBbiWfpOy",
+              "Name": "Ragdoll Flip 3D MainData"
+            },
+            "created_time": "2026-06-22T13:22:00.000Z",
+            "last_edited_time": "2026-06-24T09:10:00.000Z",
+            "url": "https://app.notion.com/p/Ragdoll-Flip-3D-MainData-3879748bc8c28173996bfeaaa9ea61ce",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/u/0/folders/1bB2x6gRL3hLavfkY7VOO3XiOv5KtUdXu",
+                  "ProductName": "Ragdoll Flip 3D",
+                  "BundleIdentifier": "com.mvl.rgd.fpl",
+                  "Version": "1.0.0",
+                  "BundleVersionCode": 1,
+                  "CompanyName": "ArcadeNova"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "rgdllfz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "4BUIURBawHha1rKKadThkVEpBbiWfpOy"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          },
+          "Page_34c9748b-c8c2-8138-a225-db9645152aec": {
+            "id": "34c9748b-c8c2-8138-a225-db9645152aec",
+            "title": "Page 34c9748b-c8c2-8138-a225-db9645152aec",
+            "properties": {
+              "CR_SUB_WW": {
+                "id": "%3A%3Br_",
+                "type": "number",
+                "number": null
+              },
+              "Create Paid Promo Rebuild ": null,
+              "Installs US": {
+                "id": "%3Au%7BN",
+                "type": "number",
+                "number": null
+              },
+              "Creatives Status": {
+                "id": "%3B%60E%3C",
+                "type": "status",
+                "status": {
+                  "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "[Icon]": null,
+              "TOP AMZ for Sub Screen Upates": [],
+              "Ref Name": "",
+              "ASIN": "B0GH2M67RR",
+              "Missing Info for Dev(Cross)": {
+                "id": "%3Cv%60H",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "New promo link": {
+                "id": "%3DU%3BG",
+                "type": "url",
+                "url": null
+              },
+              "Date Dev Start": {
+                "id": "%3D%7B%3Ej",
+                "type": "date",
+                "date": {
+                  "start": "2026-04-24",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Clone": null,
+              "Days in Dev -> Release": {
+                "id": "%3EkOQ",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 45
+                }
+              },
+              "Are all prop. filled? ": {
+                "id": "%3Epbv",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "false"
+                }
+              },
+              "All Projects Info Old": [],
+              "AF Link": {
+                "id": "%40G%5E%3A",
+                "type": "url",
+                "url": "https://hq1.appsflyer.com/apps/settings?appId=com.mvl.rgd.fpl-Amazon"
+              },
+              "Long Description": "Ragdoll Flip 3D throws you into a wild world of physics where your only goal is simple: flip, fling, and crash your ragdoll in the most ridiculous ways possible. Tap, drag, and release to launch your floppy character through 3D levels packed with platforms, walls, and crazy obstacles.\n\nMaster the art of timing and angle as you send your ragdoll flying through the air. Watch every limb bend and twist with realistic ragdoll physics while you try to land perfect flips, reach distant platforms, or smash through breakable objects. Each level challenges you to aim just right, hit the target zone, and score big combo points.\n\nAs you progress, unlock new stages with higher platforms, moving traps, rotating blocks, and risky gaps that demand precision and creativity. Collect rewards to discover fresh ragdoll skins and fun outfits, making each launch look different and even more hilarious. Play again and again to beat your best scores, find new crash routes, and discover hidden ways to complete levels.\n\nEasy one-touch controls, quick levels, and satisfying 3D physics make this an ideal offline arcade game for short breaks or long play sessions. If you enjoy physics games, stunt simulators, or silly crash challenges, this ragdoll flipping game will keep you coming back for \"just one more launch\". Download now and see how far you can flip!",
+              "BB SDK Key (Android)": "",
+              "Icon Promo Request": false,
+              "pLTV 180": {
+                "id": "%40zGB",
+                "type": "number",
+                "number": null
+              },
+              "Developer": {
+                "id": "%40%7Cvk",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "3a63fa1d-90a4-4994-8888-1c62e9cd1c62",
+                    "name": "Maksim Hiadroits",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/4e050820-1cfb-4769-857f-368f3be6313a/IMG_6173.jpeg",
+                    "type": "person",
+                    "person": {
+                      "email": "maxim.gedroit@vira.games"
+                    }
+                  }
+                ]
+              },
+              "PROGRESSION": "",
+              "🎯 AllPages": [
+                "34c9748b-c8c2-81df-ba69-e6378ccc7f28"
+              ],
+              "Project Subs Metrics": [],
+              "Status (Copy)": {
+                "id": "BVo%40",
+                "type": "status",
+                "status": {
+                  "id": "90bac3ba-be41-4b5d-8096-cf1217b11885",
+                  "name": "LIVE",
+                  "color": "green"
+                }
+              },
+              "Mintegral Status": "",
+              "Creo Link": "https://drive.google.com/drive/u/0/folders/1erSb3WofPCPGeZx4he-390qEJ240hf1a",
+              "Days Start-Finish": {
+                "id": "Bzh%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 0
+                }
+              },
+              "Sum SP": "",
+              "Created time": {
+                "id": "B~Qf",
+                "type": "created_time",
+                "created_time": "2026-04-24T08:48:00.000Z"
+              },
+              "All subscriptions for the current build are filled": false,
+              "Missing info for Promo rebuild": {
+                "id": "CkT%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "CPI": {
+                "id": "Cxr%40",
+                "type": "number",
+                "number": null
+              },
+              "Teams use": {
+                "id": "D%40CI",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Status": {
+                "id": "DYYJ",
+                "type": "status",
+                "status": {
+                  "id": "ZknJ",
+                  "name": "WAITING RELEASE",
+                  "color": "blue"
+                }
+              },
+              "Date Development Status Set": {
+                "id": "D%60fU",
+                "type": "date",
+                "date": {
+                  "start": "2026-01-15",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Last edited time": {
+                "id": "Dj%3Fm",
+                "type": "last_edited_time",
+                "last_edited_time": "2026-06-22T13:22:00.000Z"
+              },
+              "Project Link": {
+                "id": "DjJJ",
+                "type": "url",
+                "url": "https://www.notion.so/rgdbrbz-Ragdoll-Kick-Broken-Bones-2379748bc8c280d1843eca33cc1ba91b"
+              },
+              "Date Art Finish": {
+                "id": "Do%3DG",
+                "type": "date",
+                "date": null
+              },
+              "Bundle ID": "com.mvl.rgd.fpl",
+              "Price": {
+                "id": "EUeu",
+                "type": "number",
+                "number": 12.99
+              },
+              "Project Score Analysys": "",
+              "[Promo] Tasks ": [],
+              "TECH": "",
+              "CTR TEST": {
+                "id": "Ejyo",
+                "type": "number",
+                "number": null
+              },
+              "Subscription screen changes include links to actual references (expected UI)": false,
+              "GD": {
+                "id": "FHAP",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "3a63fa1d-90a4-4994-8888-1c62e9cd1c62",
+                    "name": "Maksim Hiadroits",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/4e050820-1cfb-4769-857f-368f3be6313a/IMG_6173.jpeg",
+                    "type": "person",
+                    "person": {
+                      "email": "maxim.gedroit@vira.games"
+                    }
+                  }
+                ]
+              },
+              "CONTENT": "",
+              "Due": {
+                "id": "FaCd",
+                "type": "date",
+                "date": null
+              },
+              "Link to Old Promo": {
+                "id": "FbpI",
+                "type": "url",
+                "url": null
+              },
+              "QA Task File": {
+                "type": "files",
+                "files": []
+              },
+              "Task from Growth": [],
+              "ASO Name & Description": null,
+              "External\\internal": "Internal",
+              "⏺️ ASO | Calendar": [],
+              "Product Features": "🤸 Ragdoll Flipping Action — Tap, aim, and launch your 3D ragdoll through the air\n🧱 Physics-Based Levels — Bounce off platforms, walls, and obstacles with realistic motion\n🎯 Target Challenges — Land in goal zones, hit markers, and chase high scores\n🚧 Crazy Obstacles — Dodge spikes, moving blocks, and risky gaps as you fly\n🎭 Unlockable Characters — Collect new ragdoll skins and funny outfits\n🕹️ Simple One-Touch Play — Easy to learn physics arcade gameplay for all ages",
+              "Promo Task ": [],
+              "Monetization DB": [],
+              "Banner Key": "",
+              "Date Info Updated": {
+                "id": "HqDO",
+                "type": "date",
+                "date": null
+              },
+              "Short Description": "Flip, fling and crash ragdolls",
+              "Creo Status": "",
+              "Amz Int & Port Tasks Template": null,
+              "Tools": {
+                "id": "IZP%3F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "CreateTKSettings": null,
+              "Subscription JSON": [],
+              "GetGitlabInfo": null,
+              "Days Start-Release": {
+                "id": "JXlK",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "AMZ releaseId": "",
+              "[Logotype]": null,
+              "CR Subs, %": {
+                "id": "KKZH",
+                "type": "number",
+                "number": null
+              },
+              "Date": {
+                "id": "LkTZ",
+                "type": "date",
+                "date": null
+              },
+              "D3REW": {
+                "id": "M%5E%40L",
+                "type": "number",
+                "number": null
+              },
+              "Each config has its own separate description": false,
+              "CR Total, %": {
+                "id": "MguI",
+                "type": "number",
+                "number": null
+              },
+              "D7INT": {
+                "id": "MqkG",
+                "type": "number",
+                "number": null
+              },
+              "PaidConfigGroup": [],
+              "D1INT": {
+                "id": "N%3AM%60",
+                "type": "number",
+                "number": null
+              },
+              "Automation Info (AppStore)": "✅ AMZ page created",
+              "Previous Status": {
+                "id": "NSz%7D",
+                "type": "status",
+                "status": {
+                  "id": "ZknJ",
+                  "name": "WAITING RELEASE",
+                  "color": "blue"
+                }
+              },
+              "Traffic Source": {
+                "id": "N%5E%3Cm",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Game Type": {
+                "id": "NcId",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "j=mr",
+                    "name": "Reskin",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "Create Task (No Check)": null,
+              "Developer AMZ AppStore Link": "",
+              "pLTV 7": {
+                "id": "OPM%5C",
+                "type": "number",
+                "number": null
+              },
+              "Interstitial Key": "",
+              "BB Game ID (iOS)": "",
+              "Team ": "Tools Department",
+              "Ref Link": "https://play.google.com/store/apps/details?id=com.kayac.breakragdoll",
+              "Build Paid Icon": null,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+              "Create Paid Icon": null,
+              "ByteBrew Link": {
+                "id": "QD%3Cd",
+                "type": "url",
+                "url": null
+              },
+              "Outdated / unused elements are removed from GDD": false,
+              "Applovin Key": "",
+              "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
+              "Version": "1.0.0",
+              "Show": {
+                "id": "RfDI",
+                "type": "number",
+                "number": null
+              },
+              "QA | Tasks": [
+                "3539748b-c8c2-8163-b49e-c4f961812329"
+              ],
+              "Fullsreen Banner Promo Request": false,
+              "📽️ Creatives Team Tasks": [],
+              "Bright SDK Review Status": {
+                "id": "SXax",
+                "type": "status",
+                "status": {
+                  "id": "`GJc",
+                  "name": "No Bright for this app",
+                  "color": "red"
+                }
+              },
+              "Days for Art Test": {
+                "id": "SdR%3B",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
+              },
+              "Bundle Version": "1",
+              "Days for Art": {
+                "id": "T%3Edc",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "BB SDK Key (iOS)": "",
+              "Feature description matches the latest implementation": false,
+              "Create New \"QA Task\"": null,
+              "Status  Promo": {
+                "id": "TWT%3A",
+                "type": "status",
+                "status": {
+                  "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Click": {
+                "id": "TkDm",
+                "type": "number",
+                "number": null
+              },
+              "GA Game Key": "",
+              "CTR Video link": "",
+              "Link to Automation": {
+                "id": "VRV%3B",
+                "type": "url",
+                "url": null
+              },
+              "Days in QA": {
+                "id": "VgPc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 39
+                }
+              },
+              "parent": "Ragdoll Break",
+              "Genre": {
+                "id": "V~Gf",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "b804cd9d-b806-4375-8642-e905bb76aee3",
+                    "name": "Arcade",
+                    "color": "default"
+                  }
+                ]
+              },
+              "BB Game ID (Android)": "",
+              "Date QA Finished": {
+                "id": "X%5Cma",
+                "type": "date",
+                "date": {
+                  "start": "2026-05-06T14:45:00.000+03:00",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Task Create Info": "✅ QA Task - Successfully Created!",
+              "GDD Doc": "https://www.notion.so/viragames/Ragdoll-Break-58ebcb7a9d134e3098c33f9a6f64ca9b",
+              "Full Pack Amz": null,
+              "Missing Info for QA Task": {
+                "id": "ZSo%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "[Screenshots]": null,
+              "Specialist": {
+                "id": "Zy%3F%3A",
+                "type": "people",
+                "people": []
+              },
+              "A/B Group": "",
+              "Full Pack TV Promo Request": false,
+              "Date Team Finish": {
+                "id": "%5B%5E%3AX",
+                "type": "date",
+                "date": {
+                  "start": "2026-04-24",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "IPM STATIC": {
+                "id": "%5Bagu",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_key": "rgdllfz",
+              "Groups": [],
+              "D1RET": {
+                "id": "%5D%3DAl",
+                "type": "number",
+                "number": null
+              },
+              "[Fullscreen Banner]": null,
+              "CR_SUB_US": {
+                "id": "%5Dz%7CJ",
+                "type": "number",
+                "number": null
+              },
+              "D7BAN": {
+                "id": "%5E%3A%3F%3B",
+                "type": "number",
+                "number": null
+              },
+              "MONETIZATION": "",
+              "D3BAN": {
+                "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "Full game name": "Ragdoll Flip 3D",
+              "Firebase PLIST": [],
+              "Are all prop filled": {
+                "id": "_%5D%5E%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Date to QA"
+                }
+              },
+              "D1REW": {
+                "id": "_bnb",
+                "type": "number",
+                "number": null
+              },
+              "ASO Name & Descripton Request": false,
+              "Build changes are marked in the task": false,
+              "Unity version": "",
+              "Promo status info": "",
+              "Average FPS": {
+                "id": "a%3Fdf",
+                "type": "number",
+                "number": null
+              },
+              "Autobuild_buildNumber": {
+                "type": "relation",
+                "relation": [
+                  {
+                    "id": "3499748b-c8c2-8108-af8c-e62a670acb3e"
+                  }
+                ]
+              },
+              "Polishing": "",
+              "ExtraComments": "Uploads240426",
+              "Full Pack Promo Request": false,
+              "Art Subs Links": "",
+              "Sprint": {
+                "id": "afeU",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Documentation link": "-",
+              "Clone From": "brgdmpz",
+              "D7RET": {
+                "id": "bE%7C%3A",
+                "type": "number",
+                "number": null
+              },
+              "Test - Button No Validation": null,
+              "Release Type": "Re-build",
+              "GDD is updated for the current game version": false,
+              "Link to ASO": {
+                "id": "d%3BwX",
+                "type": "url",
+                "url": null
+              },
+              "Create Paid Banner": null,
+              "Prod Promo Approve": "",
+              "RW Key": "",
+              "What's new": "nothing",
+              "100% Release Date": {
+                "id": "e%5Ec%7C",
+                "type": "date",
+                "date": null
+              },
+              "Api key": "",
+              "[Static Banner]": null,
+              "Public key": [],
+              "Quarter": "Q2_26",
+              "Create AF & Vaveda Pages": null,
+              "LTV_180_WW": {
+                "id": "gCUp",
+                "type": "number",
+                "number": null
+              },
+              "Crit Bugs": "",
+              "IPM(CP)": {
+                "id": "hQ%5C%5B",
+                "type": "number",
+                "number": null
+              },
+              "Refund Rate": {
+                "id": "h%5Cxv",
+                "type": "number",
+                "number": null
+              },
+              "Keywords": "ragdoll, physics, arcade, flip, 3d game, stunt, crash, simulator, casual, offline",
+              "IOS Distribution profile": [],
+              "Status 1": {
+                "id": "ihRL",
+                "type": "status",
+                "status": {
+                  "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Logotype Banner Promo Request": false,
+              "Slack Channel Link": "https://viragames.slack.com/archives/C08AF8S8Z1U",
+              "CTR": {
+                "id": "jqbZ",
+                "type": "number",
+                "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": null
+              },
+              "D3PTM": {
+                "id": "kamA",
+                "type": "number",
+                "number": null
+              },
+              "D7REW": {
+                "id": "kuEV",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_secret": "4BUIURBawHha1rKKadThkVEpBbiWfpOy",
+              "ViraToolKit version": "1.8.9",
+              "Priority": "",
+              "App ID(iOS)": "",
+              "Int&Port Epics": [],
+              "ToolKitSettings": [
+                "3879748b-c8c2-8180-b362-e0b2be229875"
+              ],
+              "Link to store": "https://www.amazon.com/dp/B0GH2M67RR",
+              "QA checking": "Active group",
+              "Date Release": {
+                "id": "nTQx",
+                "type": "date",
+                "date": null
+              },
+              "D3RET": {
+                "id": "n%5CF~",
+                "type": "number",
+                "number": null
+              },
+              "Cross-Promo AMZ": [],
+              "Paid\\Free": "Paid",
+              "AMZ AppStore": null,
+              "RESULTS": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Goals": "",
+              "Firebase JSON": [],
+              "QA": {
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "603beaea-e97d-4e5b-b37b-db9c23a28f07"
+                  }
+                ]
+              },
+              "Hypothesys": [],
+              "AMZ appId": "",
+              "Opt-In": {
+                "id": "p_Ic",
+                "type": "number",
+                "number": null
+              },
+              "New Tasks & Requests": [],
+              "Last edited by": {
+                "id": "qUWF",
+                "type": "last_edited_by",
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
+                  "name": "Tools Team Helper",
+                  "avatar_url": null,
+                  "type": "bot",
+                  "bot": {}
+                }
+              },
+              "Account": {
+                "id": "qhXd",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "e6bfca27-0c8d-4aab-8671-5be913f6e172",
+                    "name": "ArcadeNova",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "Date to QA": {
+                "id": "q%7D%3F%5C",
+                "type": "date",
+                "date": null
+              },
+              "Sub-team": "Tools Team",
+              "Date Team Start": {
+                "id": "rKeG",
+                "type": "date",
+                "date": {
+                  "start": "2026-04-24",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Created by": {
+                "id": "r%5BBI",
+                "type": "created_by",
+                "created_by": {
+                  "object": "user",
+                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
+                  "name": "Tools Team Helper",
+                  "avatar_url": null,
+                  "type": "bot",
+                  "bot": {}
+                }
+              },
+              "Tech Project Doc": "",
+              "Sub-subscription 1": {
+                "id": "sCtp",
+                "type": "url",
+                "url": null
+              },
+              "Automated Team": {
+                "id": "sDNL",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "If release is not required:  Need Release checkbox is unchecked": false,
+              "UI": "",
+              "Test - Button Validation": null,
+              "Admob Key": "",
+              "Firebase Link": {
+                "id": "upQD",
+                "type": "url",
+                "url": null
+              },
+              "Monetization": [],
+              "Cross Promo Video status": "",
+              "CPI (Mint) Test Dates": {
+                "id": "v%5Bi%60",
+                "type": "date",
+                "date": null
+              },
+              "Date Art Start": {
+                "id": "v%5D~D",
+                "type": "date",
+                "date": null
+              },
+              "Last Status Change": {
+                "id": "wQFr",
+                "type": "date",
+                "date": {
+                  "start": "2026-05-06",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D1PTM": {
+                "id": "wgp%7B",
+                "type": "number",
+                "number": null
+              },
+              "Link to Promo": "https://drive.google.com/drive/u/0/folders/1bB2x6gRL3hLavfkY7VOO3XiOv5KtUdXu",
+              "[Creatives] Tasks": [],
+              "ipm TEST": {
+                "id": "xWSH",
+                "type": "number",
+                "number": null
+              },
+              "Art Assets Link": {
+                "id": "x%5C%3DY",
+                "type": "url",
+                "url": null
+              },
+              "Total installs": {
+                "id": "x%5DWz",
+                "type": "number",
+                "number": null
+              },
+              "LTV_180_US ": {
+                "id": "xfen",
+                "type": "number",
+                "number": null
+              },
+              "Sub-s Database": [],
+              "Amz Console: On Auto support": false,
+              "Create QA Task": true,
+              "Create UA Tasks": null,
+              "3D Artist": {
+                "id": "zHXV",
+                "type": "people",
+                "people": []
+              },
+              " GA Secret Key": "",
+              "Task Tracker Link": {
+                "id": "%7BIp%3F",
+                "type": "url",
+                "url": null
+              },
+              "D3INT": {
+                "id": "%7BL%5C%3B",
+                "type": "number",
+                "number": null
+              },
+              "Percent of Release": {
+                "id": "%7BRbl",
+                "type": "number",
+                "number": 100
+              },
+              "AppMagic Info": [],
+              "StartUp Time": {
+                "id": "%7BZ_P",
+                "type": "number",
+                "number": null
+              },
+              "D1BAN": {
+                "id": "%7BeFD",
+                "type": "number",
+                "number": null
+              },
+              "IPM (CP) Test Dates": {
+                "id": "%7Be%5E%3E",
+                "type": "date",
+                "date": null
+              },
+              "Platform": "AMZ",
+              "temp_tk_version_link": {
+                "id": "%7CeXN",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "Open ImportPackageWindow.cs"
+                }
+              },
+              "Screenshot Promo Request": false,
+              "Sub-item": [],
+              "Date Art Finish Test": {
+                "id": "%7Dwfx",
+                "type": "date",
+                "date": null
+              },
+              "GIT LINK": "https://gitlab.com/vira-games/amazon-projects/ragdoll-break",
+              "D7PTM": {
+                "id": "~%3F%3B%40",
+                "type": "number",
+                "number": null
+              },
+              "Parent Project": [
+                "13c9748b-c8c2-81ef-b75d-dba4eda335f8"
+              ],
+              "Days in Dev -> QA": {
+                "id": "~FLK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 6
+                }
+              },
+              "BALANCE": "",
+              "Description for QA": "smoke test + release",
+              "Prod Approved": false,
+              "Static Banner Promo Request": false,
+              "IPM": {
+                "id": "~oXr",
+                "type": "number",
+                "number": null
+              },
+              "Sent To QA": {
+                "id": "~sjG",
+                "type": "date",
+                "date": {
+                  "start": "2026-05-01",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Promo info checking": {
+                "id": "~wLr",
+                "type": "formula",
+                "formula": {
+                  "type": "boolean",
+                  "boolean": false
+                }
+              },
+              "Project": "rgdllfz - Ragdoll Flip 3D",
+              "Description": "",
+              "SubscriptionRevenueEvent": false,
+              "AMZ Metrics Date & Comment": "",
+              "GD 2": {
+                "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Amz StartUp Time": {
+                "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                "type": "number",
+                "number": null
+              },
+              "Status 2": "",
+              "Days": {
+                "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                "type": "number",
+                "number": null
+              },
+              "Asana Link": {
+                "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                "type": "url",
+                "url": null
+              },
+              "Need a new Video?": false
+            },
+            "created_time": "2026-04-24T08:48:00.000Z",
+            "last_edited_time": "2026-06-22T13:22:00.000Z",
+            "url": "https://app.notion.com/p/rgdllfz-Ragdoll-Flip-3D-34c9748bc8c28138a225db9645152aec",
+            "children": {
+              "_Clone__brgdmpz_-_Body_Flip_3D__Ragdoll_Impact__CreateKeys_": {
+                "id": "34c9748b-c8c2-81df-ba69-e6378ccc7f28",
+                "title": "[Clone] brgdmpz - Body Flip 3D: Ragdoll Impact (CreateKeys)",
+                "properties": {
+                  "Project": [
+                    "34c9748b-c8c2-8138-a225-db9645152aec"
+                  ],
+                  "AccountFormula": {
+                    "id": "%3EeZO",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "ArcadeNova"
+                    }
+                  },
+                  "buildNote": "",
+                  "StepPanel": [
+                    "2ce9748b-c8c2-8044-8566-e93f48cd58a1"
+                  ],
+                  "Step": "SmokeTest",
+                  "BuildHistory": [
+                    "3499748b-c8c2-8108-af8c-e62a670acb3e"
+                  ],
+                  "CurrentBuild": {
+                    "type": "relation",
+                    "relation": []
+                  },
+                  "Status": "In progress",
+                  "GitLink": {
+                    "id": "%5Cy~w",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "https://gitlab.com/vira-games/amazon-projects/ragdoll-break"
+                    }
+                  },
+                  "Account": {
+                    "type": "multi_select",
+                    "multi_select": [
+                      {
+                        "id": "e6bfca27-0c8d-4aab-8671-5be913f6e172",
+                        "name": "ArcadeNova",
+                        "color": "pink"
+                      }
+                    ]
+                  },
+                  "gitlink": "https://gitlab.com/vira-games/amazon-projects/ragdoll-break",
+                  "QA_TASK_STATUS": {
+                    "id": "bs%3C%5B",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "Paid Archive"
+                    }
+                  },
+                  "LinkToBuildConfig": {
+                    "id": "dQai",
+                    "type": "url",
+                    "url": "https://gitlab.com/vira-games/ToolsTeamPrivate/techprojectpaidpipeline/-/raw/main/buildconfigs/ArcadeNova/2026-04-30_15-15-21.json"
+                  },
+                  "AllProject Status": {
+                    "type": "status",
+                    "status": {
+                      "id": "ZknJ",
+                      "name": "WAITING RELEASE",
+                      "color": "blue"
+                    }
+                  },
+                  "qa tasks": {
+                    "type": "relation",
+                    "relation": [
+                      {
+                        "id": "3539748b-c8c2-8163-b49e-c4f961812329"
+                      }
+                    ]
+                  },
+                  "SplitGroup": {
+                    "id": "lKMm",
+                    "type": "number",
+                    "number": null
+                  },
+                  "note": "",
+                  "Index": {
+                    "id": "o%7D%40%40",
+                    "type": "number",
+                    "number": 7
+                  },
+                  "IsCurrentBuild": {
+                    "id": "rMrv",
+                    "type": "formula",
+                    "formula": {
+                      "type": "boolean",
+                      "boolean": false
+                    }
+                  },
+                  "qa": {
+                    "type": "checkbox",
+                    "checkbox": true
+                  },
+                  "paid_config": {
+                    "type": "relation",
+                    "relation": []
+                  },
+                  "UnityVersion": "",
+                  "TempComment": "",
+                  "Name": "[Clone] brgdmpz - Body Flip 3D: Ragdoll Impact (CreateKeys)"
+                },
+                "created_time": "2026-04-24T09:00:00.000Z",
+                "last_edited_time": "2026-05-01T14:56:00.000Z",
+                "url": "https://app.notion.com/p/Clone-brgdmpz-Body-Flip-3D-Ragdoll-Impact-CreateKeys-34c9748bc8c281dfba69e6378ccc7f28"
+              },
+              "Ragdoll_Flip_3D__AMZ_-_Paid_": {
+                "id": "3539748b-c8c2-8163-b49e-c4f961812329",
+                "title": "Ragdoll Flip 3D [AMZ - Paid]",
+                "properties": {
+                  "Send Bug-report for Review": null,
+                  "QA": {
+                    "id": "%3Akbv",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "603beaea-e97d-4e5b-b37b-db9c23a28f07",
+                        "name": "Kostiantyn Panfilov",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/7985f3d2-f8a4-41b3-a0e4-f4b7e83b53d4/photo_2024-05-20_09-53-22.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "kostiantyn.panfilov@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  "Sent for Review Date": {
+                    "id": "%3B%3Dui",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Extra Story Point ": {
+                    "id": "%3Bmt%7D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Previous status": "Waiting Release",
+                  "Get info for iterations": null,
+                  "Release Build Link:": {
+                    "id": "%3FUcg",
+                    "type": "url",
+                    "url": "https://viragames.slack.com/files/U07L3U2QH9D/F0B0H6P3QJK/ragdoll_flip_3d_amazon_release_v1.0.0_bundle1_new.aab"
+                  },
+                  "Main Checklist": {
+                    "id": "%40uPu",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Test result": [],
+                  "Create-Start Testing days": {
+                    "id": "A%5Bv%5B",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "Total Testing Time (hrs)": {
+                    "id": "AaPZ",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total Old Bugs": {
+                    "id": "C%60br",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total \"Major\"": {
+                    "id": "DB%7D%3F",
+                    "type": "number",
+                    "number": null
+                  },
+                  "ViraToolKit version": "1.8.9",
+                  "Priority": "Medium",
+                  "What's new": "nothing",
+                  "All Projects Info": [
+                    "34c9748b-c8c2-8138-a225-db9645152aec"
+                  ],
+                  "Link To Promo": "https://drive.google.com/drive/u/0/folders/1bB2x6gRL3hLavfkY7VOO3XiOv5KtUdXu",
+                  "Created time": {
+                    "id": "Hli%3C",
+                    "type": "created_time",
+                    "created_time": "2026-05-01T14:57:00.000Z"
+                  },
+                  "AF test Screen ": [],
+                  "Missed Crit-bugs in Live": {
+                    "id": "Jm%7B%3B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Documentation link": "-",
+                  "Sub-tasks": [],
+                  "Max it test time (hrs)": {
+                    "id": "M%3AHd",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total \"Minor\"": {
+                    "id": "M%7Dly",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Attach file": [],
+                  "% sub-tasks per other iterations": {
+                    "id": "OAKo",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Link to Slack release-updates": {
+                    "id": "OUVS",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Company": {
+                    "id": "Psch",
+                    "type": "multi_select",
+                    "multi_select": [
+                      {
+                        "id": "5bce66c7-8f99-42c3-a0d8-38e9cff653a5",
+                        "name": "ArcadeNova",
+                        "color": "green"
+                      }
+                    ]
+                  },
+                  "Release Build Link 2": {
+                    "id": "Q%40JT",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Total \"Critical\"": {
+                    "id": "QRF%5E",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Place": {
+                    "id": "SQ%3F%5C",
+                    "type": "place",
+                    "place": null
+                  },
+                  "Release Checklist": {
+                    "id": "SXCS",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Slack Channel Link": {
+                    "id": "S%7C~u",
+                    "type": "url",
+                    "url": "https://viragames.slack.com/archives/C08AF8S8Z1U"
+                  },
+                  "Auto Test Status": {
+                    "id": "UErf",
+                    "type": "status",
+                    "status": {
+                      "id": "a12b6075-ea50-4678-8c1a-5a8e89ff475b",
+                      "name": "Waiting auto-test",
+                      "color": "default"
+                    }
+                  },
+                  "Sub-task Iteration": {
+                    "id": "VafY",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "GameDesigner": {
+                    "id": "VuMY",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "3a63fa1d-90a4-4994-8888-1c62e9cd1c62",
+                        "name": "Maksim Hiadroits",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/4e050820-1cfb-4769-857f-368f3be6313a/IMG_6173.jpeg",
+                        "type": "person",
+                        "person": {
+                          "email": "maxim.gedroit@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  "Total \"Skip\" bug-tasks": {
+                    "id": "WFjH",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Bundle Version": {
+                    "id": "WXSF",
+                    "type": "number",
+                    "number": 1
+                  },
+                  "Logs": [],
+                  "Need release?": true,
+                  "Max it time (hrs)": {
+                    "id": "X%5Dx%3D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "App Version": "1.0.0",
+                  "Previous Update Date": {
+                    "id": "Ztsi",
+                    "type": "date",
+                    "date": null
+                  },
+                  "AVG iteration time (days)": {
+                    "id": "%5BPCR",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0
+                    }
+                  },
+                  "Severity": "",
+                  "Release Percent": {
+                    "id": "%5DWSH",
+                    "type": "number",
+                    "number": 100
+                  },
+                  "Long Description": "Ragdoll Flip 3D throws you into a wild world of physics where your only goal is simple: flip, fling, and crash your ragdoll in the most ridiculous ways possible. Tap, drag, and release to launch your floppy character through 3D levels packed with platforms, walls, and crazy obstacles.\n\nMaster the art of timing and angle as you send your ragdoll flying through the air. Watch every limb bend and twist with realistic ragdoll physics while you try to land perfect flips, reach distant platforms, or smash through breakable objects. Each level challenges you to aim just right, hit the target zone, and score big combo points.\n\nAs you progress, unlock new stages with higher platforms, moving traps, rotating blocks, and risky gaps that demand precision and creativity. Collect rewards to discover fresh ragdoll skins and fun outfits, making each launch look different and even more hilarious. Play again and again to beat your best scores, find new crash routes, and discover hidden ways to complete levels.\n\nEasy one-touch controls, quick levels, and satisfying 3D physics make this an ideal offline arcade game for short breaks or long play sessions. If you enjoy physics games, stunt simulators, or silly crash challenges, this ragdoll flipping game will keep you coming back for \"just one more launch\". Download now and see how far you can flip!",
+                  "Monetization": [],
+                  "Story Point": {
+                    "id": "%5D~Vq",
+                    "type": "number",
+                    "number": 0.25
+                  },
+                  "Iteration": {
+                    "id": "_QS%3F",
+                    "type": "number",
+                    "number": 1
+                  },
+                  "Description": "smoke test + release",
+                  "Total \"Blocker\"": {
+                    "id": "%60ZaY",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Slack Release Message Link": {
+                    "id": "a%3CNh",
+                    "type": "url",
+                    "url": "https://vira-games.slack.com/archives/C056D595H1N/p1778067918956759"
+                  },
+                  "Bundle ID": "com.mvl.rgd.fpl",
+                  "Developer": {
+                    "id": "aiP%7D",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "3a63fa1d-90a4-4994-8888-1c62e9cd1c62",
+                        "name": "Maksim Hiadroits",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/4e050820-1cfb-4769-857f-368f3be6313a/IMG_6173.jpeg",
+                        "type": "person",
+                        "person": {
+                          "email": "maxim.gedroit@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  "Automation Info": "",
+                  "Store Type": "AMZ",
+                  "Task Status": {
+                    "id": "cQM%5D",
+                    "type": "status",
+                    "status": {
+                      "id": "iXP@",
+                      "name": "Paid Archive",
+                      "color": "blue"
+                    }
+                  },
+                  "Close time": {
+                    "id": "c%60ea",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Days in Review": {
+                    "id": "f%3B%3E%7B",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "% sub-tasks per 1-2 iterations": {
+                    "id": "full",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Who sent to release": {
+                    "id": "fyNp",
+                    "type": "people",
+                    "people": []
+                  },
+                  "Change Status - Button": null,
+                  "💼 All Projects - Parental card": [
+                    "13c9748b-c8c2-81ef-b75d-dba4eda335f8"
+                  ],
+                  "End Test-Review Days": {
+                    "id": "iH%5CQ",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "Parent item": [],
+                  "Total Iterations Time (days)": {
+                    "id": "jewJ",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0
+                    }
+                  },
+                  "Longest it": {
+                    "id": "k%3Ea%7D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Release Type ": "Re-build",
+                  "AVG test iteration time (hrs)": {
+                    "id": "lyw%3B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Assignee": {
+                    "id": "mgO%5D",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "603beaea-e97d-4e5b-b37b-db9c23a28f07",
+                        "name": "Kostiantyn Panfilov",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/7985f3d2-f8a4-41b3-a0e4-f4b7e83b53d4/photo_2024-05-20_09-53-22.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "kostiantyn.panfilov@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  "QA who checked Live Test": {
+                    "id": "mn~B",
+                    "type": "people",
+                    "people": []
+                  },
+                  "Total сhild-tasks": {
+                    "id": "oFKh",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Build in internal test": false,
+                  "Sub-Team": {
+                    "id": "q%3Cug",
+                    "type": "multi_select",
+                    "multi_select": [
+                      {
+                        "id": "f1193f6e-d54d-4966-b453-c37ed3440aa3",
+                        "name": "Tools Team",
+                        "color": "yellow"
+                      }
+                    ]
+                  },
+                  "Extra QA": {
+                    "id": "q%5BX%5C",
+                    "type": "people",
+                    "people": []
+                  },
+                  "Testing End Date": {
+                    "id": "q%60yo",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-05-06T14:45:00.000+03:00",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Team": "Tools Team",
+                  "Longest Test it": {
+                    "id": "sCIG",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Days in QA stage": {
+                    "id": "sQbV",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "Device": {
+                    "id": "s%5D%5EA",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Live Release Date": {
+                    "id": "tZz%7D",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Delay Reason": {
+                    "id": "tj%7Ce",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Total \"Trivial\"": {
+                    "id": "u%5Cdr",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Paid/free": "Paid",
+                  "Reject Start Date": {
+                    "id": "udDX",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Error Message": "",
+                  "Testing Start Date": {
+                    "id": "vON%5C",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Total Iterations Time (hrs)": {
+                    "id": "w%5EKg",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total Bug-tasks": {
+                    "id": "xcIA",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total Sub-Tasks": {
+                    "id": "yQx%5D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total Task Story Point": {
+                    "id": "ziTL",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0.25
+                    }
+                  },
+                  "Screens & Videos": [],
+                  "Project status": {
+                    "type": "status",
+                    "status": {
+                      "id": "ZknJ",
+                      "name": "WAITING RELEASE",
+                      "color": "blue"
+                    }
+                  },
+                  "Create-Close Days": {
+                    "id": "%7C%7BWX",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "Task Type": "Task",
+                  "AVG iteration time (hrs)": {
+                    "id": "%7DrCu",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Name": "Ragdoll Flip 3D [AMZ - Paid]",
+                  "Google Drive File": []
+                },
+                "created_time": "2026-05-01T14:57:00.000Z",
+                "last_edited_time": "2026-05-12T13:35:00.000Z",
+                "url": "https://app.notion.com/p/Ragdoll-Flip-3D-AMZ-Paid-3539748bc8c28163b49ec4f961812329",
+                "children": {
+                  "Page_13c9748b-c8c2-81ef-b75d-dba4eda335f8": {
+                    "id": "13c9748b-c8c2-81ef-b75d-dba4eda335f8",
+                    "title": "Page 13c9748b-c8c2-81ef-b75d-dba4eda335f8",
+                    "properties": {
+                      "CR_SUB_WW": {
+                        "id": "%3A%3Br_",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Create Paid Promo Rebuild ": null,
+                      "Installs US": {
+                        "id": "%3Au%7BN",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Creatives Status": {
+                        "id": "%3B%60E%3C",
+                        "type": "status",
+                        "status": {
+                          "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "[Icon]": null,
+                      "TOP AMZ for Sub Screen Upates": [],
+                      "Ref Name": "",
+                      "ASIN": "B0FTSJCN6Z",
+                      "Missing Info for Dev(Cross)": {
+                        "id": "%3Cv%60H",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Full game name\n⚠️ Company(Account)\n⚠️ Store Type\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ AF Link\n⚠️ Developer\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Bundle ID\n⚠️ Team"
+                        }
+                      },
+                      "New promo link": {
+                        "id": "%3DU%3BG",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Dev Start": {
+                        "id": "%3D%7B%3Ej",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Clone": null,
+                      "Days in Dev -> Release": {
+                        "id": "%3EkOQ",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "Are all prop. filled? ": {
+                        "id": "%3Epbv",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "false"
+                        }
+                      },
+                      "All Projects Info Old": [],
+                      "AF Link": {
+                        "id": "%40G%5E%3A",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Long Description": "",
+                      "BB SDK Key (Android)": "",
+                      "Icon Promo Request": false,
+                      "pLTV 180": {
+                        "id": "%40zGB",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Developer": {
+                        "id": "%40%7Cvk",
+                        "type": "people",
+                        "people": []
+                      },
+                      "PROGRESSION": "",
+                      "🎯 AllPages": [],
+                      "Project Subs Metrics": [],
+                      "Status (Copy)": {
+                        "id": "BVo%40",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Mintegral Status": "",
+                      "Creo Link": "https://drive.google.com/drive/u/0/folders/1erSb3WofPCPGeZx4he-390qEJ240hf1a",
+                      "Days Start-Finish": {
+                        "id": "Bzh%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": 99
+                        }
+                      },
+                      "Sum SP": "",
+                      "Created time": {
+                        "id": "B~Qf",
+                        "type": "created_time",
+                        "created_time": "2024-11-12T21:58:00.000Z"
+                      },
+                      "All subscriptions for the current build are filled": false,
+                      "Missing info for Promo rebuild": {
+                        "id": "CkT%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Promo Link\n⚠️ Full Game name"
+                        }
+                      },
+                      "CPI": {
+                        "id": "Cxr%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Teams use": {
+                        "id": "D%40CI",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Status": {
+                        "id": "DYYJ",
+                        "type": "status",
+                        "status": {
+                          "id": "twwJ",
+                          "name": "UA",
+                          "color": "green"
+                        }
+                      },
+                      "Date Development Status Set": {
+                        "id": "D%60fU",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Last edited time": {
+                        "id": "Dj%3Fm",
+                        "type": "last_edited_time",
+                        "last_edited_time": "2026-04-20T11:19:00.000Z"
+                      },
+                      "Project Link": {
+                        "id": "DjJJ",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Art Finish": {
+                        "id": "Do%3DG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Bundle ID": "",
+                      "Price": {
+                        "id": "EUeu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Project Score Analysys": "",
+                      "[Promo] Tasks ": [],
+                      "TECH": "",
+                      "CTR TEST": {
+                        "id": "Ejyo",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Subscription screen changes include links to actual references (expected UI)": false,
+                      "GD": {
+                        "id": "FHAP",
+                        "type": "people",
+                        "people": [
+                          {
+                            "object": "user",
+                            "id": "0a24fc2f-d948-4369-a7f5-93e48b78f05e",
+                            "name": "Dmytro Zavoruiev",
+                            "avatar_url": "https://lh3.googleusercontent.com/a/AItbvmmd7upp_TV1itbZLkFvclQFEWrKTIZDw40MIDc=s100",
+                            "type": "person",
+                            "person": {
+                              "email": "dmytro.zavoruiev@vira.games"
+                            }
+                          }
+                        ]
+                      },
+                      "CONTENT": "",
+                      "Due": {
+                        "id": "FaCd",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Link to Old Promo": {
+                        "id": "FbpI",
+                        "type": "url",
+                        "url": null
+                      },
+                      "QA Task File": "",
+                      "Task from Growth": [],
+                      "ASO Name & Description": null,
+                      "External\\internal": "Internal",
+                      "⏺️ ASO | Calendar": [],
+                      "Product Features": "",
+                      "Promo Task ": [],
+                      "Monetization DB": [],
+                      "Banner Key": "",
+                      "Date Info Updated": {
+                        "id": "HqDO",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Short Description": "",
+                      "Creo Status": "",
+                      "Amz Int & Port Tasks Template": null,
+                      "Tools": {
+                        "id": "IZP%3F",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "CreateTKSettings": null,
+                      "Subscription JSON": [],
+                      "GetGitlabInfo": null,
+                      "Days Start-Release": {
+                        "id": "JXlK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "AMZ releaseId": "",
+                      "[Logotype]": null,
+                      "CR Subs, %": {
+                        "id": "KKZH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Date": {
+                        "id": "LkTZ",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3REW": {
+                        "id": "M%5E%40L",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Each config has its own separate description": false,
+                      "CR Total, %": {
+                        "id": "MguI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7INT": {
+                        "id": "MqkG",
+                        "type": "number",
+                        "number": null
+                      },
+                      "PaidConfigGroup": [],
+                      "D1INT": {
+                        "id": "N%3AM%60",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Automation Info (AppStore)": "",
+                      "Previous Status": {
+                        "id": "NSz%7D",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Traffic Source": {
+                        "id": "N%5E%3Cm",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Game Type": {
+                        "id": "NcId",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "j=mr",
+                            "name": "Reskin",
+                            "color": "pink"
+                          }
+                        ]
+                      },
+                      "Create Task (No Check)": null,
+                      "Developer AMZ AppStore Link": "",
+                      "pLTV 7": {
+                        "id": "OPM%5C",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Interstitial Key": "",
+                      "BB Game ID (iOS)": "",
+                      "Team ": "",
+                      "Ref Link": "https://play.google.com/store/apps/details?id=com.kayac.breakragdoll",
+                      "Build Paid Icon": null,
+                      "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+                      "Create Paid Icon": null,
+                      "ByteBrew Link": {
+                        "id": "QD%3Cd",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Outdated / unused elements are removed from GDD": false,
+                      "Applovin Key": "",
+                      "Full Pack  Fire TV ": null,
+                      "iPad Screens": {
+                        "id": "R%5EzP",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Version": "",
+                      "Show": {
+                        "id": "RfDI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "QA | Tasks": [],
+                      "Fullsreen Banner Promo Request": false,
+                      "📽️ Creatives Team Tasks": [],
+                      "Bright SDK Review Status": {
+                        "id": "SXax",
+                        "type": "status",
+                        "status": {
+                          "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                          "name": "Implementation",
+                          "color": "default"
+                        }
+                      },
+                      "Days for Art Test": {
+                        "id": "SdR%3B",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "iPhone Screens": {
+                        "id": "SeX%7C",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Bundle Version": "",
+                      "Days for Art": {
+                        "id": "T%3Edc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "BB SDK Key (iOS)": "",
+                      "Feature description matches the latest implementation": false,
+                      "Create New \"QA Task\"": null,
+                      "Status  Promo": {
+                        "id": "TWT%3A",
+                        "type": "status",
+                        "status": {
+                          "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Click": {
+                        "id": "TkDm",
+                        "type": "number",
+                        "number": null
+                      },
+                      "GA Game Key": "",
+                      "CTR Video link": "",
+                      "Link to Automation": {
+                        "id": "VRV%3B",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Days in QA": {
+                        "id": "VgPc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "parent": "",
+                      "Genre": {
+                        "id": "V~Gf",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "b804cd9d-b806-4375-8642-e905bb76aee3",
+                            "name": "Arcade",
+                            "color": "default"
+                          }
+                        ]
+                      },
+                      "BB Game ID (Android)": "",
+                      "Date QA Finished": {
+                        "id": "X%5Cma",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Task Create Info": "",
+                      "GDD Doc": "https://www.notion.so/viragames/Ragdoll-Break-58ebcb7a9d134e3098c33f9a6f64ca9b",
+                      "Full Pack Amz": null,
+                      "Missing Info for QA Task": {
+                        "id": "ZSo%3D",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Full game name\n⚠️ Company(Account)\n⚠️ Store Type\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ AF Link\n⚠️ Developer\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Promo Link\n⚠️ Bundle ID\n⚠️ Team"
+                        }
+                      },
+                      "[Screenshots]": null,
+                      "Specialist": {
+                        "id": "Zy%3F%3A",
+                        "type": "people",
+                        "people": []
+                      },
+                      "A/B Group": "",
+                      "Full Pack TV Promo Request": false,
+                      "Date Team Finish": {
+                        "id": "%5B%5E%3AX",
+                        "type": "date",
+                        "date": {
+                          "start": "2024-02-23",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "IPM STATIC": {
+                        "id": "%5Bagu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_key": "",
+                      "Groups": [],
+                      "D1RET": {
+                        "id": "%5D%3DAl",
+                        "type": "number",
+                        "number": null
+                      },
+                      "[Fullscreen Banner]": null,
+                      "CR_SUB_US": {
+                        "id": "%5Dz%7CJ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7BAN": {
+                        "id": "%5E%3A%3F%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "MONETIZATION": "",
+                      "D3BAN": {
+                        "id": "%5EQH%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full game name": "",
+                      "Firebase PLIST": [],
+                      "Are all prop filled": {
+                        "id": "_%5D%5E%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Developer\n⚠️ Platform\n⚠️ Paid/Free\n⚠️ Slack channel\n⚠️ Date to QA"
+                        }
+                      },
+                      "D1REW": {
+                        "id": "_bnb",
+                        "type": "number",
+                        "number": null
+                      },
+                      "ASO Name & Descripton Request": false,
+                      "Build changes are marked in the task": false,
+                      "Unity version": "",
+                      "Promo status info": "",
+                      "Average FPS": {
+                        "id": "a%3Fdf",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Autobuild_buildNumber": "",
+                      "Polishing": "",
+                      "ExtraComments": "",
+                      "Full Pack Promo Request": false,
+                      "Art Subs Links": "",
+                      "Sprint": {
+                        "id": "afeU",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Documentation link": "",
+                      "Clone From": "",
+                      "D7RET": {
+                        "id": "bE%7C%3A",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Test - Button No Validation": null,
+                      "Release Type": "",
+                      "GDD is updated for the current game version": false,
+                      "Link to ASO": {
+                        "id": "d%3BwX",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Create Paid Banner": null,
+                      "Prod Promo Approve": "",
+                      "RW Key": "",
+                      "What's new": "",
+                      "100% Release Date": {
+                        "id": "e%5Ec%7C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Api key": "",
+                      "[Static Banner]": null,
+                      "Public key": [],
+                      "Quarter": "Q2_24",
+                      "Create AF & Vaveda Pages": null,
+                      "LTV_180_WW": {
+                        "id": "gCUp",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Crit Bugs": "",
+                      "IPM(CP)": {
+                        "id": "hQ%5C%5B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Refund Rate": {
+                        "id": "h%5Cxv",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Keywords": "",
+                      "IOS Distribution profile": [],
+                      "Status 1": {
+                        "id": "ihRL",
+                        "type": "status",
+                        "status": {
+                          "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Logotype Banner Promo Request": false,
+                      "Slack Channel Link": "",
+                      "CTR": {
+                        "id": "jqbZ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full Pack GP": {
+                        "id": "k%60op",
+                        "type": "url",
+                        "url": null
+                      },
+                      "D3PTM": {
+                        "id": "kamA",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7REW": {
+                        "id": "kuEV",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_secret": "",
+                      "ViraToolKit version": "",
+                      "Priority": "High",
+                      "App ID(iOS)": "",
+                      "Int&Port Epics": [],
+                      "ToolKitSettings": [],
+                      "Link to store": "https://www.amazon.com/dp/B0FTSJCN6Z",
+                      "QA checking": "",
+                      "Date Release": {
+                        "id": "nTQx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3RET": {
+                        "id": "n%5CF~",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Cross-Promo AMZ": [],
+                      "Paid\\Free": "",
+                      "AMZ AppStore": null,
+                      "RESULTS": "",
+                      "AF Key": "",
+                      "Goals": "",
+                      "Firebase JSON": [],
+                      "QA": "",
+                      "Hypothesys": [],
+                      "AMZ appId": "",
+                      "Opt-In": {
+                        "id": "p_Ic",
+                        "type": "number",
+                        "number": null
+                      },
+                      "New Tasks & Requests": [],
+                      "Last edited by": {
+                        "id": "qUWF",
+                        "type": "last_edited_by",
+                        "last_edited_by": {
+                          "object": "user",
+                          "id": "3a63fa1d-90a4-4994-8888-1c62e9cd1c62",
+                          "name": "Maksim Hiadroits",
+                          "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/4e050820-1cfb-4769-857f-368f3be6313a/IMG_6173.jpeg",
+                          "type": "person",
+                          "person": {
+                            "email": "maxim.gedroit@vira.games"
+                          }
+                        }
+                      },
+                      "Account": {
+                        "id": "qhXd",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Date to QA": {
+                        "id": "q%7D%3F%5C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Sub-team": "SAN HOLO",
+                      "Date Team Start": {
+                        "id": "rKeG",
+                        "type": "date",
+                        "date": {
+                          "start": "2023-11-16",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "Created by": {
+                        "id": "r%5BBI",
+                        "type": "created_by",
+                        "created_by": {
+                          "object": "user",
+                          "id": "c83ce9bc-08fd-4af7-a25d-c3ba4bebf48f",
+                          "name": "ViraGames AllProject Helper",
+                          "avatar_url": null,
+                          "type": "bot",
+                          "bot": {}
+                        }
+                      },
+                      "Tech Project Doc": "",
+                      "Sub-subscription 1": {
+                        "id": "sCtp",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Automated Team": {
+                        "id": "sDNL",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "If release is not required:  Need Release checkbox is unchecked": false,
+                      "UI": "",
+                      "Test - Button Validation": null,
+                      "Admob Key": "",
+                      "Firebase Link": {
+                        "id": "upQD",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Monetization": [],
+                      "Cross Promo Video status": "",
+                      "CPI (Mint) Test Dates": {
+                        "id": "v%5Bi%60",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Date Art Start": {
+                        "id": "v%5D~D",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Last Status Change": {
+                        "id": "wQFr",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D1PTM": {
+                        "id": "wgp%7B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Link to Promo": "",
+                      "[Creatives] Tasks": [],
+                      "ipm TEST": {
+                        "id": "xWSH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Art Assets Link": {
+                        "id": "x%5C%3DY",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Total installs": {
+                        "id": "x%5DWz",
+                        "type": "number",
+                        "number": null
+                      },
+                      "LTV_180_US ": {
+                        "id": "xfen",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sub-s Database": [],
+                      "Amz Console: On Auto support": false,
+                      "Create QA Task": false,
+                      "Create UA Tasks": null,
+                      "3D Artist": {
+                        "id": "zHXV",
+                        "type": "people",
+                        "people": []
+                      },
+                      " GA Secret Key": "",
+                      "Task Tracker Link": {
+                        "id": "%7BIp%3F",
+                        "type": "url",
+                        "url": null
+                      },
+                      "D3INT": {
+                        "id": "%7BL%5C%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Percent of Release": {
+                        "id": "%7BRbl",
+                        "type": "number",
+                        "number": null
+                      },
+                      "AppMagic Info": [],
+                      "StartUp Time": {
+                        "id": "%7BZ_P",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D1BAN": {
+                        "id": "%7BeFD",
+                        "type": "number",
+                        "number": null
+                      },
+                      "IPM (CP) Test Dates": {
+                        "id": "%7Be%5E%3E",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Platform": "",
+                      "temp_tk_version_link": {
+                        "id": "%7CeXN",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "Open ImportPackageWindow.cs"
+                        }
+                      },
+                      "Screenshot Promo Request": false,
+                      "Sub-item": [
+                        "13c9748b-c8c2-81a8-8c5e-f3fe056e50cd",
+                        "13c9748b-c8c2-81db-a938-e2674fc2f2aa",
+                        "13c9748b-c8c2-81bb-aad9-d330f503e7b2",
+                        "14c9748b-c8c2-81d0-9f82-ef88dc0393e0",
+                        "15d9748b-c8c2-8099-bd21-f3ed9092575a",
+                        "1589748b-c8c2-8169-8c70-eb931d072201",
+                        "1609748b-c8c2-8178-8389-e66505d50978",
+                        "1619748b-c8c2-812e-8c60-fe1968e8f2cb",
+                        "1619748b-c8c2-81ff-a361-ca8c9b921448",
+                        "1619748b-c8c2-81ec-9e3a-cea54ccda83d",
+                        "1619748b-c8c2-81af-ba08-ed6a428d7617",
+                        "1d59748b-c8c2-8021-90af-c6cf674e5b12",
+                        "1d99748b-c8c2-80d4-9ed1-ea1e00b8d330",
+                        "1c99748b-c8c2-80af-a738-c1b6cb130c53",
+                        "1df9748b-c8c2-8038-a2f2-f655bc7f06ed",
+                        "1ee9748b-c8c2-80df-b3ed-ed92a2f1204f",
+                        "22b9748b-c8c2-80da-82ac-fd99c01e3d0b",
+                        "22d9748b-c8c2-80f5-84bd-cbd5f619be5a",
+                        "2379748b-c8c2-801f-adb3-f53fb955079e",
+                        "2379748b-c8c2-80d1-843e-ca33cc1ba91b",
+                        "2459748b-c8c2-803f-a4d7-c86f604aadf5",
+                        "24e9748b-c8c2-807d-b055-c476364b751e",
+                        "24e9748b-c8c2-8026-b078-c3464a17d324",
+                        "25b9748b-c8c2-8074-9366-c35e9de3555e",
+                        "27d9748b-c8c2-802e-9e40-e8ea856c1e32"
+                      ],
+                      "Date Art Finish Test": {
+                        "id": "%7Dwfx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "GIT LINK": "https://gitlab.com/vira-games/amazon-projects/ragdoll-break",
+                      "D7PTM": {
+                        "id": "~%3F%3B%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Parent Project": [],
+                      "Days in Dev -> QA": {
+                        "id": "~FLK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "BALANCE": "",
+                      "Description for QA": "",
+                      "Prod Approved": false,
+                      "Static Banner Promo Request": false,
+                      "IPM": {
+                        "id": "~oXr",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sent To QA": {
+                        "id": "~sjG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Promo info checking": {
+                        "id": "~wLr",
+                        "type": "formula",
+                        "formula": {
+                          "type": "boolean",
+                          "boolean": false
+                        }
+                      },
+                      "Project": "Ragdoll Break",
+                      "Description": "",
+                      "SubscriptionRevenueEvent": false,
+                      "AMZ Metrics Date & Comment": "",
+                      "GD 2": {
+                        "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Amz StartUp Time": {
+                        "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Status 2": "",
+                      "Days": {
+                        "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Asana Link": {
+                        "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Need a new Video?": false
+                    },
+                    "created_time": "2024-11-12T21:58:00.000Z",
+                    "last_edited_time": "2026-04-20T11:19:00.000Z",
+                    "url": "https://app.notion.com/p/Ragdoll-Break-13c9748bc8c281efb75ddba4eda335f8"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
