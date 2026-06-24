@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "jtmnjmz - jtman - Jet Man"
+              "string": "jtmnjmz - Jet Man"
             }
           },
           "MaxParentLinkToPromo": {
@@ -69,7 +69,7 @@
           "Name": "jtman - Jet Man"
         },
         "created_time": "2026-06-23T12:47:00.000Z",
-        "last_edited_time": "2026-06-23T13:11:00.000Z",
+        "last_edited_time": "2026-06-23T13:18:00.000Z",
         "url": "https://app.notion.com/p/jtman-Jet-Man-3889748bc8c281f290afe6c46e0a471a",
         "children": {
           "jtman_-_Jet_Man_ProductCatalog": {
@@ -196,7 +196,13 @@
               "Account": {
                 "id": "e%7C~F",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "USF`",
+                    "name": "FreeFlow Games",
+                    "color": "gray"
+                  }
+                ]
               },
               "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Bundle Id Rollup": {
@@ -210,7 +216,7 @@
               "Name": "jtman - Jet Man MainData"
             },
             "created_time": "2026-06-23T12:47:00.000Z",
-            "last_edited_time": "2026-06-23T13:18:00.000Z",
+            "last_edited_time": "2026-06-24T09:31:00.000Z",
             "url": "https://app.notion.com/p/jtman-Jet-Man-MainData-3889748bc8c281b183ced07c48fc6750",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
@@ -220,7 +226,7 @@
                   "BundleIdentifier": "com.fxyply.jt.man",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
-                  "CompanyName": ""
+                  "CompanyName": "FreeFlow Games"
                 },
                 "SDKSettings": {
                   "Keys": [
@@ -399,7 +405,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-23T12:47:00.000Z"
+                "last_edited_time": "2026-06-24T08:59:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -857,11 +863,13 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
+                  "id": "918fdaf5-ccd0-4ba4-9dd7-100e8f690d84",
+                  "name": "Oleksandr Tokar",
                   "avatar_url": null,
-                  "type": "bot",
-                  "bot": {}
+                  "type": "person",
+                  "person": {
+                    "email": "oleksandr.tokar@vira.games"
+                  }
                 }
               },
               "Account": {
@@ -869,9 +877,9 @@
                 "type": "multi_select",
                 "multi_select": [
                   {
-                    "id": "04fc1d64-555d-44bc-82c0-7914b2f6f7ef",
-                    "name": "FoxyPlay",
-                    "color": "green"
+                    "id": "ce1c4c6f-e2d4-410b-9228-7dde8564252d",
+                    "name": "FreeFlow Games",
+                    "color": "blue"
                   }
                 ]
               },
@@ -1064,7 +1072,7 @@
                   "boolean": false
                 }
               },
-              "Project": "jtmnjmz - jtman - Jet Man",
+              "Project": "jtmnjmz - Jet Man",
               "Description": "",
               "SubscriptionRevenueEvent": false,
               "AMZ Metrics Date & Comment": "",
@@ -1092,8 +1100,8 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-22T22:58:00.000Z",
-            "last_edited_time": "2026-06-23T12:47:00.000Z",
-            "url": "https://app.notion.com/p/jtmnjmz-jtman-Jet-Man-3879748bc8c280ab9034c61f491f22e7",
+            "last_edited_time": "2026-06-24T08:59:00.000Z",
+            "url": "https://app.notion.com/p/jtmnjmz-Jet-Man-3879748bc8c280ab9034c61f491f22e7",
             "children": {
               "Page_13c9748b-c8c2-81b7-baa3-f19d5bc30c8b": {
                 "id": "13c9748b-c8c2-81b7-baa3-f19d5bc30c8b",
