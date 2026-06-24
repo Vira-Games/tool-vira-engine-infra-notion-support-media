@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "Dots Commander: RTS War"
+              "string": "Dots Commander: RTS War "
             }
           },
           "MaxParentLinkToPromo": {
@@ -23,7 +23,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "https://drive.google.com/drive/folders/1csUFDgZMkxNHSQULaNoxqJWRI_pr6mMc"
+              "string": "https://drive.google.com/drive/folders/1VldbyUIZ41g1h80Nhc4ncx9tZoHiN6ZI?usp=sharing"
             }
           },
           "(List)BundleId": "com.vira.wardots.commander",
@@ -40,7 +40,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "1.0.0"
+              "string": "1.0.3"
             }
           },
           "Subscription Settings": [
@@ -49,10 +49,13 @@
           "MainData": [
             "36d9748b-c8c2-8136-b939-fc68dbe3cc0d"
           ],
-          "(List)Bundle Version": "",
+          "(List)Bundle Version": "5",
           "Platform": "GP",
           "💼 All Projects": [
-            "2ff9748b-c8c2-8078-af0b-d3f4d3565766"
+            "2ff9748b-c8c2-8078-af0b-d3f4d3565766",
+            "80e9748b-c8c2-83e6-8542-012eb0135fbc",
+            "5f19748b-c8c2-8253-80ea-013653a12ff9",
+            "b2b9748b-c8c2-8210-a64d-0113829f8a19"
           ],
           "RefreshConfig": null,
           "(List)Version": "1.0.0",
@@ -65,12 +68,12 @@
             }
           },
           "ProjectKey": "36d9748b-c8c2-81da-9d1c-f0c0361639a8",
-          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1csUFDgZMkxNHSQULaNoxqJWRI_pr6mMc",
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1VldbyUIZ41g1h80Nhc4ncx9tZoHiN6ZI?usp=sharing",
           "Name": "Dots Commander: RTS War"
         },
         "created_time": "2026-05-27T13:07:00.000Z",
-        "last_edited_time": "2026-05-27T13:15:00.000Z",
-        "url": "https://www.notion.so/Dots-Commander-RTS-War-36d9748bc8c281da9d1cf0c0361639a8",
+        "last_edited_time": "2026-05-27T13:18:00.000Z",
+        "url": "https://app.notion.com/p/Dots-Commander-RTS-War-36d9748bc8c281da9d1cf0c0361639a8",
         "children": {
           "Dots_Commander__RTS_War_ProductCatalog": {
             "id": "36d9748b-c8c2-812d-85ed-e45d635743f6",
@@ -84,7 +87,7 @@
             },
             "created_time": "2026-05-27T13:07:00.000Z",
             "last_edited_time": "2026-05-27T13:07:00.000Z",
-            "url": "https://www.notion.so/Dots-Commander-RTS-War-ProductCatalog-36d9748bc8c2812d85ede45d635743f6"
+            "url": "https://app.notion.com/p/Dots-Commander-RTS-War-ProductCatalog-36d9748bc8c2812d85ede45d635743f6"
           },
           "Dots_Commander__RTS_War_SubDataCatalog": {
             "id": "36d9748b-c8c2-8102-a8b4-c379d4832a93",
@@ -107,7 +110,7 @@
             },
             "created_time": "2026-05-27T13:07:00.000Z",
             "last_edited_time": "2026-05-27T13:07:00.000Z",
-            "url": "https://www.notion.so/Dots-Commander-RTS-War-SubDataCatalog-36d9748bc8c28102a8b4c379d4832a93"
+            "url": "https://app.notion.com/p/Dots-Commander-RTS-War-SubDataCatalog-36d9748bc8c28102a8b4c379d4832a93"
           },
           "Dots_Commander__RTS_War_MainData": {
             "id": "36d9748b-c8c2-8136-b939-fc68dbe3cc0d",
@@ -117,7 +120,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "https://drive.google.com/drive/folders/1csUFDgZMkxNHSQULaNoxqJWRI_pr6mMc"
+                  "string": "https://drive.google.com/drive/folders/1VldbyUIZ41g1h80Nhc4ncx9tZoHiN6ZI?usp=sharing"
                 }
               },
               "BundleVersionRollup": {
@@ -155,7 +158,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.0"
+                  "string": "1.0.3"
                 }
               },
               "Vaveda_key": "",
@@ -164,14 +167,14 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "https://drive.google.com/drive/folders/1csUFDgZMkxNHSQULaNoxqJWRI_pr6mMc"
+                  "string": "https://drive.google.com/drive/folders/1VldbyUIZ41g1h80Nhc4ncx9tZoHiN6ZI?usp=sharing"
                 }
               },
               "VersionRollup": {
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.0"
+                  "string": "1.0.3"
                 }
               },
               "Parent": [
@@ -182,7 +185,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1"
+                  "string": null
                 }
               },
               "Bundle Id": {
@@ -205,20 +208,26 @@
                 ]
               },
               "AF Key": "fTHmsk9hweq2z9koRW3UPf",
-              "Bundle Id Rollup": "Dots Commander: RTS War",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.vira.wardots.commander"
+                }
+              },
               "Vaveda_secret": "",
               "Name": "Dots Commander: RTS War MainData"
             },
             "created_time": "2026-05-27T13:07:00.000Z",
             "last_edited_time": "2026-05-27T13:17:00.000Z",
-            "url": "https://www.notion.so/Dots-Commander-RTS-War-MainData-36d9748bc8c28136b939fc68dbe3cc0d",
+            "url": "https://app.notion.com/p/Dots-Commander-RTS-War-MainData-36d9748bc8c28136b939fc68dbe3cc0d",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "https://drive.google.com/drive/folders/1csUFDgZMkxNHSQULaNoxqJWRI_pr6mMc",
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1VldbyUIZ41g1h80Nhc4ncx9tZoHiN6ZI?usp=sharing",
                   "ProductName": "Dots Commander: RTS War",
                   "BundleIdentifier": "com.vira.wardots.commander",
-                  "Version": "1.0.0",
+                  "Version": "1.0.3",
                   "BundleVersionCode": 1,
                   "CompanyName": "Vira Games Inc"
                 },
@@ -267,7 +276,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Bundle Version\n⚠️ Date Team Finish"
+                  "string": ""
                 }
               },
               "New promo link": {
@@ -279,7 +288,7 @@
                 "id": "%3D%7B%3Ej",
                 "type": "date",
                 "date": {
-                  "start": "2026-02-06",
+                  "start": "2026-06-16",
                   "end": null,
                   "time_zone": null
                 }
@@ -289,8 +298,8 @@
                 "id": "%3EkOQ",
                 "type": "formula",
                 "formula": {
-                  "type": "number",
-                  "number": 80
+                  "type": "string",
+                  "string": null
                 }
               },
               "Are all prop. filled? ": {
@@ -349,8 +358,8 @@
                 "id": "Bzh%3A",
                 "type": "formula",
                 "formula": {
-                  "type": "string",
-                  "string": null
+                  "type": "number",
+                  "number": 113
                 }
               },
               "Sum SP": "",
@@ -359,7 +368,7 @@
                 "type": "created_time",
                 "created_time": "2026-02-06T14:58:00.000Z"
               },
-              "All subscriptions for the current build are filled": false,
+              "All subscriptions for the current build are filled": true,
               "Missing info for Promo rebuild": {
                 "id": "CkT%3A",
                 "type": "formula",
@@ -382,16 +391,16 @@
                 "id": "DYYJ",
                 "type": "status",
                 "status": {
-                  "id": "gPu~",
-                  "name": "DEVELOPMENT",
-                  "color": "blue"
+                  "id": "90bac3ba-be41-4b5d-8096-cf1217b11885",
+                  "name": "LIVE",
+                  "color": "green"
                 }
               },
               "Date Development Status Set": {
                 "id": "D%60fU",
                 "type": "date",
                 "date": {
-                  "start": "2026-02-06",
+                  "start": "2026-06-15",
                   "end": null,
                   "time_zone": null
                 }
@@ -399,7 +408,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-05-27T13:07:00.000Z"
+                "last_edited_time": "2026-06-15T21:48:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -425,7 +434,7 @@
                 "type": "number",
                 "number": null
               },
-              "Subscription screen changes include links to actual references (expected UI)": false,
+              "Subscription screen changes include links to actual references (expected UI)": true,
               "GD": {
                 "id": "FHAP",
                 "type": "people",
@@ -453,7 +462,10 @@
                 "type": "url",
                 "url": null
               },
-              "QA Task File": "",
+              "QA Task File": {
+                "type": "files",
+                "files": []
+              },
               "Task from Growth": [],
               "ASO Name & Description": null,
               "External\\internal": "",
@@ -477,12 +489,13 @@
               },
               "CreateTKSettings": null,
               "Subscription JSON": [],
+              "GetGitlabInfo": null,
               "Days Start-Release": {
                 "id": "JXlK",
                 "type": "formula",
                 "formula": {
-                  "type": "string",
-                  "string": null
+                  "type": "number",
+                  "number": 125
                 }
               },
               "AMZ releaseId": "",
@@ -502,7 +515,7 @@
                 "type": "number",
                 "number": null
               },
-              "Each config has its own separate description": false,
+              "Each config has its own separate description": true,
               "CR Total, %": {
                 "id": "MguI",
                 "type": "number",
@@ -557,14 +570,14 @@
               "Team ": "RnD Production Team",
               "Ref Link": "https://store.steampowered.com/app/3902430/War_of_Dots/?l=ukrainian",
               "Build Paid Icon": null,
-              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
               "Create Paid Icon": null,
               "ByteBrew Link": {
                 "id": "QD%3Cd",
                 "type": "url",
                 "url": "https://dashboard.bytebrew.io/console/bJPNIaBvT/engagement"
               },
-              "Outdated / unused elements are removed from GDD": false,
+              "Outdated / unused elements are removed from GDD": true,
               "Applovin Key": "ZkOo78V5ga6pEBNIN0E3mJLRZFdhy5BQ7cv3ZXULM6vc4Tr1oP86mBOGN5pJcNTPN1FdBSpCL4dDw6zoWL08Ag",
               "Full Pack  Fire TV ": null,
               "iPad Screens": {
@@ -578,7 +591,9 @@
                 "type": "number",
                 "number": null
               },
-              "QA | Tasks": [],
+              "QA | Tasks": [
+                "36e9748b-c8c2-816c-be80-fb8d27270526"
+              ],
               "Fullsreen Banner Promo Request": false,
               "📽️ Creatives Team Tasks": [],
               "Bright SDK Review Status": {
@@ -603,7 +618,7 @@
                 "type": "url",
                 "url": null
               },
-              "Bundle Version": "",
+              "Bundle Version": "5",
               "Days for Art": {
                 "id": "T%3Edc",
                 "type": "formula",
@@ -613,7 +628,7 @@
                 }
               },
               "BB SDK Key (iOS)": "",
-              "Feature description matches the latest implementation": false,
+              "Feature description matches the latest implementation": true,
               "Create New \"QA Task\"": null,
               "Status  Promo": {
                 "id": "TWT%3A",
@@ -640,8 +655,8 @@
                 "id": "VgPc",
                 "type": "formula",
                 "formula": {
-                  "type": "number",
-                  "number": 0
+                  "type": "string",
+                  "string": null
                 }
               },
               "parent": "War of Dots (!!!!)",
@@ -660,9 +675,13 @@
               "Date QA Finished": {
                 "id": "X%5Cma",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-06-05T19:44:00.000+03:00",
+                  "end": null,
+                  "time_zone": null
+                }
               },
-              "Task Create Info": "",
+              "Task Create Info": "✅ QA Task - Successfully Created!",
               "GDD Doc": "https://www.notion.so/viragames/War-of-Dots-2fe9748bc8c28064b7c3d09d10366780",
               "Full Pack Amz": null,
               "Missing Info for QA Task": {
@@ -670,7 +689,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Bundle Version\n⚠️ Date Team Finish"
+                  "string": ""
                 }
               },
               "[Screenshots]": null,
@@ -684,7 +703,11 @@
               "Date Team Finish": {
                 "id": "%5B%5E%3AX",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-05-28",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "IPM STATIC": {
                 "id": "%5Bagu",
@@ -731,13 +754,15 @@
                 "number": null
               },
               "ASO Name & Descripton Request": false,
-              "Build changes are marked in the task": false,
+              "Build changes are marked in the task": true,
+              "Unity version": "",
               "Promo status info": "",
               "Average FPS": {
                 "id": "a%3Fdf",
                 "type": "number",
                 "number": null
               },
+              "Autobuild_buildNumber": "",
               "Polishing": "",
               "ExtraComments": "",
               "Full Pack Promo Request": false,
@@ -756,7 +781,7 @@
               },
               "Test - Button No Validation": null,
               "Release Type": "First Release",
-              "GDD is updated for the current game version": false,
+              "GDD is updated for the current game version": true,
               "Link to ASO": {
                 "id": "d%3BwX",
                 "type": "url",
@@ -838,7 +863,11 @@
               "Date Release": {
                 "id": "nTQx",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-06-09T11:59:00.000+03:00",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "D3RET": {
                 "id": "n%5CF~",
@@ -854,10 +883,24 @@
               "Firebase JSON": [
                 {
                   "name": "google-services.json",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/53dd34a1-0f9b-4dd8-85dc-5d0924f0236d/google-services.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YDHSNVVU%2F20260527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260527T131809Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIApgXZRbErmSN6TNRwzrD8pj9dIJhZuIObDEKotTqdLuAiEAw85wF8Kb7auPd9Cnf17v5o9voMDnDav5nDU2LLoagbsqiAQIlv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDHe1H6VtFS5osQmGBCrcA3uQUqN6epL2%2BGph%2BeCDatE62jhmz4RQK%2BLW92RNvGC0woSUzGgHj4oqpplvR6GuyDlftunmdU1QxUXSQkot6YQSOVcHlMf9mU1YtzMxAm%2FAvFTnz2SSkjzJeXKcKvrz%2BaiyrDD%2BDLuH44IKlmwEvXIooFecsXHLiT1gqwqHhEg05bGOkyYPMV2BnNk471AoGEHtfOMsEGwtMZazJ8zvWMg2vZUHJOFHnk9yZyKJwP%2F23LjGxvlo66WnZMGSZQKUQ4rombYOhk1feE5U90ndIjJCpXFyDHISiOTeGo8srrfAHXf8wOKeJA2gzbTsbqsJNJjjKszL%2FgHvcxxumudOwjeOT0d3M3w7n8DwMMgm1RUBB0bFIBOZ6y71CHYoaYrUVG4xhGinPMdcFgZYeodl0sgORNc%2F4w5EI3jewjTvDBKVUUEJVsuUyVruOiw%2FOT5MY9Jgfpac226MEJRA4Du9wMESqhzfuZtGk%2BRy5UqUSnrVV15SMpNc3fwZgB5zkVDcqfJgQVuS7lyttVB5p4QodYNGRjg2177pqc1kn3uUyF204VVw0qOBBllWvRuRpnWkgEuZ1AiJnem5o48zY3Xw9ZrsRMhr98BqsuAAID5MbjtNrOlwkom50kzyxuGBMOrO29AGOqUBx1NW7TZyQbUs2lxsSb%2FAdNVkXZqJOm9gFAp9iqeuPD6%2B3WhOGsLNkMn%2BS4KrWzV93o1rmLLuCxJGdvKOicmEwFnVWWbVBbQRudPKqnG%2F9Kkflpf0tyu%2FzWI8AdGYtOOMfa5vfHTCElbGSrJPGiOmi8JQ8bLRTaSzYKvU7s%2BqN0FFoXZZAl9PUdKjpQrFTmxg7MfyPEGLXV3YxfwKLVwolcUjCrRd&X-Amz-Signature=bfa4780ce2c841b4c22b08c5f25fb0d3fac7a16ee4e490d027759318231ff060&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/53dd34a1-0f9b-4dd8-85dc-5d0924f0236d/google-services.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46666OFE2X2%2F20260624%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260624T073426Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGgaCXVzLXdlc3QtMiJIMEYCIQCsraBGByDxtejYVqj5QkwweRWlSBRdKb6ZzW0tkwEo9QIhAIP4F6HowNl7Vb06M8T5QQjZ1bnHG89t8tWDIsp8MGDYKv8DCDEQABoMNjM3NDIzMTgzODA1IgxPleLgUaMirGVHv28q3ANnsw7gd86GWvyIyPd7SmdVcF5j6cNLYWV3MKZj34IfUwpQZARZdRyRNXY2V5OzxjXc7jerj%2BfM4475%2B55GuZJnJAhn16q%2B04c59QBbNJ0ZMK1VpAIQbXVcd%2FhbAa2pC%2FStlMHOv%2B7ydD8t05xAq2vPbbcSNM8swNBw4EvjPnLdGYrOUehp%2B%2FmXM6z%2BVvFxf%2B016YBaTuHvYYue%2FEaXmB8fUJz%2Fh10C5r2oWWo%2BzhY2RHKp5PSVbCCF2wZ7l4XAM3Jp%2BGMQcWh2LoTx10vDtjk3q4BzSSq9EbCTHCjLgPZBZBeX8P9tW3U3fVrOPjvnyKW2my4kcNN5ao1ngwWg7ZOGxeHixj5h5sMBHsBhpuKbvcGhyIiBLw1wF7Rg8zmR9RiqKKkDPIaEN%2F2wr0Z3%2BCi%2FlaCtfLPhpSnqxYgMkpXJQqiX9K8Vn5QrIgrkYZ%2BS3g%2F6s6jy%2F7DHmnj%2BBYHycsf2%2FiqM%2FUr633xbNfOiOMueaEk16Oc7hqmUbA911fiSfrDAwX4rAIZgjJfFTeslCYELWgkoo8spVD7wGR7P2iAq%2BrWa70S06ZMiGm8nN5xCY%2FmDBuZ6Rav9O%2F58gdSz%2BBG26ygCIYQsruJaZHJex%2Bloi6nmIfMAZt0aoEQO%2FzCvj%2B7RBjqkAce42GdMtbI9llbFLJjDHwGbsaBOYxZAsypnkJSXao5oVhb2ZYsdVEbZVECyXwzIuSGeY%2FvJnFnA%2Bh3%2FqMnjQqwrHE%2B8zdjDTJz5xggIBpNC5tRUl4tGcGdawtwioX0iIf5hNCK5CW1zQyoTUyivz1P%2BrWy47LOBk5J5xSKovWAsdJ4l8sWPY%2BNieywSNIndjkajpcqGEpTGlB2x0OXJVZfWQ9%2F1&X-Amz-Signature=c0b4041187aced30156412b6feeda369ebed1726265a5e187ee0fef3bc9f259d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
-              "QA": "",
+              "QA": {
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "123d872b-594c-81ee-b257-0002268a7d53",
+                    "name": "Andriy Vashchenko",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/3eefd71b-f7fc-4b13-b1d6-ad598e2addf2/photo_2024-10-21_17-28-38.jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "andriy.vashchenko@vira.games"
+                    }
+                  }
+                ]
+              },
               "Hypothesys": [],
               "AMZ appId": "",
               "Opt-In": {
@@ -871,11 +914,13 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
-                  "avatar_url": null,
-                  "type": "bot",
-                  "bot": {}
+                  "id": "233d872b-594c-8130-9d01-0002039920c3",
+                  "name": "Vladyslav Petrenko",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/8f2ce141-f90f-456b-8cb8-8895b2d87c89/photo_5282768950872104018_y.jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "vladyslav.petrenko@vira.games"
+                  }
                 }
               },
               "Account": {
@@ -929,7 +974,7 @@
                 "type": "multi_select",
                 "multi_select": []
               },
-              "If release is not required:  Need Release checkbox is unchecked": false,
+              "If release is not required:  Need Release checkbox is unchecked": true,
               "UI": "",
               "Test - Button Validation": null,
               "Admob Key": "ca-app-pub-1156383915014504~7870205594",
@@ -954,7 +999,7 @@
                 "id": "wQFr",
                 "type": "date",
                 "date": {
-                  "start": "2026-02-06",
+                  "start": "2026-06-15",
                   "end": null,
                   "time_zone": null
                 }
@@ -964,7 +1009,7 @@
                 "type": "number",
                 "number": null
               },
-              "Link to Promo": "https://drive.google.com/drive/folders/1csUFDgZMkxNHSQULaNoxqJWRI_pr6mMc",
+              "Link to Promo": "https://drive.google.com/drive/folders/1VldbyUIZ41g1h80Nhc4ncx9tZoHiN6ZI?usp=sharing",
               "[Creatives] Tasks": [],
               "ipm TEST": {
                 "id": "xWSH",
@@ -989,6 +1034,7 @@
               "Sub-s Database": [],
               "Amz Console: On Auto support": false,
               "Create QA Task": false,
+              "Create UA Tasks": null,
               "3D Artist": {
                 "id": "zHXV",
                 "type": "people",
@@ -1067,7 +1113,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 80
+                  "number": 8
                 }
               },
               "BALANCE": "",
@@ -1120,8 +1166,8 @@
               "Need a new Video?": false
             },
             "created_time": "2026-02-06T14:58:00.000Z",
-            "last_edited_time": "2026-05-27T13:07:00.000Z",
-            "url": "https://www.notion.so/Dots-Commander-RTS-War-2ff9748bc8c28078af0bd3f4d3565766",
+            "last_edited_time": "2026-06-15T21:48:00.000Z",
+            "url": "https://app.notion.com/p/Dots-Commander-RTS-War-2ff9748bc8c28078af0bd3f4d3565766",
             "children": {
               "Page_2ff9748b-c8c2-819e-a876-dec3f8714a35": {
                 "id": "2ff9748b-c8c2-819e-a876-dec3f8714a35",
@@ -1179,7 +1225,7 @@
                     "type": "formula",
                     "formula": {
                       "type": "number",
-                      "number": 80
+                      "number": 100
                     }
                   },
                   "Are all prop. filled? ": {
@@ -1288,7 +1334,7 @@
                   "Last edited time": {
                     "id": "Dj%3Fm",
                     "type": "last_edited_time",
-                    "last_edited_time": "2026-03-19T12:59:00.000Z"
+                    "last_edited_time": "2026-06-24T07:25:00.000Z"
                   },
                   "Project Link": {
                     "id": "DjJJ",
@@ -1366,6 +1412,7 @@
                   },
                   "CreateTKSettings": null,
                   "Subscription JSON": [],
+                  "GetGitlabInfo": null,
                   "Days Start-Release": {
                     "id": "JXlK",
                     "type": "formula",
@@ -1609,12 +1656,14 @@
                   },
                   "ASO Name & Descripton Request": false,
                   "Build changes are marked in the task": false,
+                  "Unity version": "",
                   "Promo status info": "",
                   "Average FPS": {
                     "id": "a%3Fdf",
                     "type": "number",
                     "number": null
                   },
+                  "Autobuild_buildNumber": "",
                   "Polishing": "",
                   "ExtraComments": "",
                   "Full Pack Promo Request": false,
@@ -1707,7 +1756,9 @@
                   "Priority": "",
                   "App ID(iOS)": "",
                   "Int&Port Epics": [],
-                  "ToolKitSettings": [],
+                  "ToolKitSettings": [
+                    "3899748b-c8c2-81bb-a68a-fa36dff8d5b0"
+                  ],
                   "Link to store": "",
                   "QA checking": "",
                   "Date Release": {
@@ -1741,13 +1792,11 @@
                     "type": "last_edited_by",
                     "last_edited_by": {
                       "object": "user",
-                      "id": "17a07c74-6798-487a-bad8-17440bc4542a",
-                      "name": "workspace admin",
+                      "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
+                      "name": "Tools Team Helper",
                       "avatar_url": null,
-                      "type": "person",
-                      "person": {
-                        "email": "adminservices@vira.games"
-                      }
+                      "type": "bot",
+                      "bot": {}
                     }
                   },
                   "Account": {
@@ -1855,6 +1904,7 @@
                   "Sub-s Database": [],
                   "Amz Console: On Auto support": false,
                   "Create QA Task": false,
+                  "Create UA Tasks": null,
                   "3D Artist": {
                     "id": "zHXV",
                     "type": "people",
@@ -1915,7 +1965,10 @@
                   "Screenshot Promo Request": false,
                   "Sub-item": [
                     "2ff9748b-c8c2-8078-af0b-d3f4d3565766",
-                    "3669748b-c8c2-80d9-9264-f2217a0a0605"
+                    "3669748b-c8c2-80d9-9264-f2217a0a0605",
+                    "80e9748b-c8c2-83e6-8542-012eb0135fbc",
+                    "5f19748b-c8c2-8253-80ea-013653a12ff9",
+                    "b2b9748b-c8c2-8210-a64d-0113829f8a19"
                   ],
                   "Date Art Finish Test": {
                     "id": "%7Dwfx",
@@ -1934,7 +1987,7 @@
                     "type": "formula",
                     "formula": {
                       "type": "number",
-                      "number": 80
+                      "number": 100
                     }
                   },
                   "BALANCE": "",
@@ -1987,8 +2040,3208 @@
                   "Need a new Video?": false
                 },
                 "created_time": "2026-02-06T14:54:00.000Z",
-                "last_edited_time": "2026-03-19T12:59:00.000Z",
-                "url": "https://www.notion.so/War-of-Dots-2ff9748bc8c2819ea876dec3f8714a35"
+                "last_edited_time": "2026-06-24T07:25:00.000Z",
+                "url": "https://app.notion.com/p/War-of-Dots-2ff9748bc8c2819ea876dec3f8714a35",
+                "children": {
+                  "Page_80e9748b-c8c2-83e6-8542-012eb0135fbc": {
+                    "id": "80e9748b-c8c2-83e6-8542-012eb0135fbc",
+                    "title": "Page 80e9748b-c8c2-83e6-8542-012eb0135fbc",
+                    "properties": {
+                      "CR_SUB_WW": {
+                        "id": "%3A%3Br_",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Create Paid Promo Rebuild ": null,
+                      "Installs US": {
+                        "id": "%3Au%7BN",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Creatives Status": {
+                        "id": "%3B%60E%3C",
+                        "type": "status",
+                        "status": {
+                          "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "[Icon]": null,
+                      "TOP AMZ for Sub Screen Upates": [],
+                      "Ref Name": "",
+                      "ASIN": "",
+                      "Missing Info for Dev(Cross)": {
+                        "id": "%3Cv%60H",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": ""
+                        }
+                      },
+                      "New promo link": {
+                        "id": "%3DU%3BG",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Dev Start": {
+                        "id": "%3D%7B%3Ej",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-16",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "Clone": null,
+                      "Days in Dev -> Release": {
+                        "id": "%3EkOQ",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": 8
+                        }
+                      },
+                      "Are all prop. filled? ": {
+                        "id": "%3Epbv",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "false"
+                        }
+                      },
+                      "All Projects Info Old": [],
+                      "AF Link": {
+                        "id": "%40G%5E%3A",
+                        "type": "url",
+                        "url": "https://hq1.appsflyer.com/unified-ltv/dashboard#appIds=com.vira.wardots.commander"
+                      },
+                      "Long Description": "",
+                      "BB SDK Key (Android)": "gycZndWbiRT1TqUCWLkTTY6cgCn3Z1yjp8d/PsAqwZC+SjQyrwJWVaKRogu7Miad",
+                      "Icon Promo Request": false,
+                      "pLTV 180": {
+                        "id": "%40zGB",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Developer": {
+                        "id": "%40%7Cvk",
+                        "type": "people",
+                        "people": [
+                          {
+                            "object": "user",
+                            "id": "f441d457-a3c4-4599-a2c8-c4de638a39d0",
+                            "name": "Oleh Piavka",
+                            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/a24e280c-904c-4fdd-9f3e-6417f5bb29cd/photo_2024-05-15_12-24-03.jpg",
+                            "type": "person",
+                            "person": {
+                              "email": "oleh.piavka@vira.games"
+                            }
+                          },
+                          {
+                            "object": "user",
+                            "id": "7e8dcb21-2839-4af3-abe9-76fe8b75db14",
+                            "name": "Vladyslav Kurtash",
+                            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/635ba1f3-143e-46ee-afa8-502f255f5bac/IMG_3755_-_Copy.jpg",
+                            "type": "person",
+                            "person": {
+                              "email": "vladyslav.kurtash@vira.games"
+                            }
+                          },
+                          {
+                            "object": "user",
+                            "id": "232d872b-594c-81ca-b542-000255d3cef3",
+                            "name": "Yana Kovalenko",
+                            "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKRwSMRmsS6MK5mWKh1sVJ7tcGej5UXz8ZV1zNYZW-Gdhez1w=s100",
+                            "type": "person",
+                            "person": {
+                              "email": "yana.kovalenko@vira.games"
+                            }
+                          }
+                        ]
+                      },
+                      "PROGRESSION": "",
+                      "🎯 AllPages": [],
+                      "Project Subs Metrics": [],
+                      "Status (Copy)": {
+                        "id": "BVo%40",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Mintegral Status": "",
+                      "Creo Link": "",
+                      "Days Start-Finish": {
+                        "id": "Bzh%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": 5
+                        }
+                      },
+                      "Sum SP": "",
+                      "Created time": {
+                        "id": "B~Qf",
+                        "type": "created_time",
+                        "created_time": "2026-06-15T21:47:00.000Z"
+                      },
+                      "All subscriptions for the current build are filled": true,
+                      "Missing info for Promo rebuild": {
+                        "id": "CkT%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": ""
+                        }
+                      },
+                      "CPI": {
+                        "id": "Cxr%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Teams use": {
+                        "id": "D%40CI",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Status": {
+                        "id": "DYYJ",
+                        "type": "status",
+                        "status": {
+                          "id": "gPu~",
+                          "name": "DEVELOPMENT",
+                          "color": "blue"
+                        }
+                      },
+                      "Date Development Status Set": {
+                        "id": "D%60fU",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-15",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "Last edited time": {
+                        "id": "Dj%3Fm",
+                        "type": "last_edited_time",
+                        "last_edited_time": "2026-06-20T08:37:00.000Z"
+                      },
+                      "Project Link": {
+                        "id": "DjJJ",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Art Finish": {
+                        "id": "Do%3DG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Bundle ID": "com.vira.wardots.commander",
+                      "Price": {
+                        "id": "EUeu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Project Score Analysys": "",
+                      "[Promo] Tasks ": [],
+                      "TECH": "",
+                      "CTR TEST": {
+                        "id": "Ejyo",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Subscription screen changes include links to actual references (expected UI)": true,
+                      "GD": {
+                        "id": "FHAP",
+                        "type": "people",
+                        "people": [
+                          {
+                            "object": "user",
+                            "id": "00f65e4e-295d-4e11-93d4-ec18738bd3d9",
+                            "name": "Stanislav Kramarenko",
+                            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/d85b4bb7-2e8b-4bec-bdf0-f55fd71ce3ee/9f23c1cdc1a98b258e3e0029e1e48594.jpg",
+                            "type": "person",
+                            "person": {
+                              "email": "stanislav.kramarenko@vira.games"
+                            }
+                          }
+                        ]
+                      },
+                      "CONTENT": "",
+                      "Due": {
+                        "id": "FaCd",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Link to Old Promo": {
+                        "id": "FbpI",
+                        "type": "url",
+                        "url": null
+                      },
+                      "QA Task File": {
+                        "type": "files",
+                        "files": []
+                      },
+                      "Task from Growth": [],
+                      "ASO Name & Description": null,
+                      "External\\internal": "",
+                      "⏺️ ASO | Calendar": [],
+                      "Product Features": "",
+                      "Promo Task ": [],
+                      "Monetization DB": [],
+                      "Banner Key": "98fccafa4ab1b3b0",
+                      "Date Info Updated": {
+                        "id": "HqDO",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Short Description": "",
+                      "Creo Status": "",
+                      "Amz Int & Port Tasks Template": null,
+                      "Tools": {
+                        "id": "IZP%3F",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "CreateTKSettings": null,
+                      "Subscription JSON": [],
+                      "GetGitlabInfo": null,
+                      "Days Start-Release": {
+                        "id": "JXlK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "AMZ releaseId": "",
+                      "[Logotype]": null,
+                      "CR Subs, %": {
+                        "id": "KKZH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Date": {
+                        "id": "LkTZ",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3REW": {
+                        "id": "M%5E%40L",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Each config has its own separate description": true,
+                      "CR Total, %": {
+                        "id": "MguI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7INT": {
+                        "id": "MqkG",
+                        "type": "number",
+                        "number": null
+                      },
+                      "PaidConfigGroup": [],
+                      "D1INT": {
+                        "id": "N%3AM%60",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Automation Info (AppStore)": "",
+                      "Previous Status": {
+                        "id": "NSz%7D",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Traffic Source": {
+                        "id": "N%5E%3Cm",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Game Type": {
+                        "id": "NcId",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "D~zu",
+                            "name": "Clone",
+                            "color": "yellow"
+                          }
+                        ]
+                      },
+                      "Create Task (No Check)": null,
+                      "Developer AMZ AppStore Link": "",
+                      "pLTV 7": {
+                        "id": "OPM%5C",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Interstitial Key": "0c9c6a6c1405946b",
+                      "BB Game ID (iOS)": "",
+                      "Team ": "RnD Production Team",
+                      "Ref Link": "https://store.steampowered.com/app/3902430/War_of_Dots/?l=ukrainian",
+                      "Build Paid Icon": null,
+                      "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
+                      "Create Paid Icon": null,
+                      "ByteBrew Link": {
+                        "id": "QD%3Cd",
+                        "type": "url",
+                        "url": "https://dashboard.bytebrew.io/console/bJPNIaBvT/engagement"
+                      },
+                      "Outdated / unused elements are removed from GDD": true,
+                      "Applovin Key": "ZkOo78V5ga6pEBNIN0E3mJLRZFdhy5BQ7cv3ZXULM6vc4Tr1oP86mBOGN5pJcNTPN1FdBSpCL4dDw6zoWL08Ag",
+                      "Full Pack  Fire TV ": null,
+                      "iPad Screens": {
+                        "id": "R%5EzP",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Version": "1.0.1",
+                      "Show": {
+                        "id": "RfDI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "QA | Tasks": [
+                        "3859748b-c8c2-8123-8821-dcc293f23e6c"
+                      ],
+                      "Fullsreen Banner Promo Request": false,
+                      "📽️ Creatives Team Tasks": [],
+                      "Bright SDK Review Status": {
+                        "id": "SXax",
+                        "type": "status",
+                        "status": {
+                          "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                          "name": "Implementation",
+                          "color": "default"
+                        }
+                      },
+                      "Days for Art Test": {
+                        "id": "SdR%3B",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "iPhone Screens": {
+                        "id": "SeX%7C",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Bundle Version": "6",
+                      "Days for Art": {
+                        "id": "T%3Edc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "BB SDK Key (iOS)": "",
+                      "Feature description matches the latest implementation": true,
+                      "Create New \"QA Task\"": null,
+                      "Status  Promo": {
+                        "id": "TWT%3A",
+                        "type": "status",
+                        "status": {
+                          "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Click": {
+                        "id": "TkDm",
+                        "type": "number",
+                        "number": null
+                      },
+                      "GA Game Key": "",
+                      "CTR Video link": "",
+                      "Link to Automation": {
+                        "id": "VRV%3B",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Days in QA": {
+                        "id": "VgPc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": 0
+                        }
+                      },
+                      "parent": "War of Dots (!!!!)",
+                      "Genre": {
+                        "id": "V~Gf",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "ec6db4f5-dffb-476e-a7ba-a924e3960d45",
+                            "name": "Strategy",
+                            "color": "red"
+                          }
+                        ]
+                      },
+                      "BB Game ID (Android)": "bJPNIaBvT",
+                      "Date QA Finished": {
+                        "id": "X%5Cma",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Task Create Info": "✅ QA Task - Successfully Created!",
+                      "GDD Doc": "https://www.notion.so/viragames/War-of-Dots-2fe9748bc8c28064b7c3d09d10366780",
+                      "Full Pack Amz": null,
+                      "Missing Info for QA Task": {
+                        "id": "ZSo%3D",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": ""
+                        }
+                      },
+                      "[Screenshots]": null,
+                      "Specialist": {
+                        "id": "Zy%3F%3A",
+                        "type": "people",
+                        "people": []
+                      },
+                      "A/B Group": "",
+                      "Full Pack TV Promo Request": false,
+                      "Date Team Finish": {
+                        "id": "%5B%5E%3AX",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-20",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "IPM STATIC": {
+                        "id": "%5Bagu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_key": "",
+                      "Groups": [],
+                      "D1RET": {
+                        "id": "%5D%3DAl",
+                        "type": "number",
+                        "number": null
+                      },
+                      "[Fullscreen Banner]": null,
+                      "CR_SUB_US": {
+                        "id": "%5Dz%7CJ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7BAN": {
+                        "id": "%5E%3A%3F%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "MONETIZATION": "",
+                      "D3BAN": {
+                        "id": "%5EQH%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full game name": "Dots Commander: RTS War",
+                      "Firebase PLIST": [],
+                      "Are all prop filled": {
+                        "id": "_%5D%5E%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Date to QA"
+                        }
+                      },
+                      "D1REW": {
+                        "id": "_bnb",
+                        "type": "number",
+                        "number": null
+                      },
+                      "ASO Name & Descripton Request": false,
+                      "Build changes are marked in the task": true,
+                      "Unity version": "",
+                      "Promo status info": "",
+                      "Average FPS": {
+                        "id": "a%3Fdf",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Autobuild_buildNumber": "",
+                      "Polishing": "",
+                      "ExtraComments": "",
+                      "Full Pack Promo Request": false,
+                      "Art Subs Links": "",
+                      "Sprint": {
+                        "id": "afeU",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Documentation link": "https://www.notion.so/viragames/War-of-Dots-2fe9748bc8c28064b7c3d09d10366780",
+                      "Clone From": "",
+                      "D7RET": {
+                        "id": "bE%7C%3A",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Test - Button No Validation": null,
+                      "Release Type": "Update",
+                      "GDD is updated for the current game version": true,
+                      "Link to ASO": {
+                        "id": "d%3BwX",
+                        "type": "url",
+                        "url": "https://www.notion.so/viragames/Name-Description-War-of-Dots-3669748bc8c28165a6f9cba1b370f8af?v=2009748bc8c281649410000ca3357a9c&source=copy_link"
+                      },
+                      "Create Paid Banner": null,
+                      "Prod Promo Approve": "",
+                      "RW Key": "29866ce20f01abe3",
+                      "What's new": "Bug Fixed\nNew Levels Added\nIn Game Abilities Added\n",
+                      "100% Release Date": {
+                        "id": "e%5Ec%7C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Api key": "",
+                      "[Static Banner]": null,
+                      "Public key": [],
+                      "Quarter": "Q2_26",
+                      "Create AF & Vaveda Pages": null,
+                      "LTV_180_WW": {
+                        "id": "gCUp",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Crit Bugs": "",
+                      "IPM(CP)": {
+                        "id": "hQ%5C%5B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Refund Rate": {
+                        "id": "h%5Cxv",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Keywords": "",
+                      "IOS Distribution profile": [],
+                      "Status 1": {
+                        "id": "ihRL",
+                        "type": "status",
+                        "status": {
+                          "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Logotype Banner Promo Request": false,
+                      "Slack Channel Link": "https://viragames.slack.com/archives/C0ACAABUP9B",
+                      "CTR": {
+                        "id": "jqbZ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full Pack GP": {
+                        "id": "k%60op",
+                        "type": "url",
+                        "url": null
+                      },
+                      "D3PTM": {
+                        "id": "kamA",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7REW": {
+                        "id": "kuEV",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_secret": "",
+                      "ViraToolKit version": "2.0.1",
+                      "Priority": "",
+                      "App ID(iOS)": "",
+                      "Int&Port Epics": [],
+                      "ToolKitSettings": [
+                        "36d9748b-c8c2-81da-9d1c-f0c0361639a8"
+                      ],
+                      "Link to store": "",
+                      "QA checking": "",
+                      "Date Release": {
+                        "id": "nTQx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3RET": {
+                        "id": "n%5CF~",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Cross-Promo AMZ": [],
+                      "Paid\\Free": "Free",
+                      "AMZ AppStore": null,
+                      "RESULTS": "",
+                      "AF Key": "fTHmsk9hweq2z9koRW3UPf",
+                      "Goals": "",
+                      "Firebase JSON": [
+                        {
+                          "name": "google-services.json",
+                          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/53dd34a1-0f9b-4dd8-85dc-5d0924f0236d/google-services.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662K6GU4JR%2F20260624%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260624T073425Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGQaCXVzLXdlc3QtMiJHMEUCIQDVCXKuHZwjCeVrT2CrtiNgVBCB39Ul8ZLJaxMUR93%2B1AIgK1dMFcoc0XSYW8pB6373L0JTiQAFvd%2Fv2Z5ZodHr7EUq%2FwMILRAAGgw2Mzc0MjMxODM4MDUiDOHOv2KL1M%2FTbSrGFyrcA1cYVHRJk2cNZBRuPi11mCxcgaFjYXtinnfGg%2FOg%2B4SCv7dgsUQpzf1MzMFOwHH%2BIEkT3ppaLKH2OmcUKhMZS6ScZ54yQWGPrLAHIPZJOTAUuqC9TOi0z3WmHhwIsBbHl8EX%2FQ0dP1qiOkSHgaEGzKUTASGgz%2FwwFUk6EYA0EqbnRnjdx7GP3hoa3STvaFs8MVVC2t4jF2SClXc88kC7P8PxXArKcAaBt8s3p5azTDmNqIQnQqW3n7gYZLEkPmI9tVfKFuAMV1F6TtKrbRJkUX8prTTJn742gSKsMtHjjdimhlrOTLuq%2Bp1B%2BVnqydSHkB%2Fyd0gR35BTp0aP8ZGHxsyASpc38vL0bvp2CJWZMf2InWtpxAqOX41XM2Rvdn8FesYwHBYxLwLgy%2FqPse8RUUdN3eVkhhBPPUMOY%2FL5DXigZ4%2BIf5lKKh1z93oHPxyOBqX5IgFEqsaiO6quatWWe2EK7tkOa9mWs5G5wXxryWy2RCh6cc1nybDxHIkeVxUgSOnTo3U%2FLZ9zzw3zFAHyyHq%2BU9BigbyIgJj3rDlGHkBeEn%2BoU7W4GK8zBGe2f3BTKvz11s4fnh9R6OgZcZedndGo%2BxC5t%2FtOngutytXYFhyviZefs%2BwMDDXr3SNmMJqm7dEGOqUBZwtfj9yvfFjSERycRSfC4MAqT%2B25sSCJEQnMuAZbxSVDM%2F27TcgfDT6rmWN3rkanVBOgIbW6Tldbx9QZJVqGXcuioQmAaZaFTsu6dw%2FhV14WNRDzQQ%2BksyXCRL12eom2%2BuXikzJFiXpFxqq%2FAriylsrbVi%2FuGGom3l26DD3jZ976ouFU%2Bs54p5ZiiFIThzjD1nZBVE5XHsvtXsfzA1%2B5sOb9qH3y&X-Amz-Signature=d9533a5a16e4ebbba237bbf16b1c3f196da905fb5aef6edcedab9ab2824164b0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                        }
+                      ],
+                      "QA": {
+                        "type": "people",
+                        "people": [
+                          {
+                            "object": "user",
+                            "id": "123d872b-594c-81ee-b257-0002268a7d53",
+                            "name": "Andriy Vashchenko",
+                            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/3eefd71b-f7fc-4b13-b1d6-ad598e2addf2/photo_2024-10-21_17-28-38.jpg",
+                            "type": "person",
+                            "person": {
+                              "email": "andriy.vashchenko@vira.games"
+                            }
+                          }
+                        ]
+                      },
+                      "Hypothesys": [],
+                      "AMZ appId": "",
+                      "Opt-In": {
+                        "id": "p_Ic",
+                        "type": "number",
+                        "number": null
+                      },
+                      "New Tasks & Requests": [],
+                      "Last edited by": {
+                        "id": "qUWF",
+                        "type": "last_edited_by",
+                        "last_edited_by": {
+                          "object": "user",
+                          "id": "233d872b-594c-8130-9d01-0002039920c3",
+                          "name": "Vladyslav Petrenko",
+                          "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/8f2ce141-f90f-456b-8cb8-8895b2d87c89/photo_5282768950872104018_y.jpg",
+                          "type": "person",
+                          "person": {
+                            "email": "vladyslav.petrenko@vira.games"
+                          }
+                        }
+                      },
+                      "Account": {
+                        "id": "qhXd",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "cd4ae8a7-72b6-4051-8d1d-1a17973ae494",
+                            "name": "Vira Games Inc",
+                            "color": "blue"
+                          }
+                        ]
+                      },
+                      "Date to QA": {
+                        "id": "q%7D%3F%5C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Sub-team": "Team Sesh",
+                      "Date Team Start": {
+                        "id": "rKeG",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-15",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "Created by": {
+                        "id": "r%5BBI",
+                        "type": "created_by",
+                        "created_by": {
+                          "object": "user",
+                          "id": "233d872b-594c-8130-9d01-0002039920c3",
+                          "name": "Vladyslav Petrenko",
+                          "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/8f2ce141-f90f-456b-8cb8-8895b2d87c89/photo_5282768950872104018_y.jpg",
+                          "type": "person",
+                          "person": {
+                            "email": "vladyslav.petrenko@vira.games"
+                          }
+                        }
+                      },
+                      "Tech Project Doc": "https://app.notion.com/p/viragames/War-of-Dots-2fe9748bc8c28064b7c3d09d10366780?source=copy_link#3809748bc8c280a0853de386894d2b94",
+                      "Sub-subscription 1": {
+                        "id": "sCtp",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Automated Team": {
+                        "id": "sDNL",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "If release is not required:  Need Release checkbox is unchecked": true,
+                      "UI": "",
+                      "Test - Button Validation": null,
+                      "Admob Key": "ca-app-pub-1156383915014504~7870205594",
+                      "Firebase Link": {
+                        "id": "upQD",
+                        "type": "url",
+                        "url": "https://console.firebase.google.com/project/vira-games-rnd/overview"
+                      },
+                      "Monetization": [],
+                      "Cross Promo Video status": "",
+                      "CPI (Mint) Test Dates": {
+                        "id": "v%5Bi%60",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Date Art Start": {
+                        "id": "v%5D~D",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Last Status Change": {
+                        "id": "wQFr",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-15",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "D1PTM": {
+                        "id": "wgp%7B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Link to Promo": "https://drive.google.com/drive/folders/1VldbyUIZ41g1h80Nhc4ncx9tZoHiN6ZI?usp=sharing",
+                      "[Creatives] Tasks": [],
+                      "ipm TEST": {
+                        "id": "xWSH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Art Assets Link": {
+                        "id": "x%5C%3DY",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Total installs": {
+                        "id": "x%5DWz",
+                        "type": "number",
+                        "number": null
+                      },
+                      "LTV_180_US ": {
+                        "id": "xfen",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sub-s Database": [],
+                      "Amz Console: On Auto support": false,
+                      "Create QA Task": false,
+                      "Create UA Tasks": null,
+                      "3D Artist": {
+                        "id": "zHXV",
+                        "type": "people",
+                        "people": [
+                          {
+                            "object": "user",
+                            "id": "98991999-790c-445f-b729-e0a14be94e2b",
+                            "name": "Andrii Kurtash",
+                            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1cf1769b-8b47-49cf-9811-8632b58e0ec4/IMG_3760-2_(1).png",
+                            "type": "person",
+                            "person": {
+                              "email": "andrii.kurtash@vira.games"
+                            }
+                          }
+                        ]
+                      },
+                      " GA Secret Key": "",
+                      "Task Tracker Link": {
+                        "id": "%7BIp%3F",
+                        "type": "url",
+                        "url": "https://www.notion.so/viragames/Team-Sesh-2fd9748bc8c280fd9955c4ad754852b5"
+                      },
+                      "D3INT": {
+                        "id": "%7BL%5C%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Percent of Release": {
+                        "id": "%7BRbl",
+                        "type": "number",
+                        "number": 100
+                      },
+                      "AppMagic Info": [],
+                      "StartUp Time": {
+                        "id": "%7BZ_P",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D1BAN": {
+                        "id": "%7BeFD",
+                        "type": "number",
+                        "number": null
+                      },
+                      "IPM (CP) Test Dates": {
+                        "id": "%7Be%5E%3E",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Platform": "GP",
+                      "temp_tk_version_link": {
+                        "id": "%7CeXN",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "Open ImportPackageWindow.cs"
+                        }
+                      },
+                      "Screenshot Promo Request": false,
+                      "Sub-item": [],
+                      "Date Art Finish Test": {
+                        "id": "%7Dwfx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "GIT LINK": "https://gitlab.com/vira-games/product-team/war-of-dots.git",
+                      "D7PTM": {
+                        "id": "~%3F%3B%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Parent Project": [
+                        "2ff9748b-c8c2-819e-a876-dec3f8714a35"
+                      ],
+                      "Days in Dev -> QA": {
+                        "id": "~FLK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": 8
+                        }
+                      },
+                      "BALANCE": "",
+                      "Description for QA": "  1. Добавили новых 14 уровня (с 28 по 41)\n  2. Добавили Абилки в игру (за RW) \n  3. Добавили возможность покупки абилок за RW на Win Screen\n  4. Добавили “Rate Us”\n",
+                      "Prod Approved": false,
+                      "Static Banner Promo Request": false,
+                      "IPM": {
+                        "id": "~oXr",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sent To QA": {
+                        "id": "~sjG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Promo info checking": {
+                        "id": "~wLr",
+                        "type": "formula",
+                        "formula": {
+                          "type": "boolean",
+                          "boolean": false
+                        }
+                      },
+                      "Project": "Dots Commander: RTS War",
+                      "Description": "",
+                      "SubscriptionRevenueEvent": false,
+                      "AMZ Metrics Date & Comment": "",
+                      "GD 2": {
+                        "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Amz StartUp Time": {
+                        "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Status 2": "",
+                      "Days": {
+                        "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Asana Link": {
+                        "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Need a new Video?": false
+                    },
+                    "created_time": "2026-06-15T21:47:00.000Z",
+                    "last_edited_time": "2026-06-20T08:37:00.000Z",
+                    "url": "https://app.notion.com/p/Dots-Commander-RTS-War-80e9748bc8c283e68542012eb0135fbc"
+                  },
+                  "Page_5f19748b-c8c2-8253-80ea-013653a12ff9": {
+                    "id": "5f19748b-c8c2-8253-80ea-013653a12ff9",
+                    "title": "Page 5f19748b-c8c2-8253-80ea-013653a12ff9",
+                    "properties": {
+                      "CR_SUB_WW": {
+                        "id": "%3A%3Br_",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Create Paid Promo Rebuild ": null,
+                      "Installs US": {
+                        "id": "%3Au%7BN",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Creatives Status": {
+                        "id": "%3B%60E%3C",
+                        "type": "status",
+                        "status": {
+                          "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "[Icon]": null,
+                      "TOP AMZ for Sub Screen Upates": [],
+                      "Ref Name": "",
+                      "ASIN": "",
+                      "Missing Info for Dev(Cross)": {
+                        "id": "%3Cv%60H",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": ""
+                        }
+                      },
+                      "New promo link": {
+                        "id": "%3DU%3BG",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Dev Start": {
+                        "id": "%3D%7B%3Ej",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-16",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "Clone": null,
+                      "Days in Dev -> Release": {
+                        "id": "%3EkOQ",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": 8
+                        }
+                      },
+                      "Are all prop. filled? ": {
+                        "id": "%3Epbv",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "false"
+                        }
+                      },
+                      "All Projects Info Old": [],
+                      "AF Link": {
+                        "id": "%40G%5E%3A",
+                        "type": "url",
+                        "url": "https://hq1.appsflyer.com/unified-ltv/dashboard#appIds=com.vira.wardots.commander"
+                      },
+                      "Long Description": "",
+                      "BB SDK Key (Android)": "gycZndWbiRT1TqUCWLkTTY6cgCn3Z1yjp8d/PsAqwZC+SjQyrwJWVaKRogu7Miad",
+                      "Icon Promo Request": false,
+                      "pLTV 180": {
+                        "id": "%40zGB",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Developer": {
+                        "id": "%40%7Cvk",
+                        "type": "people",
+                        "people": [
+                          {
+                            "object": "user",
+                            "id": "f441d457-a3c4-4599-a2c8-c4de638a39d0",
+                            "name": "Oleh Piavka",
+                            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/a24e280c-904c-4fdd-9f3e-6417f5bb29cd/photo_2024-05-15_12-24-03.jpg",
+                            "type": "person",
+                            "person": {
+                              "email": "oleh.piavka@vira.games"
+                            }
+                          },
+                          {
+                            "object": "user",
+                            "id": "7e8dcb21-2839-4af3-abe9-76fe8b75db14",
+                            "name": "Vladyslav Kurtash",
+                            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/635ba1f3-143e-46ee-afa8-502f255f5bac/IMG_3755_-_Copy.jpg",
+                            "type": "person",
+                            "person": {
+                              "email": "vladyslav.kurtash@vira.games"
+                            }
+                          },
+                          {
+                            "object": "user",
+                            "id": "232d872b-594c-81ca-b542-000255d3cef3",
+                            "name": "Yana Kovalenko",
+                            "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKRwSMRmsS6MK5mWKh1sVJ7tcGej5UXz8ZV1zNYZW-Gdhez1w=s100",
+                            "type": "person",
+                            "person": {
+                              "email": "yana.kovalenko@vira.games"
+                            }
+                          }
+                        ]
+                      },
+                      "PROGRESSION": "",
+                      "🎯 AllPages": [],
+                      "Project Subs Metrics": [],
+                      "Status (Copy)": {
+                        "id": "BVo%40",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Mintegral Status": "",
+                      "Creo Link": "",
+                      "Days Start-Finish": {
+                        "id": "Bzh%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": 5
+                        }
+                      },
+                      "Sum SP": "",
+                      "Created time": {
+                        "id": "B~Qf",
+                        "type": "created_time",
+                        "created_time": "2026-06-15T21:49:00.000Z"
+                      },
+                      "All subscriptions for the current build are filled": true,
+                      "Missing info for Promo rebuild": {
+                        "id": "CkT%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": ""
+                        }
+                      },
+                      "CPI": {
+                        "id": "Cxr%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Teams use": {
+                        "id": "D%40CI",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Status": {
+                        "id": "DYYJ",
+                        "type": "status",
+                        "status": {
+                          "id": "gPu~",
+                          "name": "DEVELOPMENT",
+                          "color": "blue"
+                        }
+                      },
+                      "Date Development Status Set": {
+                        "id": "D%60fU",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-15",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "Last edited time": {
+                        "id": "Dj%3Fm",
+                        "type": "last_edited_time",
+                        "last_edited_time": "2026-06-20T08:41:00.000Z"
+                      },
+                      "Project Link": {
+                        "id": "DjJJ",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Art Finish": {
+                        "id": "Do%3DG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Bundle ID": "com.vira.wardots.commander",
+                      "Price": {
+                        "id": "EUeu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Project Score Analysys": "",
+                      "[Promo] Tasks ": [],
+                      "TECH": "",
+                      "CTR TEST": {
+                        "id": "Ejyo",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Subscription screen changes include links to actual references (expected UI)": true,
+                      "GD": {
+                        "id": "FHAP",
+                        "type": "people",
+                        "people": [
+                          {
+                            "object": "user",
+                            "id": "00f65e4e-295d-4e11-93d4-ec18738bd3d9",
+                            "name": "Stanislav Kramarenko",
+                            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/d85b4bb7-2e8b-4bec-bdf0-f55fd71ce3ee/9f23c1cdc1a98b258e3e0029e1e48594.jpg",
+                            "type": "person",
+                            "person": {
+                              "email": "stanislav.kramarenko@vira.games"
+                            }
+                          }
+                        ]
+                      },
+                      "CONTENT": "",
+                      "Due": {
+                        "id": "FaCd",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Link to Old Promo": {
+                        "id": "FbpI",
+                        "type": "url",
+                        "url": null
+                      },
+                      "QA Task File": {
+                        "type": "files",
+                        "files": []
+                      },
+                      "Task from Growth": [],
+                      "ASO Name & Description": null,
+                      "External\\internal": "",
+                      "⏺️ ASO | Calendar": [],
+                      "Product Features": "",
+                      "Promo Task ": [],
+                      "Monetization DB": [],
+                      "Banner Key": "98fccafa4ab1b3b0",
+                      "Date Info Updated": {
+                        "id": "HqDO",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Short Description": "",
+                      "Creo Status": "",
+                      "Amz Int & Port Tasks Template": null,
+                      "Tools": {
+                        "id": "IZP%3F",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "CreateTKSettings": null,
+                      "Subscription JSON": [],
+                      "GetGitlabInfo": null,
+                      "Days Start-Release": {
+                        "id": "JXlK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "AMZ releaseId": "",
+                      "[Logotype]": null,
+                      "CR Subs, %": {
+                        "id": "KKZH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Date": {
+                        "id": "LkTZ",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3REW": {
+                        "id": "M%5E%40L",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Each config has its own separate description": true,
+                      "CR Total, %": {
+                        "id": "MguI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7INT": {
+                        "id": "MqkG",
+                        "type": "number",
+                        "number": null
+                      },
+                      "PaidConfigGroup": [],
+                      "D1INT": {
+                        "id": "N%3AM%60",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Automation Info (AppStore)": "",
+                      "Previous Status": {
+                        "id": "NSz%7D",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Traffic Source": {
+                        "id": "N%5E%3Cm",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Game Type": {
+                        "id": "NcId",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "D~zu",
+                            "name": "Clone",
+                            "color": "yellow"
+                          }
+                        ]
+                      },
+                      "Create Task (No Check)": null,
+                      "Developer AMZ AppStore Link": "",
+                      "pLTV 7": {
+                        "id": "OPM%5C",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Interstitial Key": "0c9c6a6c1405946b",
+                      "BB Game ID (iOS)": "",
+                      "Team ": "RnD Production Team",
+                      "Ref Link": "https://store.steampowered.com/app/3902430/War_of_Dots/?l=ukrainian",
+                      "Build Paid Icon": null,
+                      "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
+                      "Create Paid Icon": null,
+                      "ByteBrew Link": {
+                        "id": "QD%3Cd",
+                        "type": "url",
+                        "url": "https://dashboard.bytebrew.io/console/bJPNIaBvT/engagement"
+                      },
+                      "Outdated / unused elements are removed from GDD": true,
+                      "Applovin Key": "ZkOo78V5ga6pEBNIN0E3mJLRZFdhy5BQ7cv3ZXULM6vc4Tr1oP86mBOGN5pJcNTPN1FdBSpCL4dDw6zoWL08Ag",
+                      "Full Pack  Fire TV ": null,
+                      "iPad Screens": {
+                        "id": "R%5EzP",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Version": "1.0.2",
+                      "Show": {
+                        "id": "RfDI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "QA | Tasks": [
+                        "3859748b-c8c2-8179-ab85-e410a6608523"
+                      ],
+                      "Fullsreen Banner Promo Request": false,
+                      "📽️ Creatives Team Tasks": [],
+                      "Bright SDK Review Status": {
+                        "id": "SXax",
+                        "type": "status",
+                        "status": {
+                          "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                          "name": "Implementation",
+                          "color": "default"
+                        }
+                      },
+                      "Days for Art Test": {
+                        "id": "SdR%3B",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "iPhone Screens": {
+                        "id": "SeX%7C",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Bundle Version": "7",
+                      "Days for Art": {
+                        "id": "T%3Edc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "BB SDK Key (iOS)": "",
+                      "Feature description matches the latest implementation": true,
+                      "Create New \"QA Task\"": null,
+                      "Status  Promo": {
+                        "id": "TWT%3A",
+                        "type": "status",
+                        "status": {
+                          "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Click": {
+                        "id": "TkDm",
+                        "type": "number",
+                        "number": null
+                      },
+                      "GA Game Key": "",
+                      "CTR Video link": "",
+                      "Link to Automation": {
+                        "id": "VRV%3B",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Days in QA": {
+                        "id": "VgPc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": 0
+                        }
+                      },
+                      "parent": "War of Dots (!!!!)",
+                      "Genre": {
+                        "id": "V~Gf",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "ec6db4f5-dffb-476e-a7ba-a924e3960d45",
+                            "name": "Strategy",
+                            "color": "red"
+                          }
+                        ]
+                      },
+                      "BB Game ID (Android)": "bJPNIaBvT",
+                      "Date QA Finished": {
+                        "id": "X%5Cma",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Task Create Info": "✅ QA Task - Successfully Created!",
+                      "GDD Doc": "https://www.notion.so/viragames/War-of-Dots-2fe9748bc8c28064b7c3d09d10366780",
+                      "Full Pack Amz": null,
+                      "Missing Info for QA Task": {
+                        "id": "ZSo%3D",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": ""
+                        }
+                      },
+                      "[Screenshots]": null,
+                      "Specialist": {
+                        "id": "Zy%3F%3A",
+                        "type": "people",
+                        "people": []
+                      },
+                      "A/B Group": "",
+                      "Full Pack TV Promo Request": false,
+                      "Date Team Finish": {
+                        "id": "%5B%5E%3AX",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-20",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "IPM STATIC": {
+                        "id": "%5Bagu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_key": "",
+                      "Groups": [],
+                      "D1RET": {
+                        "id": "%5D%3DAl",
+                        "type": "number",
+                        "number": null
+                      },
+                      "[Fullscreen Banner]": null,
+                      "CR_SUB_US": {
+                        "id": "%5Dz%7CJ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7BAN": {
+                        "id": "%5E%3A%3F%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "MONETIZATION": "",
+                      "D3BAN": {
+                        "id": "%5EQH%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full game name": "Dots Commander: RTS War",
+                      "Firebase PLIST": [],
+                      "Are all prop filled": {
+                        "id": "_%5D%5E%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Date to QA"
+                        }
+                      },
+                      "D1REW": {
+                        "id": "_bnb",
+                        "type": "number",
+                        "number": null
+                      },
+                      "ASO Name & Descripton Request": false,
+                      "Build changes are marked in the task": true,
+                      "Unity version": "",
+                      "Promo status info": "",
+                      "Average FPS": {
+                        "id": "a%3Fdf",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Autobuild_buildNumber": "",
+                      "Polishing": "",
+                      "ExtraComments": "",
+                      "Full Pack Promo Request": false,
+                      "Art Subs Links": "",
+                      "Sprint": {
+                        "id": "afeU",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Documentation link": "https://www.notion.so/viragames/War-of-Dots-2fe9748bc8c28064b7c3d09d10366780",
+                      "Clone From": "",
+                      "D7RET": {
+                        "id": "bE%7C%3A",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Test - Button No Validation": null,
+                      "Release Type": "Update",
+                      "GDD is updated for the current game version": true,
+                      "Link to ASO": {
+                        "id": "d%3BwX",
+                        "type": "url",
+                        "url": "https://www.notion.so/viragames/Name-Description-War-of-Dots-3669748bc8c28165a6f9cba1b370f8af?v=2009748bc8c281649410000ca3357a9c&source=copy_link"
+                      },
+                      "Create Paid Banner": null,
+                      "Prod Promo Approve": "",
+                      "RW Key": "29866ce20f01abe3",
+                      "What's new": "Bug Fixed\nCoffee Break Added\n",
+                      "100% Release Date": {
+                        "id": "e%5Ec%7C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Api key": "",
+                      "[Static Banner]": null,
+                      "Public key": [],
+                      "Quarter": "Q2_26",
+                      "Create AF & Vaveda Pages": null,
+                      "LTV_180_WW": {
+                        "id": "gCUp",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Crit Bugs": "",
+                      "IPM(CP)": {
+                        "id": "hQ%5C%5B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Refund Rate": {
+                        "id": "h%5Cxv",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Keywords": "",
+                      "IOS Distribution profile": [],
+                      "Status 1": {
+                        "id": "ihRL",
+                        "type": "status",
+                        "status": {
+                          "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Logotype Banner Promo Request": false,
+                      "Slack Channel Link": "https://viragames.slack.com/archives/C0ACAABUP9B",
+                      "CTR": {
+                        "id": "jqbZ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full Pack GP": {
+                        "id": "k%60op",
+                        "type": "url",
+                        "url": null
+                      },
+                      "D3PTM": {
+                        "id": "kamA",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7REW": {
+                        "id": "kuEV",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_secret": "",
+                      "ViraToolKit version": "2.0.1",
+                      "Priority": "",
+                      "App ID(iOS)": "",
+                      "Int&Port Epics": [],
+                      "ToolKitSettings": [
+                        "36d9748b-c8c2-81da-9d1c-f0c0361639a8"
+                      ],
+                      "Link to store": "",
+                      "QA checking": "",
+                      "Date Release": {
+                        "id": "nTQx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3RET": {
+                        "id": "n%5CF~",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Cross-Promo AMZ": [],
+                      "Paid\\Free": "Free",
+                      "AMZ AppStore": null,
+                      "RESULTS": "",
+                      "AF Key": "fTHmsk9hweq2z9koRW3UPf",
+                      "Goals": "",
+                      "Firebase JSON": [
+                        {
+                          "name": "google-services.json",
+                          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/53dd34a1-0f9b-4dd8-85dc-5d0924f0236d/google-services.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YVXAEFIQ%2F20260624%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260624T073425Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGgaCXVzLXdlc3QtMiJHMEUCIQCGsPlYjvIlZoI7UuJPfiPaQMqOeOT7%2BfDn2gbpgtiM0QIgezV4JMO0%2FuSAhqABnpFsWG3DQUVJsmjUdMuFMX07lzcq%2FwMIMBAAGgw2Mzc0MjMxODM4MDUiDA8k%2FhghFzgtHZfD8SrcA6yogF7NGVvgkvR1qHOt%2Bxyv%2BTZJDNYp7F74V7efR7NHw8yqUNlL2AXpKtIaSdADdefm5GfbzWzb6n5SQmnjjsHsAcKrLbyH7vFLGCDMC1M6P8Xz3v%2BW%2BwslHwI1%2BQbEH5wicJqe2VWI9%2BVn1bbYJ0LCIkLWVF9P8zWEDlqcuRJGmbEP80JbW%2B5LK8jESyhK4kCXO9aKGzn7ZXXp8G5uJ6MY6y56j0vvQgSdr1M%2FGr5MY7bSYDTIXA3bLGos5LpKXcWtqZowTti%2F0D7ZhbGUNxEx%2FaotvIRite9J8WQwAxfhT99woom3KbaEhtyBTsnF0DkS5iSiIraAnbjVvoFcOhfAzLkjuIuuD%2BqV7ZvqmK4De8A6J3121sQqJIo%2FFV%2FBbjTw3%2Fz36zOHi%2FRFkr8lujxbC9xGf14pcEmsmOZHMAAdVWdDxWaN0LSqgMW93DHM0pbdVmX3cxoEO9RjkpadENq4DNfDTc9duHDBRJDD1AuLs9yHcijwjuT0sWmMKGYOgXLOXp6phEwv%2F8zDM6OpTh38CY0EMqByuHZDuoBXpC%2FCGH9nVxF1WuUnYc7FMtQgCJxgLgD4MzWrH7jJVVBhxKAS6EvAesjoYwUFzV00QaNc9U2sbbqzKxn0SMMXMP2N7tEGOqUBRGD9kTjCTnTG5XN0u81K79skhjTSfoC2RE2IKPuoGnC%2Bb3R1LwAJHW%2FfLn6Km6tPVHVTZyLU4r6MhppOUtsRpOie5%2Bs9IrqP2d6MsseN1G6xIHnoRQuamVFughROeCEHfm%2FSFCDIggpI5bBpzqXg%2BeTCflbeiApIT0133u1LBdR%2FI3r4hDveNWdeAlaYHNTno7CXRLM8XGwWzaCFcyJF%2BGwEoYzs&X-Amz-Signature=7593034308da61ed8eb365a8da9576f924501c620dfa2dfdcc34867b3b2a2d7f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                        }
+                      ],
+                      "QA": {
+                        "type": "people",
+                        "people": []
+                      },
+                      "Hypothesys": [],
+                      "AMZ appId": "",
+                      "Opt-In": {
+                        "id": "p_Ic",
+                        "type": "number",
+                        "number": null
+                      },
+                      "New Tasks & Requests": [],
+                      "Last edited by": {
+                        "id": "qUWF",
+                        "type": "last_edited_by",
+                        "last_edited_by": {
+                          "object": "user",
+                          "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                          "name": "Vira Games Bot",
+                          "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
+                          "type": "bot",
+                          "bot": {}
+                        }
+                      },
+                      "Account": {
+                        "id": "qhXd",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "cd4ae8a7-72b6-4051-8d1d-1a17973ae494",
+                            "name": "Vira Games Inc",
+                            "color": "blue"
+                          }
+                        ]
+                      },
+                      "Date to QA": {
+                        "id": "q%7D%3F%5C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Sub-team": "Team Sesh",
+                      "Date Team Start": {
+                        "id": "rKeG",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-15",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "Created by": {
+                        "id": "r%5BBI",
+                        "type": "created_by",
+                        "created_by": {
+                          "object": "user",
+                          "id": "233d872b-594c-8130-9d01-0002039920c3",
+                          "name": "Vladyslav Petrenko",
+                          "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/8f2ce141-f90f-456b-8cb8-8895b2d87c89/photo_5282768950872104018_y.jpg",
+                          "type": "person",
+                          "person": {
+                            "email": "vladyslav.petrenko@vira.games"
+                          }
+                        }
+                      },
+                      "Tech Project Doc": "https://app.notion.com/p/viragames/War-of-Dots-2fe9748bc8c28064b7c3d09d10366780?source=copy_link#3809748bc8c280a0853de386894d2b94",
+                      "Sub-subscription 1": {
+                        "id": "sCtp",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Automated Team": {
+                        "id": "sDNL",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "If release is not required:  Need Release checkbox is unchecked": true,
+                      "UI": "",
+                      "Test - Button Validation": null,
+                      "Admob Key": "ca-app-pub-1156383915014504~7870205594",
+                      "Firebase Link": {
+                        "id": "upQD",
+                        "type": "url",
+                        "url": "https://console.firebase.google.com/project/vira-games-rnd/overview"
+                      },
+                      "Monetization": [],
+                      "Cross Promo Video status": "",
+                      "CPI (Mint) Test Dates": {
+                        "id": "v%5Bi%60",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Date Art Start": {
+                        "id": "v%5D~D",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Last Status Change": {
+                        "id": "wQFr",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-15",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "D1PTM": {
+                        "id": "wgp%7B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Link to Promo": "https://drive.google.com/drive/folders/1VldbyUIZ41g1h80Nhc4ncx9tZoHiN6ZI?usp=sharing",
+                      "[Creatives] Tasks": [],
+                      "ipm TEST": {
+                        "id": "xWSH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Art Assets Link": {
+                        "id": "x%5C%3DY",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Total installs": {
+                        "id": "x%5DWz",
+                        "type": "number",
+                        "number": null
+                      },
+                      "LTV_180_US ": {
+                        "id": "xfen",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sub-s Database": [],
+                      "Amz Console: On Auto support": false,
+                      "Create QA Task": false,
+                      "Create UA Tasks": null,
+                      "3D Artist": {
+                        "id": "zHXV",
+                        "type": "people",
+                        "people": [
+                          {
+                            "object": "user",
+                            "id": "98991999-790c-445f-b729-e0a14be94e2b",
+                            "name": "Andrii Kurtash",
+                            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1cf1769b-8b47-49cf-9811-8632b58e0ec4/IMG_3760-2_(1).png",
+                            "type": "person",
+                            "person": {
+                              "email": "andrii.kurtash@vira.games"
+                            }
+                          }
+                        ]
+                      },
+                      " GA Secret Key": "",
+                      "Task Tracker Link": {
+                        "id": "%7BIp%3F",
+                        "type": "url",
+                        "url": "https://www.notion.so/viragames/Team-Sesh-2fd9748bc8c280fd9955c4ad754852b5"
+                      },
+                      "D3INT": {
+                        "id": "%7BL%5C%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Percent of Release": {
+                        "id": "%7BRbl",
+                        "type": "number",
+                        "number": 80
+                      },
+                      "AppMagic Info": [],
+                      "StartUp Time": {
+                        "id": "%7BZ_P",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D1BAN": {
+                        "id": "%7BeFD",
+                        "type": "number",
+                        "number": null
+                      },
+                      "IPM (CP) Test Dates": {
+                        "id": "%7Be%5E%3E",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Platform": "GP",
+                      "temp_tk_version_link": {
+                        "id": "%7CeXN",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "Open ImportPackageWindow.cs"
+                        }
+                      },
+                      "Screenshot Promo Request": false,
+                      "Sub-item": [],
+                      "Date Art Finish Test": {
+                        "id": "%7Dwfx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "GIT LINK": "https://gitlab.com/vira-games/product-team/war-of-dots.git",
+                      "D7PTM": {
+                        "id": "~%3F%3B%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Parent Project": [
+                        "2ff9748b-c8c2-819e-a876-dec3f8714a35"
+                      ],
+                      "Days in Dev -> QA": {
+                        "id": "~FLK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": 8
+                        }
+                      },
+                      "BALANCE": "",
+                      "Description for QA": "Тут все то же что в версии 1.0.1 (РА+новые уровни, Rate Us)\n  • Только добавились еще и 4 плейсмента на ",
+                      "Prod Approved": false,
+                      "Static Banner Promo Request": false,
+                      "IPM": {
+                        "id": "~oXr",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sent To QA": {
+                        "id": "~sjG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Promo info checking": {
+                        "id": "~wLr",
+                        "type": "formula",
+                        "formula": {
+                          "type": "boolean",
+                          "boolean": false
+                        }
+                      },
+                      "Project": "Dots Commander: RTS War ",
+                      "Description": "",
+                      "SubscriptionRevenueEvent": false,
+                      "AMZ Metrics Date & Comment": "",
+                      "GD 2": {
+                        "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Amz StartUp Time": {
+                        "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Status 2": "",
+                      "Days": {
+                        "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Asana Link": {
+                        "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Need a new Video?": false
+                    },
+                    "created_time": "2026-06-15T21:49:00.000Z",
+                    "last_edited_time": "2026-06-20T08:41:00.000Z",
+                    "url": "https://app.notion.com/p/Dots-Commander-RTS-War-5f19748bc8c2825380ea013653a12ff9",
+                    "children": {
+                      "Dots_Commander__RTS_War__GP_-_Free_": {
+                        "id": "3859748b-c8c2-8179-ab85-e410a6608523",
+                        "title": "Dots Commander: RTS War [GP - Free]",
+                        "properties": {
+                          "Send Bug-report for Review": null,
+                          "QA": {
+                            "id": "%3Akbv",
+                            "type": "people",
+                            "people": []
+                          },
+                          "Sent for Review Date": {
+                            "id": "%3B%3Dui",
+                            "type": "date",
+                            "date": null
+                          },
+                          "Extra Story Point ": {
+                            "id": "%3Bmt%7D",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Previous status": "Hold",
+                          "Get info for iterations": null,
+                          "Release Build Link:": {
+                            "id": "%3FUcg",
+                            "type": "url",
+                            "url": null
+                          },
+                          "Main Checklist": {
+                            "id": "%40uPu",
+                            "type": "url",
+                            "url": null
+                          },
+                          "Test result": [],
+                          "Create-Start Testing days": {
+                            "id": "A%5Bv%5B",
+                            "type": "formula",
+                            "formula": {
+                              "type": "string",
+                              "string": null
+                            }
+                          },
+                          "Total Testing Time (hrs)": {
+                            "id": "AaPZ",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Total Old Bugs": {
+                            "id": "C%60br",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Total \"Major\"": {
+                            "id": "DB%7D%3F",
+                            "type": "number",
+                            "number": null
+                          },
+                          "ViraToolKit version": "2.0.1",
+                          "Priority": "Medium",
+                          "What's new": "Bug Fixed\nCoffee Break Added\n",
+                          "All Projects Info": [
+                            "5f19748b-c8c2-8253-80ea-013653a12ff9"
+                          ],
+                          "Link To Promo": "https://drive.google.com/drive/folders/1VldbyUIZ41g1h80Nhc4ncx9tZoHiN6ZI?usp=sharing",
+                          "Created time": {
+                            "id": "Hli%3C",
+                            "type": "created_time",
+                            "created_time": "2026-06-20T08:41:00.000Z"
+                          },
+                          "AF test Screen ": [],
+                          "Missed Crit-bugs in Live": {
+                            "id": "Jm%7B%3B",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Documentation link": "https://www.notion.so/viragames/War-of-Dots-2fe9748bc8c28064b7c3d09d10366780",
+                          "Sub-tasks": [],
+                          "Max it test time (hrs)": {
+                            "id": "M%3AHd",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Total \"Minor\"": {
+                            "id": "M%7Dly",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Attach file": [],
+                          "% sub-tasks per other iterations": {
+                            "id": "OAKo",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Link to Slack release-updates": {
+                            "id": "OUVS",
+                            "type": "url",
+                            "url": null
+                          },
+                          "Company": {
+                            "id": "Psch",
+                            "type": "multi_select",
+                            "multi_select": [
+                              {
+                                "id": "6e8cf8af-2854-4165-a661-bf3db747a969",
+                                "name": "Vira Games Inc",
+                                "color": "orange"
+                              }
+                            ]
+                          },
+                          "Release Build Link 2": {
+                            "id": "Q%40JT",
+                            "type": "url",
+                            "url": null
+                          },
+                          "Total \"Critical\"": {
+                            "id": "QRF%5E",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Place": {
+                            "id": "SQ%3F%5C",
+                            "type": "place",
+                            "place": null
+                          },
+                          "Release Checklist": {
+                            "id": "SXCS",
+                            "type": "url",
+                            "url": null
+                          },
+                          "Slack Channel Link": {
+                            "id": "S%7C~u",
+                            "type": "url",
+                            "url": "https://viragames.slack.com/archives/C0ACAABUP9B"
+                          },
+                          "Auto Test Status": {
+                            "id": "UErf",
+                            "type": "status",
+                            "status": {
+                              "id": "NON}",
+                              "name": "Hold auto-test",
+                              "color": "gray"
+                            }
+                          },
+                          "Sub-task Iteration": {
+                            "id": "VafY",
+                            "type": "multi_select",
+                            "multi_select": []
+                          },
+                          "GameDesigner": {
+                            "id": "VuMY",
+                            "type": "people",
+                            "people": [
+                              {
+                                "object": "user",
+                                "id": "00f65e4e-295d-4e11-93d4-ec18738bd3d9",
+                                "name": "Stanislav Kramarenko",
+                                "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/d85b4bb7-2e8b-4bec-bdf0-f55fd71ce3ee/9f23c1cdc1a98b258e3e0029e1e48594.jpg",
+                                "type": "person",
+                                "person": {
+                                  "email": "stanislav.kramarenko@vira.games"
+                                }
+                              }
+                            ]
+                          },
+                          "Total \"Skip\" bug-tasks": {
+                            "id": "WFjH",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Bundle Version": {
+                            "id": "WXSF",
+                            "type": "number",
+                            "number": 7
+                          },
+                          "Logs": [],
+                          "Need release?": true,
+                          "Max it time (hrs)": {
+                            "id": "X%5Dx%3D",
+                            "type": "number",
+                            "number": null
+                          },
+                          "App Version": "1.0.2",
+                          "Previous Update Date": {
+                            "id": "Ztsi",
+                            "type": "date",
+                            "date": null
+                          },
+                          "AVG iteration time (days)": {
+                            "id": "%5BPCR",
+                            "type": "formula",
+                            "formula": {
+                              "type": "number",
+                              "number": 0
+                            }
+                          },
+                          "Severity": "",
+                          "Release Percent": {
+                            "id": "%5DWSH",
+                            "type": "number",
+                            "number": 80
+                          },
+                          "Long Description": "",
+                          "Monetization": [],
+                          "Story Point": {
+                            "id": "%5D~Vq",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Iteration": {
+                            "id": "_QS%3F",
+                            "type": "number",
+                            "number": 1
+                          },
+                          "Description": "Тут все то же что в версии 1.0.1 (РА+новые уровни, Rate Us)\n• Только добавились еще и 4 плейсмента на Interstitials Ads https://app.notion.com/p/viragames/War-of-Dots-2fe9748bc8c28064b7c3d09d10366780?source=copy_link#3809748bc8c2801a9f77c559fd82d669\n\nТакже для билда 1.0.2 будут 4 конфига\n• Конфиг 1.0.2.1 - 1 Интер плейсмент после конца уровня, все RW + уровни) - кулдауны 30 секунд\n• Конфиг 1.0.2.2 - 4 Интер плейсмента, все RW + уровни - кулдауны 30 секунд\n• Конфиг 1.0.2.3 - 4 плейсмента, все RW + уровни - 60 секунд\n• - Конфиг 1.0.2.4 -, 4 плейсмента, все RW + уровни - 120 секунд",
+                          "Total \"Blocker\"": {
+                            "id": "%60ZaY",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Slack Release Message Link": {
+                            "id": "a%3CNh",
+                            "type": "url",
+                            "url": null
+                          },
+                          "Bundle ID": "com.vira.wardots.commander",
+                          "Developer": {
+                            "id": "aiP%7D",
+                            "type": "people",
+                            "people": [
+                              {
+                                "object": "user",
+                                "id": "f441d457-a3c4-4599-a2c8-c4de638a39d0",
+                                "name": "Oleh Piavka",
+                                "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/a24e280c-904c-4fdd-9f3e-6417f5bb29cd/photo_2024-05-15_12-24-03.jpg",
+                                "type": "person",
+                                "person": {
+                                  "email": "oleh.piavka@vira.games"
+                                }
+                              }
+                            ]
+                          },
+                          "Automation Info": "",
+                          "Store Type": "GP",
+                          "Task Status": {
+                            "id": "cQM%5D",
+                            "type": "status",
+                            "status": {
+                              "id": "SU`g",
+                              "name": "Hold",
+                              "color": "gray"
+                            }
+                          },
+                          "Close time": {
+                            "id": "c%60ea",
+                            "type": "date",
+                            "date": null
+                          },
+                          "Days in Review": {
+                            "id": "f%3B%3E%7B",
+                            "type": "formula",
+                            "formula": {
+                              "type": "string",
+                              "string": null
+                            }
+                          },
+                          "% sub-tasks per 1-2 iterations": {
+                            "id": "full",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Who sent to release": {
+                            "id": "fyNp",
+                            "type": "people",
+                            "people": []
+                          },
+                          "Change Status - Button": null,
+                          "💼 All Projects - Parental card": [
+                            "2ff9748b-c8c2-819e-a876-dec3f8714a35"
+                          ],
+                          "End Test-Review Days": {
+                            "id": "iH%5CQ",
+                            "type": "formula",
+                            "formula": {
+                              "type": "string",
+                              "string": null
+                            }
+                          },
+                          "Parent item": [],
+                          "Total Iterations Time (days)": {
+                            "id": "jewJ",
+                            "type": "formula",
+                            "formula": {
+                              "type": "number",
+                              "number": 0
+                            }
+                          },
+                          "Longest it": {
+                            "id": "k%3Ea%7D",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Release Type ": "Update",
+                          "AVG test iteration time (hrs)": {
+                            "id": "lyw%3B",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Assignee": {
+                            "id": "mgO%5D",
+                            "type": "people",
+                            "people": [
+                              {
+                                "object": "user",
+                                "id": "123d872b-594c-81ee-b257-0002268a7d53",
+                                "name": "Andriy Vashchenko",
+                                "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/3eefd71b-f7fc-4b13-b1d6-ad598e2addf2/photo_2024-10-21_17-28-38.jpg",
+                                "type": "person",
+                                "person": {
+                                  "email": "andriy.vashchenko@vira.games"
+                                }
+                              }
+                            ]
+                          },
+                          "QA who checked Live Test": {
+                            "id": "mn~B",
+                            "type": "people",
+                            "people": []
+                          },
+                          "Total сhild-tasks": {
+                            "id": "oFKh",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Build in internal test": false,
+                          "Sub-Team": {
+                            "id": "q%3Cug",
+                            "type": "multi_select",
+                            "multi_select": [
+                              {
+                                "id": "78c6cfc6-260d-4f20-b1d1-c4e18575bbaa",
+                                "name": "Team Sesh",
+                                "color": "red"
+                              }
+                            ]
+                          },
+                          "Extra QA": {
+                            "id": "q%5BX%5C",
+                            "type": "people",
+                            "people": []
+                          },
+                          "Testing End Date": {
+                            "id": "q%60yo",
+                            "type": "date",
+                            "date": null
+                          },
+                          "Team": "RnD Production Team",
+                          "Longest Test it": {
+                            "id": "sCIG",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Days in QA stage": {
+                            "id": "sQbV",
+                            "type": "formula",
+                            "formula": {
+                              "type": "string",
+                              "string": null
+                            }
+                          },
+                          "Device": {
+                            "id": "s%5D%5EA",
+                            "type": "multi_select",
+                            "multi_select": []
+                          },
+                          "Live Release Date": {
+                            "id": "tZz%7D",
+                            "type": "date",
+                            "date": null
+                          },
+                          "Delay Reason": {
+                            "id": "tj%7Ce",
+                            "type": "multi_select",
+                            "multi_select": []
+                          },
+                          "Total \"Trivial\"": {
+                            "id": "u%5Cdr",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Paid/free": "Free",
+                          "Reject Start Date": {
+                            "id": "udDX",
+                            "type": "date",
+                            "date": null
+                          },
+                          "Error Message": "",
+                          "Testing Start Date": {
+                            "id": "vON%5C",
+                            "type": "date",
+                            "date": null
+                          },
+                          "Total Iterations Time (hrs)": {
+                            "id": "w%5EKg",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Total Bug-tasks": {
+                            "id": "xcIA",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Total Sub-Tasks": {
+                            "id": "yQx%5D",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Total Task Story Point": {
+                            "id": "ziTL",
+                            "type": "formula",
+                            "formula": {
+                              "type": "number",
+                              "number": 0
+                            }
+                          },
+                          "Screens & Videos": [],
+                          "Project status": {
+                            "type": "status",
+                            "status": {
+                              "id": "gPu~",
+                              "name": "DEVELOPMENT",
+                              "color": "blue"
+                            }
+                          },
+                          "Create-Close Days": {
+                            "id": "%7C%7BWX",
+                            "type": "formula",
+                            "formula": {
+                              "type": "string",
+                              "string": null
+                            }
+                          },
+                          "Task Type": "Task",
+                          "AVG iteration time (hrs)": {
+                            "id": "%7DrCu",
+                            "type": "number",
+                            "number": null
+                          },
+                          "Name": "Dots Commander: RTS War [GP - Free]",
+                          "Google Drive File": []
+                        },
+                        "created_time": "2026-06-20T08:41:00.000Z",
+                        "last_edited_time": "2026-06-21T14:21:00.000Z",
+                        "url": "https://app.notion.com/p/Dots-Commander-RTS-War-GP-Free-3859748bc8c28179ab85e410a6608523"
+                      }
+                    }
+                  },
+                  "Page_b2b9748b-c8c2-8210-a64d-0113829f8a19": {
+                    "id": "b2b9748b-c8c2-8210-a64d-0113829f8a19",
+                    "title": "Page b2b9748b-c8c2-8210-a64d-0113829f8a19",
+                    "properties": {
+                      "CR_SUB_WW": {
+                        "id": "%3A%3Br_",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Create Paid Promo Rebuild ": null,
+                      "Installs US": {
+                        "id": "%3Au%7BN",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Creatives Status": {
+                        "id": "%3B%60E%3C",
+                        "type": "status",
+                        "status": {
+                          "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "[Icon]": null,
+                      "TOP AMZ for Sub Screen Upates": [],
+                      "Ref Name": "",
+                      "ASIN": "",
+                      "Missing Info for Dev(Cross)": {
+                        "id": "%3Cv%60H",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ ViraToolKit version\n⚠️ Developer\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish"
+                        }
+                      },
+                      "New promo link": {
+                        "id": "%3DU%3BG",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Dev Start": {
+                        "id": "%3D%7B%3Ej",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-16",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "Clone": null,
+                      "Days in Dev -> Release": {
+                        "id": "%3EkOQ",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": 8
+                        }
+                      },
+                      "Are all prop. filled? ": {
+                        "id": "%3Epbv",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "false"
+                        }
+                      },
+                      "All Projects Info Old": [],
+                      "AF Link": {
+                        "id": "%40G%5E%3A",
+                        "type": "url",
+                        "url": "https://hq1.appsflyer.com/unified-ltv/dashboard#appIds=com.vira.wardots.commander"
+                      },
+                      "Long Description": "",
+                      "BB SDK Key (Android)": "gycZndWbiRT1TqUCWLkTTY6cgCn3Z1yjp8d/PsAqwZC+SjQyrwJWVaKRogu7Miad",
+                      "Icon Promo Request": false,
+                      "pLTV 180": {
+                        "id": "%40zGB",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Developer": {
+                        "id": "%40%7Cvk",
+                        "type": "people",
+                        "people": []
+                      },
+                      "PROGRESSION": "",
+                      "🎯 AllPages": [],
+                      "Project Subs Metrics": [],
+                      "Status (Copy)": {
+                        "id": "BVo%40",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Mintegral Status": "",
+                      "Creo Link": "",
+                      "Days Start-Finish": {
+                        "id": "Bzh%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "Sum SP": "",
+                      "Created time": {
+                        "id": "B~Qf",
+                        "type": "created_time",
+                        "created_time": "2026-06-15T21:49:00.000Z"
+                      },
+                      "All subscriptions for the current build are filled": true,
+                      "Missing info for Promo rebuild": {
+                        "id": "CkT%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": ""
+                        }
+                      },
+                      "CPI": {
+                        "id": "Cxr%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Teams use": {
+                        "id": "D%40CI",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Status": {
+                        "id": "DYYJ",
+                        "type": "status",
+                        "status": {
+                          "id": "gPu~",
+                          "name": "DEVELOPMENT",
+                          "color": "blue"
+                        }
+                      },
+                      "Date Development Status Set": {
+                        "id": "D%60fU",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-15",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "Last edited time": {
+                        "id": "Dj%3Fm",
+                        "type": "last_edited_time",
+                        "last_edited_time": "2026-06-15T21:50:00.000Z"
+                      },
+                      "Project Link": {
+                        "id": "DjJJ",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Art Finish": {
+                        "id": "Do%3DG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Bundle ID": "com.vira.wardots.commander",
+                      "Price": {
+                        "id": "EUeu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Project Score Analysys": "",
+                      "[Promo] Tasks ": [],
+                      "TECH": "",
+                      "CTR TEST": {
+                        "id": "Ejyo",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Subscription screen changes include links to actual references (expected UI)": true,
+                      "GD": {
+                        "id": "FHAP",
+                        "type": "people",
+                        "people": [
+                          {
+                            "object": "user",
+                            "id": "00f65e4e-295d-4e11-93d4-ec18738bd3d9",
+                            "name": "Stanislav Kramarenko",
+                            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/d85b4bb7-2e8b-4bec-bdf0-f55fd71ce3ee/9f23c1cdc1a98b258e3e0029e1e48594.jpg",
+                            "type": "person",
+                            "person": {
+                              "email": "stanislav.kramarenko@vira.games"
+                            }
+                          }
+                        ]
+                      },
+                      "CONTENT": "",
+                      "Due": {
+                        "id": "FaCd",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Link to Old Promo": {
+                        "id": "FbpI",
+                        "type": "url",
+                        "url": null
+                      },
+                      "QA Task File": "",
+                      "Task from Growth": [],
+                      "ASO Name & Description": null,
+                      "External\\internal": "",
+                      "⏺️ ASO | Calendar": [],
+                      "Product Features": "",
+                      "Promo Task ": [],
+                      "Monetization DB": [],
+                      "Banner Key": "98fccafa4ab1b3b0",
+                      "Date Info Updated": {
+                        "id": "HqDO",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Short Description": "",
+                      "Creo Status": "",
+                      "Amz Int & Port Tasks Template": null,
+                      "Tools": {
+                        "id": "IZP%3F",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "CreateTKSettings": null,
+                      "Subscription JSON": [],
+                      "GetGitlabInfo": null,
+                      "Days Start-Release": {
+                        "id": "JXlK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "AMZ releaseId": "",
+                      "[Logotype]": null,
+                      "CR Subs, %": {
+                        "id": "KKZH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Date": {
+                        "id": "LkTZ",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3REW": {
+                        "id": "M%5E%40L",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Each config has its own separate description": true,
+                      "CR Total, %": {
+                        "id": "MguI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7INT": {
+                        "id": "MqkG",
+                        "type": "number",
+                        "number": null
+                      },
+                      "PaidConfigGroup": [],
+                      "D1INT": {
+                        "id": "N%3AM%60",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Automation Info (AppStore)": "",
+                      "Previous Status": {
+                        "id": "NSz%7D",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Traffic Source": {
+                        "id": "N%5E%3Cm",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Game Type": {
+                        "id": "NcId",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "D~zu",
+                            "name": "Clone",
+                            "color": "yellow"
+                          }
+                        ]
+                      },
+                      "Create Task (No Check)": null,
+                      "Developer AMZ AppStore Link": "",
+                      "pLTV 7": {
+                        "id": "OPM%5C",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Interstitial Key": "0c9c6a6c1405946b",
+                      "BB Game ID (iOS)": "",
+                      "Team ": "RnD Production Team",
+                      "Ref Link": "https://store.steampowered.com/app/3902430/War_of_Dots/?l=ukrainian",
+                      "Build Paid Icon": null,
+                      "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
+                      "Create Paid Icon": null,
+                      "ByteBrew Link": {
+                        "id": "QD%3Cd",
+                        "type": "url",
+                        "url": "https://dashboard.bytebrew.io/console/bJPNIaBvT/engagement"
+                      },
+                      "Outdated / unused elements are removed from GDD": true,
+                      "Applovin Key": "ZkOo78V5ga6pEBNIN0E3mJLRZFdhy5BQ7cv3ZXULM6vc4Tr1oP86mBOGN5pJcNTPN1FdBSpCL4dDw6zoWL08Ag",
+                      "Full Pack  Fire TV ": null,
+                      "iPad Screens": {
+                        "id": "R%5EzP",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Version": "1.0.3",
+                      "Show": {
+                        "id": "RfDI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "QA | Tasks": [],
+                      "Fullsreen Banner Promo Request": false,
+                      "📽️ Creatives Team Tasks": [],
+                      "Bright SDK Review Status": {
+                        "id": "SXax",
+                        "type": "status",
+                        "status": {
+                          "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                          "name": "Implementation",
+                          "color": "default"
+                        }
+                      },
+                      "Days for Art Test": {
+                        "id": "SdR%3B",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "iPhone Screens": {
+                        "id": "SeX%7C",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Bundle Version": "",
+                      "Days for Art": {
+                        "id": "T%3Edc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "BB SDK Key (iOS)": "",
+                      "Feature description matches the latest implementation": true,
+                      "Create New \"QA Task\"": null,
+                      "Status  Promo": {
+                        "id": "TWT%3A",
+                        "type": "status",
+                        "status": {
+                          "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Click": {
+                        "id": "TkDm",
+                        "type": "number",
+                        "number": null
+                      },
+                      "GA Game Key": "",
+                      "CTR Video link": "",
+                      "Link to Automation": {
+                        "id": "VRV%3B",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Days in QA": {
+                        "id": "VgPc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": 0
+                        }
+                      },
+                      "parent": "War of Dots (!!!!)",
+                      "Genre": {
+                        "id": "V~Gf",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "ec6db4f5-dffb-476e-a7ba-a924e3960d45",
+                            "name": "Strategy",
+                            "color": "red"
+                          }
+                        ]
+                      },
+                      "BB Game ID (Android)": "bJPNIaBvT",
+                      "Date QA Finished": {
+                        "id": "X%5Cma",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Task Create Info": "",
+                      "GDD Doc": "https://www.notion.so/viragames/War-of-Dots-2fe9748bc8c28064b7c3d09d10366780",
+                      "Full Pack Amz": null,
+                      "Missing Info for QA Task": {
+                        "id": "ZSo%3D",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ ViraToolKit version\n⚠️ Developer\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish"
+                        }
+                      },
+                      "[Screenshots]": null,
+                      "Specialist": {
+                        "id": "Zy%3F%3A",
+                        "type": "people",
+                        "people": []
+                      },
+                      "A/B Group": "",
+                      "Full Pack TV Promo Request": false,
+                      "Date Team Finish": {
+                        "id": "%5B%5E%3AX",
+                        "type": "date",
+                        "date": null
+                      },
+                      "IPM STATIC": {
+                        "id": "%5Bagu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_key": "",
+                      "Groups": [],
+                      "D1RET": {
+                        "id": "%5D%3DAl",
+                        "type": "number",
+                        "number": null
+                      },
+                      "[Fullscreen Banner]": null,
+                      "CR_SUB_US": {
+                        "id": "%5Dz%7CJ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7BAN": {
+                        "id": "%5E%3A%3F%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "MONETIZATION": "",
+                      "D3BAN": {
+                        "id": "%5EQH%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full game name": "Dots Commander: RTS War",
+                      "Firebase PLIST": [],
+                      "Are all prop filled": {
+                        "id": "_%5D%5E%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Developer\n⚠️ Date to QA"
+                        }
+                      },
+                      "D1REW": {
+                        "id": "_bnb",
+                        "type": "number",
+                        "number": null
+                      },
+                      "ASO Name & Descripton Request": false,
+                      "Build changes are marked in the task": true,
+                      "Unity version": "",
+                      "Promo status info": "",
+                      "Average FPS": {
+                        "id": "a%3Fdf",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Autobuild_buildNumber": "",
+                      "Polishing": "",
+                      "ExtraComments": "",
+                      "Full Pack Promo Request": false,
+                      "Art Subs Links": "",
+                      "Sprint": {
+                        "id": "afeU",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Documentation link": "https://www.notion.so/viragames/War-of-Dots-2fe9748bc8c28064b7c3d09d10366780",
+                      "Clone From": "",
+                      "D7RET": {
+                        "id": "bE%7C%3A",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Test - Button No Validation": null,
+                      "Release Type": "Update",
+                      "GDD is updated for the current game version": true,
+                      "Link to ASO": {
+                        "id": "d%3BwX",
+                        "type": "url",
+                        "url": "https://www.notion.so/viragames/Name-Description-War-of-Dots-3669748bc8c28165a6f9cba1b370f8af?v=2009748bc8c281649410000ca3357a9c&source=copy_link"
+                      },
+                      "Create Paid Banner": null,
+                      "Prod Promo Approve": "",
+                      "RW Key": "29866ce20f01abe3",
+                      "What's new": "",
+                      "100% Release Date": {
+                        "id": "e%5Ec%7C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Api key": "",
+                      "[Static Banner]": null,
+                      "Public key": [],
+                      "Quarter": "Q2_26",
+                      "Create AF & Vaveda Pages": null,
+                      "LTV_180_WW": {
+                        "id": "gCUp",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Crit Bugs": "",
+                      "IPM(CP)": {
+                        "id": "hQ%5C%5B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Refund Rate": {
+                        "id": "h%5Cxv",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Keywords": "",
+                      "IOS Distribution profile": [],
+                      "Status 1": {
+                        "id": "ihRL",
+                        "type": "status",
+                        "status": {
+                          "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Logotype Banner Promo Request": false,
+                      "Slack Channel Link": "https://viragames.slack.com/archives/C0ACAABUP9B",
+                      "CTR": {
+                        "id": "jqbZ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full Pack GP": {
+                        "id": "k%60op",
+                        "type": "url",
+                        "url": null
+                      },
+                      "D3PTM": {
+                        "id": "kamA",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7REW": {
+                        "id": "kuEV",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_secret": "",
+                      "ViraToolKit version": "",
+                      "Priority": "",
+                      "App ID(iOS)": "",
+                      "Int&Port Epics": [],
+                      "ToolKitSettings": [
+                        "36d9748b-c8c2-81da-9d1c-f0c0361639a8"
+                      ],
+                      "Link to store": "",
+                      "QA checking": "",
+                      "Date Release": {
+                        "id": "nTQx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3RET": {
+                        "id": "n%5CF~",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Cross-Promo AMZ": [],
+                      "Paid\\Free": "Free",
+                      "AMZ AppStore": null,
+                      "RESULTS": "",
+                      "AF Key": "fTHmsk9hweq2z9koRW3UPf",
+                      "Goals": "",
+                      "Firebase JSON": [
+                        {
+                          "name": "google-services.json",
+                          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/53dd34a1-0f9b-4dd8-85dc-5d0924f0236d/google-services.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XPRMKJNX%2F20260624%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260624T073426Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGQaCXVzLXdlc3QtMiJIMEYCIQDJNwOEuXp%2BI52ZEiSI6eDoZQ%2BcLv4StmT%2FG%2FmgVY3KxgIhAINhsP1zPs%2FbQW7NZVid3i5Glmd6vLneDajiLPkulyxtKv8DCC0QABoMNjM3NDIzMTgzODA1Igx6wuQFRDcUPPjxNIsq3AOlDhJn%2B9OxBIb%2F%2FqKtsOxNPmQt60LhdHHR8KZUjAi28BKkzhqgrTcmkbJz5gubM5U2Hh%2B1xSVjzkto3vGiMRym3506g%2B4Ef55RikQofvKT4b2UHxtIb5amJ39pLXf%2FhQyKdXGTEHMYhNFMeCy7Ywb1TgH%2BXIQH0Yhur2b5LI%2FhEY%2FrEpN%2B0%2F9RjmI7VvNjdkUElg19AXsO%2BJf8NdrUGXkLY1%2FstmCSCuIrQqYRG9YpxhgjtgkX3wc%2FjRqzYVV%2BFluHdDUoYhKSupNbBs0y%2FBqmfK0r6LhbNT1a78%2B2yJ5pt3clO7gEcnFt0OPgdiJPz7IeF7fDDRV4ZeGE%2FeOShJnI0PzgFoq2VV4Td31F4zYHGGeFdYWkFl7J2nkl%2BjwVK9LXPHnXctLGQb44SL2te27OekVzVZQP%2FOrV5hirIOIu7Dnt36AoQTneRVHjYk55PFy0X7Yl3DnnZwKE45GuCvyaD6fmrzHXfaMokyd9rIOM7YFSCL0ZRgyp9ooqUjQc74BqheV8WQv1Lny6ikRgIthrHqNcDsGB6DzYIsPBqd3j2%2FtQ85LVAJvA9EY4ptlXloo79ZlGtw0RIy1IWMxLAqERWEVFZ91hlP8wrlYNakBKLEkl21IraiwgCsBqrTCipu3RBjqkAc9Amm94vGegmWJ47ETOCxPrJ9KkvZYTy4wb3wAybazlrP2vjWsV%2BSDcQh0Hf9ndLNW8Wy5SRFlWwbC9DHBB5R%2FtV4iUFKlxxE4JRaQVRoZWSb1YljF7lhm2CKa7KGWpCiTRkETUVAHOb8fedFBCuqg8S9kbckFQsWIdUFEtqXNrgWlbh7%2B9AdYMuV7OtoQS8pjO97UhnZEcRscevgTyoy9VKiLZ&X-Amz-Signature=feea4568033d80757994f965f047876aace86740fdcb1cfba3c68779ecfdb856&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                        }
+                      ],
+                      "QA": "",
+                      "Hypothesys": [],
+                      "AMZ appId": "",
+                      "Opt-In": {
+                        "id": "p_Ic",
+                        "type": "number",
+                        "number": null
+                      },
+                      "New Tasks & Requests": [],
+                      "Last edited by": {
+                        "id": "qUWF",
+                        "type": "last_edited_by",
+                        "last_edited_by": {
+                          "object": "user",
+                          "id": "233d872b-594c-8130-9d01-0002039920c3",
+                          "name": "Vladyslav Petrenko",
+                          "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/8f2ce141-f90f-456b-8cb8-8895b2d87c89/photo_5282768950872104018_y.jpg",
+                          "type": "person",
+                          "person": {
+                            "email": "vladyslav.petrenko@vira.games"
+                          }
+                        }
+                      },
+                      "Account": {
+                        "id": "qhXd",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "cd4ae8a7-72b6-4051-8d1d-1a17973ae494",
+                            "name": "Vira Games Inc",
+                            "color": "blue"
+                          }
+                        ]
+                      },
+                      "Date to QA": {
+                        "id": "q%7D%3F%5C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Sub-team": "Team Sesh",
+                      "Date Team Start": {
+                        "id": "rKeG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Created by": {
+                        "id": "r%5BBI",
+                        "type": "created_by",
+                        "created_by": {
+                          "object": "user",
+                          "id": "233d872b-594c-8130-9d01-0002039920c3",
+                          "name": "Vladyslav Petrenko",
+                          "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/8f2ce141-f90f-456b-8cb8-8895b2d87c89/photo_5282768950872104018_y.jpg",
+                          "type": "person",
+                          "person": {
+                            "email": "vladyslav.petrenko@vira.games"
+                          }
+                        }
+                      },
+                      "Tech Project Doc": "",
+                      "Sub-subscription 1": {
+                        "id": "sCtp",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Automated Team": {
+                        "id": "sDNL",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "If release is not required:  Need Release checkbox is unchecked": true,
+                      "UI": "",
+                      "Test - Button Validation": null,
+                      "Admob Key": "ca-app-pub-1156383915014504~7870205594",
+                      "Firebase Link": {
+                        "id": "upQD",
+                        "type": "url",
+                        "url": "https://console.firebase.google.com/project/vira-games-rnd/overview"
+                      },
+                      "Monetization": [],
+                      "Cross Promo Video status": "",
+                      "CPI (Mint) Test Dates": {
+                        "id": "v%5Bi%60",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Date Art Start": {
+                        "id": "v%5D~D",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Last Status Change": {
+                        "id": "wQFr",
+                        "type": "date",
+                        "date": {
+                          "start": "2026-06-15",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "D1PTM": {
+                        "id": "wgp%7B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Link to Promo": "https://drive.google.com/drive/folders/1VldbyUIZ41g1h80Nhc4ncx9tZoHiN6ZI?usp=sharing",
+                      "[Creatives] Tasks": [],
+                      "ipm TEST": {
+                        "id": "xWSH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Art Assets Link": {
+                        "id": "x%5C%3DY",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Total installs": {
+                        "id": "x%5DWz",
+                        "type": "number",
+                        "number": null
+                      },
+                      "LTV_180_US ": {
+                        "id": "xfen",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sub-s Database": [],
+                      "Amz Console: On Auto support": false,
+                      "Create QA Task": false,
+                      "Create UA Tasks": null,
+                      "3D Artist": {
+                        "id": "zHXV",
+                        "type": "people",
+                        "people": [
+                          {
+                            "object": "user",
+                            "id": "98991999-790c-445f-b729-e0a14be94e2b",
+                            "name": "Andrii Kurtash",
+                            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1cf1769b-8b47-49cf-9811-8632b58e0ec4/IMG_3760-2_(1).png",
+                            "type": "person",
+                            "person": {
+                              "email": "andrii.kurtash@vira.games"
+                            }
+                          }
+                        ]
+                      },
+                      " GA Secret Key": "",
+                      "Task Tracker Link": {
+                        "id": "%7BIp%3F",
+                        "type": "url",
+                        "url": "https://www.notion.so/viragames/Team-Sesh-2fd9748bc8c280fd9955c4ad754852b5"
+                      },
+                      "D3INT": {
+                        "id": "%7BL%5C%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Percent of Release": {
+                        "id": "%7BRbl",
+                        "type": "number",
+                        "number": null
+                      },
+                      "AppMagic Info": [],
+                      "StartUp Time": {
+                        "id": "%7BZ_P",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D1BAN": {
+                        "id": "%7BeFD",
+                        "type": "number",
+                        "number": null
+                      },
+                      "IPM (CP) Test Dates": {
+                        "id": "%7Be%5E%3E",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Platform": "GP",
+                      "temp_tk_version_link": {
+                        "id": "%7CeXN",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "Open ImportPackageWindow.cs"
+                        }
+                      },
+                      "Screenshot Promo Request": false,
+                      "Sub-item": [],
+                      "Date Art Finish Test": {
+                        "id": "%7Dwfx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "GIT LINK": "https://gitlab.com/vira-games/product-team/war-of-dots.git",
+                      "D7PTM": {
+                        "id": "~%3F%3B%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Parent Project": [
+                        "2ff9748b-c8c2-819e-a876-dec3f8714a35"
+                      ],
+                      "Days in Dev -> QA": {
+                        "id": "~FLK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": 8
+                        }
+                      },
+                      "BALANCE": "",
+                      "Description for QA": "",
+                      "Prod Approved": false,
+                      "Static Banner Promo Request": false,
+                      "IPM": {
+                        "id": "~oXr",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sent To QA": {
+                        "id": "~sjG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Promo info checking": {
+                        "id": "~wLr",
+                        "type": "formula",
+                        "formula": {
+                          "type": "boolean",
+                          "boolean": false
+                        }
+                      },
+                      "Project": "Dots Commander: RTS War ",
+                      "Description": "",
+                      "SubscriptionRevenueEvent": false,
+                      "AMZ Metrics Date & Comment": "",
+                      "GD 2": {
+                        "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Amz StartUp Time": {
+                        "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Status 2": "",
+                      "Days": {
+                        "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Asana Link": {
+                        "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Need a new Video?": false
+                    },
+                    "created_time": "2026-06-15T21:49:00.000Z",
+                    "last_edited_time": "2026-06-15T21:50:00.000Z",
+                    "url": "https://app.notion.com/p/Dots-Commander-RTS-War-b2b9748bc8c28210a64d0113829f8a19"
+                  }
+                }
               }
             }
           }
