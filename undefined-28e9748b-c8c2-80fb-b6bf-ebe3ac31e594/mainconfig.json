@@ -1,0 +1,124 @@
+{
+  "pageId": "28e9748b-c8c2-80fb-b6bf-ebe3ac31e594",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Product_1": {
+        "id": "28e9748b-c8c2-80fb-b6bf-ebe3ac31e594",
+        "title": "Product 1",
+        "properties": {
+          "Subscription Parent": "no parent",
+          "ProductType": "Consumable",
+          "PayoutType": [
+            "Currency",
+            "Resource",
+            "Item",
+            "Other"
+          ],
+          "Localized Price String": "8,99$",
+          "ProductId": "someProductId",
+          "parent": [
+            "28e9748b-c8c2-80e4-9dab-c2fa4702b80a"
+          ],
+          "PayoutSubType": [
+            "some1",
+            "some2",
+            "some3",
+            "some4"
+          ],
+          "PayouData": [
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "PayoutQuantity": [
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "Name": "Product 1"
+        },
+        "created_time": "2025-10-16T10:46:00.000Z",
+        "last_edited_time": "2025-10-17T07:50:00.000Z",
+        "url": "https://app.notion.com/p/Product-1-28e9748bc8c280fbb6bfebe3ac31e594",
+        "children": {
+          "Sample_Project__ProductCatalog_": {
+            "id": "28e9748b-c8c2-80e4-9dab-c2fa4702b80a",
+            "title": "Sample Project (ProductCatalog)",
+            "properties": {
+              "Parent": [],
+              "Products": [
+                "28e9748b-c8c2-80fb-b6bf-ebe3ac31e594",
+                "28e9748b-c8c2-801e-9b8c-fd4e54b69edd"
+              ],
+              "Name": "Sample Project (ProductCatalog)"
+            },
+            "created_time": "2025-10-16T10:40:00.000Z",
+            "last_edited_time": "2025-11-07T14:17:00.000Z",
+            "url": "https://app.notion.com/p/Sample-Project-ProductCatalog-28e9748bc8c280e49dabc2fa4702b80a",
+            "children": {
+              "Product_2": {
+                "id": "28e9748b-c8c2-801e-9b8c-fd4e54b69edd",
+                "title": "Product 2",
+                "properties": {
+                  "Subscription Parent": "no parent",
+                  "ProductType": "NonConsumable",
+                  "PayoutType": [
+                    "Item"
+                  ],
+                  "Localized Price String": "9,99$",
+                  "ProductId": "some2ProductId",
+                  "parent": [
+                    "28e9748b-c8c2-80e4-9dab-c2fa4702b80a"
+                  ],
+                  "PayoutSubType": [
+                    "some1",
+                    "some2",
+                    "some3",
+                    "some4"
+                  ],
+                  "PayouData": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                  ],
+                  "PayoutQuantity": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                  ],
+                  "Name": "Product 2"
+                },
+                "created_time": "2025-10-16T10:46:00.000Z",
+                "last_edited_time": "2025-11-06T09:02:00.000Z",
+                "url": "https://app.notion.com/p/Product-2-28e9748bc8c2801e9b8cfd4e54b69edd"
+              }
+            },
+            "TKFormatProductCatalog": {
+              "Products": [
+                {
+                  "ProductId": "some2ProductId",
+                  "Type": "NonConsumable",
+                  "LocalizedPriceString": "9,99$",
+                  "SubscriptionParent": "no parent",
+                  "Payouts": [
+                    {
+                      "PayoutType": "Item",
+                      "PayoutSubtype": "some1",
+                      "Quantity": 0,
+                      "Data": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
