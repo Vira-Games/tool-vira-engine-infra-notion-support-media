@@ -23,7 +23,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "https://drive.google.com/drive/folders/1_q4QWCh3OdzBXUWgAxVQk_uaGuXJgQPx"
             }
           },
           "(List)BundleId": "com.hrfrggms.fghtr.with",
@@ -65,11 +65,11 @@
             }
           },
           "ProjectKey": "3889748b-c8c2-81b9-aad2-e2bcdb181fcc",
-          "(List)LinkToPromo": "",
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1_q4QWCh3OdzBXUWgAxVQk_uaGuXJgQPx",
           "Name": "Fighter With The Fire"
         },
         "created_time": "2026-06-23T10:20:00.000Z",
-        "last_edited_time": "2026-06-23T11:55:00.000Z",
+        "last_edited_time": "2026-06-23T13:47:00.000Z",
         "url": "https://app.notion.com/p/Fighter-With-The-Fire-3889748bc8c281b9aad2e2bcdb181fcc",
         "children": {
           "Fighter_With_The_Fire_ProductCatalog": {
@@ -117,7 +117,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1_q4QWCh3OdzBXUWgAxVQk_uaGuXJgQPx"
                 }
               },
               "BundleVersionRollup": {
@@ -164,7 +164,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1_q4QWCh3OdzBXUWgAxVQk_uaGuXJgQPx"
                 }
               },
               "VersionRollup": {
@@ -199,7 +199,7 @@
                 "multi_select": [
                   {
                     "id": "fnka",
-                    "name": "HeroForgge Games",
+                    "name": "HeroForge Games",
                     "color": "orange"
                   }
                 ]
@@ -221,12 +221,12 @@
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "",
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1_q4QWCh3OdzBXUWgAxVQk_uaGuXJgQPx",
                   "ProductName": "Fighter With The Fire",
                   "BundleIdentifier": "com.hrfrggms.fghtr.with",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
-                  "CompanyName": "HeroForgge Games"
+                  "CompanyName": "HeroForge Games"
                 },
                 "SDKSettings": {
                   "Keys": [
@@ -375,7 +375,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Promo Link\n⚠️ Full Game name"
+                  "string": "⚠️ Full Game name"
                 }
               },
               "CPI": {
@@ -405,7 +405,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-23T13:19:00.000Z"
+                "last_edited_time": "2026-06-24T10:35:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -665,7 +665,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Full game name\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Quarter"
+                  "string": "⚠️ Full game name\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Quarter"
                 }
               },
               "[Screenshots]": null,
@@ -863,12 +863,12 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "21cd872b-594c-81a8-8390-0002210a34c5",
-                  "name": "Ivan Pavliv",
-                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
+                  "id": "2a1d872b-594c-81d6-b189-000204b72d2a",
+                  "name": "Oksana Maksymovych",
+                  "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKDM42bo3wOfF9FDXNIGxGFu_Bt5b0DKTnBB5dp-3lYRs_1IA=s100",
                   "type": "person",
                   "person": {
-                    "email": "ivan.pavliv@vira.games"
+                    "email": "oksana.maksymovych@vira.games"
                   }
                 }
               },
@@ -954,7 +954,7 @@
                 "type": "number",
                 "number": null
               },
-              "Link to Promo": "",
+              "Link to Promo": "https://drive.google.com/drive/folders/1_q4QWCh3OdzBXUWgAxVQk_uaGuXJgQPx",
               "[Creatives] Tasks": [],
               "ipm TEST": {
                 "id": "xWSH",
@@ -1100,7 +1100,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-22T23:02:00.000Z",
-            "last_edited_time": "2026-06-23T13:19:00.000Z",
+            "last_edited_time": "2026-06-24T10:35:00.000Z",
             "url": "https://app.notion.com/p/fghtfgz-Fighter-With-The-Fire-3879748bc8c28006ae22df2cdffc60a2",
             "children": {
               "Page_13c9748b-c8c2-8198-b1e9-ced2630c051a": {
