@@ -23,7 +23,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "https://drive.google.com/drive/folders/1nkHnvhKYi6LMKk0yh8SAqvKAbSzkfpU-"
             }
           },
           "(List)BundleId": "com.blrbt.th.grassio",
@@ -65,11 +65,11 @@
             }
           },
           "ProjectKey": "3889748b-c8c2-8167-9fa6-dde6d9930530",
-          "(List)LinkToPromo": "",
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1nkHnvhKYi6LMKk0yh8SAqvKAbSzkfpU-",
           "Name": "thgrassio - The Grass.io"
         },
         "created_time": "2026-06-23T11:26:00.000Z",
-        "last_edited_time": "2026-06-23T13:46:00.000Z",
+        "last_edited_time": "2026-06-24T09:08:00.000Z",
         "url": "https://app.notion.com/p/thgrassio-The-Grass-io-3889748bc8c281679fa6dde6d9930530",
         "children": {
           "thgrassio_-_The_Grass_io_ProductCatalog": {
@@ -117,7 +117,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1nkHnvhKYi6LMKk0yh8SAqvKAbSzkfpU-"
                 }
               },
               "BundleVersionRollup": {
@@ -158,13 +158,13 @@
                   "string": "1.0.0"
                 }
               },
-              "Vaveda_key": "",
+              "Vaveda_key": "thgrgrz",
               "Link to Promo": {
                 "id": "%5CVgk",
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1nkHnvhKYi6LMKk0yh8SAqvKAbSzkfpU-"
                 }
               },
               "VersionRollup": {
@@ -204,7 +204,7 @@
                   }
                 ]
               },
-              "AF Key": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Bundle Id Rollup": {
                 "type": "formula",
                 "formula": {
@@ -212,16 +212,16 @@
                   "string": "com.blrbt.th.grassio"
                 }
               },
-              "Vaveda_secret": "",
+              "Vaveda_secret": "lVqQFf6GXb2UhYrPob5YuBO4dOugwYrP",
               "Name": "thgrassio - The Grass.io MainData"
             },
             "created_time": "2026-06-23T11:26:00.000Z",
-            "last_edited_time": "2026-06-23T13:46:00.000Z",
+            "last_edited_time": "2026-06-24T15:27:00.000Z",
             "url": "https://app.notion.com/p/thgrassio-The-Grass-io-MainData-3889748bc8c281499a3ad67c01fcc183",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "",
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1nkHnvhKYi6LMKk0yh8SAqvKAbSzkfpU-",
                   "ProductName": "The Grass.IO",
                   "BundleIdentifier": "com.blrbt.th.grassio",
                   "Version": "1.0.0",
@@ -229,7 +229,20 @@
                   "CompanyName": "BlueOrbit Studio"
                 },
                 "SDKSettings": {
-                  "Keys": [],
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "thgrgrz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "lVqQFf6GXb2UhYrPob5YuBO4dOugwYrP"
+                    }
+                  ],
                   "IsAmazon": true
                 }
               }
@@ -304,7 +317,7 @@
                 "type": "url",
                 "url": "https://hq1.appsflyer.com/apps/settings?appId=com.blrbt.th.grassio-Amazon"
               },
-              "Long Description": "",
+              "Long Description": "Step onto the lawn and dive into the oddly satisfying world of The Grass.IO, a fast-paced casual arcade game where you mow, grow, and conquer as much grass as you can. Glide across vivid fields, leave perfect clean paths behind you, and race to become the biggest mower on the map.\n\nControl a speedy cutter that grows a long grass tail as you move. Circle around patches of grass to claim territory, then dash back to your trail to capture it. The more ground you surround, the larger your safe zone becomes. But be careful: one wrong turn into your own tail or an obstacle, and you’ll have to start your run again.\n\nEach level challenges you with new field shapes, tighter corners, and tricky layouts to master. Collect power-ups to boost your speed, extend your cutting range, or protect your tail for a short time. Complete missions to unlock new mower skins, colorful trails, and fresh maps that keep every round feeling new.\n\nThe Grass.IO is perfect for fans of .io-style games, offline arcade action, and simple one-touch control challenges. Sessions are quick, rewarding, and endlessly replayable as you chase higher scores and cleaner fields.\n\nSharpen your blades, plan your path, and see how much grass you can conquer. Download now and start mowing! ",
               "BB SDK Key (Android)": "",
               "Icon Promo Request": false,
               "pLTV 180": {
@@ -351,7 +364,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Promo Link"
+                  "string": ""
                 }
               },
               "CPI": {
@@ -381,7 +394,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-23T13:19:00.000Z"
+                "last_edited_time": "2026-06-24T15:23:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -440,7 +453,7 @@
               "ASO Name & Description": null,
               "External\\internal": "",
               "⏺️ ASO | Calendar": [],
-              "Product Features": "",
+              "Product Features": "🌿 Satisfying Grass Mowing — Slide across the field and leave perfect clean paths behind\n🌀 Territory Capture Play — Circle your trail to claim bigger and bigger grassy zones\n⚡ Simple One-Touch Control — Easy to learn controls ideal for quick arcade sessions\n🎁 Power-Ups & Boosts — Grab speed, shield, and range bonuses to dominate each map\n🎨 Unlockable Skins — Collect new mower styles, colorful trails, and field themes\n🏆 Endless High Score Chase — Replay levels, improve your routes, and beat your best area",
               "Promo Task ": [],
               "Monetization DB": [],
               "Banner Key": "",
@@ -449,7 +462,7 @@
                 "type": "date",
                 "date": null
               },
-              "Short Description": "",
+              "Short Description": "Mow, grow and conquer grass",
               "Creo Status": "",
               "Amz Int & Port Tasks Template": null,
               "Tools": {
@@ -502,7 +515,7 @@
                 "type": "number",
                 "number": null
               },
-              "Automation Info (AppStore)": "",
+              "Automation Info (AppStore)": "❌ Automation \"Amazon AppStore Page Creation\" Failed ",
               "Previous Status": {
                 "id": "NSz%7D",
                 "type": "status",
@@ -641,7 +654,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Developer\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Quarter"
+                  "string": "⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Developer\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Quarter"
                 }
               },
               "[Screenshots]": null,
@@ -765,7 +778,7 @@
                 "type": "number",
                 "number": null
               },
-              "Keywords": "",
+              "Keywords": "arcade, casual, offline, grass, mower, io game, runner, territory, conquer, relax",
               "IOS Distribution profile": [],
               "Status 1": {
                 "id": "ihRL",
@@ -839,13 +852,11 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "21cd872b-594c-81a8-8390-0002210a34c5",
-                  "name": "Ivan Pavliv",
-                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
-                  "type": "person",
-                  "person": {
-                    "email": "ivan.pavliv@vira.games"
-                  }
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
+                  "type": "bot",
+                  "bot": {}
                 }
               },
               "Account": {
@@ -930,7 +941,7 @@
                 "type": "number",
                 "number": null
               },
-              "Link to Promo": "",
+              "Link to Promo": "https://drive.google.com/drive/folders/1nkHnvhKYi6LMKk0yh8SAqvKAbSzkfpU-",
               "[Creatives] Tasks": [],
               "ipm TEST": {
                 "id": "xWSH",
@@ -1076,7 +1087,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-22T22:25:00.000Z",
-            "last_edited_time": "2026-06-23T13:19:00.000Z",
+            "last_edited_time": "2026-06-24T15:23:00.000Z",
             "url": "https://app.notion.com/p/thgrgrz-The-Grass-io-3879748bc8c28028a4e6c1e5c3d57291",
             "children": {
               "Page_13c9748b-c8c2-81ae-882f-cdfd4f8e9775": {
