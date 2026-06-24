@@ -23,7 +23,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "https://drive.google.com/drive/folders/1Nt1OdRCprrVF_3n1y28z-Kp4NkBLoV2d"
             }
           },
           "(List)BundleId": "com.drmbtgmz.slcr.yummy",
@@ -50,7 +50,7 @@
             "3889748b-c8c2-812d-a520-c445c67b3380"
           ],
           "(List)Bundle Version": "1",
-          "Platform": "",
+          "Platform": "AMZ",
           "💼 All Projects": [
             "3879748b-c8c2-808c-8800-d2d530716766"
           ],
@@ -65,11 +65,11 @@
             }
           },
           "ProjectKey": "3889748b-c8c2-81cb-b5be-ccb68ff8ba68",
-          "(List)LinkToPromo": "",
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1Nt1OdRCprrVF_3n1y28z-Kp4NkBLoV2d",
           "Name": "slcrymmy - Slicer of Yummy"
         },
         "created_time": "2026-06-23T12:52:00.000Z",
-        "last_edited_time": "2026-06-23T13:20:00.000Z",
+        "last_edited_time": "2026-06-23T13:52:00.000Z",
         "url": "https://app.notion.com/p/slcrymmy-Slicer-of-Yummy-3889748bc8c281cbb5beccb68ff8ba68",
         "children": {
           "slcrymmy_-_Slicer_of_Yummy_ProductCatalog": {
@@ -93,7 +93,7 @@
               "Parent": [
                 "3889748b-c8c2-81cb-b5be-ccb68ff8ba68"
               ],
-              "Platform": "",
+              "Platform": "AMZ",
               "Subscriptions": [],
               "Apply": null,
               "bundleID": {
@@ -117,7 +117,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1Nt1OdRCprrVF_3n1y28z-Kp4NkBLoV2d"
                 }
               },
               "BundleVersionRollup": {
@@ -164,7 +164,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1Nt1OdRCprrVF_3n1y28z-Kp4NkBLoV2d"
                 }
               },
               "VersionRollup": {
@@ -221,7 +221,7 @@
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "",
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1Nt1OdRCprrVF_3n1y28z-Kp4NkBLoV2d",
                   "ProductName": "Slicer of Yummy",
                   "BundleIdentifier": "com.drmbtgmz.slcr.yummy",
                   "Version": "1.0.0",
@@ -281,7 +281,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Date Team Start\n⚠️ Date Team Finish"
+                  "string": "⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ Date Team Start\n⚠️ Date Team Finish"
                 }
               },
               "New promo link": {
@@ -375,7 +375,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Promo Link"
+                  "string": ""
                 }
               },
               "CPI": {
@@ -405,7 +405,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-23T13:19:00.000Z"
+                "last_edited_time": "2026-06-24T08:13:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -665,7 +665,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Quarter"
+                  "string": "⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Quarter"
                 }
               },
               "[Screenshots]": null,
@@ -823,7 +823,7 @@
                 "number": null
               },
               "Vaveda_secret": "2sexoTlMW9nmwxuv8gVNc3yKCL11Oa0p",
-              "ViraToolKit version": "",
+              "ViraToolKit version": "2.0.1",
               "Priority": "",
               "App ID(iOS)": "",
               "Int&Port Epics": [],
@@ -863,12 +863,12 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "21cd872b-594c-81a8-8390-0002210a34c5",
-                  "name": "Ivan Pavliv",
-                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
+                  "id": "fe1f00e9-974d-48b8-9017-bd2813f0e8e9",
+                  "name": "Darii Klymenko",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/4be80d62-0610-48f6-8705-ed64a24fad6a/257914800_97201.jpg",
                   "type": "person",
                   "person": {
-                    "email": "ivan.pavliv@vira.games"
+                    "email": "darii.klymenko@vira.games"
                   }
                 }
               },
@@ -954,7 +954,7 @@
                 "type": "number",
                 "number": null
               },
-              "Link to Promo": "",
+              "Link to Promo": "https://drive.google.com/drive/folders/1Nt1OdRCprrVF_3n1y28z-Kp4NkBLoV2d",
               "[Creatives] Tasks": [],
               "ipm TEST": {
                 "id": "xWSH",
@@ -1100,7 +1100,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-22T22:27:00.000Z",
-            "last_edited_time": "2026-06-23T13:19:00.000Z",
+            "last_edited_time": "2026-06-24T08:13:00.000Z",
             "url": "https://app.notion.com/p/slcrslz-Slicer-of-Yummy-3879748bc8c2808c8800d2d530716766",
             "children": {
               "Page_13c9748b-c8c2-819e-a6b0-f4608140aef1": {
