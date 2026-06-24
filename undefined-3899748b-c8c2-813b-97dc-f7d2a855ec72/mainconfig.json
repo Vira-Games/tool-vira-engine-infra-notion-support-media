@@ -1,0 +1,2654 @@
+{
+  "pageId": "3899748b-c8c2-813b-97dc-f7d2a855ec72",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Hole_Stack_Shooter": {
+        "id": "3899748b-c8c2-813b-97dc-f7d2a855ec72",
+        "title": "Hole Stack Shooter",
+        "properties": {
+          "ProductCatalog": [
+            "3899748b-c8c2-8177-8989-c011db5a5328"
+          ],
+          "MaxParent": {
+            "id": "F%7BpA",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "hstshtz - Hole Stack Shooter"
+            }
+          },
+          "MaxParentLinkToPromo": {
+            "id": "GC%3FS",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "https://drive.google.com/drive/u/6/folders/1a9tL4T3KlPmnUGpIX0zQa7d7Nen_g7If"
+            }
+          },
+          "(List)BundleId": "com.mvl.holestck.shtr",
+          "MaxParentBundleID": {
+            "id": "LAsk",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "com.mvl.holestck.shtr"
+            }
+          },
+          "MaxParentVersion": {
+            "id": "Njfg",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1.0.0"
+            }
+          },
+          "Subscription Settings": [
+            "3899748b-c8c2-8102-bfc3-d8d6faae6d85"
+          ],
+          "MainData": [
+            "3899748b-c8c2-811a-aab8-da353c61419e"
+          ],
+          "(List)Bundle Version": "1",
+          "Platform": "",
+          "💼 All Projects": [
+            "34c9748b-c8c2-8197-808d-d2d87692e047"
+          ],
+          "RefreshConfig": null,
+          "(List)Version": "1.0.0",
+          "MaxParentBundleVersion": {
+            "id": "fVoO",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1"
+            }
+          },
+          "ProjectKey": "3899748b-c8c2-813b-97dc-f7d2a855ec72",
+          "(List)LinkToPromo": "https://drive.google.com/drive/u/6/folders/1a9tL4T3KlPmnUGpIX0zQa7d7Nen_g7If",
+          "Name": "Hole Stack Shooter"
+        },
+        "created_time": "2026-06-24T09:55:00.000Z",
+        "last_edited_time": "2026-06-24T09:55:00.000Z",
+        "url": "https://app.notion.com/p/Hole-Stack-Shooter-3899748bc8c2813b97dcf7d2a855ec72",
+        "children": {
+          "Hole_Stack_Shooter_ProductCatalog": {
+            "id": "3899748b-c8c2-8177-8989-c011db5a5328",
+            "title": "Hole Stack Shooter ProductCatalog",
+            "properties": {
+              "Parent": [
+                "3899748b-c8c2-813b-97dc-f7d2a855ec72"
+              ],
+              "Products": [],
+              "Name": "Hole Stack Shooter ProductCatalog"
+            },
+            "created_time": "2026-06-24T09:55:00.000Z",
+            "last_edited_time": "2026-06-24T09:55:00.000Z",
+            "url": "https://app.notion.com/p/Hole-Stack-Shooter-ProductCatalog-3899748bc8c281778989c011db5a5328"
+          },
+          "Hole_Stack_Shooter_SubDataCatalog": {
+            "id": "3899748b-c8c2-8102-bfc3-d8d6faae6d85",
+            "title": "Hole Stack Shooter SubDataCatalog",
+            "properties": {
+              "Parent": [
+                "3899748b-c8c2-813b-97dc-f7d2a855ec72"
+              ],
+              "Platform": "",
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.mvl.holestck.shtr"
+                }
+              },
+              "Name": "Hole Stack Shooter SubDataCatalog"
+            },
+            "created_time": "2026-06-24T09:55:00.000Z",
+            "last_edited_time": "2026-06-24T09:55:00.000Z",
+            "url": "https://app.notion.com/p/Hole-Stack-Shooter-SubDataCatalog-3899748bc8c28102bfc3d8d6faae6d85"
+          },
+          "Hole_Stack_Shooter_MainData": {
+            "id": "3899748b-c8c2-811a-aab8-da353c61419e",
+            "title": "Hole Stack Shooter MainData",
+            "properties": {
+              "LinkToPromoRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/u/6/folders/1a9tL4T3KlPmnUGpIX0zQa7d7Nen_g7If"
+                }
+              },
+              "BundleVersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1"
+                }
+              },
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                    "name": "AMZ",
+                    "color": "default"
+                  }
+                ]
+              },
+              "Paid/Free": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "5f5946de-66a2-4550-abb2-1f2c40b088cc",
+                    "name": "Paid",
+                    "color": "green"
+                  }
+                ]
+              },
+              "App Name": "Hole Stack Shooter",
+              "Version": {
+                "id": "PczY",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.0"
+                }
+              },
+              "Vaveda_key": "hstshtz",
+              "Link to Promo": {
+                "id": "%5CVgk",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/u/6/folders/1a9tL4T3KlPmnUGpIX0zQa7d7Nen_g7If"
+                }
+              },
+              "VersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.0"
+                }
+              },
+              "Parent": [
+                "3899748b-c8c2-813b-97dc-f7d2a855ec72"
+              ],
+              "Bundle Version": {
+                "id": "%5D~p%60",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1"
+                }
+              },
+              "Bundle Id": {
+                "id": "%5E%7D%3Aj",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.mvl.holestck.shtr"
+                }
+              },
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "USF`",
+                    "name": "FreeFlow Games",
+                    "color": "gray"
+                  }
+                ]
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.mvl.holestck.shtr"
+                }
+              },
+              "Vaveda_secret": "7rnY7BkzEvTxsxcb3jKNB8qS1ifz4g6o",
+              "Name": "Hole Stack Shooter MainData"
+            },
+            "created_time": "2026-06-24T09:55:00.000Z",
+            "last_edited_time": "2026-06-24T09:59:00.000Z",
+            "url": "https://app.notion.com/p/Hole-Stack-Shooter-MainData-3899748bc8c2811aaab8da353c61419e",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/u/6/folders/1a9tL4T3KlPmnUGpIX0zQa7d7Nen_g7If",
+                  "ProductName": "Hole Stack Shooter",
+                  "BundleIdentifier": "com.mvl.holestck.shtr",
+                  "Version": "1.0.0",
+                  "BundleVersionCode": 1,
+                  "CompanyName": "FreeFlow Games"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "hstshtz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "7rnY7BkzEvTxsxcb3jKNB8qS1ifz4g6o"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          },
+          "Page_34c9748b-c8c2-8197-808d-d2d87692e047": {
+            "id": "34c9748b-c8c2-8197-808d-d2d87692e047",
+            "title": "Page 34c9748b-c8c2-8197-808d-d2d87692e047",
+            "properties": {
+              "CR_SUB_WW": {
+                "id": "%3A%3Br_",
+                "type": "number",
+                "number": null
+              },
+              "Create Paid Promo Rebuild ": null,
+              "Installs US": {
+                "id": "%3Au%7BN",
+                "type": "number",
+                "number": null
+              },
+              "Creatives Status": {
+                "id": "%3B%60E%3C",
+                "type": "status",
+                "status": {
+                  "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "[Icon]": null,
+              "TOP AMZ for Sub Screen Upates": [],
+              "Ref Name": "",
+              "ASIN": "B0GHRTKD6Q",
+              "Missing Info for Dev(Cross)": {
+                "id": "%3Cv%60H",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "New promo link": {
+                "id": "%3DU%3BG",
+                "type": "url",
+                "url": null
+              },
+              "Date Dev Start": {
+                "id": "%3D%7B%3Ej",
+                "type": "date",
+                "date": {
+                  "start": "2026-04-24",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Clone": null,
+              "Days in Dev -> Release": {
+                "id": "%3EkOQ",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 45
+                }
+              },
+              "Are all prop. filled? ": {
+                "id": "%3Epbv",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "false"
+                }
+              },
+              "All Projects Info Old": [],
+              "AF Link": {
+                "id": "%40G%5E%3A",
+                "type": "url",
+                "url": "https://hq1.appsflyer.com/apps/settings?appId=com.mvl.holestck.shtr-Amazon"
+              },
+              "Long Description": "Hole Stack Shooter drops you into a fast-paced arcade challenge where every shot counts. Build towering stacks, aim carefully, and fire through moving holes to keep your combo alive and your score climbing.\n\nEach round, colorful blocks rise higher and higher. Your goal is simple: tap to shoot them through matching holes before the tower collapses. Time your shots, watch the patterns, and react quickly as speeds increase and hole positions shift. One perfect hit feels great, but chaining multiple shots in a row is where the real arcade thrill begins.\n\nAs you play, you unlock new stack themes, hole shapes, and visual effects that make every level feel fresh. Face stages with tricky angles, rotating gaps, and changing speeds that test your timing and precision. Power-ups and special blocks add extra strategy—clear whole layers, slow down time, or trigger satisfying chain reactions.\n\nHole Stack Shooter is designed for quick sessions and endless replay. It’s easy to learn, but mastering the rhythm of stacking, aiming, and shooting takes skill. Great for fans of casual arcade shooters, tapping games, and high-score chasers, this offline game delivers simple controls and addictive action you can jump into anytime.\n\nLoad up your next tower, find the opening, and see how high you can stack your score. Download now and start shooting through the holes!",
+              "BB SDK Key (Android)": "",
+              "Icon Promo Request": false,
+              "pLTV 180": {
+                "id": "%40zGB",
+                "type": "number",
+                "number": null
+              },
+              "Developer": {
+                "id": "%40%7Cvk",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "3a63fa1d-90a4-4994-8888-1c62e9cd1c62",
+                    "name": "Maksim Hiadroits",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/4e050820-1cfb-4769-857f-368f3be6313a/IMG_6173.jpeg",
+                    "type": "person",
+                    "person": {
+                      "email": "maxim.gedroit@vira.games"
+                    }
+                  }
+                ]
+              },
+              "PROGRESSION": "",
+              "🎯 AllPages": [
+                "34c9748b-c8c2-8138-ae2d-c9cf74823d41"
+              ],
+              "Project Subs Metrics": [],
+              "Status (Copy)": {
+                "id": "BVo%40",
+                "type": "status",
+                "status": {
+                  "id": "90bac3ba-be41-4b5d-8096-cf1217b11885",
+                  "name": "LIVE",
+                  "color": "green"
+                }
+              },
+              "Mintegral Status": "",
+              "Creo Link": "https://drive.google.com/drive/folders/15IIxBiJ-CUuNNQK6T0pw9Dih0QtKqLCe",
+              "Days Start-Finish": {
+                "id": "Bzh%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 0
+                }
+              },
+              "Sum SP": "",
+              "Created time": {
+                "id": "B~Qf",
+                "type": "created_time",
+                "created_time": "2026-04-24T08:30:00.000Z"
+              },
+              "All subscriptions for the current build are filled": false,
+              "Missing info for Promo rebuild": {
+                "id": "CkT%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "CPI": {
+                "id": "Cxr%40",
+                "type": "number",
+                "number": null
+              },
+              "Teams use": {
+                "id": "D%40CI",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Status": {
+                "id": "DYYJ",
+                "type": "status",
+                "status": {
+                  "id": "ZknJ",
+                  "name": "WAITING RELEASE",
+                  "color": "blue"
+                }
+              },
+              "Date Development Status Set": {
+                "id": "D%60fU",
+                "type": "date",
+                "date": {
+                  "start": "2026-01-19",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Last edited time": {
+                "id": "Dj%3Fm",
+                "type": "last_edited_time",
+                "last_edited_time": "2026-06-24T09:55:00.000Z"
+              },
+              "Project Link": {
+                "id": "DjJJ",
+                "type": "url",
+                "url": "https://www.notion.so/hrsnbtz-Hole-Arsenal-Boss-Battle-2379748bc8c2802b8fecf63940b0e767"
+              },
+              "Date Art Finish": {
+                "id": "Do%3DG",
+                "type": "date",
+                "date": null
+              },
+              "Bundle ID": "com.mvl.holestck.shtr",
+              "Price": {
+                "id": "EUeu",
+                "type": "number",
+                "number": 12.99
+              },
+              "Project Score Analysys": "",
+              "[Promo] Tasks ": [],
+              "TECH": "",
+              "CTR TEST": {
+                "id": "Ejyo",
+                "type": "number",
+                "number": null
+              },
+              "Subscription screen changes include links to actual references (expected UI)": false,
+              "GD": {
+                "id": "FHAP",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "3a63fa1d-90a4-4994-8888-1c62e9cd1c62",
+                    "name": "Maksim Hiadroits",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/4e050820-1cfb-4769-857f-368f3be6313a/IMG_6173.jpeg",
+                    "type": "person",
+                    "person": {
+                      "email": "maxim.gedroit@vira.games"
+                    }
+                  }
+                ]
+              },
+              "CONTENT": "",
+              "Due": {
+                "id": "FaCd",
+                "type": "date",
+                "date": null
+              },
+              "Link to Old Promo": {
+                "id": "FbpI",
+                "type": "url",
+                "url": null
+              },
+              "QA Task File": {
+                "type": "files",
+                "files": []
+              },
+              "Task from Growth": [],
+              "ASO Name & Description": null,
+              "External\\internal": "",
+              "⏺️ ASO | Calendar": [],
+              "Product Features": "🎯 Stack & Shoot Arcade — Build tall towers and fire blocks through moving holes\n🕹️ Simple Tap Controls — Tap to aim and shoot with one-hand arcade gameplay\n⚡ Rising Challenge — Faster stacks, shifting gaps, and tricky angles every level\n💥 Power-Up Moments — Trigger special blocks and chain reactions for huge scores\n🎨 Unlockable Themes — Collect new colors, shapes, and visual effects for your stacks\n📈 High Score Chasing — Beat your best run and climb with endless arcade replay",
+              "Promo Task ": [],
+              "Monetization DB": [],
+              "Banner Key": "",
+              "Date Info Updated": {
+                "id": "HqDO",
+                "type": "date",
+                "date": null
+              },
+              "Short Description": "Stack, aim and shoot holes",
+              "Creo Status": "",
+              "Amz Int & Port Tasks Template": null,
+              "Tools": {
+                "id": "IZP%3F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "CreateTKSettings": null,
+              "Subscription JSON": [],
+              "GetGitlabInfo": null,
+              "Days Start-Release": {
+                "id": "JXlK",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "AMZ releaseId": "amzn1.devportal.apprelease.d55b6021b8e848d98a2d3f44030d0303",
+              "[Logotype]": null,
+              "CR Subs, %": {
+                "id": "KKZH",
+                "type": "number",
+                "number": null
+              },
+              "Date": {
+                "id": "LkTZ",
+                "type": "date",
+                "date": null
+              },
+              "D3REW": {
+                "id": "M%5E%40L",
+                "type": "number",
+                "number": null
+              },
+              "Each config has its own separate description": false,
+              "CR Total, %": {
+                "id": "MguI",
+                "type": "number",
+                "number": null
+              },
+              "D7INT": {
+                "id": "MqkG",
+                "type": "number",
+                "number": null
+              },
+              "PaidConfigGroup": [],
+              "D1INT": {
+                "id": "N%3AM%60",
+                "type": "number",
+                "number": null
+              },
+              "Automation Info (AppStore)": "✅ AMZ page created",
+              "Previous Status": {
+                "id": "NSz%7D",
+                "type": "status",
+                "status": {
+                  "id": "ZknJ",
+                  "name": "WAITING RELEASE",
+                  "color": "blue"
+                }
+              },
+              "Traffic Source": {
+                "id": "N%5E%3Cm",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Game Type": {
+                "id": "NcId",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Create Task (No Check)": null,
+              "Developer AMZ AppStore Link": "https://developer.amazon.com/apps-and-games/console/app/amzn1.devportal.mobileapp.86fead79813b42fca40b9732a51195ca/release/amzn1.devportal.apprelease.d55b6021b8e848d98a2d3f44030d0303/submission/app-files",
+              "pLTV 7": {
+                "id": "OPM%5C",
+                "type": "number",
+                "number": null
+              },
+              "Interstitial Key": "",
+              "BB Game ID (iOS)": "",
+              "Team ": "Tools Department",
+              "Ref Link": "",
+              "Build Paid Icon": null,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+              "Create Paid Icon": null,
+              "ByteBrew Link": {
+                "id": "QD%3Cd",
+                "type": "url",
+                "url": null
+              },
+              "Outdated / unused elements are removed from GDD": false,
+              "Applovin Key": "",
+              "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
+              "Version": "1.0.0",
+              "Show": {
+                "id": "RfDI",
+                "type": "number",
+                "number": null
+              },
+              "QA | Tasks": [
+                "3539748b-c8c2-8172-bbac-fa8813fddf43"
+              ],
+              "Fullsreen Banner Promo Request": false,
+              "📽️ Creatives Team Tasks": [],
+              "Bright SDK Review Status": {
+                "id": "SXax",
+                "type": "status",
+                "status": {
+                  "id": "`GJc",
+                  "name": "No Bright for this app",
+                  "color": "red"
+                }
+              },
+              "Days for Art Test": {
+                "id": "SdR%3B",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
+              },
+              "Bundle Version": "1",
+              "Days for Art": {
+                "id": "T%3Edc",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "BB SDK Key (iOS)": "",
+              "Feature description matches the latest implementation": false,
+              "Create New \"QA Task\"": null,
+              "Status  Promo": {
+                "id": "TWT%3A",
+                "type": "status",
+                "status": {
+                  "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Click": {
+                "id": "TkDm",
+                "type": "number",
+                "number": null
+              },
+              "GA Game Key": "",
+              "CTR Video link": "",
+              "Link to Automation": {
+                "id": "VRV%3B",
+                "type": "url",
+                "url": null
+              },
+              "Days in QA": {
+                "id": "VgPc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 39
+                }
+              },
+              "parent": "Hole Arsenal: Boss Battle",
+              "Genre": {
+                "id": "V~Gf",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "BB Game ID (Android)": "",
+              "Date QA Finished": {
+                "id": "X%5Cma",
+                "type": "date",
+                "date": {
+                  "start": "2026-05-06T15:48:00.000+03:00",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Task Create Info": "✅ QA Task - Successfully Created!",
+              "GDD Doc": "утерян",
+              "Full Pack Amz": null,
+              "Missing Info for QA Task": {
+                "id": "ZSo%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "[Screenshots]": null,
+              "Specialist": {
+                "id": "Zy%3F%3A",
+                "type": "people",
+                "people": []
+              },
+              "A/B Group": "",
+              "Full Pack TV Promo Request": false,
+              "Date Team Finish": {
+                "id": "%5B%5E%3AX",
+                "type": "date",
+                "date": {
+                  "start": "2026-04-24",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "IPM STATIC": {
+                "id": "%5Bagu",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_key": "hstshtz",
+              "Groups": [
+                "3099748b-c8c2-809d-aae1-f3626a12d537"
+              ],
+              "D1RET": {
+                "id": "%5D%3DAl",
+                "type": "number",
+                "number": null
+              },
+              "[Fullscreen Banner]": null,
+              "CR_SUB_US": {
+                "id": "%5Dz%7CJ",
+                "type": "number",
+                "number": null
+              },
+              "D7BAN": {
+                "id": "%5E%3A%3F%3B",
+                "type": "number",
+                "number": null
+              },
+              "MONETIZATION": "",
+              "D3BAN": {
+                "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "Full game name": "Hole Stack Shooter",
+              "Firebase PLIST": [],
+              "Are all prop filled": {
+                "id": "_%5D%5E%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Ref Link\n⚠️ Date to QA"
+                }
+              },
+              "D1REW": {
+                "id": "_bnb",
+                "type": "number",
+                "number": null
+              },
+              "ASO Name & Descripton Request": false,
+              "Build changes are marked in the task": false,
+              "Unity version": "",
+              "Promo status info": "",
+              "Average FPS": {
+                "id": "a%3Fdf",
+                "type": "number",
+                "number": null
+              },
+              "Autobuild_buildNumber": {
+                "type": "relation",
+                "relation": [
+                  {
+                    "id": "3499748b-c8c2-815d-800a-e28965fcddc6"
+                  }
+                ]
+              },
+              "Polishing": "",
+              "ExtraComments": "Uploads240426",
+              "Full Pack Promo Request": false,
+              "Art Subs Links": "",
+              "Sprint": {
+                "id": "afeU",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Documentation link": "утерян",
+              "Clone From": "shtncmz",
+              "D7RET": {
+                "id": "bE%7C%3A",
+                "type": "number",
+                "number": null
+              },
+              "Test - Button No Validation": null,
+              "Release Type": "Re-build",
+              "GDD is updated for the current game version": false,
+              "Link to ASO": {
+                "id": "d%3BwX",
+                "type": "url",
+                "url": null
+              },
+              "Create Paid Banner": null,
+              "Prod Promo Approve": "",
+              "RW Key": "",
+              "What's new": "nothing",
+              "100% Release Date": {
+                "id": "e%5Ec%7C",
+                "type": "date",
+                "date": null
+              },
+              "Api key": "",
+              "[Static Banner]": null,
+              "Public key": [],
+              "Quarter": "Q2_26",
+              "Create AF & Vaveda Pages": null,
+              "LTV_180_WW": {
+                "id": "gCUp",
+                "type": "number",
+                "number": null
+              },
+              "Crit Bugs": "",
+              "IPM(CP)": {
+                "id": "hQ%5C%5B",
+                "type": "number",
+                "number": null
+              },
+              "Refund Rate": {
+                "id": "h%5Cxv",
+                "type": "number",
+                "number": null
+              },
+              "Keywords": "arcade, shooter, stack, tapping, timing, casual, offline, reflex, aim, holes",
+              "IOS Distribution profile": [],
+              "Status 1": {
+                "id": "ihRL",
+                "type": "status",
+                "status": {
+                  "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Logotype Banner Promo Request": false,
+              "Slack Channel Link": "https://viragames.slack.com/archives/C08BGB9705Q",
+              "CTR": {
+                "id": "jqbZ",
+                "type": "number",
+                "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": null
+              },
+              "D3PTM": {
+                "id": "kamA",
+                "type": "number",
+                "number": null
+              },
+              "D7REW": {
+                "id": "kuEV",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_secret": "7rnY7BkzEvTxsxcb3jKNB8qS1ifz4g6o",
+              "ViraToolKit version": "1.8.9",
+              "Priority": "",
+              "App ID(iOS)": "",
+              "Int&Port Epics": [],
+              "ToolKitSettings": [
+                "3899748b-c8c2-813b-97dc-f7d2a855ec72"
+              ],
+              "Link to store": "https://www.amazon.com/dp/B0GHRTKD6Q",
+              "QA checking": "Active group",
+              "Date Release": {
+                "id": "nTQx",
+                "type": "date",
+                "date": null
+              },
+              "D3RET": {
+                "id": "n%5CF~",
+                "type": "number",
+                "number": null
+              },
+              "Cross-Promo AMZ": [],
+              "Paid\\Free": "Paid",
+              "AMZ AppStore": null,
+              "RESULTS": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Goals": "",
+              "Firebase JSON": [],
+              "QA": {
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "603beaea-e97d-4e5b-b37b-db9c23a28f07"
+                  }
+                ]
+              },
+              "Hypothesys": [],
+              "AMZ appId": "amzn1.devportal.mobileapp.86fead79813b42fca40b9732a51195ca",
+              "Opt-In": {
+                "id": "p_Ic",
+                "type": "number",
+                "number": null
+              },
+              "New Tasks & Requests": [],
+              "Last edited by": {
+                "id": "qUWF",
+                "type": "last_edited_by",
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
+                  "name": "Tools Team Helper",
+                  "avatar_url": null,
+                  "type": "bot",
+                  "bot": {}
+                }
+              },
+              "Account": {
+                "id": "qhXd",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "ce1c4c6f-e2d4-410b-9228-7dde8564252d",
+                    "name": "FreeFlow Games",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "Date to QA": {
+                "id": "q%7D%3F%5C",
+                "type": "date",
+                "date": null
+              },
+              "Sub-team": "Tools Team",
+              "Date Team Start": {
+                "id": "rKeG",
+                "type": "date",
+                "date": {
+                  "start": "2026-04-24",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Created by": {
+                "id": "r%5BBI",
+                "type": "created_by",
+                "created_by": {
+                  "object": "user",
+                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
+                  "name": "Tools Team Helper",
+                  "avatar_url": null,
+                  "type": "bot",
+                  "bot": {}
+                }
+              },
+              "Tech Project Doc": "",
+              "Sub-subscription 1": {
+                "id": "sCtp",
+                "type": "url",
+                "url": null
+              },
+              "Automated Team": {
+                "id": "sDNL",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "If release is not required:  Need Release checkbox is unchecked": false,
+              "UI": "",
+              "Test - Button Validation": null,
+              "Admob Key": "",
+              "Firebase Link": {
+                "id": "upQD",
+                "type": "url",
+                "url": null
+              },
+              "Monetization": [],
+              "Cross Promo Video status": "",
+              "CPI (Mint) Test Dates": {
+                "id": "v%5Bi%60",
+                "type": "date",
+                "date": null
+              },
+              "Date Art Start": {
+                "id": "v%5D~D",
+                "type": "date",
+                "date": null
+              },
+              "Last Status Change": {
+                "id": "wQFr",
+                "type": "date",
+                "date": {
+                  "start": "2026-05-06",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D1PTM": {
+                "id": "wgp%7B",
+                "type": "number",
+                "number": null
+              },
+              "Link to Promo": "https://drive.google.com/drive/u/6/folders/1a9tL4T3KlPmnUGpIX0zQa7d7Nen_g7If",
+              "[Creatives] Tasks": [],
+              "ipm TEST": {
+                "id": "xWSH",
+                "type": "number",
+                "number": null
+              },
+              "Art Assets Link": {
+                "id": "x%5C%3DY",
+                "type": "url",
+                "url": null
+              },
+              "Total installs": {
+                "id": "x%5DWz",
+                "type": "number",
+                "number": null
+              },
+              "LTV_180_US ": {
+                "id": "xfen",
+                "type": "number",
+                "number": null
+              },
+              "Sub-s Database": [],
+              "Amz Console: On Auto support": false,
+              "Create QA Task": true,
+              "Create UA Tasks": null,
+              "3D Artist": {
+                "id": "zHXV",
+                "type": "people",
+                "people": []
+              },
+              " GA Secret Key": "",
+              "Task Tracker Link": {
+                "id": "%7BIp%3F",
+                "type": "url",
+                "url": null
+              },
+              "D3INT": {
+                "id": "%7BL%5C%3B",
+                "type": "number",
+                "number": null
+              },
+              "Percent of Release": {
+                "id": "%7BRbl",
+                "type": "number",
+                "number": 100
+              },
+              "AppMagic Info": [],
+              "StartUp Time": {
+                "id": "%7BZ_P",
+                "type": "number",
+                "number": null
+              },
+              "D1BAN": {
+                "id": "%7BeFD",
+                "type": "number",
+                "number": null
+              },
+              "IPM (CP) Test Dates": {
+                "id": "%7Be%5E%3E",
+                "type": "date",
+                "date": null
+              },
+              "Platform": "AMZ",
+              "temp_tk_version_link": {
+                "id": "%7CeXN",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "Open ImportPackageWindow.cs"
+                }
+              },
+              "Screenshot Promo Request": false,
+              "Sub-item": [],
+              "Date Art Finish Test": {
+                "id": "%7Dwfx",
+                "type": "date",
+                "date": null
+              },
+              "GIT LINK": "https://gitlab.com/vira-games/amazon-projects/attack-hole.git",
+              "D7PTM": {
+                "id": "~%3F%3B%40",
+                "type": "number",
+                "number": null
+              },
+              "Parent Project": [
+                "14f9748b-c8c2-80ca-b236-d763e5f353f3"
+              ],
+              "Days in Dev -> QA": {
+                "id": "~FLK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 6
+                }
+              },
+              "BALANCE": "",
+              "Description for QA": "smoke test + release",
+              "Prod Approved": false,
+              "Static Banner Promo Request": false,
+              "IPM": {
+                "id": "~oXr",
+                "type": "number",
+                "number": null
+              },
+              "Sent To QA": {
+                "id": "~sjG",
+                "type": "date",
+                "date": {
+                  "start": "2026-05-01",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Promo info checking": {
+                "id": "~wLr",
+                "type": "formula",
+                "formula": {
+                  "type": "boolean",
+                  "boolean": false
+                }
+              },
+              "Project": "hstshtz - Hole Stack Shooter",
+              "Description": "",
+              "SubscriptionRevenueEvent": false,
+              "AMZ Metrics Date & Comment": "",
+              "GD 2": {
+                "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Amz StartUp Time": {
+                "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                "type": "number",
+                "number": null
+              },
+              "Status 2": "",
+              "Days": {
+                "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                "type": "number",
+                "number": null
+              },
+              "Asana Link": {
+                "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                "type": "url",
+                "url": null
+              },
+              "Need a new Video?": false
+            },
+            "created_time": "2026-04-24T08:30:00.000Z",
+            "last_edited_time": "2026-06-24T09:55:00.000Z",
+            "url": "https://app.notion.com/p/hstshtz-Hole-Stack-Shooter-34c9748bc8c28197808dd2d87692e047",
+            "children": {
+              "_Clone__shtncmz_-_Shooting_Hole__Combine_and_Stack__CreateKeys_": {
+                "id": "34c9748b-c8c2-8138-ae2d-c9cf74823d41",
+                "title": "[Clone] shtncmz - Shooting Hole: Combine and Stack (CreateKeys)",
+                "properties": {
+                  "Project": [
+                    "34c9748b-c8c2-8197-808d-d2d87692e047"
+                  ],
+                  "AccountFormula": {
+                    "id": "%3EeZO",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "FreeFlow Games"
+                    }
+                  },
+                  "buildNote": "",
+                  "StepPanel": [
+                    "2ce9748b-c8c2-8044-8566-e93f48cd58a1"
+                  ],
+                  "Step": "SmokeTest",
+                  "BuildHistory": [
+                    "3499748b-c8c2-815d-800a-e28965fcddc6"
+                  ],
+                  "CurrentBuild": {
+                    "type": "relation",
+                    "relation": []
+                  },
+                  "Status": "Prepared",
+                  "GitLink": {
+                    "id": "%5Cy~w",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "https://gitlab.com/vira-games/amazon-projects/attack-hole.git"
+                    }
+                  },
+                  "Account": {
+                    "type": "multi_select",
+                    "multi_select": [
+                      {
+                        "id": "ce1c4c6f-e2d4-410b-9228-7dde8564252d",
+                        "name": "FreeFlow Games",
+                        "color": "blue"
+                      }
+                    ]
+                  },
+                  "gitlink": "https://gitlab.com/vira-games/amazon-projects/attack-hole.git",
+                  "QA_TASK_STATUS": {
+                    "id": "bs%3C%5B",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "Paid Archive"
+                    }
+                  },
+                  "LinkToBuildConfig": {
+                    "id": "dQai",
+                    "type": "url",
+                    "url": "https://gitlab.com/vira-games/ToolsTeamPrivate/techprojectpaidpipeline/-/raw/main/buildconfigs/FoxyPlay/2026-04-30_14-53-57.json"
+                  },
+                  "AllProject Status": {
+                    "type": "status",
+                    "status": {
+                      "id": "ZknJ",
+                      "name": "WAITING RELEASE",
+                      "color": "blue"
+                    }
+                  },
+                  "qa tasks": {
+                    "type": "relation",
+                    "relation": [
+                      {
+                        "id": "3539748b-c8c2-8172-bbac-fa8813fddf43"
+                      }
+                    ]
+                  },
+                  "SplitGroup": {
+                    "id": "lKMm",
+                    "type": "number",
+                    "number": null
+                  },
+                  "note": "",
+                  "Index": {
+                    "id": "o%7D%40%40",
+                    "type": "number",
+                    "number": 15
+                  },
+                  "IsCurrentBuild": {
+                    "id": "rMrv",
+                    "type": "formula",
+                    "formula": {
+                      "type": "boolean",
+                      "boolean": false
+                    }
+                  },
+                  "qa": {
+                    "type": "checkbox",
+                    "checkbox": true
+                  },
+                  "paid_config": {
+                    "type": "relation",
+                    "relation": []
+                  },
+                  "UnityVersion": "",
+                  "TempComment": "",
+                  "Name": "[Clone] shtncmz - Shooting Hole: Combine and Stack (CreateKeys)"
+                },
+                "created_time": "2026-04-24T08:39:00.000Z",
+                "last_edited_time": "2026-05-06T12:32:00.000Z",
+                "url": "https://app.notion.com/p/Clone-shtncmz-Shooting-Hole-Combine-and-Stack-CreateKeys-34c9748bc8c28138ae2dc9cf74823d41"
+              },
+              "Hole_Stack_Shooter__AMZ_-_Paid_": {
+                "id": "3539748b-c8c2-8172-bbac-fa8813fddf43",
+                "title": "Hole Stack Shooter [AMZ - Paid]",
+                "properties": {
+                  "Send Bug-report for Review": null,
+                  "QA": {
+                    "id": "%3Akbv",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "603beaea-e97d-4e5b-b37b-db9c23a28f07",
+                        "name": "Kostiantyn Panfilov",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/7985f3d2-f8a4-41b3-a0e4-f4b7e83b53d4/photo_2024-05-20_09-53-22.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "kostiantyn.panfilov@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  "Sent for Review Date": {
+                    "id": "%3B%3Dui",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Extra Story Point ": {
+                    "id": "%3Bmt%7D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Previous status": "Waiting Release",
+                  "Get info for iterations": null,
+                  "Release Build Link:": {
+                    "id": "%3FUcg",
+                    "type": "url",
+                    "url": "https://viragames.slack.com/files/U07L3U2QH9D/F0B1ZFFJ3B4/hole_stack_shooter_amazon_release_v1.0.0_bundle1_new.aab"
+                  },
+                  "Main Checklist": {
+                    "id": "%40uPu",
+                    "type": "url",
+                    "url": "-"
+                  },
+                  "Test result": [],
+                  "Create-Start Testing days": {
+                    "id": "A%5Bv%5B",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 4.76
+                    }
+                  },
+                  "Total Testing Time (hrs)": {
+                    "id": "AaPZ",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total Old Bugs": {
+                    "id": "C%60br",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total \"Major\"": {
+                    "id": "DB%7D%3F",
+                    "type": "number",
+                    "number": null
+                  },
+                  "ViraToolKit version": "1.8.9",
+                  "Priority": "Medium",
+                  "What's new": "nothing",
+                  "All Projects Info": [
+                    "34c9748b-c8c2-8197-808d-d2d87692e047"
+                  ],
+                  "Link To Promo": "https://drive.google.com/drive/u/6/folders/1a9tL4T3KlPmnUGpIX0zQa7d7Nen_g7If",
+                  "Created time": {
+                    "id": "Hli%3C",
+                    "type": "created_time",
+                    "created_time": "2026-05-01T15:07:00.000Z"
+                  },
+                  "AF test Screen ": [],
+                  "Missed Crit-bugs in Live": {
+                    "id": "Jm%7B%3B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Documentation link": "утерян",
+                  "Sub-tasks": [
+                    "3589748b-c8c2-8053-b5f5-ce2a4233bc74"
+                  ],
+                  "Max it test time (hrs)": {
+                    "id": "M%3AHd",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total \"Minor\"": {
+                    "id": "M%7Dly",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Attach file": [],
+                  "% sub-tasks per other iterations": {
+                    "id": "OAKo",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Link to Slack release-updates": {
+                    "id": "OUVS",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Company": {
+                    "id": "Psch",
+                    "type": "multi_select",
+                    "multi_select": [
+                      {
+                        "id": "3e91f3bc-6532-4898-b0e4-c3725c1f4662",
+                        "name": "FreeFlow Games",
+                        "color": "gray"
+                      }
+                    ]
+                  },
+                  "Release Build Link 2": {
+                    "id": "Q%40JT",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Total \"Critical\"": {
+                    "id": "QRF%5E",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Place": {
+                    "id": "SQ%3F%5C",
+                    "type": "place",
+                    "place": null
+                  },
+                  "Release Checklist": {
+                    "id": "SXCS",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Slack Channel Link": {
+                    "id": "S%7C~u",
+                    "type": "url",
+                    "url": "https://viragames.slack.com/archives/C08BGB9705Q"
+                  },
+                  "Auto Test Status": {
+                    "id": "UErf",
+                    "type": "status",
+                    "status": {
+                      "id": "a12b6075-ea50-4678-8c1a-5a8e89ff475b",
+                      "name": "Waiting auto-test",
+                      "color": "default"
+                    }
+                  },
+                  "Sub-task Iteration": {
+                    "id": "VafY",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "GameDesigner": {
+                    "id": "VuMY",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "3a63fa1d-90a4-4994-8888-1c62e9cd1c62",
+                        "name": "Maksim Hiadroits",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/4e050820-1cfb-4769-857f-368f3be6313a/IMG_6173.jpeg",
+                        "type": "person",
+                        "person": {
+                          "email": "maxim.gedroit@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  "Total \"Skip\" bug-tasks": {
+                    "id": "WFjH",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Bundle Version": {
+                    "id": "WXSF",
+                    "type": "number",
+                    "number": 1
+                  },
+                  "Logs": [],
+                  "Need release?": true,
+                  "Max it time (hrs)": {
+                    "id": "X%5Dx%3D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "App Version": "1.0.0",
+                  "Previous Update Date": {
+                    "id": "Ztsi",
+                    "type": "date",
+                    "date": null
+                  },
+                  "AVG iteration time (days)": {
+                    "id": "%5BPCR",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0
+                    }
+                  },
+                  "Severity": "",
+                  "Release Percent": {
+                    "id": "%5DWSH",
+                    "type": "number",
+                    "number": 100
+                  },
+                  "Long Description": "Hole Stack Shooter drops you into a fast-paced arcade challenge where every shot counts. Build towering stacks, aim carefully, and fire through moving holes to keep your combo alive and your score climbing.\n\nEach round, colorful blocks rise higher and higher. Your goal is simple: tap to shoot them through matching holes before the tower collapses. Time your shots, watch the patterns, and react quickly as speeds increase and hole positions shift. One perfect hit feels great, but chaining multiple shots in a row is where the real arcade thrill begins.\n\nAs you play, you unlock new stack themes, hole shapes, and visual effects that make every level feel fresh. Face stages with tricky angles, rotating gaps, and changing speeds that test your timing and precision. Power-ups and special blocks add extra strategy—clear whole layers, slow down time, or trigger satisfying chain reactions.\n\nHole Stack Shooter is designed for quick sessions and endless replay. It’s easy to learn, but mastering the rhythm of stacking, aiming, and shooting takes skill. Great for fans of casual arcade shooters, tapping games, and high-score chasers, this offline game delivers simple controls and addictive action you can jump into anytime.\n\nLoad up your next tower, find the opening, and see how high you can stack your score. Download now and start shooting through the holes!",
+                  "Monetization": [],
+                  "Story Point": {
+                    "id": "%5D~Vq",
+                    "type": "number",
+                    "number": 0.25
+                  },
+                  "Iteration": {
+                    "id": "_QS%3F",
+                    "type": "number",
+                    "number": 2
+                  },
+                  "Description": "smoke test + release",
+                  "Total \"Blocker\"": {
+                    "id": "%60ZaY",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Slack Release Message Link": {
+                    "id": "a%3CNh",
+                    "type": "url",
+                    "url": "https://vira-games.slack.com/archives/C056D595H1N/p1778071728978369"
+                  },
+                  "Bundle ID": "com.mvl.holestck.shtr",
+                  "Developer": {
+                    "id": "aiP%7D",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "3a63fa1d-90a4-4994-8888-1c62e9cd1c62",
+                        "name": "Maksim Hiadroits",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/4e050820-1cfb-4769-857f-368f3be6313a/IMG_6173.jpeg",
+                        "type": "person",
+                        "person": {
+                          "email": "maxim.gedroit@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  "Automation Info": "",
+                  "Store Type": "AMZ",
+                  "Task Status": {
+                    "id": "cQM%5D",
+                    "type": "status",
+                    "status": {
+                      "id": "iXP@",
+                      "name": "Paid Archive",
+                      "color": "blue"
+                    }
+                  },
+                  "Close time": {
+                    "id": "c%60ea",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Days in Review": {
+                    "id": "f%3B%3E%7B",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "% sub-tasks per 1-2 iterations": {
+                    "id": "full",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Who sent to release": {
+                    "id": "fyNp",
+                    "type": "people",
+                    "people": []
+                  },
+                  "Change Status - Button": null,
+                  "💼 All Projects - Parental card": [
+                    "14f9748b-c8c2-80ca-b236-d763e5f353f3"
+                  ],
+                  "End Test-Review Days": {
+                    "id": "iH%5CQ",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "Parent item": [],
+                  "Total Iterations Time (days)": {
+                    "id": "jewJ",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0
+                    }
+                  },
+                  "Longest it": {
+                    "id": "k%3Ea%7D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Release Type ": "Re-build",
+                  "AVG test iteration time (hrs)": {
+                    "id": "lyw%3B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Assignee": {
+                    "id": "mgO%5D",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "603beaea-e97d-4e5b-b37b-db9c23a28f07",
+                        "name": "Kostiantyn Panfilov",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/7985f3d2-f8a4-41b3-a0e4-f4b7e83b53d4/photo_2024-05-20_09-53-22.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "kostiantyn.panfilov@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  "QA who checked Live Test": {
+                    "id": "mn~B",
+                    "type": "people",
+                    "people": []
+                  },
+                  "Total сhild-tasks": {
+                    "id": "oFKh",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Build in internal test": false,
+                  "Sub-Team": {
+                    "id": "q%3Cug",
+                    "type": "multi_select",
+                    "multi_select": [
+                      {
+                        "id": "f1193f6e-d54d-4966-b453-c37ed3440aa3",
+                        "name": "Tools Team",
+                        "color": "yellow"
+                      }
+                    ]
+                  },
+                  "Extra QA": {
+                    "id": "q%5BX%5C",
+                    "type": "people",
+                    "people": []
+                  },
+                  "Testing End Date": {
+                    "id": "q%60yo",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-05-06T15:48:00.000+03:00",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Team": "Tools Team",
+                  "Longest Test it": {
+                    "id": "sCIG",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Days in QA stage": {
+                    "id": "sQbV",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0.14
+                    }
+                  },
+                  "Device": {
+                    "id": "s%5D%5EA",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Live Release Date": {
+                    "id": "tZz%7D",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Delay Reason": {
+                    "id": "tj%7Ce",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Total \"Trivial\"": {
+                    "id": "u%5Cdr",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Paid/free": "Paid",
+                  "Reject Start Date": {
+                    "id": "udDX",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Error Message": "",
+                  "Testing Start Date": {
+                    "id": "vON%5C",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-05-06T12:22:00.000+03:00",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Total Iterations Time (hrs)": {
+                    "id": "w%5EKg",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total Bug-tasks": {
+                    "id": "xcIA",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total Sub-Tasks": {
+                    "id": "yQx%5D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total Task Story Point": {
+                    "id": "ziTL",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0.25
+                    }
+                  },
+                  "Screens & Videos": [],
+                  "Project status": {
+                    "type": "status",
+                    "status": {
+                      "id": "ZknJ",
+                      "name": "WAITING RELEASE",
+                      "color": "blue"
+                    }
+                  },
+                  "Create-Close Days": {
+                    "id": "%7C%7BWX",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "Task Type": "Task",
+                  "AVG iteration time (hrs)": {
+                    "id": "%7DrCu",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Name": "Hole Stack Shooter [AMZ - Paid]",
+                  "Google Drive File": []
+                },
+                "created_time": "2026-05-01T15:07:00.000Z",
+                "last_edited_time": "2026-06-23T13:47:00.000Z",
+                "url": "https://app.notion.com/p/Hole-Stack-Shooter-AMZ-Paid-3539748bc8c28172bbacfa8813fddf43",
+                "children": {
+                  "Page_14f9748b-c8c2-80ca-b236-d763e5f353f3": {
+                    "id": "14f9748b-c8c2-80ca-b236-d763e5f353f3",
+                    "title": "Page 14f9748b-c8c2-80ca-b236-d763e5f353f3",
+                    "properties": {
+                      "CR_SUB_WW": {
+                        "id": "%3A%3Br_",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Create Paid Promo Rebuild ": null,
+                      "Installs US": {
+                        "id": "%3Au%7BN",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Creatives Status": {
+                        "id": "%3B%60E%3C",
+                        "type": "status",
+                        "status": {
+                          "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "[Icon]": null,
+                      "TOP AMZ for Sub Screen Upates": [],
+                      "Ref Name": "",
+                      "ASIN": "B0FV3GXZJY",
+                      "Missing Info for Dev(Cross)": {
+                        "id": "%3Cv%60H",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Full game name\n⚠️ Company(Account)\n⚠️ Store Type\n⚠️ Sub-Team\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ GIT Link\n⚠️ AF Link\n⚠️ Developer\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Bundle ID\n⚠️ Team"
+                        }
+                      },
+                      "New promo link": {
+                        "id": "%3DU%3BG",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Dev Start": {
+                        "id": "%3D%7B%3Ej",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Clone": null,
+                      "Days in Dev -> Release": {
+                        "id": "%3EkOQ",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "Are all prop. filled? ": {
+                        "id": "%3Epbv",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "false"
+                        }
+                      },
+                      "All Projects Info Old": [],
+                      "AF Link": {
+                        "id": "%40G%5E%3A",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Long Description": "",
+                      "BB SDK Key (Android)": "",
+                      "Icon Promo Request": false,
+                      "pLTV 180": {
+                        "id": "%40zGB",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Developer": {
+                        "id": "%40%7Cvk",
+                        "type": "people",
+                        "people": []
+                      },
+                      "PROGRESSION": "",
+                      "🎯 AllPages": [],
+                      "Project Subs Metrics": [],
+                      "Status (Copy)": {
+                        "id": "BVo%40",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Mintegral Status": "",
+                      "Creo Link": "",
+                      "Days Start-Finish": {
+                        "id": "Bzh%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "Sum SP": "",
+                      "Created time": {
+                        "id": "B~Qf",
+                        "type": "created_time",
+                        "created_time": "2024-12-01T11:02:00.000Z"
+                      },
+                      "All subscriptions for the current build are filled": false,
+                      "Missing info for Promo rebuild": {
+                        "id": "CkT%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Promo Link\n⚠️ Full Game name"
+                        }
+                      },
+                      "CPI": {
+                        "id": "Cxr%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Teams use": {
+                        "id": "D%40CI",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Status": {
+                        "id": "DYYJ",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Date Development Status Set": {
+                        "id": "D%60fU",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Last edited time": {
+                        "id": "Dj%3Fm",
+                        "type": "last_edited_time",
+                        "last_edited_time": "2026-02-05T12:40:00.000Z"
+                      },
+                      "Project Link": {
+                        "id": "DjJJ",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Art Finish": {
+                        "id": "Do%3DG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Bundle ID": "",
+                      "Price": {
+                        "id": "EUeu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Project Score Analysys": "",
+                      "[Promo] Tasks ": [],
+                      "TECH": "",
+                      "CTR TEST": {
+                        "id": "Ejyo",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Subscription screen changes include links to actual references (expected UI)": false,
+                      "GD": {
+                        "id": "FHAP",
+                        "type": "people",
+                        "people": []
+                      },
+                      "CONTENT": "",
+                      "Due": {
+                        "id": "FaCd",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Link to Old Promo": {
+                        "id": "FbpI",
+                        "type": "url",
+                        "url": null
+                      },
+                      "QA Task File": "",
+                      "Task from Growth": [],
+                      "ASO Name & Description": null,
+                      "External\\internal": "",
+                      "⏺️ ASO | Calendar": [],
+                      "Product Features": "",
+                      "Promo Task ": [],
+                      "Monetization DB": [],
+                      "Banner Key": "",
+                      "Date Info Updated": {
+                        "id": "HqDO",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Short Description": "",
+                      "Creo Status": "",
+                      "Amz Int & Port Tasks Template": null,
+                      "Tools": {
+                        "id": "IZP%3F",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "CreateTKSettings": null,
+                      "Subscription JSON": [],
+                      "GetGitlabInfo": null,
+                      "Days Start-Release": {
+                        "id": "JXlK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "AMZ releaseId": "",
+                      "[Logotype]": null,
+                      "CR Subs, %": {
+                        "id": "KKZH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Date": {
+                        "id": "LkTZ",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3REW": {
+                        "id": "M%5E%40L",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Each config has its own separate description": false,
+                      "CR Total, %": {
+                        "id": "MguI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7INT": {
+                        "id": "MqkG",
+                        "type": "number",
+                        "number": null
+                      },
+                      "PaidConfigGroup": [],
+                      "D1INT": {
+                        "id": "N%3AM%60",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Automation Info (AppStore)": "",
+                      "Previous Status": {
+                        "id": "NSz%7D",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Traffic Source": {
+                        "id": "N%5E%3Cm",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Game Type": {
+                        "id": "NcId",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Create Task (No Check)": null,
+                      "Developer AMZ AppStore Link": "",
+                      "pLTV 7": {
+                        "id": "OPM%5C",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Interstitial Key": "",
+                      "BB Game ID (iOS)": "",
+                      "Team ": "",
+                      "Ref Link": "",
+                      "Build Paid Icon": null,
+                      "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+                      "Create Paid Icon": null,
+                      "ByteBrew Link": {
+                        "id": "QD%3Cd",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Outdated / unused elements are removed from GDD": false,
+                      "Applovin Key": "",
+                      "Full Pack  Fire TV ": null,
+                      "iPad Screens": {
+                        "id": "R%5EzP",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Version": "",
+                      "Show": {
+                        "id": "RfDI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "QA | Tasks": [],
+                      "Fullsreen Banner Promo Request": false,
+                      "📽️ Creatives Team Tasks": [],
+                      "Bright SDK Review Status": {
+                        "id": "SXax",
+                        "type": "status",
+                        "status": {
+                          "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                          "name": "Implementation",
+                          "color": "default"
+                        }
+                      },
+                      "Days for Art Test": {
+                        "id": "SdR%3B",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "iPhone Screens": {
+                        "id": "SeX%7C",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Bundle Version": "",
+                      "Days for Art": {
+                        "id": "T%3Edc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "BB SDK Key (iOS)": "",
+                      "Feature description matches the latest implementation": false,
+                      "Create New \"QA Task\"": null,
+                      "Status  Promo": {
+                        "id": "TWT%3A",
+                        "type": "status",
+                        "status": {
+                          "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Click": {
+                        "id": "TkDm",
+                        "type": "number",
+                        "number": null
+                      },
+                      "GA Game Key": "",
+                      "CTR Video link": "",
+                      "Link to Automation": {
+                        "id": "VRV%3B",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Days in QA": {
+                        "id": "VgPc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "parent": "",
+                      "Genre": {
+                        "id": "V~Gf",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "BB Game ID (Android)": "",
+                      "Date QA Finished": {
+                        "id": "X%5Cma",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Task Create Info": "",
+                      "GDD Doc": "",
+                      "Full Pack Amz": null,
+                      "Missing Info for QA Task": {
+                        "id": "ZSo%3D",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Full game name\n⚠️ Company(Account)\n⚠️ Store Type\n⚠️ Sub-Team\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ GIT Link\n⚠️ AF Link\n⚠️ Developer\n⚠️ GD\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Bundle ID\n⚠️ Quarter\n⚠️ Team"
+                        }
+                      },
+                      "[Screenshots]": null,
+                      "Specialist": {
+                        "id": "Zy%3F%3A",
+                        "type": "people",
+                        "people": []
+                      },
+                      "A/B Group": "",
+                      "Full Pack TV Promo Request": false,
+                      "Date Team Finish": {
+                        "id": "%5B%5E%3AX",
+                        "type": "date",
+                        "date": null
+                      },
+                      "IPM STATIC": {
+                        "id": "%5Bagu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_key": "",
+                      "Groups": [],
+                      "D1RET": {
+                        "id": "%5D%3DAl",
+                        "type": "number",
+                        "number": null
+                      },
+                      "[Fullscreen Banner]": null,
+                      "CR_SUB_US": {
+                        "id": "%5Dz%7CJ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7BAN": {
+                        "id": "%5E%3A%3F%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "MONETIZATION": "",
+                      "D3BAN": {
+                        "id": "%5EQH%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full game name": "",
+                      "Firebase PLIST": [],
+                      "Are all prop filled": {
+                        "id": "_%5D%5E%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ GD\n⚠️ Developer\n⚠️ Platform\n⚠️ Paid/Free\n⚠️ Ref Link\n⚠️ Git Link\n⚠️ Slack channel\n⚠️ Date to QA"
+                        }
+                      },
+                      "D1REW": {
+                        "id": "_bnb",
+                        "type": "number",
+                        "number": null
+                      },
+                      "ASO Name & Descripton Request": false,
+                      "Build changes are marked in the task": false,
+                      "Unity version": "",
+                      "Promo status info": "",
+                      "Average FPS": {
+                        "id": "a%3Fdf",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Autobuild_buildNumber": "",
+                      "Polishing": "",
+                      "ExtraComments": "",
+                      "Full Pack Promo Request": false,
+                      "Art Subs Links": "",
+                      "Sprint": {
+                        "id": "afeU",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Documentation link": "",
+                      "Clone From": "",
+                      "D7RET": {
+                        "id": "bE%7C%3A",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Test - Button No Validation": null,
+                      "Release Type": "",
+                      "GDD is updated for the current game version": false,
+                      "Link to ASO": {
+                        "id": "d%3BwX",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Create Paid Banner": null,
+                      "Prod Promo Approve": "",
+                      "RW Key": "",
+                      "What's new": "",
+                      "100% Release Date": {
+                        "id": "e%5Ec%7C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Api key": "",
+                      "[Static Banner]": null,
+                      "Public key": [],
+                      "Quarter": "",
+                      "Create AF & Vaveda Pages": null,
+                      "LTV_180_WW": {
+                        "id": "gCUp",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Crit Bugs": "",
+                      "IPM(CP)": {
+                        "id": "hQ%5C%5B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Refund Rate": {
+                        "id": "h%5Cxv",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Keywords": "",
+                      "IOS Distribution profile": [],
+                      "Status 1": {
+                        "id": "ihRL",
+                        "type": "status",
+                        "status": {
+                          "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Logotype Banner Promo Request": false,
+                      "Slack Channel Link": "",
+                      "CTR": {
+                        "id": "jqbZ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full Pack GP": {
+                        "id": "k%60op",
+                        "type": "url",
+                        "url": null
+                      },
+                      "D3PTM": {
+                        "id": "kamA",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7REW": {
+                        "id": "kuEV",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_secret": "",
+                      "ViraToolKit version": "",
+                      "Priority": "",
+                      "App ID(iOS)": "",
+                      "Int&Port Epics": [],
+                      "ToolKitSettings": [],
+                      "Link to store": "https://www.amazon.com/dp/B0FV3GXZJY",
+                      "QA checking": "",
+                      "Date Release": {
+                        "id": "nTQx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3RET": {
+                        "id": "n%5CF~",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Cross-Promo AMZ": [],
+                      "Paid\\Free": "",
+                      "AMZ AppStore": null,
+                      "RESULTS": "",
+                      "AF Key": "",
+                      "Goals": "",
+                      "Firebase JSON": [],
+                      "QA": "",
+                      "Hypothesys": [],
+                      "AMZ appId": "",
+                      "Opt-In": {
+                        "id": "p_Ic",
+                        "type": "number",
+                        "number": null
+                      },
+                      "New Tasks & Requests": [],
+                      "Last edited by": {
+                        "id": "qUWF",
+                        "type": "last_edited_by",
+                        "last_edited_by": {
+                          "object": "user",
+                          "id": "123d872b-594c-81ee-b257-0002268a7d53",
+                          "name": "Andriy Vashchenko",
+                          "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/3eefd71b-f7fc-4b13-b1d6-ad598e2addf2/photo_2024-10-21_17-28-38.jpg",
+                          "type": "person",
+                          "person": {
+                            "email": "andriy.vashchenko@vira.games"
+                          }
+                        }
+                      },
+                      "Account": {
+                        "id": "qhXd",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Date to QA": {
+                        "id": "q%7D%3F%5C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Sub-team": "",
+                      "Date Team Start": {
+                        "id": "rKeG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Created by": {
+                        "id": "r%5BBI",
+                        "type": "created_by",
+                        "created_by": {
+                          "object": "user",
+                          "id": "17a07c74-6798-487a-bad8-17440bc4542a",
+                          "name": "workspace admin",
+                          "avatar_url": null,
+                          "type": "person",
+                          "person": {
+                            "email": "adminservices@vira.games"
+                          }
+                        }
+                      },
+                      "Tech Project Doc": "",
+                      "Sub-subscription 1": {
+                        "id": "sCtp",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Automated Team": {
+                        "id": "sDNL",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "If release is not required:  Need Release checkbox is unchecked": false,
+                      "UI": "",
+                      "Test - Button Validation": null,
+                      "Admob Key": "",
+                      "Firebase Link": {
+                        "id": "upQD",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Monetization": [],
+                      "Cross Promo Video status": "",
+                      "CPI (Mint) Test Dates": {
+                        "id": "v%5Bi%60",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Date Art Start": {
+                        "id": "v%5D~D",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Last Status Change": {
+                        "id": "wQFr",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D1PTM": {
+                        "id": "wgp%7B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Link to Promo": "",
+                      "[Creatives] Tasks": [],
+                      "ipm TEST": {
+                        "id": "xWSH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Art Assets Link": {
+                        "id": "x%5C%3DY",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Total installs": {
+                        "id": "x%5DWz",
+                        "type": "number",
+                        "number": null
+                      },
+                      "LTV_180_US ": {
+                        "id": "xfen",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sub-s Database": [],
+                      "Amz Console: On Auto support": false,
+                      "Create QA Task": false,
+                      "Create UA Tasks": null,
+                      "3D Artist": {
+                        "id": "zHXV",
+                        "type": "people",
+                        "people": []
+                      },
+                      " GA Secret Key": "",
+                      "Task Tracker Link": {
+                        "id": "%7BIp%3F",
+                        "type": "url",
+                        "url": null
+                      },
+                      "D3INT": {
+                        "id": "%7BL%5C%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Percent of Release": {
+                        "id": "%7BRbl",
+                        "type": "number",
+                        "number": null
+                      },
+                      "AppMagic Info": [],
+                      "StartUp Time": {
+                        "id": "%7BZ_P",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D1BAN": {
+                        "id": "%7BeFD",
+                        "type": "number",
+                        "number": null
+                      },
+                      "IPM (CP) Test Dates": {
+                        "id": "%7Be%5E%3E",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Platform": "",
+                      "temp_tk_version_link": {
+                        "id": "%7CeXN",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "Open ImportPackageWindow.cs"
+                        }
+                      },
+                      "Screenshot Promo Request": false,
+                      "Sub-item": [
+                        "1c99748b-c8c2-80e4-bf31-d25e6290cd9d",
+                        "1d89748b-c8c2-80bf-a267-c269e8e35448",
+                        "20d9748b-c8c2-80c0-b0f7-eae3960ac659",
+                        "2109748b-c8c2-807d-b39e-d724bd8274a3",
+                        "2119748b-c8c2-808c-9f8c-e49072f97dd4",
+                        "2239748b-c8c2-80c7-b1aa-db80961c41f8",
+                        "2309748b-c8c2-80ae-9474-fa93e0b3fd9d",
+                        "2379748b-c8c2-802b-8fec-f63940b0e767",
+                        "2459748b-c8c2-803d-999e-db007f3f3f15",
+                        "2549748b-c8c2-8085-99b2-d87af4f0d631",
+                        "2699748b-c8c2-8087-b2e4-ee168d4699cf",
+                        "26c9748b-c8c2-807e-adb1-f3582fc87b87",
+                        "2819748b-c8c2-80b6-88dd-e294a07d7186",
+                        "28c9748b-c8c2-8004-a73b-db2d22519746",
+                        "2969748b-c8c2-80a2-a5da-fef1847be2bb",
+                        "2a09748b-c8c2-808d-baaf-cedf4503032a",
+                        "2a99748b-c8c2-8035-bc2f-c28b5ce9a098",
+                        "2bd9748b-c8c2-80d9-b35d-c2eb0f739256",
+                        "2fb9748b-c8c2-810d-a95d-e8f10540c037",
+                        "2fb9748b-c8c2-8177-9963-d87f7512628d",
+                        "2fb9748b-c8c2-8150-adca-d04c91f48063",
+                        "2fb9748b-c8c2-817a-b93f-eb5839863228",
+                        "2fd9748b-c8c2-80b6-b9e6-c3968b71a9d1",
+                        "2fd9748b-c8c2-808f-a44c-e2c4b5fd76d7",
+                        "2fd9748b-c8c2-8171-a25f-e695b563fd40"
+                      ],
+                      "Date Art Finish Test": {
+                        "id": "%7Dwfx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "GIT LINK": "",
+                      "D7PTM": {
+                        "id": "~%3F%3B%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Parent Project": [],
+                      "Days in Dev -> QA": {
+                        "id": "~FLK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "BALANCE": "",
+                      "Description for QA": "",
+                      "Prod Approved": false,
+                      "Static Banner Promo Request": false,
+                      "IPM": {
+                        "id": "~oXr",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sent To QA": {
+                        "id": "~sjG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Promo info checking": {
+                        "id": "~wLr",
+                        "type": "formula",
+                        "formula": {
+                          "type": "boolean",
+                          "boolean": false
+                        }
+                      },
+                      "Project": "Hole Arsenal: Boss Battle",
+                      "Description": "",
+                      "SubscriptionRevenueEvent": false,
+                      "AMZ Metrics Date & Comment": "",
+                      "GD 2": {
+                        "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Amz StartUp Time": {
+                        "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Status 2": "",
+                      "Days": {
+                        "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Asana Link": {
+                        "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Need a new Video?": false
+                    },
+                    "created_time": "2024-12-01T11:02:00.000Z",
+                    "last_edited_time": "2026-02-05T12:40:00.000Z",
+                    "url": "https://app.notion.com/p/Hole-Arsenal-Boss-Battle-14f9748bc8c280cab236d763e5f353f3"
+                  }
+                }
+              },
+              "48_mavic_lab_Kyanite": {
+                "id": "3099748b-c8c2-809d-aae1-f3626a12d537",
+                "title": "48 mavic lab Kyanite",
+                "properties": {
+                  "BuildHistory": [
+                    "3099748b-c8c2-8141-b525-eaad2c196888"
+                  ],
+                  "Create Empty Pages": null,
+                  "💼 All Projects": [
+                    "2a09748b-c8c2-808e-a9fc-e7690efb13f1",
+                    "2a09748b-c8c2-80d5-b12e-e92f7633a1d0",
+                    "2a09748b-c8c2-8045-9b7c-ec40aba42b84",
+                    "2a09748b-c8c2-8034-9096-f038f6d14302",
+                    "2a09748b-c8c2-8034-a381-fbdcb0ffe69e",
+                    "2a09748b-c8c2-8029-a1f8-e19e24c56556",
+                    "2a09748b-c8c2-8058-845a-f1c0f787b17c",
+                    "2a09748b-c8c2-80fd-86e5-f1dd1e0f9829",
+                    "2a09748b-c8c2-809b-a19b-d9f5d3eb2bd8",
+                    "2a09748b-c8c2-80ff-8a2f-d1ea0fd00dd2",
+                    "2a09748b-c8c2-80e3-9fbc-ef0e480675f9",
+                    "2a09748b-c8c2-8086-8815-c7ed946e4b31",
+                    "2a09748b-c8c2-80c8-b024-d8d0d6d41962",
+                    "2a09748b-c8c2-804e-8dff-da98f8b4ebde",
+                    "2a09748b-c8c2-808d-baaf-cedf4503032a",
+                    "2a09748b-c8c2-8042-bba7-d97b80b71393",
+                    "2a09748b-c8c2-80db-ab87-e655880b4258",
+                    "2a09748b-c8c2-8087-b4bc-efbc2634646b",
+                    "2a09748b-c8c2-8011-b6fb-d0207a70587a",
+                    "2a09748b-c8c2-80bf-8330-e9b089c07f81",
+                    "2a09748b-c8c2-80f8-ae98-dd135339b520",
+                    "2a09748b-c8c2-80c4-9a38-c3debeca4555",
+                    "2a09748b-c8c2-8001-a8de-f2d705f7c645",
+                    "2a09748b-c8c2-80a6-beaa-d5b602a95caa",
+                    "2a09748b-c8c2-807f-80ad-e2775fbd9748"
+                  ],
+                  "ShortRun": null,
+                  "ProjectsWithEmptyCloneFromNames": {
+                    "id": "%5CVd%3D",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "vltncnz - Evolution Run: Crowd Command"
+                    }
+                  },
+                  "RunMsg": "",
+                  "Tag": "{\"Mavic Lab\":\"Kyanite\"}",
+                  "IsAutoMode": false,
+                  "IsTagEnabled": true,
+                  "Projects Clone From Rollup": "twrnnjz",
+                  "IsUseOriginalName": false,
+                  "GroupsSettings": [],
+                  "GenerateTags": null,
+                  "ProjectsWithEmptyCloneFromCount": {
+                    "id": "%7D%3Fvy",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 1
+                    }
+                  },
+                  "Name": "48 mavic lab Kyanite"
+                },
+                "created_time": "2026-02-16T12:59:00.000Z",
+                "last_edited_time": "2026-06-23T14:50:00.000Z",
+                "url": "https://app.notion.com/p/48-mavic-lab-Kyanite-3099748bc8c2809daae1f3626a12d537"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
