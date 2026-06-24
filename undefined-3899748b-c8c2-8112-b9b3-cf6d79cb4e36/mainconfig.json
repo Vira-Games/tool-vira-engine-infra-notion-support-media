@@ -23,7 +23,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "https://drive.google.com/drive/folders/1Pw9hWp2i7IjEJ0WT_EEhOVuR2JjKhbbW"
             }
           },
           "(List)BundleId": "com.grvtycr.mvng.and",
@@ -40,7 +40,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "0.84"
+              "string": "1.0.0"
             }
           },
           "Subscription Settings": [
@@ -55,7 +55,7 @@
             "4449748b-c8c2-8304-9c9e-8133a473859a"
           ],
           "RefreshConfig": null,
-          "(List)Version": "0.84",
+          "(List)Version": "1.0.0",
           "MaxParentBundleVersion": {
             "id": "fVoO",
             "type": "formula",
@@ -65,11 +65,11 @@
             }
           },
           "ProjectKey": "3899748b-c8c2-8112-b9b3-cf6d79cb4e36",
-          "(List)LinkToPromo": "",
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1Pw9hWp2i7IjEJ0WT_EEhOVuR2JjKhbbW",
           "Name": "Moving and Fine Shooting"
         },
         "created_time": "2026-06-24T09:14:00.000Z",
-        "last_edited_time": "2026-06-24T09:14:00.000Z",
+        "last_edited_time": "2026-06-24T09:41:00.000Z",
         "url": "https://app.notion.com/p/Moving-and-Fine-Shooting-3899748bc8c28112b9b3cf6d79cb4e36",
         "children": {
           "Moving_and_Fine_Shooting_ProductCatalog": {
@@ -117,7 +117,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1Pw9hWp2i7IjEJ0WT_EEhOVuR2JjKhbbW"
                 }
               },
               "BundleVersionRollup": {
@@ -155,7 +155,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "0.84"
+                  "string": "1.0.0"
                 }
               },
               "Vaveda_key": "mvshtnz",
@@ -164,14 +164,14 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1Pw9hWp2i7IjEJ0WT_EEhOVuR2JjKhbbW"
                 }
               },
               "VersionRollup": {
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "0.84"
+                  "string": "1.0.0"
                 }
               },
               "Parent": [
@@ -221,10 +221,10 @@
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "",
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1Pw9hWp2i7IjEJ0WT_EEhOVuR2JjKhbbW",
                   "ProductName": "Moving and Fine Shooting",
                   "BundleIdentifier": "com.grvtycr.mvng.and",
-                  "Version": "0.84",
+                  "Version": "1.0.0",
                   "BundleVersionCode": 3,
                   "CompanyName": "GravityCore"
                 },
@@ -375,7 +375,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Promo Link\n⚠️ Full Game name"
+                  "string": "⚠️ Full Game name"
                 }
               },
               "CPI": {
@@ -405,7 +405,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-24T09:38:00.000Z"
+                "last_edited_time": "2026-06-24T14:36:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -573,7 +573,7 @@
                 "type": "url",
                 "url": null
               },
-              "Version": "0.84",
+              "Version": "1.0.0",
               "Show": {
                 "id": "RfDI",
                 "type": "number",
@@ -665,7 +665,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Full game name\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Quarter"
+                  "string": "⚠️ Full game name\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Quarter"
                 }
               },
               "[Screenshots]": null,
@@ -954,7 +954,7 @@
                 "type": "number",
                 "number": null
               },
-              "Link to Promo": "",
+              "Link to Promo": "https://drive.google.com/drive/folders/1Pw9hWp2i7IjEJ0WT_EEhOVuR2JjKhbbW",
               "[Creatives] Tasks": [],
               "ipm TEST": {
                 "id": "xWSH",
@@ -1100,7 +1100,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-23T13:15:00.000Z",
-            "last_edited_time": "2026-06-24T09:38:00.000Z",
+            "last_edited_time": "2026-06-24T14:36:00.000Z",
             "url": "https://app.notion.com/p/mvshtnz-Moving-and-Fine-Shooting-4449748bc8c283049c9e8133a473859a",
             "children": {
               "Page_13c9748b-c8c2-81c2-aff0-c9ca12b107a1": {
