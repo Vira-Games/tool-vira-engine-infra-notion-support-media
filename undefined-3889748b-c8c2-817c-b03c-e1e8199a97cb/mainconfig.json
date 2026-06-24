@@ -69,7 +69,7 @@
           "Name": "Bullet Commander"
         },
         "created_time": "2026-06-23T15:13:00.000Z",
-        "last_edited_time": "2026-06-23T15:13:00.000Z",
+        "last_edited_time": "2026-06-23T15:15:00.000Z",
         "url": "https://app.notion.com/p/Bullet-Commander-3889748bc8c2817cb03ce1e8199a97cb",
         "children": {
           "Bullet_Commander_ProductCatalog": {
@@ -199,7 +199,7 @@
                 "multi_select": [
                   {
                     "id": "fnka",
-                    "name": "HeroForgge Games",
+                    "name": "HeroForge Games",
                     "color": "orange"
                   }
                 ]
@@ -226,7 +226,7 @@
                   "BundleIdentifier": "com.mvl.blt.cmd",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
-                  "CompanyName": "HeroForgge Games"
+                  "CompanyName": "HeroForge Games"
                 },
                 "SDKSettings": {
                   "Keys": [
@@ -304,7 +304,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 44
+                  "number": 47
                 }
               },
               "Are all prop. filled? ": {
@@ -664,7 +664,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 36
+                  "number": 39
                 }
               },
               "parent": "Bazooka Boy",
