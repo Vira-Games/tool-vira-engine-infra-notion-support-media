@@ -23,7 +23,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "https://drive.google.com/drive/folders/1O2n1LHslJh9EZtcrAvXIo3CrLz5ZANP1?usp=drive_link"
             }
           },
           "(List)BundleId": "com.frflw.jt.man",
@@ -65,11 +65,11 @@
             }
           },
           "ProjectKey": "3889748b-c8c2-81f2-90af-e6c46e0a471a",
-          "(List)LinkToPromo": "",
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1O2n1LHslJh9EZtcrAvXIo3CrLz5ZANP1?usp=drive_link",
           "Name": "jtman - Jet Man"
         },
         "created_time": "2026-06-23T12:47:00.000Z",
-        "last_edited_time": "2026-06-24T10:25:00.000Z",
+        "last_edited_time": "2026-06-24T10:26:00.000Z",
         "url": "https://app.notion.com/p/jtman-Jet-Man-3889748bc8c281f290afe6c46e0a471a",
         "children": {
           "jtman_-_Jet_Man_ProductCatalog": {
@@ -117,7 +117,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1O2n1LHslJh9EZtcrAvXIo3CrLz5ZANP1?usp=drive_link"
                 }
               },
               "BundleVersionRollup": {
@@ -164,7 +164,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1O2n1LHslJh9EZtcrAvXIo3CrLz5ZANP1?usp=drive_link"
                 }
               },
               "VersionRollup": {
@@ -221,7 +221,7 @@
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "",
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1O2n1LHslJh9EZtcrAvXIo3CrLz5ZANP1?usp=drive_link",
                   "ProductName": "Jet Man",
                   "BundleIdentifier": "com.frflw.jt.man",
                   "Version": "1.0.0",
@@ -375,7 +375,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Promo Link\n⚠️ Full Game name"
+                  "string": "⚠️ Full Game name"
                 }
               },
               "CPI": {
@@ -405,7 +405,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-24T10:23:00.000Z"
+                "last_edited_time": "2026-06-25T09:38:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -421,7 +421,7 @@
               "Price": {
                 "id": "EUeu",
                 "type": "number",
-                "number": null
+                "number": 9.99
               },
               "Project Score Analysys": "",
               "[Promo] Tasks ": [],
@@ -665,7 +665,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Full game name\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Quarter"
+                  "string": "⚠️ Full game name\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Quarter"
                 }
               },
               "[Screenshots]": null,
@@ -863,11 +863,13 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
-                  "name": "Vira Games Bot",
-                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
-                  "type": "bot",
-                  "bot": {}
+                  "id": "21cd872b-594c-81a8-8390-0002210a34c5",
+                  "name": "Ivan Pavliv",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "ivan.pavliv@vira.games"
+                  }
                 }
               },
               "Account": {
@@ -952,7 +954,7 @@
                 "type": "number",
                 "number": null
               },
-              "Link to Promo": "",
+              "Link to Promo": "https://drive.google.com/drive/folders/1O2n1LHslJh9EZtcrAvXIo3CrLz5ZANP1?usp=drive_link",
               "[Creatives] Tasks": [],
               "ipm TEST": {
                 "id": "xWSH",
@@ -1098,7 +1100,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-22T22:58:00.000Z",
-            "last_edited_time": "2026-06-24T10:23:00.000Z",
+            "last_edited_time": "2026-06-25T09:38:00.000Z",
             "url": "https://app.notion.com/p/jetmanz-Jet-Man-3879748bc8c280ab9034c61f491f22e7",
             "children": {
               "Page_13c9748b-c8c2-81b7-baa3-f19d5bc30c8b": {
