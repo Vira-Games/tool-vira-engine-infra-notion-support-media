@@ -3,9 +3,9 @@
   "notionToken": "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",
   "configData": {
     "pages": {
-      "jtman_-_Jet_Man": {
+      "jtman_-_Sky_Dash___Jet_Escape": {
         "id": "3889748b-c8c2-81f2-90af-e6c46e0a471a",
-        "title": "jtman - Jet Man",
+        "title": "jtman - Sky Dash : Jet Escape",
         "properties": {
           "ProductCatalog": [
             "3889748b-c8c2-8143-9aca-cf773edf5367"
@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "jetmanz - Jet Man"
+              "string": "jetmanz - Sky Dash : Jet Escape"
             }
           },
           "MaxParentLinkToPromo": {
@@ -66,11 +66,11 @@
           },
           "ProjectKey": "3889748b-c8c2-81f2-90af-e6c46e0a471a",
           "(List)LinkToPromo": "https://drive.google.com/drive/folders/1O2n1LHslJh9EZtcrAvXIo3CrLz5ZANP1?usp=drive_link",
-          "Name": "jtman - Jet Man"
+          "Name": "jtman - Sky Dash : Jet Escape"
         },
         "created_time": "2026-06-23T12:47:00.000Z",
-        "last_edited_time": "2026-06-24T10:26:00.000Z",
-        "url": "https://app.notion.com/p/jtman-Jet-Man-3889748bc8c281f290afe6c46e0a471a",
+        "last_edited_time": "2026-06-26T12:43:00.000Z",
+        "url": "https://app.notion.com/p/jtman-Sky-Dash-Jet-Escape-3889748bc8c281f290afe6c46e0a471a",
         "children": {
           "jtman_-_Jet_Man_ProductCatalog": {
             "id": "3889748b-c8c2-8143-9aca-cf773edf5367",
@@ -109,9 +109,9 @@
             "last_edited_time": "2026-06-23T12:47:00.000Z",
             "url": "https://app.notion.com/p/jtman-Jet-Man-SubDataCatalog-3889748bc8c281f9835ae3ac68299fd7"
           },
-          "jtman_-_Jet_Man_MainData": {
+          "jtman_-_Sky_Dash___Jet_Escape_MainData": {
             "id": "3889748b-c8c2-81b1-83ce-d07c48fc6750",
-            "title": "jtman - Jet Man MainData",
+            "title": "jtman - Sky Dash : Jet Escape MainData",
             "properties": {
               "LinkToPromoRollup": {
                 "type": "formula",
@@ -149,7 +149,7 @@
                   }
                 ]
               },
-              "App Name": "Jet Man",
+              "App Name": "Sky Dash : Jet Escape",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
@@ -213,16 +213,16 @@
                 }
               },
               "Vaveda_secret": "N1ukDk1ZTmTpAWvLossJRc2j8iUs2YHh",
-              "Name": "jtman - Jet Man MainData"
+              "Name": "jtman - Sky Dash : Jet Escape MainData"
             },
             "created_time": "2026-06-23T12:47:00.000Z",
-            "last_edited_time": "2026-06-24T10:26:00.000Z",
-            "url": "https://app.notion.com/p/jtman-Jet-Man-MainData-3889748bc8c281b183ced07c48fc6750",
+            "last_edited_time": "2026-06-26T12:43:00.000Z",
+            "url": "https://app.notion.com/p/jtman-Sky-Dash-Jet-Escape-MainData-3889748bc8c281b183ced07c48fc6750",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/folders/1O2n1LHslJh9EZtcrAvXIo3CrLz5ZANP1?usp=drive_link",
-                  "ProductName": "Jet Man",
+                  "ProductName": "Sky Dash : Jet Escape",
                   "BundleIdentifier": "com.frflw.jt.man",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
@@ -281,7 +281,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Full game name\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Date Team Start\n⚠️ Date Team Finish"
+                  "string": ""
                 }
               },
               "New promo link": {
@@ -317,7 +317,7 @@
                 "type": "url",
                 "url": "https://hq1.appsflyer.com/apps/settings?appId=com.frflw.jt.man-Amazon"
               },
-              "Long Description": "",
+              "Long Description": "Jet Man throws you into fast, side-scrolling arcade action where your jetpack is the only way to survive. Tap to fire up your jet, weave through tight spaces, and blast obstacles out of the air as you race for the highest score.\n\nEach run is a test of timing and reflexes. Hold to fly higher, release to drop, and thread your way between moving hazards, laser traps, and spinning machines. Grab coins, fuel, and power-ups along the way to keep Jet Man airborne and unstoppable.\n\nUse your rewards to upgrade your jetpack, improve speed and control, and unlock new suits and visual effects. Push deeper into challenging zones, from metallic corridors to futuristic labs and secret hangars, each packed with new arcade challenges.\n\nJet Man is perfect for fans of classic arcade games, runner action, and quick, addictive gameplay. Short levels, simple one-touch controls, and endless replay value make it ideal for both casual sessions and long score-chasing runs.\n\nFire up your jetpack, dodge the danger, and see how far you can fly. Download now and become the ultimate Jet Man pilot.",
               "BB SDK Key (Android)": "",
               "Icon Promo Request": false,
               "pLTV 180": {
@@ -359,8 +359,8 @@
                 "id": "Bzh%3A",
                 "type": "formula",
                 "formula": {
-                  "type": "string",
-                  "string": null
+                  "type": "number",
+                  "number": 1
                 }
               },
               "Sum SP": "",
@@ -369,13 +369,13 @@
                 "type": "created_time",
                 "created_time": "2026-06-22T22:58:00.000Z"
               },
-              "All subscriptions for the current build are filled": false,
+              "All subscriptions for the current build are filled": true,
               "Missing info for Promo rebuild": {
                 "id": "CkT%3A",
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Full Game name"
+                  "string": ""
                 }
               },
               "CPI": {
@@ -392,9 +392,9 @@
                 "id": "DYYJ",
                 "type": "status",
                 "status": {
-                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
-                  "name": "BACKLOG",
-                  "color": "gray"
+                  "id": "ZknJ",
+                  "name": "WAITING RELEASE",
+                  "color": "blue"
                 }
               },
               "Date Development Status Set": {
@@ -405,7 +405,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-25T09:38:00.000Z"
+                "last_edited_time": "2026-06-26T12:42:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -431,7 +431,7 @@
                 "type": "number",
                 "number": null
               },
-              "Subscription screen changes include links to actual references (expected UI)": false,
+              "Subscription screen changes include links to actual references (expected UI)": true,
               "GD": {
                 "id": "FHAP",
                 "type": "people",
@@ -459,12 +459,15 @@
                 "type": "url",
                 "url": null
               },
-              "QA Task File": "",
+              "QA Task File": {
+                "type": "files",
+                "files": []
+              },
               "Task from Growth": [],
               "ASO Name & Description": null,
               "External\\internal": "",
               "⏺️ ASO | Calendar": [],
-              "Product Features": "",
+              "Product Features": "🚀 One-Touch Jetpack Flight — Tap to fly, release to dive, and master precise arcade control\n💥 Dodge & Destroy — Weave through traps and blast obstacles in fast side-scrolling runs\n🪙 Collect & Upgrade — Earn coins to boost your jetpack power, speed, and handling\n🎨 Unlock New Suits — Open stylish Jet Man outfits and trail effects as you progress\n🌌 Varied Zones — Fly through labs, hangars, and corridors packed with unique hazards\n🎯 Endless Challenges — Chase high scores with increasing difficulty and tighter gaps",
               "Promo Task ": [],
               "Monetization DB": [],
               "Banner Key": "",
@@ -473,7 +476,7 @@
                 "type": "date",
                 "date": null
               },
-              "Short Description": "",
+              "Short Description": "Blast and dodge with your jetpack",
               "Creo Status": "",
               "Amz Int & Port Tasks Template": null,
               "Tools": {
@@ -492,7 +495,7 @@
                   "string": null
                 }
               },
-              "AMZ releaseId": "",
+              "AMZ releaseId": "amzn1.devportal.apprelease.82229a17de9e45d59f1e219656667fe9",
               "[Logotype]": null,
               "CR Subs, %": {
                 "id": "KKZH",
@@ -509,7 +512,7 @@
                 "type": "number",
                 "number": null
               },
-              "Each config has its own separate description": false,
+              "Each config has its own separate description": true,
               "CR Total, %": {
                 "id": "MguI",
                 "type": "number",
@@ -526,7 +529,7 @@
                 "type": "number",
                 "number": null
               },
-              "Automation Info (AppStore)": "",
+              "Automation Info (AppStore)": "✅ AMZ page created",
               "Previous Status": {
                 "id": "NSz%7D",
                 "type": "status",
@@ -547,7 +550,7 @@
                 "multi_select": []
               },
               "Create Task (No Check)": null,
-              "Developer AMZ AppStore Link": "",
+              "Developer AMZ AppStore Link": "https://developer.amazon.com/apps-and-games/console/app/amzn1.devportal.mobileapp.917c8b7c50b646959fca88e38081260b/release/amzn1.devportal.apprelease.82229a17de9e45d59f1e219656667fe9/submission/app-files",
               "pLTV 7": {
                 "id": "OPM%5C",
                 "type": "number",
@@ -558,14 +561,14 @@
               "Team ": "AMZ Direction",
               "Ref Link": "",
               "Build Paid Icon": null,
-              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
               "Create Paid Icon": null,
               "ByteBrew Link": {
                 "id": "QD%3Cd",
                 "type": "url",
                 "url": null
               },
-              "Outdated / unused elements are removed from GDD": false,
+              "Outdated / unused elements are removed from GDD": true,
               "Applovin Key": "",
               "Full Pack  Fire TV ": null,
               "iPad Screens": {
@@ -579,7 +582,9 @@
                 "type": "number",
                 "number": null
               },
-              "QA | Tasks": [],
+              "QA | Tasks": [
+                "38a9748b-c8c2-81d4-9e8d-c5727f0a03e4"
+              ],
               "Fullsreen Banner Promo Request": false,
               "📽️ Creatives Team Tasks": [],
               "Bright SDK Review Status": {
@@ -614,7 +619,7 @@
                 }
               },
               "BB SDK Key (iOS)": "",
-              "Feature description matches the latest implementation": false,
+              "Feature description matches the latest implementation": true,
               "Create New \"QA Task\"": null,
               "Status  Promo": {
                 "id": "TWT%3A",
@@ -655,9 +660,13 @@
               "Date QA Finished": {
                 "id": "X%5Cma",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-06-26T11:50:00.000+03:00",
+                  "end": null,
+                  "time_zone": null
+                }
               },
-              "Task Create Info": "",
+              "Task Create Info": "✅ QA Task - Successfully Created!",
               "GDD Doc": "",
               "Full Pack Amz": null,
               "Missing Info for QA Task": {
@@ -665,7 +674,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Full game name\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Quarter"
+                  "string": ""
                 }
               },
               "[Screenshots]": null,
@@ -679,7 +688,11 @@
               "Date Team Finish": {
                 "id": "%5B%5E%3AX",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-06-25",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "IPM STATIC": {
                 "id": "%5Bagu",
@@ -710,14 +723,14 @@
                 "type": "number",
                 "number": null
               },
-              "Full game name": "",
+              "Full game name": "Jet Man",
               "Firebase PLIST": [],
               "Are all prop filled": {
                 "id": "_%5D%5E%3A",
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Ref Link\n⚠️ Slack channel\n⚠️ Date to QA"
+                  "string": "⚠️ Ref Link\n⚠️ Date to QA"
                 }
               },
               "D1REW": {
@@ -726,7 +739,7 @@
                 "number": null
               },
               "ASO Name & Descripton Request": false,
-              "Build changes are marked in the task": false,
+              "Build changes are marked in the task": true,
               "Unity version": "",
               "Promo status info": "",
               "Average FPS": {
@@ -744,7 +757,7 @@
                 "type": "multi_select",
                 "multi_select": []
               },
-              "Documentation link": "",
+              "Documentation link": "-",
               "Clone From": "",
               "D7RET": {
                 "id": "bE%7C%3A",
@@ -752,8 +765,8 @@
                 "number": null
               },
               "Test - Button No Validation": null,
-              "Release Type": "",
-              "GDD is updated for the current game version": false,
+              "Release Type": "First Release",
+              "GDD is updated for the current game version": true,
               "Link to ASO": {
                 "id": "d%3BwX",
                 "type": "url",
@@ -762,7 +775,7 @@
               "Create Paid Banner": null,
               "Prod Promo Approve": "",
               "RW Key": "",
-              "What's new": "",
+              "What's new": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)\n\n",
               "100% Release Date": {
                 "id": "e%5Ec%7C",
                 "type": "date",
@@ -771,7 +784,7 @@
               "Api key": "",
               "[Static Banner]": null,
               "Public key": [],
-              "Quarter": "",
+              "Quarter": "Q2_26",
               "Create AF & Vaveda Pages": null,
               "LTV_180_WW": {
                 "id": "gCUp",
@@ -789,7 +802,7 @@
                 "type": "number",
                 "number": null
               },
-              "Keywords": "",
+              "Keywords": "arcade, runner, jetpack, flying, action, offline, casual, dodge, upgrade, endless",
               "IOS Distribution profile": [],
               "Status 1": {
                 "id": "ihRL",
@@ -801,7 +814,7 @@
                 }
               },
               "Logotype Banner Promo Request": false,
-              "Slack Channel Link": "",
+              "Slack Channel Link": "-",
               "CTR": {
                 "id": "jqbZ",
                 "type": "number",
@@ -823,7 +836,7 @@
                 "number": null
               },
               "Vaveda_secret": "N1ukDk1ZTmTpAWvLossJRc2j8iUs2YHh",
-              "ViraToolKit version": "",
+              "ViraToolKit version": "2.0.1",
               "Priority": "",
               "App ID(iOS)": "",
               "Int&Port Epics": [],
@@ -849,9 +862,17 @@
               "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Goals": "",
               "Firebase JSON": [],
-              "QA": "",
+              "QA": {
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "11bd872b-594c-810b-9d0b-0002551851a9"
+                  }
+                ]
+              },
               "Hypothesys": [],
-              "AMZ appId": "",
+              "AMZ appId": "amzn1.devportal.mobileapp.917c8b7c50b646959fca88e38081260b",
               "Opt-In": {
                 "id": "p_Ic",
                 "type": "number",
@@ -863,12 +884,12 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "21cd872b-594c-81a8-8390-0002210a34c5",
-                  "name": "Ivan Pavliv",
-                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
+                  "id": "918fdaf5-ccd0-4ba4-9dd7-100e8f690d84",
+                  "name": "Oleksandr Tokar",
+                  "avatar_url": null,
                   "type": "person",
                   "person": {
-                    "email": "ivan.pavliv@vira.games"
+                    "email": "oleksandr.tokar@vira.games"
                   }
                 }
               },
@@ -892,7 +913,11 @@
               "Date Team Start": {
                 "id": "rKeG",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-06-24",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "Created by": {
                 "id": "r%5BBI",
@@ -944,7 +969,7 @@
                 "id": "wQFr",
                 "type": "date",
                 "date": {
-                  "start": "2026-06-23",
+                  "start": "2026-06-26",
                   "end": null,
                   "time_zone": null
                 }
@@ -999,7 +1024,7 @@
               "Percent of Release": {
                 "id": "%7BRbl",
                 "type": "number",
-                "number": null
+                "number": 100
               },
               "AppMagic Info": [],
               "StartUp Time": {
@@ -1051,7 +1076,7 @@
                 }
               },
               "BALANCE": "",
-              "Description for QA": "",
+              "Description for QA": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)\n\n",
               "Prod Approved": false,
               "Static Banner Promo Request": false,
               "IPM": {
@@ -1062,7 +1087,11 @@
               "Sent To QA": {
                 "id": "~sjG",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-06-25",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "Promo info checking": {
                 "id": "~wLr",
@@ -1072,7 +1101,7 @@
                   "boolean": false
                 }
               },
-              "Project": "jetmanz - Jet Man",
+              "Project": "jetmanz - Sky Dash : Jet Escape",
               "Description": "",
               "SubscriptionRevenueEvent": false,
               "AMZ Metrics Date & Comment": "",
@@ -1100,845 +1129,1336 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-22T22:58:00.000Z",
-            "last_edited_time": "2026-06-25T09:38:00.000Z",
-            "url": "https://app.notion.com/p/jetmanz-Jet-Man-3879748bc8c280ab9034c61f491f22e7",
+            "last_edited_time": "2026-06-26T12:42:00.000Z",
+            "url": "https://app.notion.com/p/jetmanz-Sky-Dash-Jet-Escape-3879748bc8c280ab9034c61f491f22e7",
             "children": {
-              "Page_13c9748b-c8c2-81b7-baa3-f19d5bc30c8b": {
-                "id": "13c9748b-c8c2-81b7-baa3-f19d5bc30c8b",
-                "title": "Page 13c9748b-c8c2-81b7-baa3-f19d5bc30c8b",
+              "Sky_Dash___Jet_Escape__AMZ_-_Paid_": {
+                "id": "38a9748b-c8c2-81d4-9e8d-c5727f0a03e4",
+                "title": "Sky Dash : Jet Escape [AMZ - Paid]",
                 "properties": {
-                  "CR_SUB_WW": {
-                    "id": "%3A%3Br_",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Create Paid Promo Rebuild ": null,
-                  "Installs US": {
-                    "id": "%3Au%7BN",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Creatives Status": {
-                    "id": "%3B%60E%3C",
-                    "type": "status",
-                    "status": {
-                      "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
-                      "name": "Not started",
-                      "color": "default"
-                    }
-                  },
-                  "[Icon]": null,
-                  "TOP AMZ for Sub Screen Upates": [],
-                  "Ref Name": "",
-                  "ASIN": "",
-                  "Missing Info for Dev(Cross)": {
-                    "id": "%3Cv%60H",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": "⚠️ Full game name\n⚠️ Company(Account)\n⚠️ Store Type\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ GIT Link\n⚠️ AF Link\n⚠️ Developer\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Bundle ID\n⚠️ Team"
-                    }
-                  },
-                  "New promo link": {
-                    "id": "%3DU%3BG",
-                    "type": "url",
-                    "url": null
-                  },
-                  "Date Dev Start": {
-                    "id": "%3D%7B%3Ej",
-                    "type": "date",
-                    "date": null
-                  },
-                  "Clone": null,
-                  "Days in Dev -> Release": {
-                    "id": "%3EkOQ",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": null
-                    }
-                  },
-                  "Are all prop. filled? ": {
-                    "id": "%3Epbv",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": "false"
-                    }
-                  },
-                  "All Projects Info Old": [],
-                  "AF Link": {
-                    "id": "%40G%5E%3A",
-                    "type": "url",
-                    "url": null
-                  },
-                  "Long Description": "",
-                  "BB SDK Key (Android)": "",
-                  "Icon Promo Request": false,
-                  "pLTV 180": {
-                    "id": "%40zGB",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Developer": {
-                    "id": "%40%7Cvk",
-                    "type": "people",
-                    "people": []
-                  },
-                  "PROGRESSION": "",
-                  "🎯 AllPages": [],
-                  "Project Subs Metrics": [],
-                  "Status (Copy)": {
-                    "id": "BVo%40",
-                    "type": "status",
-                    "status": {
-                      "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
-                      "name": "BACKLOG",
-                      "color": "gray"
-                    }
-                  },
-                  "Mintegral Status": "",
-                  "Creo Link": "",
-                  "Days Start-Finish": {
-                    "id": "Bzh%3A",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": null
-                    }
-                  },
-                  "Sum SP": "",
-                  "Created time": {
-                    "id": "B~Qf",
-                    "type": "created_time",
-                    "created_time": "2024-11-12T22:29:00.000Z"
-                  },
-                  "All subscriptions for the current build are filled": false,
-                  "Missing info for Promo rebuild": {
-                    "id": "CkT%3A",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": "⚠️ Promo Link\n⚠️ Full Game name"
-                    }
-                  },
-                  "CPI": {
-                    "id": "Cxr%40",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Teams use": {
-                    "id": "D%40CI",
-                    "type": "multi_select",
-                    "multi_select": []
-                  },
-                  "Status": {
-                    "id": "DYYJ",
-                    "type": "status",
-                    "status": {
-                      "id": "[S{l",
-                      "name": "SHADOW BAN",
-                      "color": "red"
-                    }
-                  },
-                  "Date Development Status Set": {
-                    "id": "D%60fU",
-                    "type": "date",
-                    "date": null
-                  },
-                  "Last edited time": {
-                    "id": "Dj%3Fm",
-                    "type": "last_edited_time",
-                    "last_edited_time": "2026-06-22T22:58:00.000Z"
-                  },
-                  "Project Link": {
-                    "id": "DjJJ",
-                    "type": "url",
-                    "url": null
-                  },
-                  "Date Art Finish": {
-                    "id": "Do%3DG",
-                    "type": "date",
-                    "date": null
-                  },
-                  "Bundle ID": "",
-                  "Price": {
-                    "id": "EUeu",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Project Score Analysys": "",
-                  "[Promo] Tasks ": [],
-                  "TECH": "",
-                  "CTR TEST": {
-                    "id": "Ejyo",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Subscription screen changes include links to actual references (expected UI)": false,
-                  "GD": {
-                    "id": "FHAP",
+                  "Send Bug-report for Review": null,
+                  "QA": {
+                    "id": "%3Akbv",
                     "type": "people",
                     "people": [
                       {
                         "object": "user",
-                        "id": "48d0dbc5-1877-4fb2-a1f4-93611cafc5b5",
-                        "name": "Igor Lemon",
-                        "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJzve9oz7m_9NrGym8vE6z2K9uwD04GGYDDGeE8M=s100",
+                        "id": "11bd872b-594c-810b-9d0b-0002551851a9",
+                        "name": "Alona Ryzhykova",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/e6cf2d02-23ae-454c-883b-91b8266eeb76/photo_2025-02-03_11-33-09.jpg",
                         "type": "person",
                         "person": {
-                          "email": "igorlemon@vira.games"
+                          "email": "alyona.ryzhykova@vira.games"
                         }
                       }
                     ]
                   },
-                  "CONTENT": "",
-                  "Due": {
-                    "id": "FaCd",
+                  "Sent for Review Date": {
+                    "id": "%3B%3Dui",
                     "type": "date",
-                    "date": null
+                    "date": {
+                      "start": "2026-06-26T12:47:00.000+03:00",
+                      "end": null,
+                      "time_zone": null
+                    }
                   },
-                  "Link to Old Promo": {
-                    "id": "FbpI",
+                  "Extra Story Point ": {
+                    "id": "%3Bmt%7D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Previous status": "In store review",
+                  "Get info for iterations": null,
+                  "Release Build Link:": {
+                    "id": "%3FUcg",
+                    "type": "url",
+                    "url": "https://viragames.slack.com/files/U07QUAYUAMD/F0BD83PDDFW/jet_man_amazon_release_v1.0.0_bundle1_new_v.2.aab"
+                  },
+                  "Main Checklist": {
+                    "id": "%40uPu",
                     "type": "url",
                     "url": null
                   },
-                  "QA Task File": "",
-                  "Task from Growth": [],
-                  "ASO Name & Description": null,
-                  "External\\internal": "Internal",
-                  "⏺️ ASO | Calendar": [],
-                  "Product Features": "",
-                  "Promo Task ": [],
-                  "Monetization DB": [],
-                  "Banner Key": "",
-                  "Date Info Updated": {
-                    "id": "HqDO",
-                    "type": "date",
-                    "date": null
-                  },
-                  "Short Description": "",
-                  "Creo Status": "",
-                  "Amz Int & Port Tasks Template": null,
-                  "Tools": {
-                    "id": "IZP%3F",
-                    "type": "multi_select",
-                    "multi_select": []
-                  },
-                  "CreateTKSettings": null,
-                  "Subscription JSON": [],
-                  "GetGitlabInfo": null,
-                  "Days Start-Release": {
-                    "id": "JXlK",
+                  "Test result": [],
+                  "Create-Start Testing days": {
+                    "id": "A%5Bv%5B",
                     "type": "formula",
                     "formula": {
-                      "type": "string",
-                      "string": null
+                      "type": "number",
+                      "number": 0.934
                     }
                   },
-                  "AMZ releaseId": "",
-                  "[Logotype]": null,
-                  "CR Subs, %": {
-                    "id": "KKZH",
+                  "Total Testing Time (hrs)": {
+                    "id": "AaPZ",
                     "type": "number",
                     "number": null
                   },
-                  "Date": {
-                    "id": "LkTZ",
-                    "type": "date",
-                    "date": null
-                  },
-                  "D3REW": {
-                    "id": "M%5E%40L",
+                  "Total Old Bugs": {
+                    "id": "C%60br",
                     "type": "number",
                     "number": null
                   },
-                  "Each config has its own separate description": false,
-                  "CR Total, %": {
-                    "id": "MguI",
+                  "Total \"Major\"": {
+                    "id": "DB%7D%3F",
                     "type": "number",
                     "number": null
                   },
-                  "D7INT": {
-                    "id": "MqkG",
+                  "ViraToolKit version": "2.0.1",
+                  "Priority": "High",
+                  "What's new": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)\n\n",
+                  "All Projects Info": [
+                    "3879748b-c8c2-80ab-9034-c61f491f22e7"
+                  ],
+                  "Link To Promo": "https://drive.google.com/drive/folders/1O2n1LHslJh9EZtcrAvXIo3CrLz5ZANP1?usp=drive_link",
+                  "Created time": {
+                    "id": "Hli%3C",
+                    "type": "created_time",
+                    "created_time": "2026-06-25T09:49:00.000Z"
+                  },
+                  "AF test Screen ": [],
+                  "Missed Crit-bugs in Live": {
+                    "id": "Jm%7B%3B",
                     "type": "number",
                     "number": null
                   },
-                  "PaidConfigGroup": [],
-                  "D1INT": {
-                    "id": "N%3AM%60",
+                  "Documentation link": "-",
+                  "Sub-tasks": [
+                    "38b9748b-c8c2-802b-90ea-c88d06622b87"
+                  ],
+                  "Max it test time (hrs)": {
+                    "id": "M%3AHd",
                     "type": "number",
                     "number": null
                   },
-                  "Automation Info (AppStore)": "",
-                  "Previous Status": {
-                    "id": "NSz%7D",
-                    "type": "status",
-                    "status": {
-                      "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
-                      "name": "BACKLOG",
-                      "color": "gray"
-                    }
+                  "Total \"Minor\"": {
+                    "id": "M%7Dly",
+                    "type": "number",
+                    "number": null
                   },
-                  "Traffic Source": {
-                    "id": "N%5E%3Cm",
-                    "type": "multi_select",
-                    "multi_select": []
+                  "Attach file": [],
+                  "% sub-tasks per other iterations": {
+                    "id": "OAKo",
+                    "type": "number",
+                    "number": null
                   },
-                  "Game Type": {
-                    "id": "NcId",
+                  "Link to Slack release-updates": {
+                    "id": "OUVS",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Company": {
+                    "id": "Psch",
                     "type": "multi_select",
                     "multi_select": [
                       {
-                        "id": "37a47ad6-1af9-44e0-8744-0ba59d37aee5",
-                        "name": "Original",
-                        "color": "orange"
+                        "id": "3e91f3bc-6532-4898-b0e4-c3725c1f4662",
+                        "name": "FreeFlow Games",
+                        "color": "gray"
                       }
                     ]
                   },
-                  "Create Task (No Check)": null,
-                  "Developer AMZ AppStore Link": "",
-                  "pLTV 7": {
-                    "id": "OPM%5C",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Interstitial Key": "",
-                  "BB Game ID (iOS)": "",
-                  "Team ": "",
-                  "Ref Link": "",
-                  "Build Paid Icon": null,
-                  "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
-                  "Create Paid Icon": null,
-                  "ByteBrew Link": {
-                    "id": "QD%3Cd",
+                  "Release Build Link 2": {
+                    "id": "Q%40JT",
                     "type": "url",
                     "url": null
                   },
-                  "Outdated / unused elements are removed from GDD": false,
-                  "Applovin Key": "",
-                  "Full Pack  Fire TV ": null,
-                  "iPad Screens": {
-                    "id": "R%5EzP",
-                    "type": "url",
-                    "url": null
-                  },
-                  "Version": "",
-                  "Show": {
-                    "id": "RfDI",
+                  "Total \"Critical\"": {
+                    "id": "QRF%5E",
                     "type": "number",
                     "number": null
                   },
-                  "QA | Tasks": [],
-                  "Fullsreen Banner Promo Request": false,
-                  "📽️ Creatives Team Tasks": [],
-                  "Bright SDK Review Status": {
-                    "id": "SXax",
+                  "Place": {
+                    "id": "SQ%3F%5C",
+                    "type": "place",
+                    "place": null
+                  },
+                  "Release Checklist": {
+                    "id": "SXCS",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Slack Channel Link": {
+                    "id": "S%7C~u",
+                    "type": "url",
+                    "url": "-"
+                  },
+                  "Auto Test Status": {
+                    "id": "UErf",
                     "type": "status",
                     "status": {
-                      "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
-                      "name": "Implementation",
-                      "color": "default"
+                      "id": "NON}",
+                      "name": "Hold auto-test",
+                      "color": "gray"
                     }
                   },
-                  "Days for Art Test": {
-                    "id": "SdR%3B",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": null
-                    }
-                  },
-                  "iPhone Screens": {
-                    "id": "SeX%7C",
-                    "type": "url",
-                    "url": null
-                  },
-                  "Bundle Version": "",
-                  "Days for Art": {
-                    "id": "T%3Edc",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": null
-                    }
-                  },
-                  "BB SDK Key (iOS)": "",
-                  "Feature description matches the latest implementation": false,
-                  "Create New \"QA Task\"": null,
-                  "Status  Promo": {
-                    "id": "TWT%3A",
-                    "type": "status",
-                    "status": {
-                      "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
-                      "name": "Not started",
-                      "color": "default"
-                    }
-                  },
-                  "Click": {
-                    "id": "TkDm",
-                    "type": "number",
-                    "number": null
-                  },
-                  "GA Game Key": "",
-                  "CTR Video link": "",
-                  "Link to Automation": {
-                    "id": "VRV%3B",
-                    "type": "url",
-                    "url": null
-                  },
-                  "Days in QA": {
-                    "id": "VgPc",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": null
-                    }
-                  },
-                  "parent": "",
-                  "Genre": {
-                    "id": "V~Gf",
+                  "Sub-task Iteration": {
+                    "id": "VafY",
                     "type": "multi_select",
                     "multi_select": []
                   },
-                  "BB Game ID (Android)": "",
-                  "Date QA Finished": {
-                    "id": "X%5Cma",
-                    "type": "date",
-                    "date": null
-                  },
-                  "Task Create Info": "",
-                  "GDD Doc": "",
-                  "Full Pack Amz": null,
-                  "Missing Info for QA Task": {
-                    "id": "ZSo%3D",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": "⚠️ Full game name\n⚠️ Company(Account)\n⚠️ Store Type\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ GIT Link\n⚠️ AF Link\n⚠️ Developer\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Bundle ID\n⚠️ Quarter\n⚠️ Team"
-                    }
-                  },
-                  "[Screenshots]": null,
-                  "Specialist": {
-                    "id": "Zy%3F%3A",
+                  "GameDesigner": {
+                    "id": "VuMY",
                     "type": "people",
-                    "people": []
-                  },
-                  "A/B Group": "",
-                  "Full Pack TV Promo Request": false,
-                  "Date Team Finish": {
-                    "id": "%5B%5E%3AX",
-                    "type": "date",
-                    "date": null
-                  },
-                  "IPM STATIC": {
-                    "id": "%5Bagu",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Vaveda_key": "",
-                  "Groups": [],
-                  "D1RET": {
-                    "id": "%5D%3DAl",
-                    "type": "number",
-                    "number": null
-                  },
-                  "[Fullscreen Banner]": null,
-                  "CR_SUB_US": {
-                    "id": "%5Dz%7CJ",
-                    "type": "number",
-                    "number": null
-                  },
-                  "D7BAN": {
-                    "id": "%5E%3A%3F%3B",
-                    "type": "number",
-                    "number": null
-                  },
-                  "MONETIZATION": "",
-                  "D3BAN": {
-                    "id": "%5EQH%40",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Full game name": "",
-                  "Firebase PLIST": [],
-                  "Are all prop filled": {
-                    "id": "_%5D%5E%3A",
-                    "type": "formula",
-                    "formula": {
-                      "type": "string",
-                      "string": "⚠️ Developer\n⚠️ Platform\n⚠️ Paid/Free\n⚠️ Ref Link\n⚠️ Git Link\n⚠️ Slack channel\n⚠️ Date to QA"
-                    }
-                  },
-                  "D1REW": {
-                    "id": "_bnb",
-                    "type": "number",
-                    "number": null
-                  },
-                  "ASO Name & Descripton Request": false,
-                  "Build changes are marked in the task": false,
-                  "Unity version": "",
-                  "Promo status info": "",
-                  "Average FPS": {
-                    "id": "a%3Fdf",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Autobuild_buildNumber": "",
-                  "Polishing": "",
-                  "ExtraComments": "",
-                  "Full Pack Promo Request": false,
-                  "Art Subs Links": "",
-                  "Sprint": {
-                    "id": "afeU",
-                    "type": "multi_select",
-                    "multi_select": []
-                  },
-                  "Documentation link": "",
-                  "Clone From": "",
-                  "D7RET": {
-                    "id": "bE%7C%3A",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Test - Button No Validation": null,
-                  "Release Type": "",
-                  "GDD is updated for the current game version": false,
-                  "Link to ASO": {
-                    "id": "d%3BwX",
-                    "type": "url",
-                    "url": null
-                  },
-                  "Create Paid Banner": null,
-                  "Prod Promo Approve": "",
-                  "RW Key": "",
-                  "What's new": "",
-                  "100% Release Date": {
-                    "id": "e%5Ec%7C",
-                    "type": "date",
-                    "date": null
-                  },
-                  "Api key": "",
-                  "[Static Banner]": null,
-                  "Public key": [],
-                  "Quarter": "",
-                  "Create AF & Vaveda Pages": null,
-                  "LTV_180_WW": {
-                    "id": "gCUp",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Crit Bugs": "",
-                  "IPM(CP)": {
-                    "id": "hQ%5C%5B",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Refund Rate": {
-                    "id": "h%5Cxv",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Keywords": "",
-                  "IOS Distribution profile": [],
-                  "Status 1": {
-                    "id": "ihRL",
-                    "type": "status",
-                    "status": {
-                      "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
-                      "name": "Not started",
-                      "color": "default"
-                    }
-                  },
-                  "Logotype Banner Promo Request": false,
-                  "Slack Channel Link": "",
-                  "CTR": {
-                    "id": "jqbZ",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Full Pack GP": {
-                    "id": "k%60op",
-                    "type": "url",
-                    "url": null
-                  },
-                  "D3PTM": {
-                    "id": "kamA",
-                    "type": "number",
-                    "number": null
-                  },
-                  "D7REW": {
-                    "id": "kuEV",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Vaveda_secret": "",
-                  "ViraToolKit version": "",
-                  "Priority": "",
-                  "App ID(iOS)": "",
-                  "Int&Port Epics": [],
-                  "ToolKitSettings": [],
-                  "Link to store": "",
-                  "QA checking": "",
-                  "Date Release": {
-                    "id": "nTQx",
-                    "type": "date",
-                    "date": null
-                  },
-                  "D3RET": {
-                    "id": "n%5CF~",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Cross-Promo AMZ": [],
-                  "Paid\\Free": "",
-                  "AMZ AppStore": null,
-                  "RESULTS": "",
-                  "AF Key": "",
-                  "Goals": "",
-                  "Firebase JSON": [],
-                  "QA": "",
-                  "Hypothesys": [],
-                  "AMZ appId": "",
-                  "Opt-In": {
-                    "id": "p_Ic",
-                    "type": "number",
-                    "number": null
-                  },
-                  "New Tasks & Requests": [],
-                  "Last edited by": {
-                    "id": "qUWF",
-                    "type": "last_edited_by",
-                    "last_edited_by": {
-                      "object": "user",
-                      "id": "918fdaf5-ccd0-4ba4-9dd7-100e8f690d84",
-                      "name": "Oleksandr Tokar",
-                      "avatar_url": null,
-                      "type": "person",
-                      "person": {
-                        "email": "oleksandr.tokar@vira.games"
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "23fd872b-594c-8113-8e19-0002c7464604",
+                        "name": "Kirill Kovalchuk",
+                        "avatar_url": null,
+                        "type": "person",
+                        "person": {
+                          "email": "kirill.kovalchuk@vira.games"
+                        }
                       }
-                    }
+                    ]
                   },
-                  "Account": {
-                    "id": "qhXd",
-                    "type": "multi_select",
-                    "multi_select": []
+                  "Total \"Skip\" bug-tasks": {
+                    "id": "WFjH",
+                    "type": "number",
+                    "number": null
                   },
-                  "Date to QA": {
-                    "id": "q%7D%3F%5C",
+                  "Bundle Version": {
+                    "id": "WXSF",
+                    "type": "number",
+                    "number": 1
+                  },
+                  "Logs": [],
+                  "Need release?": true,
+                  "Max it time (hrs)": {
+                    "id": "X%5Dx%3D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "App Version": "1.0.0",
+                  "Previous Update Date": {
+                    "id": "Ztsi",
                     "type": "date",
                     "date": null
                   },
-                  "Sub-team": "LEGACY",
-                  "Date Team Start": {
-                    "id": "rKeG",
-                    "type": "date",
-                    "date": null
-                  },
-                  "Created by": {
-                    "id": "r%5BBI",
-                    "type": "created_by",
-                    "created_by": {
-                      "object": "user",
-                      "id": "c83ce9bc-08fd-4af7-a25d-c3ba4bebf48f",
-                      "name": "ViraGames AllProject Helper",
-                      "avatar_url": null,
-                      "type": "bot",
-                      "bot": {}
-                    }
-                  },
-                  "Tech Project Doc": "",
-                  "Sub-subscription 1": {
-                    "id": "sCtp",
-                    "type": "url",
-                    "url": null
-                  },
-                  "Automated Team": {
-                    "id": "sDNL",
-                    "type": "multi_select",
-                    "multi_select": []
-                  },
-                  "If release is not required:  Need Release checkbox is unchecked": false,
-                  "UI": "",
-                  "Test - Button Validation": null,
-                  "Admob Key": "",
-                  "Firebase Link": {
-                    "id": "upQD",
-                    "type": "url",
-                    "url": null
-                  },
-                  "Monetization": [],
-                  "Cross Promo Video status": "",
-                  "CPI (Mint) Test Dates": {
-                    "id": "v%5Bi%60",
-                    "type": "date",
-                    "date": null
-                  },
-                  "Date Art Start": {
-                    "id": "v%5D~D",
-                    "type": "date",
-                    "date": null
-                  },
-                  "Last Status Change": {
-                    "id": "wQFr",
-                    "type": "date",
-                    "date": null
-                  },
-                  "D1PTM": {
-                    "id": "wgp%7B",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Link to Promo": "",
-                  "[Creatives] Tasks": [],
-                  "ipm TEST": {
-                    "id": "xWSH",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Art Assets Link": {
-                    "id": "x%5C%3DY",
-                    "type": "url",
-                    "url": null
-                  },
-                  "Total installs": {
-                    "id": "x%5DWz",
-                    "type": "number",
-                    "number": null
-                  },
-                  "LTV_180_US ": {
-                    "id": "xfen",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Sub-s Database": [],
-                  "Amz Console: On Auto support": false,
-                  "Create QA Task": false,
-                  "Create UA Tasks": null,
-                  "3D Artist": {
-                    "id": "zHXV",
-                    "type": "people",
-                    "people": []
-                  },
-                  " GA Secret Key": "",
-                  "Task Tracker Link": {
-                    "id": "%7BIp%3F",
-                    "type": "url",
-                    "url": null
-                  },
-                  "D3INT": {
-                    "id": "%7BL%5C%3B",
-                    "type": "number",
-                    "number": null
-                  },
-                  "Percent of Release": {
-                    "id": "%7BRbl",
-                    "type": "number",
-                    "number": null
-                  },
-                  "AppMagic Info": [],
-                  "StartUp Time": {
-                    "id": "%7BZ_P",
-                    "type": "number",
-                    "number": null
-                  },
-                  "D1BAN": {
-                    "id": "%7BeFD",
-                    "type": "number",
-                    "number": null
-                  },
-                  "IPM (CP) Test Dates": {
-                    "id": "%7Be%5E%3E",
-                    "type": "date",
-                    "date": null
-                  },
-                  "Platform": "",
-                  "temp_tk_version_link": {
-                    "id": "%7CeXN",
+                  "AVG iteration time (days)": {
+                    "id": "%5BPCR",
                     "type": "formula",
                     "formula": {
-                      "type": "string",
-                      "string": "Open ImportPackageWindow.cs"
+                      "type": "number",
+                      "number": 0
                     }
                   },
-                  "Screenshot Promo Request": false,
-                  "Sub-item": [
-                    "14c9748b-c8c2-8150-96bf-f635110ca33d",
-                    "3879748b-c8c2-80ab-9034-c61f491f22e7"
-                  ],
-                  "Date Art Finish Test": {
-                    "id": "%7Dwfx",
-                    "type": "date",
-                    "date": null
+                  "Severity": "",
+                  "Release Percent": {
+                    "id": "%5DWSH",
+                    "type": "number",
+                    "number": 100
                   },
-                  "GIT LINK": "",
-                  "D7PTM": {
-                    "id": "~%3F%3B%40",
+                  "Long Description": "Jet Man throws you into fast, side-scrolling arcade action where your jetpack is the only way to survive. Tap to fire up your jet, weave through tight spaces, and blast obstacles out of the air as you race for the highest score.\n\nEach run is a test of timing and reflexes. Hold to fly higher, release to drop, and thread your way between moving hazards, laser traps, and spinning machines. Grab coins, fuel, and power-ups along the way to keep Jet Man airborne and unstoppable.\n\nUse your rewards to upgrade your jetpack, improve speed and control, and unlock new suits and visual effects. Push deeper into challenging zones, from metallic corridors to futuristic labs and secret hangars, each packed with new arcade challenges.\n\nJet Man is perfect for fans of classic arcade games, runner action, and quick, addictive gameplay. Short levels, simple one-touch controls, and endless replay value make it ideal for both casual sessions and long score-chasing runs.\n\nFire up your jetpack, dodge the danger, and see how far you can fly. Download now and become the ultimate Jet Man pilot.",
+                  "Monetization": [],
+                  "Story Point": {
+                    "id": "%5D~Vq",
                     "type": "number",
                     "number": null
                   },
-                  "Parent Project": [],
-                  "Days in Dev -> QA": {
-                    "id": "~FLK",
+                  "Iteration": {
+                    "id": "_QS%3F",
+                    "type": "number",
+                    "number": 1
+                  },
+                  "Description": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)\n\n",
+                  "Total \"Blocker\"": {
+                    "id": "%60ZaY",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Slack Release Message Link": {
+                    "id": "a%3CNh",
+                    "type": "url",
+                    "url": "https://vira-games.slack.com/archives/C056D595H1N/p1782463816941489"
+                  },
+                  "Bundle ID": "com.frflw.jt.man",
+                  "Developer": {
+                    "id": "aiP%7D",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "de1f1e48-a34c-491b-b7e3-7aa572dc0e80",
+                        "name": "Oleksandr Chekhuta",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/a6d802b4-67ac-4789-b315-be7327307960/profile-photo.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "oleksandr.chekhuta@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  "Automation Info": "",
+                  "Store Type": "AMZ",
+                  "Task Status": {
+                    "id": "cQM%5D",
+                    "type": "status",
+                    "status": {
+                      "id": "KZYk",
+                      "name": "In store review",
+                      "color": "blue"
+                    }
+                  },
+                  "Close time": {
+                    "id": "c%60ea",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Days in Review": {
+                    "id": "f%3B%3E%7B",
                     "type": "formula",
                     "formula": {
                       "type": "string",
                       "string": null
                     }
                   },
-                  "BALANCE": "",
-                  "Description for QA": "",
-                  "Prod Approved": false,
-                  "Static Banner Promo Request": false,
-                  "IPM": {
-                    "id": "~oXr",
+                  "% sub-tasks per 1-2 iterations": {
+                    "id": "full",
                     "type": "number",
                     "number": null
                   },
-                  "Sent To QA": {
-                    "id": "~sjG",
-                    "type": "date",
-                    "date": null
+                  "Who sent to release": {
+                    "id": "fyNp",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "11bd872b-594c-810b-9d0b-0002551851a9",
+                        "name": "Alona Ryzhykova",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/e6cf2d02-23ae-454c-883b-91b8266eeb76/photo_2025-02-03_11-33-09.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "alyona.ryzhykova@vira.games"
+                        }
+                      }
+                    ]
                   },
-                  "Promo info checking": {
-                    "id": "~wLr",
+                  "Change Status - Button": null,
+                  "💼 All Projects - Parental card": [
+                    "13c9748b-c8c2-81b7-baa3-f19d5bc30c8b"
+                  ],
+                  "End Test-Review Days": {
+                    "id": "iH%5CQ",
                     "type": "formula",
                     "formula": {
-                      "type": "boolean",
-                      "boolean": false
+                      "type": "number",
+                      "number": 0.04
                     }
                   },
-                  "Project": "Jet Man 3D",
-                  "Description": "",
-                  "SubscriptionRevenueEvent": false,
-                  "AMZ Metrics Date & Comment": "",
-                  "GD 2": {
-                    "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                  "Parent item": [],
+                  "Total Iterations Time (days)": {
+                    "id": "jewJ",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0
+                    }
+                  },
+                  "Longest it": {
+                    "id": "k%3Ea%7D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Release Type ": "First Release",
+                  "AVG test iteration time (hrs)": {
+                    "id": "lyw%3B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Assignee": {
+                    "id": "mgO%5D",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "11bd872b-594c-810b-9d0b-0002551851a9",
+                        "name": "Alona Ryzhykova",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/e6cf2d02-23ae-454c-883b-91b8266eeb76/photo_2025-02-03_11-33-09.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "alyona.ryzhykova@vira.games"
+                        }
+                      }
+                    ]
+                  },
+                  "QA who checked Live Test": {
+                    "id": "mn~B",
+                    "type": "people",
+                    "people": []
+                  },
+                  "Total сhild-tasks": {
+                    "id": "oFKh",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Build in internal test": false,
+                  "Sub-Team": {
+                    "id": "q%3Cug",
+                    "type": "multi_select",
+                    "multi_select": [
+                      {
+                        "id": "7e67e2f4-3b65-4198-ad28-5e5004437ed1",
+                        "name": "Elder Scripts",
+                        "color": "red"
+                      }
+                    ]
+                  },
+                  "Extra QA": {
+                    "id": "q%5BX%5C",
+                    "type": "people",
+                    "people": []
+                  },
+                  "Testing End Date": {
+                    "id": "q%60yo",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-06-26T11:50:00.000+03:00",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Team": "AMZ Direction",
+                  "Longest Test it": {
+                    "id": "sCIG",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Days in QA stage": {
+                    "id": "sQbV",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0.03
+                    }
+                  },
+                  "Device": {
+                    "id": "s%5D%5EA",
                     "type": "multi_select",
                     "multi_select": []
                   },
-                  "Amz StartUp Time": {
-                    "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                  "Live Release Date": {
+                    "id": "tZz%7D",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Delay Reason": {
+                    "id": "tj%7Ce",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Total \"Trivial\"": {
+                    "id": "u%5Cdr",
                     "type": "number",
                     "number": null
                   },
-                  "Status 2": "",
-                  "Days": {
-                    "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                  "Paid/free": "Paid",
+                  "Reject Start Date": {
+                    "id": "udDX",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Error Message": "",
+                  "Testing Start Date": {
+                    "id": "vON%5C",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-06-26T11:14:00.000+03:00",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Total Iterations Time (hrs)": {
+                    "id": "w%5EKg",
                     "type": "number",
                     "number": null
                   },
-                  "Asana Link": {
-                    "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
-                    "type": "url",
-                    "url": null
+                  "Total Bug-tasks": {
+                    "id": "xcIA",
+                    "type": "number",
+                    "number": null
                   },
-                  "Need a new Video?": false
+                  "Total Sub-Tasks": {
+                    "id": "yQx%5D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Total Task Story Point": {
+                    "id": "ziTL",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0
+                    }
+                  },
+                  "Screens & Videos": [],
+                  "Project status": {
+                    "type": "status",
+                    "status": {
+                      "id": "ZknJ",
+                      "name": "WAITING RELEASE",
+                      "color": "blue"
+                    }
+                  },
+                  "Create-Close Days": {
+                    "id": "%7C%7BWX",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "Task Type": "Task",
+                  "AVG iteration time (hrs)": {
+                    "id": "%7DrCu",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Name": "Sky Dash : Jet Escape [AMZ - Paid]",
+                  "Google Drive File": []
                 },
-                "created_time": "2024-11-12T22:29:00.000Z",
-                "last_edited_time": "2026-06-22T22:58:00.000Z",
-                "url": "https://app.notion.com/p/Jet-Man-3D-13c9748bc8c281b7baa3f19d5bc30c8b"
+                "created_time": "2026-06-25T09:49:00.000Z",
+                "last_edited_time": "2026-06-26T12:42:00.000Z",
+                "url": "https://app.notion.com/p/Sky-Dash-Jet-Escape-AMZ-Paid-38a9748bc8c281d49e8dc5727f0a03e4",
+                "children": {
+                  "Page_13c9748b-c8c2-81b7-baa3-f19d5bc30c8b": {
+                    "id": "13c9748b-c8c2-81b7-baa3-f19d5bc30c8b",
+                    "title": "Page 13c9748b-c8c2-81b7-baa3-f19d5bc30c8b",
+                    "properties": {
+                      "CR_SUB_WW": {
+                        "id": "%3A%3Br_",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Create Paid Promo Rebuild ": null,
+                      "Installs US": {
+                        "id": "%3Au%7BN",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Creatives Status": {
+                        "id": "%3B%60E%3C",
+                        "type": "status",
+                        "status": {
+                          "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "[Icon]": null,
+                      "TOP AMZ for Sub Screen Upates": [],
+                      "Ref Name": "",
+                      "ASIN": "",
+                      "Missing Info for Dev(Cross)": {
+                        "id": "%3Cv%60H",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Full game name\n⚠️ Company(Account)\n⚠️ Store Type\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ GIT Link\n⚠️ AF Link\n⚠️ Developer\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Bundle ID\n⚠️ Team"
+                        }
+                      },
+                      "New promo link": {
+                        "id": "%3DU%3BG",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Dev Start": {
+                        "id": "%3D%7B%3Ej",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Clone": null,
+                      "Days in Dev -> Release": {
+                        "id": "%3EkOQ",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "Are all prop. filled? ": {
+                        "id": "%3Epbv",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "false"
+                        }
+                      },
+                      "All Projects Info Old": [],
+                      "AF Link": {
+                        "id": "%40G%5E%3A",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Long Description": "",
+                      "BB SDK Key (Android)": "",
+                      "Icon Promo Request": false,
+                      "pLTV 180": {
+                        "id": "%40zGB",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Developer": {
+                        "id": "%40%7Cvk",
+                        "type": "people",
+                        "people": []
+                      },
+                      "PROGRESSION": "",
+                      "🎯 AllPages": [],
+                      "Project Subs Metrics": [],
+                      "Status (Copy)": {
+                        "id": "BVo%40",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Mintegral Status": "",
+                      "Creo Link": "",
+                      "Days Start-Finish": {
+                        "id": "Bzh%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "Sum SP": "",
+                      "Created time": {
+                        "id": "B~Qf",
+                        "type": "created_time",
+                        "created_time": "2024-11-12T22:29:00.000Z"
+                      },
+                      "All subscriptions for the current build are filled": false,
+                      "Missing info for Promo rebuild": {
+                        "id": "CkT%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Promo Link\n⚠️ Full Game name"
+                        }
+                      },
+                      "CPI": {
+                        "id": "Cxr%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Teams use": {
+                        "id": "D%40CI",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Status": {
+                        "id": "DYYJ",
+                        "type": "status",
+                        "status": {
+                          "id": "[S{l",
+                          "name": "SHADOW BAN",
+                          "color": "red"
+                        }
+                      },
+                      "Date Development Status Set": {
+                        "id": "D%60fU",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Last edited time": {
+                        "id": "Dj%3Fm",
+                        "type": "last_edited_time",
+                        "last_edited_time": "2026-06-22T22:58:00.000Z"
+                      },
+                      "Project Link": {
+                        "id": "DjJJ",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Art Finish": {
+                        "id": "Do%3DG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Bundle ID": "",
+                      "Price": {
+                        "id": "EUeu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Project Score Analysys": "",
+                      "[Promo] Tasks ": [],
+                      "TECH": "",
+                      "CTR TEST": {
+                        "id": "Ejyo",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Subscription screen changes include links to actual references (expected UI)": false,
+                      "GD": {
+                        "id": "FHAP",
+                        "type": "people",
+                        "people": [
+                          {
+                            "object": "user",
+                            "id": "48d0dbc5-1877-4fb2-a1f4-93611cafc5b5",
+                            "name": "Igor Lemon",
+                            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJzve9oz7m_9NrGym8vE6z2K9uwD04GGYDDGeE8M=s100",
+                            "type": "person",
+                            "person": {
+                              "email": "igorlemon@vira.games"
+                            }
+                          }
+                        ]
+                      },
+                      "CONTENT": "",
+                      "Due": {
+                        "id": "FaCd",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Link to Old Promo": {
+                        "id": "FbpI",
+                        "type": "url",
+                        "url": null
+                      },
+                      "QA Task File": "",
+                      "Task from Growth": [],
+                      "ASO Name & Description": null,
+                      "External\\internal": "Internal",
+                      "⏺️ ASO | Calendar": [],
+                      "Product Features": "",
+                      "Promo Task ": [],
+                      "Monetization DB": [],
+                      "Banner Key": "",
+                      "Date Info Updated": {
+                        "id": "HqDO",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Short Description": "",
+                      "Creo Status": "",
+                      "Amz Int & Port Tasks Template": null,
+                      "Tools": {
+                        "id": "IZP%3F",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "CreateTKSettings": null,
+                      "Subscription JSON": [],
+                      "GetGitlabInfo": null,
+                      "Days Start-Release": {
+                        "id": "JXlK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "AMZ releaseId": "",
+                      "[Logotype]": null,
+                      "CR Subs, %": {
+                        "id": "KKZH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Date": {
+                        "id": "LkTZ",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3REW": {
+                        "id": "M%5E%40L",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Each config has its own separate description": false,
+                      "CR Total, %": {
+                        "id": "MguI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7INT": {
+                        "id": "MqkG",
+                        "type": "number",
+                        "number": null
+                      },
+                      "PaidConfigGroup": [],
+                      "D1INT": {
+                        "id": "N%3AM%60",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Automation Info (AppStore)": "",
+                      "Previous Status": {
+                        "id": "NSz%7D",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Traffic Source": {
+                        "id": "N%5E%3Cm",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Game Type": {
+                        "id": "NcId",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "37a47ad6-1af9-44e0-8744-0ba59d37aee5",
+                            "name": "Original",
+                            "color": "orange"
+                          }
+                        ]
+                      },
+                      "Create Task (No Check)": null,
+                      "Developer AMZ AppStore Link": "",
+                      "pLTV 7": {
+                        "id": "OPM%5C",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Interstitial Key": "",
+                      "BB Game ID (iOS)": "",
+                      "Team ": "",
+                      "Ref Link": "",
+                      "Build Paid Icon": null,
+                      "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+                      "Create Paid Icon": null,
+                      "ByteBrew Link": {
+                        "id": "QD%3Cd",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Outdated / unused elements are removed from GDD": false,
+                      "Applovin Key": "",
+                      "Full Pack  Fire TV ": null,
+                      "iPad Screens": {
+                        "id": "R%5EzP",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Version": "",
+                      "Show": {
+                        "id": "RfDI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "QA | Tasks": [],
+                      "Fullsreen Banner Promo Request": false,
+                      "📽️ Creatives Team Tasks": [],
+                      "Bright SDK Review Status": {
+                        "id": "SXax",
+                        "type": "status",
+                        "status": {
+                          "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                          "name": "Implementation",
+                          "color": "default"
+                        }
+                      },
+                      "Days for Art Test": {
+                        "id": "SdR%3B",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "iPhone Screens": {
+                        "id": "SeX%7C",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Bundle Version": "",
+                      "Days for Art": {
+                        "id": "T%3Edc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "BB SDK Key (iOS)": "",
+                      "Feature description matches the latest implementation": false,
+                      "Create New \"QA Task\"": null,
+                      "Status  Promo": {
+                        "id": "TWT%3A",
+                        "type": "status",
+                        "status": {
+                          "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Click": {
+                        "id": "TkDm",
+                        "type": "number",
+                        "number": null
+                      },
+                      "GA Game Key": "",
+                      "CTR Video link": "",
+                      "Link to Automation": {
+                        "id": "VRV%3B",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Days in QA": {
+                        "id": "VgPc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "parent": "",
+                      "Genre": {
+                        "id": "V~Gf",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "BB Game ID (Android)": "",
+                      "Date QA Finished": {
+                        "id": "X%5Cma",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Task Create Info": "",
+                      "GDD Doc": "",
+                      "Full Pack Amz": null,
+                      "Missing Info for QA Task": {
+                        "id": "ZSo%3D",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Full game name\n⚠️ Company(Account)\n⚠️ Store Type\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ GIT Link\n⚠️ AF Link\n⚠️ Developer\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Bundle ID\n⚠️ Quarter\n⚠️ Team"
+                        }
+                      },
+                      "[Screenshots]": null,
+                      "Specialist": {
+                        "id": "Zy%3F%3A",
+                        "type": "people",
+                        "people": []
+                      },
+                      "A/B Group": "",
+                      "Full Pack TV Promo Request": false,
+                      "Date Team Finish": {
+                        "id": "%5B%5E%3AX",
+                        "type": "date",
+                        "date": null
+                      },
+                      "IPM STATIC": {
+                        "id": "%5Bagu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_key": "",
+                      "Groups": [],
+                      "D1RET": {
+                        "id": "%5D%3DAl",
+                        "type": "number",
+                        "number": null
+                      },
+                      "[Fullscreen Banner]": null,
+                      "CR_SUB_US": {
+                        "id": "%5Dz%7CJ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7BAN": {
+                        "id": "%5E%3A%3F%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "MONETIZATION": "",
+                      "D3BAN": {
+                        "id": "%5EQH%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full game name": "",
+                      "Firebase PLIST": [],
+                      "Are all prop filled": {
+                        "id": "_%5D%5E%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Developer\n⚠️ Platform\n⚠️ Paid/Free\n⚠️ Ref Link\n⚠️ Git Link\n⚠️ Slack channel\n⚠️ Date to QA"
+                        }
+                      },
+                      "D1REW": {
+                        "id": "_bnb",
+                        "type": "number",
+                        "number": null
+                      },
+                      "ASO Name & Descripton Request": false,
+                      "Build changes are marked in the task": false,
+                      "Unity version": "",
+                      "Promo status info": "",
+                      "Average FPS": {
+                        "id": "a%3Fdf",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Autobuild_buildNumber": "",
+                      "Polishing": "",
+                      "ExtraComments": "",
+                      "Full Pack Promo Request": false,
+                      "Art Subs Links": "",
+                      "Sprint": {
+                        "id": "afeU",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Documentation link": "",
+                      "Clone From": "",
+                      "D7RET": {
+                        "id": "bE%7C%3A",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Test - Button No Validation": null,
+                      "Release Type": "",
+                      "GDD is updated for the current game version": false,
+                      "Link to ASO": {
+                        "id": "d%3BwX",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Create Paid Banner": null,
+                      "Prod Promo Approve": "",
+                      "RW Key": "",
+                      "What's new": "",
+                      "100% Release Date": {
+                        "id": "e%5Ec%7C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Api key": "",
+                      "[Static Banner]": null,
+                      "Public key": [],
+                      "Quarter": "",
+                      "Create AF & Vaveda Pages": null,
+                      "LTV_180_WW": {
+                        "id": "gCUp",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Crit Bugs": "",
+                      "IPM(CP)": {
+                        "id": "hQ%5C%5B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Refund Rate": {
+                        "id": "h%5Cxv",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Keywords": "",
+                      "IOS Distribution profile": [],
+                      "Status 1": {
+                        "id": "ihRL",
+                        "type": "status",
+                        "status": {
+                          "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Logotype Banner Promo Request": false,
+                      "Slack Channel Link": "",
+                      "CTR": {
+                        "id": "jqbZ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full Pack GP": {
+                        "id": "k%60op",
+                        "type": "url",
+                        "url": null
+                      },
+                      "D3PTM": {
+                        "id": "kamA",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7REW": {
+                        "id": "kuEV",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_secret": "",
+                      "ViraToolKit version": "",
+                      "Priority": "",
+                      "App ID(iOS)": "",
+                      "Int&Port Epics": [],
+                      "ToolKitSettings": [],
+                      "Link to store": "",
+                      "QA checking": "",
+                      "Date Release": {
+                        "id": "nTQx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3RET": {
+                        "id": "n%5CF~",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Cross-Promo AMZ": [],
+                      "Paid\\Free": "",
+                      "AMZ AppStore": null,
+                      "RESULTS": "",
+                      "AF Key": "",
+                      "Goals": "",
+                      "Firebase JSON": [],
+                      "QA": "",
+                      "Hypothesys": [],
+                      "AMZ appId": "",
+                      "Opt-In": {
+                        "id": "p_Ic",
+                        "type": "number",
+                        "number": null
+                      },
+                      "New Tasks & Requests": [],
+                      "Last edited by": {
+                        "id": "qUWF",
+                        "type": "last_edited_by",
+                        "last_edited_by": {
+                          "object": "user",
+                          "id": "918fdaf5-ccd0-4ba4-9dd7-100e8f690d84",
+                          "name": "Oleksandr Tokar",
+                          "avatar_url": null,
+                          "type": "person",
+                          "person": {
+                            "email": "oleksandr.tokar@vira.games"
+                          }
+                        }
+                      },
+                      "Account": {
+                        "id": "qhXd",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Date to QA": {
+                        "id": "q%7D%3F%5C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Sub-team": "LEGACY",
+                      "Date Team Start": {
+                        "id": "rKeG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Created by": {
+                        "id": "r%5BBI",
+                        "type": "created_by",
+                        "created_by": {
+                          "object": "user",
+                          "id": "c83ce9bc-08fd-4af7-a25d-c3ba4bebf48f",
+                          "name": "ViraGames AllProject Helper",
+                          "avatar_url": null,
+                          "type": "bot",
+                          "bot": {}
+                        }
+                      },
+                      "Tech Project Doc": "",
+                      "Sub-subscription 1": {
+                        "id": "sCtp",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Automated Team": {
+                        "id": "sDNL",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "If release is not required:  Need Release checkbox is unchecked": false,
+                      "UI": "",
+                      "Test - Button Validation": null,
+                      "Admob Key": "",
+                      "Firebase Link": {
+                        "id": "upQD",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Monetization": [],
+                      "Cross Promo Video status": "",
+                      "CPI (Mint) Test Dates": {
+                        "id": "v%5Bi%60",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Date Art Start": {
+                        "id": "v%5D~D",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Last Status Change": {
+                        "id": "wQFr",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D1PTM": {
+                        "id": "wgp%7B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Link to Promo": "",
+                      "[Creatives] Tasks": [],
+                      "ipm TEST": {
+                        "id": "xWSH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Art Assets Link": {
+                        "id": "x%5C%3DY",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Total installs": {
+                        "id": "x%5DWz",
+                        "type": "number",
+                        "number": null
+                      },
+                      "LTV_180_US ": {
+                        "id": "xfen",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sub-s Database": [],
+                      "Amz Console: On Auto support": false,
+                      "Create QA Task": false,
+                      "Create UA Tasks": null,
+                      "3D Artist": {
+                        "id": "zHXV",
+                        "type": "people",
+                        "people": []
+                      },
+                      " GA Secret Key": "",
+                      "Task Tracker Link": {
+                        "id": "%7BIp%3F",
+                        "type": "url",
+                        "url": null
+                      },
+                      "D3INT": {
+                        "id": "%7BL%5C%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Percent of Release": {
+                        "id": "%7BRbl",
+                        "type": "number",
+                        "number": null
+                      },
+                      "AppMagic Info": [],
+                      "StartUp Time": {
+                        "id": "%7BZ_P",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D1BAN": {
+                        "id": "%7BeFD",
+                        "type": "number",
+                        "number": null
+                      },
+                      "IPM (CP) Test Dates": {
+                        "id": "%7Be%5E%3E",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Platform": "",
+                      "temp_tk_version_link": {
+                        "id": "%7CeXN",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "Open ImportPackageWindow.cs"
+                        }
+                      },
+                      "Screenshot Promo Request": false,
+                      "Sub-item": [
+                        "14c9748b-c8c2-8150-96bf-f635110ca33d",
+                        "3879748b-c8c2-80ab-9034-c61f491f22e7"
+                      ],
+                      "Date Art Finish Test": {
+                        "id": "%7Dwfx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "GIT LINK": "",
+                      "D7PTM": {
+                        "id": "~%3F%3B%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Parent Project": [],
+                      "Days in Dev -> QA": {
+                        "id": "~FLK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": null
+                        }
+                      },
+                      "BALANCE": "",
+                      "Description for QA": "",
+                      "Prod Approved": false,
+                      "Static Banner Promo Request": false,
+                      "IPM": {
+                        "id": "~oXr",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sent To QA": {
+                        "id": "~sjG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Promo info checking": {
+                        "id": "~wLr",
+                        "type": "formula",
+                        "formula": {
+                          "type": "boolean",
+                          "boolean": false
+                        }
+                      },
+                      "Project": "Jet Man 3D",
+                      "Description": "",
+                      "SubscriptionRevenueEvent": false,
+                      "AMZ Metrics Date & Comment": "",
+                      "GD 2": {
+                        "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Amz StartUp Time": {
+                        "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Status 2": "",
+                      "Days": {
+                        "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Asana Link": {
+                        "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Need a new Video?": false
+                    },
+                    "created_time": "2024-11-12T22:29:00.000Z",
+                    "last_edited_time": "2026-06-22T22:58:00.000Z",
+                    "url": "https://app.notion.com/p/Jet-Man-3D-13c9748bc8c281b7baa3f19d5bc30c8b"
+                  }
+                }
               }
             }
           }
