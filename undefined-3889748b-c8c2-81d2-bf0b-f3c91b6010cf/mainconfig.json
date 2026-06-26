@@ -1,0 +1,118 @@
+{
+  "pageId": "3889748b-c8c2-81d2-bf0b-f3c91b6010cf",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Flame_Clash___Burning_Hero": {
+        "id": "3889748b-c8c2-81d2-bf0b-f3c91b6010cf",
+        "title": "Flame Clash : Burning Hero",
+        "properties": {
+          "LinkToPromoRollup": {
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "https://drive.google.com/drive/folders/1_q4QWCh3OdzBXUWgAxVQk_uaGuXJgQPx"
+            }
+          },
+          "BundleVersionRollup": {
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1"
+            }
+          },
+          "Platform": {
+            "id": "%3AyyE",
+            "type": "multi_select",
+            "multi_select": [
+              {
+                "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                "name": "AMZ",
+                "color": "default"
+              }
+            ]
+          },
+          "Paid/Free": {
+            "id": "Bnjr",
+            "type": "multi_select",
+            "multi_select": [
+              {
+                "id": "5f5946de-66a2-4550-abb2-1f2c40b088cc",
+                "name": "Paid",
+                "color": "green"
+              }
+            ]
+          },
+          "App Name": "Flame Clash : Burning Hero",
+          "Version": {
+            "id": "PczY",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1.0.0"
+            }
+          },
+          "Vaveda_key": "fghtfgz",
+          "Link to Promo": {
+            "id": "%5CVgk",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "https://drive.google.com/drive/folders/1_q4QWCh3OdzBXUWgAxVQk_uaGuXJgQPx"
+            }
+          },
+          "VersionRollup": {
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1.0.0"
+            }
+          },
+          "Parent": [
+            "3889748b-c8c2-81b9-aad2-e2bcdb181fcc"
+          ],
+          "Bundle Version": {
+            "id": "%5D~p%60",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1"
+            }
+          },
+          "Bundle Id": {
+            "id": "%5E%7D%3Aj",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "com.hrfrggms.fghtr.with"
+            }
+          },
+          "Account": {
+            "id": "e%7C~F",
+            "type": "multi_select",
+            "multi_select": [
+              {
+                "id": "fnka",
+                "name": "HeroForge Games",
+                "color": "orange"
+              }
+            ]
+          },
+          "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+          "Bundle Id Rollup": {
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "com.hrfrggms.fghtr.with"
+            }
+          },
+          "Vaveda_secret": "3Bp5eXst6FQD30bz3wRUhWBoaeekHRt5",
+          "Name": "Flame Clash : Burning Hero"
+        },
+        "created_time": "2026-06-23T10:20:00.000Z",
+        "last_edited_time": "2026-06-26T12:44:00.000Z",
+        "url": "https://app.notion.com/p/Flame-Clash-Burning-Hero-3889748bc8c281d2bf0bf3c91b6010cf"
+      }
+    }
+  }
+}
