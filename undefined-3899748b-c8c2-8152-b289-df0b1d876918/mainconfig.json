@@ -3,9 +3,9 @@
   "notionToken": "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",
   "configData": {
     "pages": {
-      "In_This_Way_": {
+      "Path_Choice___Funny_Fails": {
         "id": "3899748b-c8c2-8152-b289-df0b1d876918",
-        "title": "In This Way!",
+        "title": "Path Choice : Funny Fails",
         "properties": {
           "ProductCatalog": [
             "3899748b-c8c2-8199-bbb6-f2f195551277"
@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "thswthz - In This Way!"
+              "string": "thswthz - Path Choice : Funny Fails"
             }
           },
           "MaxParentLinkToPromo": {
@@ -66,11 +66,11 @@
           },
           "ProjectKey": "3899748b-c8c2-8152-b289-df0b1d876918",
           "(List)LinkToPromo": "https://drive.google.com/drive/u/1/folders/1aFAuJI008tGlJxXhapN32Vvem4qHNk-H",
-          "Name": "In This Way!"
+          "Name": "Path Choice : Funny Fails"
         },
         "created_time": "2026-06-24T07:22:00.000Z",
-        "last_edited_time": "2026-06-24T09:11:00.000Z",
-        "url": "https://app.notion.com/p/In-This-Way-3899748bc8c28152b289df0b1d876918",
+        "last_edited_time": "2026-06-26T12:44:00.000Z",
+        "url": "https://app.notion.com/p/Path-Choice-Funny-Fails-3899748bc8c28152b289df0b1d876918",
         "children": {
           "In_This_Way__ProductCatalog": {
             "id": "3899748b-c8c2-8199-bbb6-f2f195551277",
@@ -109,9 +109,9 @@
             "last_edited_time": "2026-06-24T07:23:00.000Z",
             "url": "https://app.notion.com/p/In-This-Way-SubDataCatalog-3899748bc8c2816f9b61d1b83c8c9d56"
           },
-          "In_This_Way__MainData": {
+          "Path_Choice___Funny_Fails_MainData": {
             "id": "3899748b-c8c2-81c4-9869-ec0b5ea4ecbc",
-            "title": "In This Way! MainData",
+            "title": "Path Choice : Funny Fails MainData",
             "properties": {
               "LinkToPromoRollup": {
                 "type": "formula",
@@ -149,7 +149,7 @@
                   }
                 ]
               },
-              "App Name": "In This Way!",
+              "App Name": "Path Choice : Funny Fails",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
@@ -164,7 +164,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "https://drive.google.com/drive/u/1/folders/1aFAuJI008tGlJxXhapN32Vvem4qHNk-H"
+                  "string": "https://drive.google.com/drive/u/1/folders/1aFAuJI008tGlJxXhapN32Vvem4qHNk-H "
                 }
               },
               "VersionRollup": {
@@ -213,16 +213,16 @@
                 }
               },
               "Vaveda_secret": "xXTJjUlSbzpzOeMafxx6zjJrFdDPOoSr",
-              "Name": "In This Way! MainData"
+              "Name": "Path Choice : Funny Fails MainData"
             },
             "created_time": "2026-06-24T07:23:00.000Z",
-            "last_edited_time": "2026-06-24T07:24:00.000Z",
-            "url": "https://app.notion.com/p/In-This-Way-MainData-3899748bc8c281c49869ec0b5ea4ecbc",
+            "last_edited_time": "2026-06-26T12:44:00.000Z",
+            "url": "https://app.notion.com/p/Path-Choice-Funny-Fails-MainData-3899748bc8c281c49869ec0b5ea4ecbc",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "https://drive.google.com/drive/u/1/folders/1aFAuJI008tGlJxXhapN32Vvem4qHNk-H",
-                  "ProductName": "In This Way!",
+                  "LinkToPromo": "https://drive.google.com/drive/u/1/folders/1aFAuJI008tGlJxXhapN32Vvem4qHNk-H ",
+                  "ProductName": "Path Choice : Funny Fails",
                   "BundleIdentifier": "com.nfntybyt.ths.way",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
@@ -317,7 +317,7 @@
                 "type": "url",
                 "url": "https://hq1.appsflyer.com/apps/settings?appId=com.nfntybyt.ths.way-Amazon"
               },
-              "Long Description": "In This Way! puts you in the middle of fast, funny situations where one quick decision changes everything. Each level is a short interactive scene packed with choices, twists, and surprising endings. Your job is simple: look at what’s happening, pick a path, and see where it leads.\n\nTap to move, swipe to dodge, or choose between two crazy options as the story unfolds. Will you sneak, run, hide, or face the problem head‑on? Every stage is built like a mini puzzle where there is a smart way, a silly way, and sometimes a totally unexpected way out. Learn from your mistakes, retry in seconds, and discover better solutions.\n\nAs you progress, new levels introduce fresh scenarios, tougher timing, and branching routes to explore. Unlock new stages, chase three‑star finishes, and replay scenes to find all the different outcomes. Simple controls, short sessions, and satisfying animations make this an ideal casual game when you want something light but clever to play.\n\nPerfect for fans of casual puzzle games, decision games, and quick reaction challenges, In This Way! offers a fun mix of brain, timing, and humor. Pick your path, master each scene, and prove you always know the right way to go. Download now and start choosing your way through the chaos.",
+              "Long Description": "In This Way! is a fast, choice-driven casual game where every swipe sends your character down a different path. Pick a way, watch what happens, and unlock hilarious results as you test every possible route. Simple to play but packed with surprising outcomes, it’s all about making quick decisions and discovering where each one leads.\n\nEach level presents a fun little situation with multiple options: go left or right, up or down, safe or risky. Just swipe to choose your way and see the scene unfold in colorful, animated action. Some paths lead to smooth success, others end in silly fails, and many hide secret interactions you’ll want to replay to find.\n\nAs you progress, the paths become trickier, with moving obstacles, timing challenges, and clever puzzles hidden in each choice. Earn rewards for finding new endings, then use them to unlock fresh stages, quirky characters, and visual upgrades that keep every run feeling new.\n\nPerfect for fans of casual puzzle games and quick decision-making challenges, In This Way! is easy to pick up and enjoy in short sessions or long play marathons. Try different choices, master each stage, and see how many crazy ways you can discover.\n\nDownload now, swipe your way through every level, and find out which path really is the best in In This Way!",
               "BB SDK Key (Android)": "",
               "Icon Promo Request": false,
               "pLTV 180": {
@@ -392,8 +392,8 @@
                 "id": "DYYJ",
                 "type": "status",
                 "status": {
-                  "id": "wJo?",
-                  "name": "QA",
+                  "id": "ZknJ",
+                  "name": "WAITING RELEASE",
                   "color": "blue"
                 }
               },
@@ -405,7 +405,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-25T10:15:00.000Z"
+                "last_edited_time": "2026-06-26T12:44:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -467,7 +467,7 @@
               "ASO Name & Description": null,
               "External\\internal": "",
               "⏺️ ASO | Calendar": [],
-              "Product Features": "🧠 Choice-Based Gameplay — Pick your path and watch the scene unfold\n🕹️ Simple Tap Controls — Tap, swipe, and react with easy one-hand play\n🧩 Smart Mini Puzzles — Find the right way out of tricky situations\n🎭 Multiple Outcomes — Try different options and unlock funny endings\n🚀 Quick Levels — Short stages perfect for fast casual sessions\n🔓 Progress & Unlock — Open new scenarios as you clear previous ones",
+              "Product Features": "🕹️ Choice-Based Gameplay — Swipe to pick a path and instantly see the result\n🧩 Simple Puzzles — Decide the right way through obstacles, traps, and tricks\n🎭 Multiple Endings — Discover funny wins, fails, and secret outcomes for each stage\n🚀 Fast Levels — Quick, satisfying runs perfect for short play sessions\n🔓 Unlockable Content — Open new scenarios, characters, and visual styles as you progress\n🔁 Replay & Experiment — Try every possible way to complete each level 100%",
               "Promo Task ": [],
               "Monetization DB": [],
               "Banner Key": "",
@@ -476,7 +476,7 @@
                 "type": "date",
                 "date": null
               },
-              "Short Description": "Choose your way through chaos",
+              "Short Description": "Swipe to choose your crazy way",
               "Creo Status": "",
               "Amz Int & Port Tasks Template": null,
               "Tools": {
@@ -495,7 +495,7 @@
                   "string": null
                 }
               },
-              "AMZ releaseId": "",
+              "AMZ releaseId": "amzn1.devportal.apprelease.0f682dce32464f1a8482f1eba896ce16",
               "[Logotype]": null,
               "CR Subs, %": {
                 "id": "KKZH",
@@ -529,7 +529,7 @@
                 "type": "number",
                 "number": null
               },
-              "Automation Info (AppStore)": "▶️ Automation \"Amazon AppStore Page Creation\" has started",
+              "Automation Info (AppStore)": "❌ Automation \"Amazon AppStore Page Creation\" Failed ",
               "Previous Status": {
                 "id": "NSz%7D",
                 "type": "status",
@@ -550,7 +550,7 @@
                 "multi_select": []
               },
               "Create Task (No Check)": null,
-              "Developer AMZ AppStore Link": "",
+              "Developer AMZ AppStore Link": "https://developer.amazon.com/apps-and-games/console/app/amzn1.devportal.mobileapp.75799bc703254a8987f15d09d84bc205/release/amzn1.devportal.apprelease.0f682dce32464f1a8482f1eba896ce16/submission/app-files",
               "pLTV 7": {
                 "id": "OPM%5C",
                 "type": "number",
@@ -660,7 +660,11 @@
               "Date QA Finished": {
                 "id": "X%5Cma",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-06-26T11:33:00.000+03:00",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "Task Create Info": "✅ QA Task - Successfully Created!",
               "GDD Doc": "",
@@ -771,7 +775,7 @@
               "Create Paid Banner": null,
               "Prod Promo Approve": "",
               "RW Key": "",
-              "What's new": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)",
+              "What's new": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)\n\n",
               "100% Release Date": {
                 "id": "e%5Ec%7C",
                 "type": "date",
@@ -798,7 +802,7 @@
                 "type": "number",
                 "number": null
               },
-              "Keywords": "puzzle, casual, choices, decision, logic, brain, offline, fun, arcade, tap",
+              "Keywords": "casual game, puzzle, choices, swipe, path, decision, levels, offline, arcade, fun",
               "IOS Distribution profile": [],
               "Status 1": {
                 "id": "ihRL",
@@ -860,10 +864,15 @@
               "Firebase JSON": [],
               "QA": {
                 "type": "people",
-                "people": []
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "11bd872b-594c-810b-9d0b-0002551851a9"
+                  }
+                ]
               },
               "Hypothesys": [],
-              "AMZ appId": "",
+              "AMZ appId": "amzn1.devportal.mobileapp.75799bc703254a8987f15d09d84bc205",
               "Opt-In": {
                 "id": "p_Ic",
                 "type": "number",
@@ -875,11 +884,13 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
-                  "name": "Vira Games Bot",
-                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
-                  "type": "bot",
-                  "bot": {}
+                  "id": "918fdaf5-ccd0-4ba4-9dd7-100e8f690d84",
+                  "name": "Oleksandr Tokar",
+                  "avatar_url": null,
+                  "type": "person",
+                  "person": {
+                    "email": "oleksandr.tokar@vira.games"
+                  }
                 }
               },
               "Account": {
@@ -958,7 +969,7 @@
                 "id": "wQFr",
                 "type": "date",
                 "date": {
-                  "start": "2026-06-25",
+                  "start": "2026-06-26",
                   "end": null,
                   "time_zone": null
                 }
@@ -1065,7 +1076,7 @@
                 }
               },
               "BALANCE": "",
-              "Description for QA": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)",
+              "Description for QA": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)\n\n",
               "Prod Approved": false,
               "Static Banner Promo Request": false,
               "IPM": {
@@ -1090,7 +1101,7 @@
                   "boolean": false
                 }
               },
-              "Project": "thswthz - In This Way!",
+              "Project": "thswthz - Path Choice : Funny Fails",
               "Description": "",
               "SubscriptionRevenueEvent": false,
               "AMZ Metrics Date & Comment": "",
@@ -1118,35 +1129,50 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-22T23:05:00.000Z",
-            "last_edited_time": "2026-06-25T10:15:00.000Z",
-            "url": "https://app.notion.com/p/thswthz-In-This-Way-3879748bc8c2801d8e77de53548b4c4d",
+            "last_edited_time": "2026-06-26T12:44:00.000Z",
+            "url": "https://app.notion.com/p/thswthz-Path-Choice-Funny-Fails-3879748bc8c2801d8e77de53548b4c4d",
             "children": {
-              "In_This_Way___AMZ_-_Paid_": {
+              "Path_Choice___Funny_Fails__AMZ_-_Paid_": {
                 "id": "38a9748b-c8c2-8185-aac8-c09a33c064fa",
-                "title": "In This Way! [AMZ - Paid]",
+                "title": "Path Choice : Funny Fails [AMZ - Paid]",
                 "properties": {
                   "Send Bug-report for Review": null,
                   "QA": {
                     "id": "%3Akbv",
                     "type": "people",
-                    "people": []
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "11bd872b-594c-810b-9d0b-0002551851a9",
+                        "name": "Alona Ryzhykova",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/e6cf2d02-23ae-454c-883b-91b8266eeb76/photo_2025-02-03_11-33-09.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "alyona.ryzhykova@vira.games"
+                        }
+                      }
+                    ]
                   },
                   "Sent for Review Date": {
                     "id": "%3B%3Dui",
                     "type": "date",
-                    "date": null
+                    "date": {
+                      "start": "2026-06-26T13:14:00.000+03:00",
+                      "end": null,
+                      "time_zone": null
+                    }
                   },
                   "Extra Story Point ": {
                     "id": "%3Bmt%7D",
                     "type": "number",
                     "number": null
                   },
-                  "Previous status": "Hold",
+                  "Previous status": "In store review",
                   "Get info for iterations": null,
                   "Release Build Link:": {
                     "id": "%3FUcg",
                     "type": "url",
-                    "url": null
+                    "url": "https://viragames.slack.com/files/U07QUAYUAMD/F0BD1KR3T3P/in_this_way_amazon_release_v1.0.0_bundle1_new_v.8.aab"
                   },
                   "Main Checklist": {
                     "id": "%40uPu",
@@ -1158,8 +1184,8 @@
                     "id": "A%5Bv%5B",
                     "type": "formula",
                     "formula": {
-                      "type": "string",
-                      "string": null
+                      "type": "number",
+                      "number": 0.947
                     }
                   },
                   "Total Testing Time (hrs)": {
@@ -1179,7 +1205,7 @@
                   },
                   "ViraToolKit version": "2.0.1",
                   "Priority": "High",
-                  "What's new": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)",
+                  "What's new": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)\n\n",
                   "All Projects Info": [
                     "3879748b-c8c2-801d-8e77-de53548b4c4d"
                   ],
@@ -1321,7 +1347,7 @@
                     "type": "number",
                     "number": 100
                   },
-                  "Long Description": "In This Way! puts you in the middle of fast, funny situations where one quick decision changes everything. Each level is a short interactive scene packed with choices, twists, and surprising endings. Your job is simple: look at what’s happening, pick a path, and see where it leads.\n\nTap to move, swipe to dodge, or choose between two crazy options as the story unfolds. Will you sneak, run, hide, or face the problem head‑on? Every stage is built like a mini puzzle where there is a smart way, a silly way, and sometimes a totally unexpected way out. Learn from your mistakes, retry in seconds, and discover better solutions.\n\nAs you progress, new levels introduce fresh scenarios, tougher timing, and branching routes to explore. Unlock new stages, chase three‑star finishes, and replay scenes to find all the different outcomes. Simple controls, short sessions, and satisfying animations make this an ideal casual game when you want something light but clever to play.\n\nPerfect for fans of casual puzzle games, decision games, and quick reaction challenges, In This Way! offers a fun mix of brain, timing, and humor. Pick your path, master each scene, and prove you always know the right way to go. Download now and start choosing your way through the chaos.",
+                  "Long Description": "In This Way! is a fast, choice-driven casual game where every swipe sends your character down a different path. Pick a way, watch what happens, and unlock hilarious results as you test every possible route. Simple to play but packed with surprising outcomes, it’s all about making quick decisions and discovering where each one leads.\n\nEach level presents a fun little situation with multiple options: go left or right, up or down, safe or risky. Just swipe to choose your way and see the scene unfold in colorful, animated action. Some paths lead to smooth success, others end in silly fails, and many hide secret interactions you’ll want to replay to find.\n\nAs you progress, the paths become trickier, with moving obstacles, timing challenges, and clever puzzles hidden in each choice. Earn rewards for finding new endings, then use them to unlock fresh stages, quirky characters, and visual upgrades that keep every run feeling new.\n\nPerfect for fans of casual puzzle games and quick decision-making challenges, In This Way! is easy to pick up and enjoy in short sessions or long play marathons. Try different choices, master each stage, and see how many crazy ways you can discover.\n\nDownload now, swipe your way through every level, and find out which path really is the best in In This Way!",
                   "Monetization": [],
                   "Story Point": {
                     "id": "%5D~Vq",
@@ -1333,7 +1359,7 @@
                     "type": "number",
                     "number": 1
                   },
-                  "Description": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)",
+                  "Description": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)\n\n",
                   "Total \"Blocker\"": {
                     "id": "%60ZaY",
                     "type": "number",
@@ -1342,7 +1368,7 @@
                   "Slack Release Message Link": {
                     "id": "a%3CNh",
                     "type": "url",
-                    "url": null
+                    "url": "https://vira-games.slack.com/archives/C056D595H1N/p1782462806084099"
                   },
                   "Bundle ID": "com.nfntybyt.ths.way",
                   "Developer": {
@@ -1367,9 +1393,9 @@
                     "id": "cQM%5D",
                     "type": "status",
                     "status": {
-                      "id": "SU`g",
-                      "name": "Hold",
-                      "color": "gray"
+                      "id": "KZYk",
+                      "name": "In store review",
+                      "color": "blue"
                     }
                   },
                   "Close time": {
@@ -1393,7 +1419,18 @@
                   "Who sent to release": {
                     "id": "fyNp",
                     "type": "people",
-                    "people": []
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "11bd872b-594c-810b-9d0b-0002551851a9",
+                        "name": "Alona Ryzhykova",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/e6cf2d02-23ae-454c-883b-91b8266eeb76/photo_2025-02-03_11-33-09.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "alyona.ryzhykova@vira.games"
+                        }
+                      }
+                    ]
                   },
                   "Change Status - Button": null,
                   "💼 All Projects - Parental card": [
@@ -1403,8 +1440,8 @@
                     "id": "iH%5CQ",
                     "type": "formula",
                     "formula": {
-                      "type": "string",
-                      "string": null
+                      "type": "number",
+                      "number": 0.07
                     }
                   },
                   "Parent item": [],
@@ -1433,7 +1470,13 @@
                     "people": [
                       {
                         "object": "user",
-                        "id": "2a9d872b-594c-8157-ae04-00023de0ac7a"
+                        "id": "11bd872b-594c-810b-9d0b-0002551851a9",
+                        "name": "Alona Ryzhykova",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/e6cf2d02-23ae-454c-883b-91b8266eeb76/photo_2025-02-03_11-33-09.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "alyona.ryzhykova@vira.games"
+                        }
                       }
                     ]
                   },
@@ -1467,7 +1510,11 @@
                   "Testing End Date": {
                     "id": "q%60yo",
                     "type": "date",
-                    "date": null
+                    "date": {
+                      "start": "2026-06-26T11:33:00.000+03:00",
+                      "end": null,
+                      "time_zone": null
+                    }
                   },
                   "Team": "AMZ Direction",
                   "Longest Test it": {
@@ -1479,8 +1526,8 @@
                     "id": "sQbV",
                     "type": "formula",
                     "formula": {
-                      "type": "string",
-                      "string": null
+                      "type": "number",
+                      "number": 0
                     }
                   },
                   "Device": {
@@ -1513,7 +1560,11 @@
                   "Testing Start Date": {
                     "id": "vON%5C",
                     "type": "date",
-                    "date": null
+                    "date": {
+                      "start": "2026-06-26T11:30:00.000+03:00",
+                      "end": null,
+                      "time_zone": null
+                    }
                   },
                   "Total Iterations Time (hrs)": {
                     "id": "w%5EKg",
@@ -1542,8 +1593,8 @@
                   "Project status": {
                     "type": "status",
                     "status": {
-                      "id": "wJo?",
-                      "name": "QA",
+                      "id": "ZknJ",
+                      "name": "WAITING RELEASE",
                       "color": "blue"
                     }
                   },
@@ -1561,12 +1612,12 @@
                     "type": "number",
                     "number": null
                   },
-                  "Name": "In This Way! [AMZ - Paid]",
+                  "Name": "Path Choice : Funny Fails [AMZ - Paid]",
                   "Google Drive File": []
                 },
                 "created_time": "2026-06-25T09:46:00.000Z",
-                "last_edited_time": "2026-06-25T10:14:00.000Z",
-                "url": "https://app.notion.com/p/In-This-Way-AMZ-Paid-38a9748bc8c28185aac8c09a33c064fa",
+                "last_edited_time": "2026-06-26T12:44:00.000Z",
+                "url": "https://app.notion.com/p/Path-Choice-Funny-Fails-AMZ-Paid-38a9748bc8c28185aac8c09a33c064fa",
                 "children": {
                   "Page_13c9748b-c8c2-81fa-8375-faf0b1815cd0": {
                     "id": "13c9748b-c8c2-81fa-8375-faf0b1815cd0",
