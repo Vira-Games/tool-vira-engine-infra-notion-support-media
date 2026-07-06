@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "rftngwars - Rapid Rage : Raft Battle"
+              "string": "rftngbz - Rapid Rage : Raft Battle"
             }
           },
           "MaxParentLinkToPromo": {
@@ -69,7 +69,7 @@
           "Name": "rftngwars - Rapid Rage : Raft Battle"
         },
         "created_time": "2026-07-06T09:52:00.000Z",
-        "last_edited_time": "2026-07-06T09:53:00.000Z",
+        "last_edited_time": "2026-07-06T09:56:00.000Z",
         "url": "https://app.notion.com/p/rftngwars-Rapid-Rage-Raft-Battle-3959748bc8c281c68eb3d93001c78ef2",
         "children": {
           "rftngwars_-_Rapid_Rage___Raft_Battle_ProductCatalog": {
@@ -158,7 +158,7 @@
                   "string": "1.0.0"
                 }
               },
-              "Vaveda_key": "",
+              "Vaveda_key": "rftngbz",
               "Link to Promo": {
                 "id": "%5CVgk",
                 "type": "formula",
@@ -204,7 +204,7 @@
                   }
                 ]
               },
-              "AF Key": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Bundle Id Rollup": {
                 "type": "formula",
                 "formula": {
@@ -212,11 +212,11 @@
                   "string": "com.jybyt.rpdrg.rftb"
                 }
               },
-              "Vaveda_secret": "",
+              "Vaveda_secret": "wNgGbBx2AVp2zCvbAGxKuS07CByRCF3Z",
               "Name": "rftngwars - Rapid Rage : Raft Battle MainData"
             },
             "created_time": "2026-07-06T09:52:00.000Z",
-            "last_edited_time": "2026-07-06T09:56:00.000Z",
+            "last_edited_time": "2026-07-06T10:45:00.000Z",
             "url": "https://app.notion.com/p/rftngwars-Rapid-Rage-Raft-Battle-MainData-3959748bc8c2813da61bd873cc232f67",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
@@ -229,7 +229,20 @@
                   "CompanyName": "JoyByte Games"
                 },
                 "SDKSettings": {
-                  "Keys": [],
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "rftngbz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "wNgGbBx2AVp2zCvbAGxKuS07CByRCF3Z"
+                    }
+                  ],
                   "IsAmazon": true
                 }
               }
@@ -268,7 +281,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Full game name\n⚠️ Sub-Team\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ AF Link\n⚠️ Developer\n⚠️ Date Team Start\n⚠️ Date Team Finish"
+                  "string": "⚠️ Date Team Start\n⚠️ Date Team Finish"
                 }
               },
               "New promo link": {
@@ -279,15 +292,19 @@
               "Date Dev Start": {
                 "id": "%3D%7B%3Ej",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-07-06",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "Clone": null,
               "Days in Dev -> Release": {
                 "id": "%3EkOQ",
                 "type": "formula",
                 "formula": {
-                  "type": "string",
-                  "string": null
+                  "type": "number",
+                  "number": 2
                 }
               },
               "Are all prop. filled? ": {
@@ -302,7 +319,7 @@
               "AF Link": {
                 "id": "%40G%5E%3A",
                 "type": "url",
-                "url": null
+                "url": "https://hq1.appsflyer.com/apps/settings?appId=com.jybyt.rpdrg.rftb-Amazon"
               },
               "Long Description": "",
               "BB SDK Key (Android)": "",
@@ -315,7 +332,19 @@
               "Developer": {
                 "id": "%40%7Cvk",
                 "type": "people",
-                "people": []
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "18fd872b-594c-81d0-9431-00026ce80e8a",
+                    "name": "Denys Ismaylov",
+                    "avatar_url": null,
+                    "type": "person",
+                    "person": {
+                      "email": "denys.ismaylov@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
               },
               "PROGRESSION": "",
               "🎯 AllPages": [],
@@ -345,13 +374,13 @@
                 "type": "created_time",
                 "created_time": "2026-06-22T23:31:00.000Z"
               },
-              "All subscriptions for the current build are filled": false,
+              "All subscriptions for the current build are filled": true,
               "Missing info for Promo rebuild": {
                 "id": "CkT%3A",
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Promo Link\n⚠️ Full Game name"
+                  "string": "⚠️ Promo Link"
                 }
               },
               "CPI": {
@@ -368,20 +397,24 @@
                 "id": "DYYJ",
                 "type": "status",
                 "status": {
-                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
-                  "name": "BACKLOG",
-                  "color": "gray"
+                  "id": "gPu~",
+                  "name": "DEVELOPMENT",
+                  "color": "blue"
                 }
               },
               "Date Development Status Set": {
                 "id": "D%60fU",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-07-06",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-07-06T09:52:00.000Z"
+                "last_edited_time": "2026-07-06T10:45:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -407,11 +440,23 @@
                 "type": "number",
                 "number": null
               },
-              "Subscription screen changes include links to actual references (expected UI)": false,
+              "Subscription screen changes include links to actual references (expected UI)": true,
               "GD": {
                 "id": "FHAP",
                 "type": "people",
-                "people": []
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "23fd872b-594c-8113-8e19-0002c7464604",
+                    "name": "Kirill Kovalchuk",
+                    "avatar_url": null,
+                    "type": "person",
+                    "person": {
+                      "email": "kirill.kovalchuk@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
               },
               "CONTENT": "",
               "Due": {
@@ -474,7 +519,7 @@
                 "type": "number",
                 "number": null
               },
-              "Each config has its own separate description": false,
+              "Each config has its own separate description": true,
               "CR Total, %": {
                 "id": "MguI",
                 "type": "number",
@@ -523,14 +568,14 @@
               "Team ": "AMZ Direction",
               "Ref Link": "",
               "Build Paid Icon": null,
-              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
               "Create Paid Icon": null,
               "ByteBrew Link": {
                 "id": "QD%3Cd",
                 "type": "url",
                 "url": null
               },
-              "Outdated / unused elements are removed from GDD": false,
+              "Outdated / unused elements are removed from GDD": true,
               "Applovin Key": "",
               "Full Pack  Fire TV ": null,
               "iPad Screens": {
@@ -579,7 +624,7 @@
                 }
               },
               "BB SDK Key (iOS)": "",
-              "Feature description matches the latest implementation": false,
+              "Feature description matches the latest implementation": true,
               "Create New \"QA Task\"": null,
               "Status  Promo": {
                 "id": "TWT%3A",
@@ -606,8 +651,8 @@
                 "id": "VgPc",
                 "type": "formula",
                 "formula": {
-                  "type": "string",
-                  "string": null
+                  "type": "number",
+                  "number": 0
                 }
               },
               "parent": "Raft.io 3D",
@@ -623,14 +668,14 @@
                 "date": null
               },
               "Task Create Info": "",
-              "GDD Doc": "",
+              "GDD Doc": "-",
               "Full Pack Amz": null,
               "Missing Info for QA Task": {
                 "id": "ZSo%3D",
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Full game name\n⚠️ Sub-Team\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ AF Link\n⚠️ Developer\n⚠️ GD\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Quarter"
+                  "string": "⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Quarter"
                 }
               },
               "[Screenshots]": null,
@@ -651,7 +696,7 @@
                 "type": "number",
                 "number": null
               },
-              "Vaveda_key": "",
+              "Vaveda_key": "rftngbz",
               "Groups": [],
               "D1RET": {
                 "id": "%5D%3DAl",
@@ -675,14 +720,14 @@
                 "type": "number",
                 "number": null
               },
-              "Full game name": "",
+              "Full game name": "Rapid Rage : Raft Battle",
               "Firebase PLIST": [],
               "Are all prop filled": {
                 "id": "_%5D%5E%3A",
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ GD\n⚠️ Developer\n⚠️ Ref Link\n⚠️ Slack channel\n⚠️ Date to QA"
+                  "string": "⚠️ Ref Link\n⚠️ Date to QA"
                 }
               },
               "D1REW": {
@@ -691,7 +736,7 @@
                 "number": null
               },
               "ASO Name & Descripton Request": false,
-              "Build changes are marked in the task": false,
+              "Build changes are marked in the task": true,
               "Unity version": "",
               "Promo status info": "",
               "Average FPS": {
@@ -717,8 +762,8 @@
                 "number": null
               },
               "Test - Button No Validation": null,
-              "Release Type": "",
-              "GDD is updated for the current game version": false,
+              "Release Type": "First Release",
+              "GDD is updated for the current game version": true,
               "Link to ASO": {
                 "id": "d%3BwX",
                 "type": "url",
@@ -766,7 +811,7 @@
                 }
               },
               "Logotype Banner Promo Request": false,
-              "Slack Channel Link": "",
+              "Slack Channel Link": "-",
               "CTR": {
                 "id": "jqbZ",
                 "type": "number",
@@ -787,8 +832,8 @@
                 "type": "number",
                 "number": null
               },
-              "Vaveda_secret": "",
-              "ViraToolKit version": "",
+              "Vaveda_secret": "wNgGbBx2AVp2zCvbAGxKuS07CByRCF3Z",
+              "ViraToolKit version": "2.0.1",
               "Priority": "",
               "App ID(iOS)": "",
               "Int&Port Epics": [],
@@ -811,7 +856,7 @@
               "Paid\\Free": "Paid",
               "AMZ AppStore": null,
               "RESULTS": "",
-              "AF Key": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Goals": "",
               "Firebase JSON": [],
               "QA": "",
@@ -828,11 +873,14 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
-                  "avatar_url": null,
-                  "type": "bot",
-                  "bot": {}
+                  "id": "21cd872b-594c-81a8-8390-0002210a34c5",
+                  "name": "Ivan Pavliv",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "ivan.pavliv@vira.games",
+                    "email_verified": true
+                  }
                 }
               },
               "Account": {
@@ -851,7 +899,7 @@
                 "type": "date",
                 "date": null
               },
-              "Sub-team": "",
+              "Sub-team": "Storm Riders",
               "Date Team Start": {
                 "id": "rKeG",
                 "type": "date",
@@ -908,7 +956,7 @@
                 "id": "wQFr",
                 "type": "date",
                 "date": {
-                  "start": "2026-06-23",
+                  "start": "2026-07-06",
                   "end": null,
                   "time_zone": null
                 }
@@ -963,7 +1011,7 @@
               "Percent of Release": {
                 "id": "%7BRbl",
                 "type": "number",
-                "number": null
+                "number": 100
               },
               "AppMagic Info": [],
               "StartUp Time": {
@@ -1010,8 +1058,8 @@
                 "id": "~FLK",
                 "type": "formula",
                 "formula": {
-                  "type": "string",
-                  "string": null
+                  "type": "number",
+                  "number": 2
                 }
               },
               "BALANCE": "",
@@ -1036,7 +1084,7 @@
                   "boolean": false
                 }
               },
-              "Project": "rftngwars - Rapid Rage : Raft Battle",
+              "Project": "rftngbz - Rapid Rage : Raft Battle",
               "Description": "",
               "SubscriptionRevenueEvent": false,
               "AMZ Metrics Date & Comment": "",
@@ -1064,8 +1112,8 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-22T23:31:00.000Z",
-            "last_edited_time": "2026-07-06T09:52:00.000Z",
-            "url": "https://app.notion.com/p/rftngwars-Rapid-Rage-Raft-Battle-3879748bc8c280669018ddbe3c80ec82",
+            "last_edited_time": "2026-07-06T10:45:00.000Z",
+            "url": "https://app.notion.com/p/rftngbz-Rapid-Rage-Raft-Battle-3879748bc8c280669018ddbe3c80ec82",
             "children": {
               "Page_13c9748b-c8c2-81dd-8690-e083856d9be4": {
                 "id": "13c9748b-c8c2-81dd-8690-e083856d9be4",
