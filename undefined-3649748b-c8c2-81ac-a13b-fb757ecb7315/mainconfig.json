@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "cmvrsqz - Squishy Octopus"
             }
           },
           "MaxParentLinkToPromo": {
@@ -23,7 +23,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "https://drive.google.com/drive/folders/1Pe5WWjMmFur-JwLLlZ21kkcvmQzjyX-D?usp=drive_link"
             }
           },
           "(List)BundleId": "com.vira.squishy.octopus",
@@ -32,7 +32,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "com.vira.squishy.octopus"
             }
           },
           "MaxParentVersion": {
@@ -40,7 +40,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "Squishy Octopus MainData"
+              "string": "1.0.6"
             }
           },
           "Subscription Settings": [
@@ -49,19 +49,19 @@
           "MainData": [
             "3649748b-c8c2-8118-bafd-e18f4c8583d6"
           ],
-          "(List)Bundle Version": "",
+          "(List)Bundle Version": "10",
           "Platform": "",
           "💼 All Projects": [
             "2e79748b-c8c2-8059-bb5e-cfec19212db5"
           ],
           "RefreshConfig": null,
-          "(List)Version": "Squishy Octopus MainData",
+          "(List)Version": "1.0.6",
           "MaxParentBundleVersion": {
             "id": "fVoO",
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "10"
             }
           },
           "ProjectKey": "3649748b-c8c2-81ac-a13b-fb757ecb7315",
@@ -69,8 +69,8 @@
           "Name": "Squishy Octopus"
         },
         "created_time": "2026-05-18T10:34:00.000Z",
-        "last_edited_time": "2026-05-18T10:45:00.000Z",
-        "url": "https://www.notion.so/Squishy-Octopus-3649748bc8c281aca13bfb757ecb7315",
+        "last_edited_time": "2026-05-18T11:36:00.000Z",
+        "url": "https://app.notion.com/p/Squishy-Octopus-3649748bc8c281aca13bfb757ecb7315",
         "children": {
           "Squishy_Octopus_ProductCatalog": {
             "id": "3649748b-c8c2-8122-8fa3-edb2a1d4f2d5",
@@ -84,7 +84,7 @@
             },
             "created_time": "2026-05-18T10:34:00.000Z",
             "last_edited_time": "2026-05-18T10:34:00.000Z",
-            "url": "https://www.notion.so/Squishy-Octopus-ProductCatalog-3649748bc8c281228fa3edb2a1d4f2d5"
+            "url": "https://app.notion.com/p/Squishy-Octopus-ProductCatalog-3649748bc8c281228fa3edb2a1d4f2d5"
           },
           "Squishy_Octopus_SubDataCatalog": {
             "id": "3649748b-c8c2-8110-a963-efe50247bc63",
@@ -100,14 +100,14 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "com.vira.squishy.octopus"
                 }
               },
               "Name": "Squishy Octopus SubDataCatalog"
             },
             "created_time": "2026-05-18T10:34:00.000Z",
             "last_edited_time": "2026-05-18T10:34:00.000Z",
-            "url": "https://www.notion.so/Squishy-Octopus-SubDataCatalog-3649748bc8c28110a963efe50247bc63"
+            "url": "https://app.notion.com/p/Squishy-Octopus-SubDataCatalog-3649748bc8c28110a963efe50247bc63"
           },
           "Squishy_Octopus_MainData": {
             "id": "3649748b-c8c2-8118-bafd-e18f4c8583d6",
@@ -117,14 +117,14 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1Pe5WWjMmFur-JwLLlZ21kkcvmQzjyX-D?usp=drive_link"
                 }
               },
               "BundleVersionRollup": {
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "10"
                 }
               },
               "Platform": {
@@ -143,7 +143,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.4"
+                  "string": "1.0.6"
                 }
               },
               "Vaveda_key": "cmvrsqz",
@@ -152,14 +152,14 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1Pe5WWjMmFur-JwLLlZ21kkcvmQzjyX-D?usp=drive_link"
                 }
               },
               "VersionRollup": {
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "Squishy Octopus MainData"
+                  "string": "1.0.6"
                 }
               },
               "Parent": [
@@ -170,7 +170,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "8"
+                  "string": "10"
                 }
               },
               "Bundle Id": {
@@ -197,7 +197,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "com.vira.squishy.octopus"
                 }
               },
               "Vaveda_secret": "3ZzvxIxfv8h8VR9mQij5ybhxnMtZ4MWJ",
@@ -205,15 +205,15 @@
             },
             "created_time": "2026-05-18T10:34:00.000Z",
             "last_edited_time": "2026-05-18T11:36:00.000Z",
-            "url": "https://www.notion.so/Squishy-Octopus-MainData-3649748bc8c28118bafde18f4c8583d6",
+            "url": "https://app.notion.com/p/Squishy-Octopus-MainData-3649748bc8c28118bafde18f4c8583d6",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "",
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1Pe5WWjMmFur-JwLLlZ21kkcvmQzjyX-D?usp=drive_link",
                   "ProductName": "Squishy Octopus",
                   "BundleIdentifier": "com.vira.squishy.octopus",
-                  "Version": "1.0.4",
-                  "BundleVersionCode": 8,
+                  "Version": "1.0.6",
+                  "BundleVersionCode": 10,
                   "CompanyName": "Vira Games Inc"
                 },
                 "SDKSettings": {
@@ -269,7 +269,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Full game name\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish"
+                  "string": "⚠️ Full game name\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Date Team Start\n⚠️ Date Team Finish"
                 }
               },
               "New promo link": {
@@ -292,7 +292,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 9
+                  "number": 45
                 }
               },
               "Are all prop. filled? ": {
@@ -323,12 +323,17 @@
                 "people": [
                   {
                     "object": "user",
-                    "id": "399466a2-3d40-4190-bff0-3a579cff84fe",
-                    "name": "Mykhailo Havran",
-                    "avatar_url": "https://lh3.googleusercontent.com/a/AAcHTtcymRPby1Z94E9JoMuXHhe-Ldh-OlIPUvGqHbKd=s100",
+                    "id": "399466a2-3d40-4190-bff0-3a579cff84fe"
+                  },
+                  {
+                    "object": "user",
+                    "id": "2d1d872b-594c-810b-b7b3-0002094a6fd8",
+                    "name": "Maksym Zynych",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6d883be-2230-4c92-8fac-6f77bf2fcf9d/photo_2025-12-24_21-30-36_(2).jpg",
                     "type": "person",
                     "person": {
-                      "email": "mykhaylo.gavran@vira.games"
+                      "email": "maksym.zynych@vira.games",
+                      "email_verified": true
                     }
                   }
                 ]
@@ -384,9 +389,9 @@
                 "id": "DYYJ",
                 "type": "status",
                 "status": {
-                  "id": "gPu~",
-                  "name": "DEVELOPMENT",
-                  "color": "blue"
+                  "id": "a3ed735a-e5f9-43e5-9987-5306a79ee171",
+                  "name": "WAITING FOR DEV",
+                  "color": "purple"
                 }
               },
               "Date Development Status Set": {
@@ -401,7 +406,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-05-18T10:34:00.000Z"
+                "last_edited_time": "2026-07-06T13:59:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -412,7 +417,7 @@
                 "id": "Do%3DG",
                 "type": "date",
                 "date": {
-                  "start": "2026-01-22",
+                  "start": "2026-06-03",
                   "end": null,
                   "time_zone": null
                 }
@@ -438,12 +443,17 @@
                 "people": [
                   {
                     "object": "user",
-                    "id": "a57c8885-ece5-40fd-83aa-bcb1f32b4999",
-                    "name": "Vladyslav Krakhin",
-                    "avatar_url": "https://lh3.googleusercontent.com/a/AGNmyxZIVAJX9CuszY8SuYVOAS1KyYn_2Rmu4u7oJTHF=s100",
+                    "id": "a57c8885-ece5-40fd-83aa-bcb1f32b4999"
+                  },
+                  {
+                    "object": "user",
+                    "id": "e0257c78-9ef9-43d7-a5ba-2558204108f9",
+                    "name": "Maksym Shchevych",
+                    "avatar_url": null,
                     "type": "person",
                     "person": {
-                      "email": "vladyslav.krakhin@vira.games"
+                      "email": "maksym.shchevych@vira.games",
+                      "email_verified": true
                     }
                   }
                 ]
@@ -483,6 +493,7 @@
               },
               "CreateTKSettings": null,
               "Subscription JSON": [],
+              "GetGitlabInfo": null,
               "Days Start-Release": {
                 "id": "JXlK",
                 "type": "formula",
@@ -584,7 +595,7 @@
                 "type": "url",
                 "url": null
               },
-              "Version": "",
+              "Version": "1.0.6",
               "Show": {
                 "id": "RfDI",
                 "type": "number",
@@ -607,7 +618,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 15
+                  "number": 49
                 }
               },
               "iPhone Screens": {
@@ -615,13 +626,13 @@
                 "type": "url",
                 "url": null
               },
-              "Bundle Version": "",
+              "Bundle Version": "10",
               "Days for Art": {
                 "id": "T%3Edc",
                 "type": "formula",
                 "formula": {
-                  "type": "string",
-                  "string": null
+                  "type": "number",
+                  "number": 26
                 }
               },
               "BB SDK Key (iOS)": "",
@@ -687,7 +698,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Full game name\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Quarter"
+                  "string": "⚠️ Full game name\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Quarter"
                 }
               },
               "[Screenshots]": null,
@@ -749,12 +760,14 @@
               },
               "ASO Name & Descripton Request": false,
               "Build changes are marked in the task": false,
+              "Unity version": "",
               "Promo status info": "",
               "Average FPS": {
                 "id": "a%3Fdf",
                 "type": "number",
                 "number": null
               },
+              "Autobuild_buildNumber": "",
               "Polishing": "",
               "ExtraComments": "",
               "Full Pack Promo Request": false,
@@ -764,7 +777,7 @@
                 "type": "multi_select",
                 "multi_select": []
               },
-              "Documentation link": "",
+              "Documentation link": "Untitled",
               "Clone From": "",
               "D7RET": {
                 "id": "bE%7C%3A",
@@ -793,7 +806,7 @@
               "Public key": [
                 {
                   "name": "AppstoreAuthenticationKey.pem",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/09acb411-d398-4880-9f18-88a69254f514/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46644PSH3S6%2F20260518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260518T113630Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHdT%2Bi794LCi5u%2F1QX8cJ1zGJkmdW%2BkoSp%2Bu1%2Fdmb0H3AiEA7d3R1KsYJnZzpSuBwNW8HRjvh%2FPHu3NIF%2FPxUelKMdIqiAQIvP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDO66J7Uq4%2Fol8G1cZyrcA7UZdEmr7zpVVUvDUsAUtIQKzRV4DBWkV9c%2BnDqK9vnueBEHpt4L0iNa%2BX1thxZnMK6nT%2F4PmoQkf1HgEJWdjiJLhznTfMjo6qZYsKsNWApwU%2BiQA4iNlO8riuyb25fA5X5lHhbUW%2Bc3p1iVggBI7%2FQ2bpvG2zMsRd%2BRO2GYuHRGFmlP5%2B%2BkO80HXJgas%2Fm7Zj7%2BP49ozVqn1MH6Ev7Df1Dzh0bVH0VXpzVYKlhnQ%2Bj0YYD7C1d3OFb8jPDbYpqwTC3PfKzpYeiMCzHqWZnCxdQ9PrkYwy9X6OXgu2ZMxsiZSkZElBOD7vlIPT0wbIxVsAwrrv8zOOGAjTJC2kmgRs9V878oEFG5oHAIcKCIIhGCfrCCG0CxYrhgQc%2FN9q5tp4bAbi%2Brljp1VwGVx7Tdv%2F2GsogufZyYcGNuqJ6Bjk%2B4r2NWEciQZHc2exARMWkiNc7zjBTBTJyFXnjbZsOd8Bvnm45672TvhgevMLVYr4GDBUBKdzAPYxLIRdIIdfzgPEXPys3ncqJavb4Evc%2BCBqq4xIoGNoUNdwwNIHglKNzfK%2BdRRkll1n8AjmiO92k%2FX%2BlkwnFCp2Q%2BOXBHSJPWUZBgsJZLANbrw3ky%2BFarBIzCN8c6Bq0ODVmvk61wMMbnq9AGOqUB6v73T529wopRAg0KZNwc79hBHbR8kGZDkc9RX7upb2WDeLUuLASFxR2TxMc9HTF8KjQ6gIU49qhMkbtbEOrNOZ0xQM3SSgpH7xXgGHIRMN3lKcKW4ZN4VRYagBDdLb1PsZPYBDn%2Ft8%2BxX60Ht5Uy7J7NYnixc9uGSfE%2Fq9xblw5S2GFIGHQyYA%2BW6%2BqpmwepLD2GcY8O9NvdFn5PtF25%2B3t7Mzzp&X-Amz-Signature=a86c325533bca4edad3cee624f1a483c4edfc6394fcd092a436a6bab8e0aa4ac&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/09acb411-d398-4880-9f18-88a69254f514/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZIDLS7ZE%2F20260707%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260707T063821Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJ7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFt9UbnP88DTQPZE8k9WBNnw%2FWf1U8zQqGgO3Nf6nF09AiAKck%2FcajZazSkAIqKKa%2FqtbPkn%2FsuRTVhcRC2%2BmaJXKir%2FAwhmEAAaDDYzNzQyMzE4MzgwNSIM16z%2BFnKIdLH6K6ggKtwDMV3ycil2KqWxaFhsC%2BwcBz%2BJQwIidRXIbP9Z%2Bbepmzq1TCA0inaBcuG5s0lCvNSBRGzyzF12z6IZkEXtkVlaBgGkltNLt8Whtzf4QMD028%2BY105JKj%2Fk1hjV4yCQYfGlefiJC499IHU7lpnIpYuOt0e%2BofSUbs0KzJfkt66ia57NxLSkDhJKXeiYxlWlvi82M%2BcY4VV3lG%2BPDW9MA5kIOFdl3HxmFPRyVLwLyzf03GtIs6BCBcWP92NPgEABllAXhDMzy1advDANarS5xTtmBZbLvzSYXQZx9f2vXHniczexZo8rYnQxU%2FVauuGKNhd%2FYwG7D6EcM3jVANZ2LZszsxORk9LDg8S%2FHMTNotT1kB6MQkAjozcLemfrvnSDcizB0zHKBDSKbFCHI6kaUSJ9ofptidxWJ4KLGhrAIwGVkDsyBVjqTXMfBlaHKleXb2RjFIipqNYfFqxiouUJg27rMJdTRSdO9NoFiDoQryJIocXgyx56%2B6DS8ws3u2cVwdPdj1b4q%2F8J4OefiTVHvCP0s71E%2Bo9PjcfwzfMfqSsexpiRH1mxvDsfT%2FIiY9AWR3cCf0wwNw4p12Bd39wGizJn0DEY%2FyxgfCQbxbhTUpTegwzbr%2BtTD%2FZDxm1G%2BOAw9piy0gY6pgFm57fMo%2BvmMhAexkcz8LzAlHw1ODVjD%2FOjJjAYwUMgCoWaYhthwQHse0EIXjGk7BxRDeyqXl2GOtNeKXz3sYvJ%2FCywiqapmE4%2BCko9ICJsTrwwqve2Fv42Sfnz7AXFXN%2FjCxBX7ljp8N0i5cV3ElmOjrNokT2YAWEyhZwEzj0C6ST48oZx%2BZcayFTHwBYsqb3WEmzLB3ha%2FUA5mRGSI%2BH4CsEx%2Fov6&X-Amz-Signature=0a2b5f09db1a645a8f64a3ec05d242762f4e12ebbc66314ff1541b0bfb62f279&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "",
@@ -888,9 +901,9 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
-                  "avatar_url": null,
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
                   "type": "bot",
                   "bot": {}
                 }
@@ -911,7 +924,7 @@
                 "type": "date",
                 "date": null
               },
-              "Sub-team": "MAELSTROM",
+              "Sub-team": "Brazzers",
               "Date Team Start": {
                 "id": "rKeG",
                 "type": "date",
@@ -927,7 +940,8 @@
                   "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
                   "type": "person",
                   "person": {
-                    "email": "ivan.pavliv@vira.games"
+                    "email": "ivan.pavliv@vira.games",
+                    "email_verified": true
                   }
                 }
               },
@@ -971,7 +985,7 @@
                 "id": "wQFr",
                 "type": "date",
                 "date": {
-                  "start": "2026-05-07",
+                  "start": "2026-06-24",
                   "end": null,
                   "time_zone": null
                 }
@@ -1006,19 +1020,14 @@
               "Sub-s Database": [],
               "Amz Console: On Auto support": false,
               "Create QA Task": false,
+              "Create UA Tasks": null,
               "3D Artist": {
                 "id": "zHXV",
                 "type": "people",
                 "people": [
                   {
                     "object": "user",
-                    "id": "0151ec9a-82fa-4651-80ff-2c01c287adb5",
-                    "name": "Semen  Kaniuk",
-                    "avatar_url": "https://lh3.googleusercontent.com/a/AGNmyxbb0XpOZw2R8Sz9ZTTPB8g_MB6G8kMEuzYhwOM8=s100",
-                    "type": "person",
-                    "person": {
-                      "email": "semen.kanuk@vira.games"
-                    }
+                    "id": "0151ec9a-82fa-4651-80ff-2c01c287adb5"
                   }
                 ]
               },
@@ -1084,7 +1093,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 9
+                  "number": 45
                 }
               },
               "BALANCE": "",
@@ -1137,8 +1146,8 @@
               "Need a new Video?": false
             },
             "created_time": "2026-01-13T08:35:00.000Z",
-            "last_edited_time": "2026-05-18T10:34:00.000Z",
-            "url": "https://www.notion.so/cmvrsqz-Squishy-Octopus-2e79748bc8c28059bb5ecfec19212db5",
+            "last_edited_time": "2026-07-06T13:59:00.000Z",
+            "url": "https://app.notion.com/p/cmvrsqz-Squishy-Octopus-2e79748bc8c28059bb5ecfec19212db5",
             "children": {
               "Page_13c9748b-c8c2-81c9-8740-debaa6f584e0": {
                 "id": "13c9748b-c8c2-81c9-8740-debaa6f584e0",
@@ -1286,7 +1295,7 @@
                   "Last edited time": {
                     "id": "Dj%3Fm",
                     "type": "last_edited_time",
-                    "last_edited_time": "2025-04-07T03:10:00.000Z"
+                    "last_edited_time": "2026-05-28T07:25:00.000Z"
                   },
                   "Project Link": {
                     "id": "DjJJ",
@@ -1324,7 +1333,8 @@
                         "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c212f624-ee7a-40b5-81cf-78ca906b33d8/photo_2023-06-13_12-51-08_(1).jpg",
                         "type": "person",
                         "person": {
-                          "email": "vitalii.samofal@vira.games"
+                          "email": "vitalii.samofal@vira.games",
+                          "email_verified": true
                         }
                       }
                     ]
@@ -1364,6 +1374,7 @@
                   },
                   "CreateTKSettings": null,
                   "Subscription JSON": [],
+                  "GetGitlabInfo": null,
                   "Days Start-Release": {
                     "id": "JXlK",
                     "type": "formula",
@@ -1617,12 +1628,14 @@
                   },
                   "ASO Name & Descripton Request": false,
                   "Build changes are marked in the task": false,
+                  "Unity version": "",
                   "Promo status info": "",
                   "Average FPS": {
                     "id": "a%3Fdf",
                     "type": "number",
                     "number": null
                   },
+                  "Autobuild_buildNumber": "",
                   "Polishing": "",
                   "ExtraComments": "",
                   "Full Pack Promo Request": false,
@@ -1749,13 +1762,7 @@
                     "type": "last_edited_by",
                     "last_edited_by": {
                       "object": "user",
-                      "id": "48d0dbc5-1877-4fb2-a1f4-93611cafc5b5",
-                      "name": "Igor Lemon",
-                      "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJzve9oz7m_9NrGym8vE6z2K9uwD04GGYDDGeE8M=s100",
-                      "type": "person",
-                      "person": {
-                        "email": "igorlemon@vira.games"
-                      }
+                      "id": "a57c8885-ece5-40fd-83aa-bcb1f32b4999"
                     }
                   },
                   "Account": {
@@ -1857,6 +1864,7 @@
                   "Sub-s Database": [],
                   "Amz Console: On Auto support": false,
                   "Create QA Task": false,
+                  "Create UA Tasks": null,
                   "3D Artist": {
                     "id": "zHXV",
                     "type": "people",
@@ -1914,7 +1922,8 @@
                     "24e9748b-c8c2-80a6-ad9e-ed71d1809746",
                     "2569748b-c8c2-8040-818d-db37cda31371",
                     "2e79748b-c8c2-8059-bb5e-cfec19212db5",
-                    "35d9748b-c8c2-81f9-8352-c90d077ce32a"
+                    "35d9748b-c8c2-81f9-8352-c90d077ce32a",
+                    "36e9748b-c8c2-80cb-8aec-fe8807c57e86"
                   ],
                   "Date Art Finish Test": {
                     "id": "%7Dwfx",
@@ -1986,8 +1995,8 @@
                   "Need a new Video?": false
                 },
                 "created_time": "2024-11-12T21:30:00.000Z",
-                "last_edited_time": "2025-04-07T03:10:00.000Z",
-                "url": "https://www.notion.so/Stretch-Guy-13c9748bc8c281c98740debaa6f584e0"
+                "last_edited_time": "2026-05-28T07:25:00.000Z",
+                "url": "https://app.notion.com/p/Stretch-Guy-13c9748bc8c281c98740debaa6f584e0"
               }
             }
           }
