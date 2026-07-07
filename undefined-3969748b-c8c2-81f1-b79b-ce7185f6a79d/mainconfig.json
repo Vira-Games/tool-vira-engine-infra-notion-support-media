@@ -50,7 +50,7 @@
             "3969748b-c8c2-8121-9a02-e9276f6023b6"
           ],
           "(List)Bundle Version": "17",
-          "Platform": "",
+          "Platform": "Fire TV",
           "💼 All Projects": [
             "3659748b-c8c2-8093-b3d5-f1c9df133e74"
           ],
@@ -69,7 +69,7 @@
           "Name": "Crazy Goal: *Football Master"
         },
         "created_time": "2026-07-07T08:31:00.000Z",
-        "last_edited_time": "2026-07-07T08:31:00.000Z",
+        "last_edited_time": "2026-07-07T08:34:00.000Z",
         "url": "https://app.notion.com/p/Crazy-Goal-Football-Master-3969748bc8c281f1b79bce7185f6a79d",
         "children": {
           "Crazy_Goal___Football_Master_ProductCatalog": {
@@ -93,7 +93,7 @@
               "Parent": [
                 "3969748b-c8c2-81f1-b79b-ce7185f6a79d"
               ],
-              "Platform": "",
+              "Platform": "Fire TV",
               "Subscriptions": [],
               "Apply": null,
               "bundleID": {
