@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "nmssrnz - \nEnemy Smash : Sword Runner"
+              "string": "nmssrnz - Enemy Smash : Sword Runner"
             }
           },
           "MaxParentLinkToPromo": {
@@ -196,7 +196,13 @@
               "Account": {
                 "id": "e%7C~F",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "51763732-6194-488a-a309-61471a5e378d",
+                    "name": "BrightCore Studio",
+                    "color": "pink"
+                  }
+                ]
               },
               "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Bundle Id Rollup": {
@@ -210,7 +216,7 @@
               "Name": "Enemy Smash : Sword Runner MainData"
             },
             "created_time": "2026-07-10T08:33:00.000Z",
-            "last_edited_time": "2026-07-10T08:35:00.000Z",
+            "last_edited_time": "2026-07-10T08:51:00.000Z",
             "url": "https://app.notion.com/p/Enemy-Smash-Sword-Runner-MainData-3999748bc8c28114aa9ee10736a1291e",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
@@ -220,7 +226,7 @@
                   "BundleIdentifier": "com.brghtcrstd.nm.smash",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
-                  "CompanyName": ""
+                  "CompanyName": "BrightCore Studio"
                 },
                 "SDKSettings": {
                   "Keys": [
@@ -408,7 +414,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-07-10T08:33:00.000Z"
+                "last_edited_time": "2026-07-10T08:49:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -868,11 +874,14 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
-                  "name": "Vira Games Bot",
-                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
-                  "type": "bot",
-                  "bot": {}
+                  "id": "21cd872b-594c-81a8-8390-0002210a34c5",
+                  "name": "Ivan Pavliv",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "ivan.pavliv@vira.games",
+                    "email_verified": true
+                  }
                 }
               },
               "Account": {
@@ -1076,7 +1085,7 @@
                   "boolean": false
                 }
               },
-              "Project": "nmssrnz - \nEnemy Smash : Sword Runner",
+              "Project": "nmssrnz - Enemy Smash : Sword Runner",
               "Description": "",
               "SubscriptionRevenueEvent": false,
               "AMZ Metrics Date & Comment": "",
@@ -1104,7 +1113,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-07-10T08:25:00.000Z",
-            "last_edited_time": "2026-07-10T08:33:00.000Z",
+            "last_edited_time": "2026-07-10T08:49:00.000Z",
             "url": "https://app.notion.com/p/nmssrnz-Enemy-Smash-Sword-Runner-9319748bc8c28273b87b81b32ad6f1ba",
             "children": {
               "Page_13c9748b-c8c2-81da-bae7-e97986e11ec9": {
