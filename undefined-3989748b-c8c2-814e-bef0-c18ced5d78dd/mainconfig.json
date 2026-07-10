@@ -23,7 +23,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "https://drive.google.com/drive/u/0/folders/1a_wu4-nB7hDPHhf1Vq22bn63ozTmHSQy"
             }
           },
           "(List)BundleId": "com.eltcrgms.drk.canvas",
@@ -65,11 +65,11 @@
             }
           },
           "ProjectKey": "3989748b-c8c2-814e-bef0-c18ced5d78dd",
-          "(List)LinkToPromo": "",
+          "(List)LinkToPromo": "https://drive.google.com/drive/u/0/folders/1a_wu4-nB7hDPHhf1Vq22bn63ozTmHSQy",
           "Name": "Dark Canvas : Silhouette Magic"
         },
         "created_time": "2026-07-09T15:51:00.000Z",
-        "last_edited_time": "2026-07-09T15:51:00.000Z",
+        "last_edited_time": "2026-07-09T16:47:00.000Z",
         "url": "https://app.notion.com/p/Dark-Canvas-Silhouette-Magic-3989748bc8c2814ebef0c18ced5d78dd",
         "children": {
           "Dark_Canvas___Silhouette_Magic_ProductCatalog": {
@@ -117,7 +117,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/u/0/folders/1a_wu4-nB7hDPHhf1Vq22bn63ozTmHSQy"
                 }
               },
               "BundleVersionRollup": {
@@ -164,7 +164,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/u/0/folders/1a_wu4-nB7hDPHhf1Vq22bn63ozTmHSQy"
                 }
               },
               "VersionRollup": {
@@ -221,7 +221,7 @@
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "",
+                  "LinkToPromo": "https://drive.google.com/drive/u/0/folders/1a_wu4-nB7hDPHhf1Vq22bn63ozTmHSQy",
                   "ProductName": "Dark Canvas : Silhouette Magic",
                   "BundleIdentifier": "com.eltcrgms.drk.canvas",
                   "Version": "1.0.0",
@@ -304,7 +304,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 5
+                  "number": 6
                 }
               },
               "Are all prop. filled? ": {
@@ -321,7 +321,7 @@
                 "type": "url",
                 "url": "https://hq1.appsflyer.com/apps/settings?appId=com.eltcrgms.drk.canvas-Amazon"
               },
-              "Long Description": "",
+              "Long Description": "Enter a world of ink and mystery in Dark Canvas: Silhouette Magic, a atmospheric puzzle game where every shadow holds a secret. Shape silhouettes, bend light, and paint darkness to unlock hidden paths through a hand-drawn, storybook realm.\n\nEach level is a living painting. You’ll drag, rotate, and resize objects to cast the perfect shadow, matching strange outlines on ancient walls. When the silhouette fits, shadow portals open, bridges appear, and magical mechanisms come to life. Simple touch controls make it easy to experiment as you play with perspective, light, and shape.\n\nAs you progress, new puzzle elements appear: moving lanterns, rotating mirrors, shifting platforms, and enchanted artifacts that change the way shadows behave. Combine them in the right order to complete silhouette patterns, trigger runes, and reveal the next part of the dark canvas. Earn stars for smart solutions and revisit earlier stages to discover hidden challenges.\n\nDark Canvas: Silhouette Magic is perfect for fans of relaxing yet brain-teasing puzzle games. Short, satisfying levels are ideal for quick sessions, while later stages offer deeper logic challenges for dedicated players. With its minimalist art, soft music, and clever light-and-shadow mechanics, this offline puzzle adventure is as calming as it is intriguing.\n\nPick up your magical brush, step into the darkness, and let the silhouettes guide your way. Download now and see what secrets are hiding in the shadows.",
               "BB SDK Key (Android)": "",
               "Icon Promo Request": false,
               "pLTV 180": {
@@ -368,7 +368,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Promo Link"
+                  "string": ""
                 }
               },
               "CPI": {
@@ -402,7 +402,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-07-09T15:51:00.000Z"
+                "last_edited_time": "2026-07-10T08:50:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -462,7 +462,7 @@
               "ASO Name & Description": null,
               "External\\internal": "",
               "⏺️ ASO | Calendar": [],
-              "Product Features": "",
+              "Product Features": "🧩 Shadow Silhouette Puzzles — Align objects to match mysterious outlines\n🎨 Magic Canvas World — Explore hand-drawn, ink-inspired puzzle scenes\n🕯️ Light & Darkness Mechanics — Move lanterns and mirrors to bend shadows\n🧠 Growing Challenge — Start simple, then master multi-step logic puzzles\n🔓 Unlock New Tools — Discover enchanted artifacts that alter how shadows behave\n🎵 Relaxing Atmosphere — Soothing sound and minimalist visuals for calm play",
               "Promo Task ": [],
               "Monetization DB": [],
               "Banner Key": "",
@@ -471,7 +471,7 @@
                 "type": "date",
                 "date": null
               },
-              "Short Description": "",
+              "Short Description": "Paint shadows to solve puzzles",
               "Creo Status": "",
               "Amz Int & Port Tasks Template": null,
               "Tools": {
@@ -490,7 +490,7 @@
                   "string": null
                 }
               },
-              "AMZ releaseId": "amzn1.devportal.apprelease.465e2bad4bff4867954a0c7befd8fc21",
+              "AMZ releaseId": "amzn1.devportal.apprelease.4a689620b0ed420dba424dd6f1fd6b62",
               "[Logotype]": null,
               "CR Subs, %": {
                 "id": "KKZH",
@@ -545,7 +545,7 @@
                 "multi_select": []
               },
               "Create Task (No Check)": null,
-              "Developer AMZ AppStore Link": "https://developer.amazon.com/apps-and-games/console/app/amzn1.devportal.mobileapp.2d4e9089835a49db8d3d6ebca3d21ac9/release/amzn1.devportal.apprelease.465e2bad4bff4867954a0c7befd8fc21/submission/app-files",
+              "Developer AMZ AppStore Link": "https://developer.amazon.com/apps-and-games/console/app/amzn1.devportal.mobileapp.130b4133f93b46ecbe6dccfc86a0c3c5/release/amzn1.devportal.apprelease.4a689620b0ed420dba424dd6f1fd6b62/submission/app-files",
               "pLTV 7": {
                 "id": "OPM%5C",
                 "type": "number",
@@ -663,7 +663,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Developer\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Quarter"
+                  "string": "⚠️ Developer\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Quarter"
                 }
               },
               "[Screenshots]": null,
@@ -788,7 +788,7 @@
                 "type": "number",
                 "number": null
               },
-              "Keywords": "",
+              "Keywords": "puzzle, shadow, silhouette, magic, brain, logic, relaxing, offline, art, casual",
               "IOS Distribution profile": [],
               "Status 1": {
                 "id": "ihRL",
@@ -850,7 +850,7 @@
               "Firebase JSON": [],
               "QA": "",
               "Hypothesys": [],
-              "AMZ appId": "amzn1.devportal.mobileapp.2d4e9089835a49db8d3d6ebca3d21ac9",
+              "AMZ appId": "amzn1.devportal.mobileapp.130b4133f93b46ecbe6dccfc86a0c3c5",
               "Opt-In": {
                 "id": "p_Ic",
                 "type": "number",
@@ -862,9 +862,9 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
-                  "avatar_url": null,
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
                   "type": "bot",
                   "bot": {}
                 }
@@ -952,7 +952,7 @@
                 "type": "number",
                 "number": null
               },
-              "Link to Promo": "",
+              "Link to Promo": "https://drive.google.com/drive/u/0/folders/1a_wu4-nB7hDPHhf1Vq22bn63ozTmHSQy",
               "[Creatives] Tasks": [],
               "ipm TEST": {
                 "id": "xWSH",
@@ -1045,7 +1045,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 5
+                  "number": 6
                 }
               },
               "BALANCE": "",
@@ -1098,7 +1098,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-07-09T10:04:00.000Z",
-            "last_edited_time": "2026-07-09T15:51:00.000Z",
+            "last_edited_time": "2026-07-10T08:50:00.000Z",
             "url": "https://app.notion.com/p/cslhttz-Dark-Canvas-Silhouette-Magic-0b59748bc8c2830dbe8b81f677f949f4",
             "children": {
               "Page_13c9748b-c8c2-81d7-966e-f3f9184c584f": {
