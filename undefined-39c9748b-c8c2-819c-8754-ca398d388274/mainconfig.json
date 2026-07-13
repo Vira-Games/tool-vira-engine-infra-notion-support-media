@@ -1,0 +1,1962 @@
+{
+  "pageId": "39c9748b-c8c2-819c-8754-ca398d388274",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Hammer_Clash___Arena_Mayhem": {
+        "id": "39c9748b-c8c2-819c-8754-ca398d388274",
+        "title": "Hammer Clash : Arena Mayhem",
+        "properties": {
+          "ProductCatalog": [
+            "39c9748b-c8c2-81a7-9735-d0449c3c0c69"
+          ],
+          "MaxParent": {
+            "id": "F%7BpA",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "hmcrmhz - Hammer Clash : Arena Mayhem"
+            }
+          },
+          "MaxParentLinkToPromo": {
+            "id": "GC%3FS",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "https://drive.google.com/drive/folders/1TUMQHg1-BbACMWpH5MSI4fN0faVg0SYb"
+            }
+          },
+          "(List)BundleId": "com.dgstrmgms.hmmr.clash",
+          "MaxParentBundleID": {
+            "id": "LAsk",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "com.dgstrmgms.hmmr.clash"
+            }
+          },
+          "MaxParentVersion": {
+            "id": "Njfg",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1.0.0"
+            }
+          },
+          "Subscription Settings": [
+            "39c9748b-c8c2-815d-adaa-e74a88a1c890"
+          ],
+          "MainData": [
+            "39c9748b-c8c2-81a2-9e5b-fd023a946ec0"
+          ],
+          "(List)Bundle Version": "1",
+          "Platform": "",
+          "💼 All Projects": [
+            "5a69748b-c8c2-8384-982a-01ef2d3e8cff"
+          ],
+          "RefreshConfig": null,
+          "(List)Version": "1.0.0",
+          "MaxParentBundleVersion": {
+            "id": "fVoO",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1"
+            }
+          },
+          "ProjectKey": "39c9748b-c8c2-819c-8754-ca398d388274",
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1TUMQHg1-BbACMWpH5MSI4fN0faVg0SYb",
+          "Name": "Hammer Clash : Arena Mayhem"
+        },
+        "created_time": "2026-07-13T08:06:00.000Z",
+        "last_edited_time": "2026-07-13T08:07:00.000Z",
+        "url": "https://app.notion.com/p/Hammer-Clash-Arena-Mayhem-39c9748bc8c2819c8754ca398d388274",
+        "children": {
+          "Hammer_Clash___Arena_Mayhem_ProductCatalog": {
+            "id": "39c9748b-c8c2-81a7-9735-d0449c3c0c69",
+            "title": "Hammer Clash : Arena Mayhem ProductCatalog",
+            "properties": {
+              "Parent": [
+                "39c9748b-c8c2-819c-8754-ca398d388274"
+              ],
+              "Products": [],
+              "Name": "Hammer Clash : Arena Mayhem ProductCatalog"
+            },
+            "created_time": "2026-07-13T08:06:00.000Z",
+            "last_edited_time": "2026-07-13T08:07:00.000Z",
+            "url": "https://app.notion.com/p/Hammer-Clash-Arena-Mayhem-ProductCatalog-39c9748bc8c281a79735d0449c3c0c69"
+          },
+          "Hammer_Clash___Arena_Mayhem_SubDataCatalog": {
+            "id": "39c9748b-c8c2-815d-adaa-e74a88a1c890",
+            "title": "Hammer Clash : Arena Mayhem SubDataCatalog",
+            "properties": {
+              "Parent": [
+                "39c9748b-c8c2-819c-8754-ca398d388274"
+              ],
+              "Platform": "",
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.dgstrmgms.hmmr.clash"
+                }
+              },
+              "Name": "Hammer Clash : Arena Mayhem SubDataCatalog"
+            },
+            "created_time": "2026-07-13T08:06:00.000Z",
+            "last_edited_time": "2026-07-13T08:07:00.000Z",
+            "url": "https://app.notion.com/p/Hammer-Clash-Arena-Mayhem-SubDataCatalog-39c9748bc8c2815dadaae74a88a1c890"
+          },
+          "Hammer_Clash___Arena_Mayhem_MainData": {
+            "id": "39c9748b-c8c2-81a2-9e5b-fd023a946ec0",
+            "title": "Hammer Clash : Arena Mayhem MainData",
+            "properties": {
+              "LinkToPromoRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/folders/1TUMQHg1-BbACMWpH5MSI4fN0faVg0SYb"
+                }
+              },
+              "BundleVersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1"
+                }
+              },
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                    "name": "AMZ",
+                    "color": "default"
+                  }
+                ]
+              },
+              "Paid/Free": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "5f5946de-66a2-4550-abb2-1f2c40b088cc",
+                    "name": "Paid",
+                    "color": "green"
+                  }
+                ]
+              },
+              "App Name": "Hammer Clash : Arena Mayhem",
+              "Version": {
+                "id": "PczY",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.0"
+                }
+              },
+              "Vaveda_key": "hmcrmhz",
+              "Link to Promo": {
+                "id": "%5CVgk",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/folders/1TUMQHg1-BbACMWpH5MSI4fN0faVg0SYb"
+                }
+              },
+              "VersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.0"
+                }
+              },
+              "Parent": [
+                "39c9748b-c8c2-819c-8754-ca398d388274"
+              ],
+              "Bundle Version": {
+                "id": "%5D~p%60",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1"
+                }
+              },
+              "Bundle Id": {
+                "id": "%5E%7D%3Aj",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.dgstrmgms.hmmr.clash"
+                }
+              },
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "0718e64c-a1fe-4b12-898e-09ebfe54514c",
+                    "name": "DigiStorm Games",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.dgstrmgms.hmmr.clash"
+                }
+              },
+              "Vaveda_secret": "wDoXUGgnVfHacCwXn4iqrFtMF6zU0RSM",
+              "Name": "Hammer Clash : Arena Mayhem MainData"
+            },
+            "created_time": "2026-07-13T08:07:00.000Z",
+            "last_edited_time": "2026-07-13T08:18:00.000Z",
+            "url": "https://app.notion.com/p/Hammer-Clash-Arena-Mayhem-MainData-39c9748bc8c281a29e5bfd023a946ec0",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1TUMQHg1-BbACMWpH5MSI4fN0faVg0SYb",
+                  "ProductName": "Hammer Clash : Arena Mayhem",
+                  "BundleIdentifier": "com.dgstrmgms.hmmr.clash",
+                  "Version": "1.0.0",
+                  "BundleVersionCode": 1,
+                  "CompanyName": "DigiStorm Games"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "hmcrmhz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "wDoXUGgnVfHacCwXn4iqrFtMF6zU0RSM"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          },
+          "Page_5a69748b-c8c2-8384-982a-01ef2d3e8cff": {
+            "id": "5a69748b-c8c2-8384-982a-01ef2d3e8cff",
+            "title": "Page 5a69748b-c8c2-8384-982a-01ef2d3e8cff",
+            "properties": {
+              "CR_SUB_WW": {
+                "id": "%3A%3Br_",
+                "type": "number",
+                "number": null
+              },
+              "Create Paid Promo Rebuild ": null,
+              "Installs US": {
+                "id": "%3Au%7BN",
+                "type": "number",
+                "number": null
+              },
+              "Creatives Status": {
+                "id": "%3B%60E%3C",
+                "type": "status",
+                "status": {
+                  "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "[Icon]": null,
+              "TOP AMZ for Sub Screen Upates": [],
+              "Ref Name": "",
+              "ASIN": "",
+              "Missing Info for Dev(Cross)": {
+                "id": "%3Cv%60H",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Date Team Start\n⚠️ Date Team Finish"
+                }
+              },
+              "New promo link": {
+                "id": "%3DU%3BG",
+                "type": "url",
+                "url": null
+              },
+              "Date Dev Start": {
+                "id": "%3D%7B%3Ej",
+                "type": "date",
+                "date": {
+                  "start": "2026-07-06",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Clone": null,
+              "Days in Dev -> Release": {
+                "id": "%3EkOQ",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 7
+                }
+              },
+              "Are all prop. filled? ": {
+                "id": "%3Epbv",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "false"
+                }
+              },
+              "All Projects Info Old": [],
+              "AF Link": {
+                "id": "%40G%5E%3A",
+                "type": "url",
+                "url": "https://hq1.appsflyer.com/apps/settings?appId=com.dgstrmgms.hmmr.clash-Amazon"
+              },
+              "Long Description": "Step into Hammer Clash: Arena Mayhem and enter a wild battleground where every hit counts. Grab your mighty hammer, charge into the arena, and smash your way through chaotic close‑combat fights packed with physics-based knockbacks and hilarious impacts.\n\nEach match drops you into a small arena filled with enemies, moving traps, and environmental hazards. Move, dodge, and swing your hammer at the perfect moment to send rivals flying out of the ring. Time your attacks, use the arena edges to your advantage, and stay on your feet as the last fighter standing.\n\nAs you play, collect coins and rewards to unlock new hammers, armor styles, and stronger upgrades. Discover different arena layouts with spinning blades, falling floors, and bouncing obstacles that change how every battle feels. Face tougher waves of opponents, sharper AI, and faster-paced clashes that demand quick reactions and clever positioning.\n\nHammer Clash: Arena Mayhem is perfect for fans of action arena games, brawlers, and physics-based combat. Simple controls and short battles make it easy to jump in for a quick fight, while unlocks and upgrades keep you coming back to master each hammer and arena.\n\nPick up your hammer, dive into the chaos, and rule the arena today.",
+              "BB SDK Key (Android)": "",
+              "Icon Promo Request": false,
+              "pLTV 180": {
+                "id": "%40zGB",
+                "type": "number",
+                "number": null
+              },
+              "Developer": {
+                "id": "%40%7Cvk",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "26cd872b-594c-81ba-bd6b-00022cbd249d",
+                    "name": "Oleksandr Kovalevskyi",
+                    "avatar_url": null,
+                    "type": "person",
+                    "person": {
+                      "email": "oleksandr.kovalevskyi@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "PROGRESSION": "",
+              "🎯 AllPages": [],
+              "Project Subs Metrics": [],
+              "Status (Copy)": {
+                "id": "BVo%40",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Mintegral Status": "",
+              "Creo Link": "",
+              "Days Start-Finish": {
+                "id": "Bzh%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "Sum SP": "",
+              "Created time": {
+                "id": "B~Qf",
+                "type": "created_time",
+                "created_time": "2026-07-09T10:02:00.000Z"
+              },
+              "All subscriptions for the current build are filled": true,
+              "Missing info for Promo rebuild": {
+                "id": "CkT%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "CPI": {
+                "id": "Cxr%40",
+                "type": "number",
+                "number": null
+              },
+              "Teams use": {
+                "id": "D%40CI",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Status": {
+                "id": "DYYJ",
+                "type": "status",
+                "status": {
+                  "id": "Y=]I",
+                  "name": "To Do",
+                  "color": "orange"
+                }
+              },
+              "Date Development Status Set": {
+                "id": "D%60fU",
+                "type": "date",
+                "date": {
+                  "start": "2026-07-06",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Last edited time": {
+                "id": "Dj%3Fm",
+                "type": "last_edited_time",
+                "last_edited_time": "2026-07-13T08:07:00.000Z"
+              },
+              "Project Link": {
+                "id": "DjJJ",
+                "type": "url",
+                "url": null
+              },
+              "Date Art Finish": {
+                "id": "Do%3DG",
+                "type": "date",
+                "date": null
+              },
+              "Bundle ID": "com.dgstrmgms.hmmr.clash",
+              "Price": {
+                "id": "EUeu",
+                "type": "number",
+                "number": 9.99
+              },
+              "Project Score Analysys": "",
+              "[Promo] Tasks ": [],
+              "TECH": "",
+              "CTR TEST": {
+                "id": "Ejyo",
+                "type": "number",
+                "number": null
+              },
+              "Subscription screen changes include links to actual references (expected UI)": true,
+              "GD": {
+                "id": "FHAP",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "21cd872b-594c-81a8-8390-0002210a34c5",
+                    "name": "Ivan Pavliv",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "ivan.pavliv@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "CONTENT": "",
+              "Due": {
+                "id": "FaCd",
+                "type": "date",
+                "date": null
+              },
+              "Link to Old Promo": {
+                "id": "FbpI",
+                "type": "url",
+                "url": null
+              },
+              "QA Task File": "",
+              "Task from Growth": [],
+              "ASO Name & Description": null,
+              "External\\internal": "",
+              "⏺️ ASO | Calendar": [],
+              "Product Features": "💥 Arena Brawler Action — Swing your hammer and knock rivals out of the ring\n🛡️ Simple Controls — Move, dodge, and smash with easy, responsive gameplay\n🏟️ Dynamic Arenas — Fight in stages with traps, moving platforms, and hazards\n🧲 Physics Knockbacks — Send enemies flying with powerful, satisfying hits\n🪓 Unlock New Hammers — Earn coins to collect stronger and cooler weapon skins\n⬆️ Upgrade Your Fighter — Improve power, speed, and durability as you progress\n🔥 Endless Mayhem — Rise through tougher waves and chase your best battle streak",
+              "Promo Task ": [],
+              "Monetization DB": [],
+              "Banner Key": "",
+              "Date Info Updated": {
+                "id": "HqDO",
+                "type": "date",
+                "date": null
+              },
+              "Short Description": "Smash rivals in hammer duels",
+              "Creo Status": "",
+              "Amz Int & Port Tasks Template": null,
+              "Tools": {
+                "id": "IZP%3F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "CreateTKSettings": null,
+              "Subscription JSON": [],
+              "GetGitlabInfo": null,
+              "Days Start-Release": {
+                "id": "JXlK",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "AMZ releaseId": "amzn1.devportal.apprelease.f26f5bb279f149fc8ac36835a038eed2",
+              "[Logotype]": null,
+              "CR Subs, %": {
+                "id": "KKZH",
+                "type": "number",
+                "number": null
+              },
+              "Date": {
+                "id": "LkTZ",
+                "type": "date",
+                "date": null
+              },
+              "D3REW": {
+                "id": "M%5E%40L",
+                "type": "number",
+                "number": null
+              },
+              "Each config has its own separate description": true,
+              "CR Total, %": {
+                "id": "MguI",
+                "type": "number",
+                "number": null
+              },
+              "D7INT": {
+                "id": "MqkG",
+                "type": "number",
+                "number": null
+              },
+              "PaidConfigGroup": [],
+              "D1INT": {
+                "id": "N%3AM%60",
+                "type": "number",
+                "number": null
+              },
+              "Automation Info (AppStore)": "✅ AMZ page created",
+              "Previous Status": {
+                "id": "NSz%7D",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Traffic Source": {
+                "id": "N%5E%3Cm",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Game Type": {
+                "id": "NcId",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Create Task (No Check)": null,
+              "Developer AMZ AppStore Link": "https://developer.amazon.com/apps-and-games/console/app/amzn1.devportal.mobileapp.e6d0f86e1eea497184ba61767215e1b9/release/amzn1.devportal.apprelease.f26f5bb279f149fc8ac36835a038eed2/submission/app-files",
+              "pLTV 7": {
+                "id": "OPM%5C",
+                "type": "number",
+                "number": null
+              },
+              "Interstitial Key": "",
+              "BB Game ID (iOS)": "",
+              "Team ": "AMZ Direction",
+              "Ref Link": "",
+              "Build Paid Icon": null,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
+              "Create Paid Icon": null,
+              "ByteBrew Link": {
+                "id": "QD%3Cd",
+                "type": "url",
+                "url": null
+              },
+              "Outdated / unused elements are removed from GDD": true,
+              "Applovin Key": "",
+              "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
+              "Version": "1.0.0",
+              "Show": {
+                "id": "RfDI",
+                "type": "number",
+                "number": null
+              },
+              "QA | Tasks": [],
+              "Fullsreen Banner Promo Request": false,
+              "📽️ Creatives Team Tasks": [],
+              "Bright SDK Review Status": {
+                "id": "SXax",
+                "type": "status",
+                "status": {
+                  "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                  "name": "Implementation",
+                  "color": "default"
+                }
+              },
+              "Days for Art Test": {
+                "id": "SdR%3B",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
+              },
+              "Bundle Version": "1",
+              "Days for Art": {
+                "id": "T%3Edc",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "BB SDK Key (iOS)": "",
+              "Feature description matches the latest implementation": true,
+              "Create New \"QA Task\"": null,
+              "Status  Promo": {
+                "id": "TWT%3A",
+                "type": "status",
+                "status": {
+                  "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Click": {
+                "id": "TkDm",
+                "type": "number",
+                "number": null
+              },
+              "GA Game Key": "",
+              "CTR Video link": "",
+              "Link to Automation": {
+                "id": "VRV%3B",
+                "type": "url",
+                "url": null
+              },
+              "Days in QA": {
+                "id": "VgPc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 0
+                }
+              },
+              "parent": "Hammer.io",
+              "Genre": {
+                "id": "V~Gf",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "BB Game ID (Android)": "",
+              "Date QA Finished": {
+                "id": "X%5Cma",
+                "type": "date",
+                "date": null
+              },
+              "Task Create Info": "",
+              "GDD Doc": "-",
+              "Full Pack Amz": null,
+              "Missing Info for QA Task": {
+                "id": "ZSo%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Quarter"
+                }
+              },
+              "[Screenshots]": null,
+              "Specialist": {
+                "id": "Zy%3F%3A",
+                "type": "people",
+                "people": []
+              },
+              "A/B Group": "",
+              "Full Pack TV Promo Request": false,
+              "Date Team Finish": {
+                "id": "%5B%5E%3AX",
+                "type": "date",
+                "date": null
+              },
+              "IPM STATIC": {
+                "id": "%5Bagu",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_key": "hmcrmhz",
+              "Groups": [],
+              "D1RET": {
+                "id": "%5D%3DAl",
+                "type": "number",
+                "number": null
+              },
+              "[Fullscreen Banner]": null,
+              "CR_SUB_US": {
+                "id": "%5Dz%7CJ",
+                "type": "number",
+                "number": null
+              },
+              "D7BAN": {
+                "id": "%5E%3A%3F%3B",
+                "type": "number",
+                "number": null
+              },
+              "MONETIZATION": "",
+              "D3BAN": {
+                "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "Full game name": "Hammer Clash : Arena Mayhem",
+              "Firebase PLIST": [],
+              "Are all prop filled": {
+                "id": "_%5D%5E%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Ref Link\n⚠️ Date to QA"
+                }
+              },
+              "D1REW": {
+                "id": "_bnb",
+                "type": "number",
+                "number": null
+              },
+              "ASO Name & Descripton Request": false,
+              "Build changes are marked in the task": true,
+              "Unity version": "",
+              "Promo status info": "",
+              "Average FPS": {
+                "id": "a%3Fdf",
+                "type": "number",
+                "number": null
+              },
+              "Autobuild_buildNumber": "",
+              "Polishing": "",
+              "ExtraComments": "",
+              "Full Pack Promo Request": false,
+              "Art Subs Links": "",
+              "Sprint": {
+                "id": "afeU",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Documentation link": "-",
+              "Clone From": "",
+              "D7RET": {
+                "id": "bE%7C%3A",
+                "type": "number",
+                "number": null
+              },
+              "Test - Button No Validation": null,
+              "Release Type": "First Release",
+              "GDD is updated for the current game version": true,
+              "Link to ASO": {
+                "id": "d%3BwX",
+                "type": "url",
+                "url": null
+              },
+              "Create Paid Banner": null,
+              "Prod Promo Approve": "",
+              "RW Key": "",
+              "Art Content Table": null,
+              "What's new": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)\n\n",
+              "100% Release Date": {
+                "id": "e%5Ec%7C",
+                "type": "date",
+                "date": null
+              },
+              "Api key": "",
+              "[Static Banner]": null,
+              "Public key": [],
+              "Quarter": "",
+              "Create AF & Vaveda Pages": null,
+              "LTV_180_WW": {
+                "id": "gCUp",
+                "type": "number",
+                "number": null
+              },
+              "Crit Bugs": "",
+              "IPM(CP)": {
+                "id": "hQ%5C%5B",
+                "type": "number",
+                "number": null
+              },
+              "Refund Rate": {
+                "id": "h%5Cxv",
+                "type": "number",
+                "number": null
+              },
+              "Keywords": "arena, brawler, action, fighter, hammer, battle, smash, mayhem, offline, casual",
+              "IOS Distribution profile": [],
+              "Status 1": {
+                "id": "ihRL",
+                "type": "status",
+                "status": {
+                  "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Logotype Banner Promo Request": false,
+              "Slack Channel Link": "-",
+              "CTR": {
+                "id": "jqbZ",
+                "type": "number",
+                "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": null
+              },
+              "D3PTM": {
+                "id": "kamA",
+                "type": "number",
+                "number": null
+              },
+              "D7REW": {
+                "id": "kuEV",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_secret": "wDoXUGgnVfHacCwXn4iqrFtMF6zU0RSM",
+              "ViraToolKit version": "2.0.2",
+              "Priority": "",
+              "App ID(iOS)": "",
+              "Int&Port Epics": [],
+              "ToolKitSettings": [
+                "39c9748b-c8c2-819c-8754-ca398d388274"
+              ],
+              "Link to store": "https://www.amazon.com/gp/product/B09QGYJ5YJ",
+              "QA checking": "",
+              "Date Release": {
+                "id": "nTQx",
+                "type": "date",
+                "date": null
+              },
+              "D3RET": {
+                "id": "n%5CF~",
+                "type": "number",
+                "number": null
+              },
+              "Cross-Promo AMZ": [],
+              "Paid\\Free": "Paid",
+              "AMZ AppStore": null,
+              "RESULTS": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Goals": "",
+              "Firebase JSON": [],
+              "QA": "",
+              "Hypothesys": [],
+              "AMZ appId": "amzn1.devportal.mobileapp.e6d0f86e1eea497184ba61767215e1b9",
+              "Opt-In": {
+                "id": "p_Ic",
+                "type": "number",
+                "number": null
+              },
+              "New Tasks & Requests": [],
+              "Last edited by": {
+                "id": "qUWF",
+                "type": "last_edited_by",
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
+                  "name": "Tools Team Helper",
+                  "avatar_url": null,
+                  "type": "bot",
+                  "bot": {}
+                }
+              },
+              "Account": {
+                "id": "qhXd",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "d86c4a9c-7bb7-439a-b87d-734f24b66280",
+                    "name": "DigiStorm Games",
+                    "color": "red"
+                  }
+                ]
+              },
+              "Date to QA": {
+                "id": "q%7D%3F%5C",
+                "type": "date",
+                "date": null
+              },
+              "Sub-team": "Maverick",
+              "Date Team Start": {
+                "id": "rKeG",
+                "type": "date",
+                "date": null
+              },
+              "Created by": {
+                "id": "r%5BBI",
+                "type": "created_by",
+                "created_by": {
+                  "object": "user",
+                  "id": "21cd872b-594c-81a8-8390-0002210a34c5",
+                  "name": "Ivan Pavliv",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "ivan.pavliv@vira.games",
+                    "email_verified": true
+                  }
+                }
+              },
+              "Tech Project Doc": "",
+              "Sub-subscription 1": {
+                "id": "sCtp",
+                "type": "url",
+                "url": null
+              },
+              "Automated Team": {
+                "id": "sDNL",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "If release is not required:  Need Release checkbox is unchecked": false,
+              "UI": "",
+              "Test - Button Validation": null,
+              "Admob Key": "",
+              "Firebase Link": {
+                "id": "upQD",
+                "type": "url",
+                "url": null
+              },
+              "Monetization": [],
+              "Cross Promo Video status": "",
+              "CPI (Mint) Test Dates": {
+                "id": "v%5Bi%60",
+                "type": "date",
+                "date": null
+              },
+              "Date Art Start": {
+                "id": "v%5D~D",
+                "type": "date",
+                "date": null
+              },
+              "Last Status Change": {
+                "id": "wQFr",
+                "type": "date",
+                "date": {
+                  "start": "2026-07-09",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D1PTM": {
+                "id": "wgp%7B",
+                "type": "number",
+                "number": null
+              },
+              "Link to Promo": "https://drive.google.com/drive/folders/1TUMQHg1-BbACMWpH5MSI4fN0faVg0SYb",
+              "[Creatives] Tasks": [],
+              "ipm TEST": {
+                "id": "xWSH",
+                "type": "number",
+                "number": null
+              },
+              "Art Assets Link": {
+                "id": "x%5C%3DY",
+                "type": "url",
+                "url": null
+              },
+              "Total installs": {
+                "id": "x%5DWz",
+                "type": "number",
+                "number": null
+              },
+              "LTV_180_US ": {
+                "id": "xfen",
+                "type": "number",
+                "number": null
+              },
+              "Sub-s Database": [],
+              "Amz Console: On Auto support": false,
+              "Create QA Task": false,
+              "Create UA Tasks": null,
+              "3D Artist": {
+                "id": "zHXV",
+                "type": "people",
+                "people": []
+              },
+              " GA Secret Key": "",
+              "Task Tracker Link": {
+                "id": "%7BIp%3F",
+                "type": "url",
+                "url": null
+              },
+              "D3INT": {
+                "id": "%7BL%5C%3B",
+                "type": "number",
+                "number": null
+              },
+              "Percent of Release": {
+                "id": "%7BRbl",
+                "type": "number",
+                "number": 100
+              },
+              "AppMagic Info": [],
+              "StartUp Time": {
+                "id": "%7BZ_P",
+                "type": "number",
+                "number": null
+              },
+              "D1BAN": {
+                "id": "%7BeFD",
+                "type": "number",
+                "number": null
+              },
+              "IPM (CP) Test Dates": {
+                "id": "%7Be%5E%3E",
+                "type": "date",
+                "date": null
+              },
+              "Platform": "AMZ",
+              "temp_tk_version_link": {
+                "id": "%7CeXN",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "Open ImportPackageWindow.cs"
+                }
+              },
+              "Screenshot Promo Request": false,
+              "Sub-item": [],
+              "Date Art Finish Test": {
+                "id": "%7Dwfx",
+                "type": "date",
+                "date": null
+              },
+              "GIT LINK": "https://gitlab.com/vira-games/legacy-projects/hammer-game",
+              "D7PTM": {
+                "id": "~%3F%3B%40",
+                "type": "number",
+                "number": null
+              },
+              "Parent Project": [
+                "13c9748b-c8c2-81fc-9799-df2d000fb5b8"
+              ],
+              "Days in Dev -> QA": {
+                "id": "~FLK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 7
+                }
+              },
+              "BALANCE": "",
+              "Description for QA": "можно не тестировать, а сразу в релиз. Если всё таки хотите тестировать то тест ( запуск апки, прохождение 1 уровня и хватит)\n\n",
+              "Prod Approved": false,
+              "Static Banner Promo Request": false,
+              "IPM": {
+                "id": "~oXr",
+                "type": "number",
+                "number": null
+              },
+              "Sent To QA": {
+                "id": "~sjG",
+                "type": "date",
+                "date": null
+              },
+              "Promo info checking": {
+                "id": "~wLr",
+                "type": "formula",
+                "formula": {
+                  "type": "boolean",
+                  "boolean": false
+                }
+              },
+              "Project": "hmcrmhz - Hammer Clash : Arena Mayhem",
+              "Description": "",
+              "SubscriptionRevenueEvent": false,
+              "AMZ Metrics Date & Comment": "",
+              "GD 2": {
+                "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Amz StartUp Time": {
+                "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                "type": "number",
+                "number": null
+              },
+              "Status 2": "",
+              "Days": {
+                "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                "type": "number",
+                "number": null
+              },
+              "Asana Link": {
+                "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                "type": "url",
+                "url": null
+              },
+              "Need a new Video?": false
+            },
+            "created_time": "2026-07-09T10:02:00.000Z",
+            "last_edited_time": "2026-07-13T08:07:00.000Z",
+            "url": "https://app.notion.com/p/hmcrmhz-Hammer-Clash-Arena-Mayhem-5a69748bc8c28384982a01ef2d3e8cff",
+            "children": {
+              "Page_13c9748b-c8c2-81fc-9799-df2d000fb5b8": {
+                "id": "13c9748b-c8c2-81fc-9799-df2d000fb5b8",
+                "title": "Page 13c9748b-c8c2-81fc-9799-df2d000fb5b8",
+                "properties": {
+                  "CR_SUB_WW": {
+                    "id": "%3A%3Br_",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Create Paid Promo Rebuild ": null,
+                  "Installs US": {
+                    "id": "%3Au%7BN",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Creatives Status": {
+                    "id": "%3B%60E%3C",
+                    "type": "status",
+                    "status": {
+                      "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                      "name": "Not started",
+                      "color": "default"
+                    }
+                  },
+                  "[Icon]": null,
+                  "TOP AMZ for Sub Screen Upates": [],
+                  "Ref Name": "",
+                  "ASIN": "",
+                  "Missing Info for Dev(Cross)": {
+                    "id": "%3Cv%60H",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "⚠️ Full game name\n⚠️ Company(Account)\n⚠️ Store Type\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ GIT Link\n⚠️ AF Link\n⚠️ Developer\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Bundle ID\n⚠️ Team"
+                    }
+                  },
+                  "New promo link": {
+                    "id": "%3DU%3BG",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Date Dev Start": {
+                    "id": "%3D%7B%3Ej",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Clone": null,
+                  "Days in Dev -> Release": {
+                    "id": "%3EkOQ",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "Are all prop. filled? ": {
+                    "id": "%3Epbv",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "false"
+                    }
+                  },
+                  "All Projects Info Old": [],
+                  "AF Link": {
+                    "id": "%40G%5E%3A",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Long Description": "",
+                  "BB SDK Key (Android)": "",
+                  "Icon Promo Request": false,
+                  "pLTV 180": {
+                    "id": "%40zGB",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Developer": {
+                    "id": "%40%7Cvk",
+                    "type": "people",
+                    "people": []
+                  },
+                  "PROGRESSION": "",
+                  "🎯 AllPages": [],
+                  "Project Subs Metrics": [],
+                  "Status (Copy)": {
+                    "id": "BVo%40",
+                    "type": "status",
+                    "status": {
+                      "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                      "name": "BACKLOG",
+                      "color": "gray"
+                    }
+                  },
+                  "Mintegral Status": "",
+                  "Creo Link": "",
+                  "Days Start-Finish": {
+                    "id": "Bzh%3A",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "Sum SP": "",
+                  "Created time": {
+                    "id": "B~Qf",
+                    "type": "created_time",
+                    "created_time": "2024-11-12T22:28:00.000Z"
+                  },
+                  "All subscriptions for the current build are filled": false,
+                  "Missing info for Promo rebuild": {
+                    "id": "CkT%3A",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "⚠️ Promo Link\n⚠️ Full Game name"
+                    }
+                  },
+                  "CPI": {
+                    "id": "Cxr%40",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Teams use": {
+                    "id": "D%40CI",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Status": {
+                    "id": "DYYJ",
+                    "type": "status",
+                    "status": {
+                      "id": "90bac3ba-be41-4b5d-8096-cf1217b11885",
+                      "name": "LIVE",
+                      "color": "green"
+                    }
+                  },
+                  "Date Development Status Set": {
+                    "id": "D%60fU",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Last edited time": {
+                    "id": "Dj%3Fm",
+                    "type": "last_edited_time",
+                    "last_edited_time": "2025-03-20T14:21:00.000Z"
+                  },
+                  "Project Link": {
+                    "id": "DjJJ",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Date Art Finish": {
+                    "id": "Do%3DG",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Bundle ID": "",
+                  "Price": {
+                    "id": "EUeu",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Project Score Analysys": "",
+                  "[Promo] Tasks ": [],
+                  "TECH": "",
+                  "CTR TEST": {
+                    "id": "Ejyo",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Subscription screen changes include links to actual references (expected UI)": false,
+                  "GD": {
+                    "id": "FHAP",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "48d0dbc5-1877-4fb2-a1f4-93611cafc5b5",
+                        "name": "Igor Lemon",
+                        "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJzve9oz7m_9NrGym8vE6z2K9uwD04GGYDDGeE8M=s100",
+                        "type": "person",
+                        "person": {
+                          "email": "igorlemon@vira.games",
+                          "email_verified": true
+                        }
+                      }
+                    ]
+                  },
+                  "CONTENT": "",
+                  "Due": {
+                    "id": "FaCd",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Link to Old Promo": {
+                    "id": "FbpI",
+                    "type": "url",
+                    "url": null
+                  },
+                  "QA Task File": "",
+                  "Task from Growth": [],
+                  "ASO Name & Description": null,
+                  "External\\internal": "Internal",
+                  "⏺️ ASO | Calendar": [],
+                  "Product Features": "",
+                  "Promo Task ": [],
+                  "Monetization DB": [],
+                  "Banner Key": "",
+                  "Date Info Updated": {
+                    "id": "HqDO",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Short Description": "",
+                  "Creo Status": "",
+                  "Amz Int & Port Tasks Template": null,
+                  "Tools": {
+                    "id": "IZP%3F",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "CreateTKSettings": null,
+                  "Subscription JSON": [],
+                  "GetGitlabInfo": null,
+                  "Days Start-Release": {
+                    "id": "JXlK",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "AMZ releaseId": "",
+                  "[Logotype]": null,
+                  "CR Subs, %": {
+                    "id": "KKZH",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Date": {
+                    "id": "LkTZ",
+                    "type": "date",
+                    "date": null
+                  },
+                  "D3REW": {
+                    "id": "M%5E%40L",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Each config has its own separate description": false,
+                  "CR Total, %": {
+                    "id": "MguI",
+                    "type": "number",
+                    "number": null
+                  },
+                  "D7INT": {
+                    "id": "MqkG",
+                    "type": "number",
+                    "number": null
+                  },
+                  "PaidConfigGroup": [],
+                  "D1INT": {
+                    "id": "N%3AM%60",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Automation Info (AppStore)": "",
+                  "Previous Status": {
+                    "id": "NSz%7D",
+                    "type": "status",
+                    "status": {
+                      "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                      "name": "BACKLOG",
+                      "color": "gray"
+                    }
+                  },
+                  "Traffic Source": {
+                    "id": "N%5E%3Cm",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Game Type": {
+                    "id": "NcId",
+                    "type": "multi_select",
+                    "multi_select": [
+                      {
+                        "id": "37a47ad6-1af9-44e0-8744-0ba59d37aee5",
+                        "name": "Original",
+                        "color": "orange"
+                      }
+                    ]
+                  },
+                  "Create Task (No Check)": null,
+                  "Developer AMZ AppStore Link": "",
+                  "pLTV 7": {
+                    "id": "OPM%5C",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Interstitial Key": "",
+                  "BB Game ID (iOS)": "",
+                  "Team ": "",
+                  "Ref Link": "",
+                  "Build Paid Icon": null,
+                  "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+                  "Create Paid Icon": null,
+                  "ByteBrew Link": {
+                    "id": "QD%3Cd",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Outdated / unused elements are removed from GDD": false,
+                  "Applovin Key": "",
+                  "Full Pack  Fire TV ": null,
+                  "iPad Screens": {
+                    "id": "R%5EzP",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Version": "",
+                  "Show": {
+                    "id": "RfDI",
+                    "type": "number",
+                    "number": null
+                  },
+                  "QA | Tasks": [],
+                  "Fullsreen Banner Promo Request": false,
+                  "📽️ Creatives Team Tasks": [],
+                  "Bright SDK Review Status": {
+                    "id": "SXax",
+                    "type": "status",
+                    "status": {
+                      "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                      "name": "Implementation",
+                      "color": "default"
+                    }
+                  },
+                  "Days for Art Test": {
+                    "id": "SdR%3B",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "iPhone Screens": {
+                    "id": "SeX%7C",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Bundle Version": "",
+                  "Days for Art": {
+                    "id": "T%3Edc",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "BB SDK Key (iOS)": "",
+                  "Feature description matches the latest implementation": false,
+                  "Create New \"QA Task\"": null,
+                  "Status  Promo": {
+                    "id": "TWT%3A",
+                    "type": "status",
+                    "status": {
+                      "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                      "name": "Not started",
+                      "color": "default"
+                    }
+                  },
+                  "Click": {
+                    "id": "TkDm",
+                    "type": "number",
+                    "number": null
+                  },
+                  "GA Game Key": "",
+                  "CTR Video link": "",
+                  "Link to Automation": {
+                    "id": "VRV%3B",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Days in QA": {
+                    "id": "VgPc",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "parent": "",
+                  "Genre": {
+                    "id": "V~Gf",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "BB Game ID (Android)": "",
+                  "Date QA Finished": {
+                    "id": "X%5Cma",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Task Create Info": "",
+                  "GDD Doc": "",
+                  "Full Pack Amz": null,
+                  "Missing Info for QA Task": {
+                    "id": "ZSo%3D",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "⚠️ Full game name\n⚠️ Company(Account)\n⚠️ Store Type\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ GIT Link\n⚠️ AF Link\n⚠️ Developer\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Bundle ID\n⚠️ Quarter\n⚠️ Team"
+                    }
+                  },
+                  "[Screenshots]": null,
+                  "Specialist": {
+                    "id": "Zy%3F%3A",
+                    "type": "people",
+                    "people": []
+                  },
+                  "A/B Group": "",
+                  "Full Pack TV Promo Request": false,
+                  "Date Team Finish": {
+                    "id": "%5B%5E%3AX",
+                    "type": "date",
+                    "date": null
+                  },
+                  "IPM STATIC": {
+                    "id": "%5Bagu",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Vaveda_key": "",
+                  "Groups": [],
+                  "D1RET": {
+                    "id": "%5D%3DAl",
+                    "type": "number",
+                    "number": null
+                  },
+                  "[Fullscreen Banner]": null,
+                  "CR_SUB_US": {
+                    "id": "%5Dz%7CJ",
+                    "type": "number",
+                    "number": null
+                  },
+                  "D7BAN": {
+                    "id": "%5E%3A%3F%3B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "MONETIZATION": "",
+                  "D3BAN": {
+                    "id": "%5EQH%40",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Full game name": "",
+                  "Firebase PLIST": [],
+                  "Are all prop filled": {
+                    "id": "_%5D%5E%3A",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "⚠️ Developer\n⚠️ Platform\n⚠️ Paid/Free\n⚠️ Ref Link\n⚠️ Git Link\n⚠️ Slack channel\n⚠️ Date to QA"
+                    }
+                  },
+                  "D1REW": {
+                    "id": "_bnb",
+                    "type": "number",
+                    "number": null
+                  },
+                  "ASO Name & Descripton Request": false,
+                  "Build changes are marked in the task": false,
+                  "Unity version": "",
+                  "Promo status info": "",
+                  "Average FPS": {
+                    "id": "a%3Fdf",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Autobuild_buildNumber": "",
+                  "Polishing": "",
+                  "ExtraComments": "",
+                  "Full Pack Promo Request": false,
+                  "Art Subs Links": "",
+                  "Sprint": {
+                    "id": "afeU",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Documentation link": "",
+                  "Clone From": "",
+                  "D7RET": {
+                    "id": "bE%7C%3A",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Test - Button No Validation": null,
+                  "Release Type": "",
+                  "GDD is updated for the current game version": false,
+                  "Link to ASO": {
+                    "id": "d%3BwX",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Create Paid Banner": null,
+                  "Prod Promo Approve": "",
+                  "RW Key": "",
+                  "Art Content Table": null,
+                  "What's new": "",
+                  "100% Release Date": {
+                    "id": "e%5Ec%7C",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Api key": "",
+                  "[Static Banner]": null,
+                  "Public key": [],
+                  "Quarter": "",
+                  "Create AF & Vaveda Pages": null,
+                  "LTV_180_WW": {
+                    "id": "gCUp",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Crit Bugs": "",
+                  "IPM(CP)": {
+                    "id": "hQ%5C%5B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Refund Rate": {
+                    "id": "h%5Cxv",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Keywords": "",
+                  "IOS Distribution profile": [],
+                  "Status 1": {
+                    "id": "ihRL",
+                    "type": "status",
+                    "status": {
+                      "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                      "name": "Not started",
+                      "color": "default"
+                    }
+                  },
+                  "Logotype Banner Promo Request": false,
+                  "Slack Channel Link": "",
+                  "CTR": {
+                    "id": "jqbZ",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Full Pack GP": {
+                    "id": "k%60op",
+                    "type": "url",
+                    "url": null
+                  },
+                  "D3PTM": {
+                    "id": "kamA",
+                    "type": "number",
+                    "number": null
+                  },
+                  "D7REW": {
+                    "id": "kuEV",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Vaveda_secret": "",
+                  "ViraToolKit version": "",
+                  "Priority": "",
+                  "App ID(iOS)": "",
+                  "Int&Port Epics": [],
+                  "ToolKitSettings": [],
+                  "Link to store": "",
+                  "QA checking": "",
+                  "Date Release": {
+                    "id": "nTQx",
+                    "type": "date",
+                    "date": null
+                  },
+                  "D3RET": {
+                    "id": "n%5CF~",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Cross-Promo AMZ": [],
+                  "Paid\\Free": "",
+                  "AMZ AppStore": null,
+                  "RESULTS": "",
+                  "AF Key": "",
+                  "Goals": "",
+                  "Firebase JSON": [],
+                  "QA": "",
+                  "Hypothesys": [],
+                  "AMZ appId": "",
+                  "Opt-In": {
+                    "id": "p_Ic",
+                    "type": "number",
+                    "number": null
+                  },
+                  "New Tasks & Requests": [],
+                  "Last edited by": {
+                    "id": "qUWF",
+                    "type": "last_edited_by",
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "17a07c74-6798-487a-bad8-17440bc4542a",
+                      "name": "workspace admin",
+                      "avatar_url": null,
+                      "type": "person",
+                      "person": {
+                        "email": "adminservices@vira.games",
+                        "email_verified": true
+                      }
+                    }
+                  },
+                  "Account": {
+                    "id": "qhXd",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Date to QA": {
+                    "id": "q%7D%3F%5C",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Sub-team": "LEGACY",
+                  "Date Team Start": {
+                    "id": "rKeG",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Created by": {
+                    "id": "r%5BBI",
+                    "type": "created_by",
+                    "created_by": {
+                      "object": "user",
+                      "id": "c83ce9bc-08fd-4af7-a25d-c3ba4bebf48f",
+                      "name": "ViraGames AllProject Helper",
+                      "avatar_url": null,
+                      "type": "bot",
+                      "bot": {}
+                    }
+                  },
+                  "Tech Project Doc": "",
+                  "Sub-subscription 1": {
+                    "id": "sCtp",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Automated Team": {
+                    "id": "sDNL",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "If release is not required:  Need Release checkbox is unchecked": false,
+                  "UI": "",
+                  "Test - Button Validation": null,
+                  "Admob Key": "",
+                  "Firebase Link": {
+                    "id": "upQD",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Monetization": [],
+                  "Cross Promo Video status": "",
+                  "CPI (Mint) Test Dates": {
+                    "id": "v%5Bi%60",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Date Art Start": {
+                    "id": "v%5D~D",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Last Status Change": {
+                    "id": "wQFr",
+                    "type": "date",
+                    "date": null
+                  },
+                  "D1PTM": {
+                    "id": "wgp%7B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Link to Promo": "",
+                  "[Creatives] Tasks": [],
+                  "ipm TEST": {
+                    "id": "xWSH",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Art Assets Link": {
+                    "id": "x%5C%3DY",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Total installs": {
+                    "id": "x%5DWz",
+                    "type": "number",
+                    "number": null
+                  },
+                  "LTV_180_US ": {
+                    "id": "xfen",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Sub-s Database": [],
+                  "Amz Console: On Auto support": false,
+                  "Create QA Task": false,
+                  "Create UA Tasks": null,
+                  "3D Artist": {
+                    "id": "zHXV",
+                    "type": "people",
+                    "people": []
+                  },
+                  " GA Secret Key": "",
+                  "Task Tracker Link": {
+                    "id": "%7BIp%3F",
+                    "type": "url",
+                    "url": null
+                  },
+                  "D3INT": {
+                    "id": "%7BL%5C%3B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Percent of Release": {
+                    "id": "%7BRbl",
+                    "type": "number",
+                    "number": null
+                  },
+                  "AppMagic Info": [],
+                  "StartUp Time": {
+                    "id": "%7BZ_P",
+                    "type": "number",
+                    "number": null
+                  },
+                  "D1BAN": {
+                    "id": "%7BeFD",
+                    "type": "number",
+                    "number": null
+                  },
+                  "IPM (CP) Test Dates": {
+                    "id": "%7Be%5E%3E",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Platform": "",
+                  "temp_tk_version_link": {
+                    "id": "%7CeXN",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": "Open ImportPackageWindow.cs"
+                    }
+                  },
+                  "Screenshot Promo Request": false,
+                  "Sub-item": [
+                    "14c9748b-c8c2-81ba-9efb-e70eae2b4b5f",
+                    "5a69748b-c8c2-8384-982a-01ef2d3e8cff"
+                  ],
+                  "Date Art Finish Test": {
+                    "id": "%7Dwfx",
+                    "type": "date",
+                    "date": null
+                  },
+                  "GIT LINK": "",
+                  "D7PTM": {
+                    "id": "~%3F%3B%40",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Parent Project": [],
+                  "Days in Dev -> QA": {
+                    "id": "~FLK",
+                    "type": "formula",
+                    "formula": {
+                      "type": "string",
+                      "string": null
+                    }
+                  },
+                  "BALANCE": "",
+                  "Description for QA": "",
+                  "Prod Approved": false,
+                  "Static Banner Promo Request": false,
+                  "IPM": {
+                    "id": "~oXr",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Sent To QA": {
+                    "id": "~sjG",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Promo info checking": {
+                    "id": "~wLr",
+                    "type": "formula",
+                    "formula": {
+                      "type": "boolean",
+                      "boolean": false
+                    }
+                  },
+                  "Project": "Hammer.io",
+                  "Description": "",
+                  "SubscriptionRevenueEvent": false,
+                  "AMZ Metrics Date & Comment": "",
+                  "GD 2": {
+                    "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Amz StartUp Time": {
+                    "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Status 2": "",
+                  "Days": {
+                    "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Asana Link": {
+                    "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Need a new Video?": false
+                },
+                "created_time": "2024-11-12T22:28:00.000Z",
+                "last_edited_time": "2025-03-20T14:21:00.000Z",
+                "url": "https://app.notion.com/p/Hammer-io-13c9748bc8c281fc9799df2d000fb5b8"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
