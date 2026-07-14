@@ -69,7 +69,7 @@
           "Name": "Block Shuffle : Color Match"
         },
         "created_time": "2026-07-14T10:46:00.000Z",
-        "last_edited_time": "2026-07-14T10:46:00.000Z",
+        "last_edited_time": "2026-07-14T10:54:00.000Z",
         "url": "https://app.notion.com/p/Block-Shuffle-Color-Match-39d9748bc8c2816fbc1dcb8cec68098b",
         "children": {
           "Block_Shuffle___Color_Match_ProductCatalog": {
@@ -158,7 +158,7 @@
                   "string": "1.0.0"
                 }
               },
-              "Vaveda_key": "",
+              "Vaveda_key": "bshfcmz",
               "Link to Promo": {
                 "id": "%5CVgk",
                 "type": "formula",
@@ -204,7 +204,7 @@
                   }
                 ]
               },
-              "AF Key": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Bundle Id Rollup": {
                 "type": "formula",
                 "formula": {
@@ -212,11 +212,11 @@
                   "string": "com.brghtcrstd.blck.shuffle"
                 }
               },
-              "Vaveda_secret": "",
+              "Vaveda_secret": "WfeNF97kPBM3UgKyWi4rS2bdlIDOnbII",
               "Name": "Block Shuffle : Color Match MainData"
             },
             "created_time": "2026-07-14T10:46:00.000Z",
-            "last_edited_time": "2026-07-14T10:53:00.000Z",
+            "last_edited_time": "2026-07-14T11:31:00.000Z",
             "url": "https://app.notion.com/p/Block-Shuffle-Color-Match-MainData-39d9748bc8c2810e8b3cfa5e677e3d21",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
@@ -229,7 +229,20 @@
                   "CompanyName": "BrightCore Studio"
                 },
                 "SDKSettings": {
-                  "Keys": [],
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "bshfcmz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "WfeNF97kPBM3UgKyWi4rS2bdlIDOnbII"
+                    }
+                  ],
                   "IsAmazon": true
                 }
               }
@@ -268,7 +281,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ AF Link\n⚠️ Date Team Start\n⚠️ Date Team Finish"
+                  "string": "⚠️ Date Team Start\n⚠️ Date Team Finish"
                 }
               },
               "New promo link": {
@@ -306,7 +319,7 @@
               "AF Link": {
                 "id": "%40G%5E%3A",
                 "type": "url",
-                "url": null
+                "url": "https://hq1.appsflyer.com/apps/settings?appId=com.brghtcrstd.blck.shuffle-Amazon"
               },
               "Long Description": "",
               "BB SDK Key (Android)": "",
@@ -401,7 +414,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-07-14T10:47:00.000Z"
+                "last_edited_time": "2026-07-14T11:02:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -662,7 +675,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ AF Link\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link"
+                  "string": "⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link"
                 }
               },
               "[Screenshots]": null,
@@ -683,7 +696,7 @@
                 "type": "number",
                 "number": null
               },
-              "Vaveda_key": "",
+              "Vaveda_key": "bshfcmz",
               "Groups": [],
               "D1RET": {
                 "id": "%5D%3DAl",
@@ -820,7 +833,7 @@
                 "type": "number",
                 "number": null
               },
-              "Vaveda_secret": "",
+              "Vaveda_secret": "WfeNF97kPBM3UgKyWi4rS2bdlIDOnbII",
               "ViraToolKit version": "2.0.2",
               "Priority": "",
               "App ID(iOS)": "",
@@ -844,7 +857,7 @@
               "Paid\\Free": "Paid",
               "AMZ AppStore": null,
               "RESULTS": "",
-              "AF Key": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Goals": "",
               "Firebase JSON": [],
               "QA": "",
@@ -1095,7 +1108,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-07-13T13:52:00.000Z",
-            "last_edited_time": "2026-07-14T10:47:00.000Z",
+            "last_edited_time": "2026-07-14T11:02:00.000Z",
             "url": "https://app.notion.com/p/Block-Shuffle-Color-Match-8319748bc8c28346ae808176ef4e4a2d"
           }
         }
