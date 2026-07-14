@@ -23,7 +23,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "https://drive.google.com/drive/folders/1CFsMucB1nCq6qQ5QQH4-mMVYX8ugc1g-"
             }
           },
           "(List)BundleId": "com.eltcrgms.bttl.mix",
@@ -65,11 +65,11 @@
             }
           },
           "ProjectKey": "39d9748b-c8c2-81cf-84b6-e23ab7cc0147",
-          "(List)LinkToPromo": "",
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1CFsMucB1nCq6qQ5QQH4-mMVYX8ugc1g-",
           "Name": "Bottle Mix : Color Fizz"
         },
         "created_time": "2026-07-14T08:42:00.000Z",
-        "last_edited_time": "2026-07-14T08:42:00.000Z",
+        "last_edited_time": "2026-07-14T08:43:00.000Z",
         "url": "https://app.notion.com/p/Bottle-Mix-Color-Fizz-39d9748bc8c281cf84b6e23ab7cc0147",
         "children": {
           "Bottle_Mix___Color_Fizz_ProductCatalog": {
@@ -117,7 +117,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1CFsMucB1nCq6qQ5QQH4-mMVYX8ugc1g-"
                 }
               },
               "BundleVersionRollup": {
@@ -164,7 +164,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1CFsMucB1nCq6qQ5QQH4-mMVYX8ugc1g-"
                 }
               },
               "VersionRollup": {
@@ -221,7 +221,7 @@
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "",
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1CFsMucB1nCq6qQ5QQH4-mMVYX8ugc1g-",
                   "ProductName": "Bottle Mix : Color Fizz",
                   "BundleIdentifier": "com.eltcrgms.bttl.mix",
                   "Version": "1.0.0",
@@ -380,7 +380,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Promo Link"
+                  "string": ""
                 }
               },
               "CPI": {
@@ -414,7 +414,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-07-14T08:42:00.000Z"
+                "last_edited_time": "2026-07-14T15:23:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -675,7 +675,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link"
+                  "string": "⚠️ Date Team Start\n⚠️ Date Team Finish"
                 }
               },
               "[Screenshots]": null,
@@ -874,11 +874,14 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
-                  "avatar_url": null,
-                  "type": "bot",
-                  "bot": {}
+                  "id": "197d872b-594c-8197-b38c-0002226616fd",
+                  "name": "Nataliia Popova",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/8e165e78-4e6a-466d-acba-3663a905f390/photo_2024-07-22_12.48.57.jpeg",
+                  "type": "person",
+                  "person": {
+                    "email": "nataliia.popova@vira.games",
+                    "email_verified": true
+                  }
                 }
               },
               "Account": {
@@ -964,7 +967,7 @@
                 "type": "number",
                 "number": null
               },
-              "Link to Promo": "",
+              "Link to Promo": "https://drive.google.com/drive/folders/1CFsMucB1nCq6qQ5QQH4-mMVYX8ugc1g-",
               "[Creatives] Tasks": [],
               "ipm TEST": {
                 "id": "xWSH",
@@ -1110,7 +1113,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-07-13T13:38:00.000Z",
-            "last_edited_time": "2026-07-14T08:42:00.000Z",
+            "last_edited_time": "2026-07-14T15:23:00.000Z",
             "url": "https://app.notion.com/p/bttclfz-Bottle-Mix-Color-Fizz-9519748bc8c2838dbb5e019800f8a8db",
             "children": {
               "Page_13c9748b-c8c2-81d7-966e-f3f9184c584f": {
