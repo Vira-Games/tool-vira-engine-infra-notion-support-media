@@ -3,9 +3,9 @@
   "notionToken": "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",
   "configData": {
     "pages": {
-      "Present_Rush__Box_Puzzle": {
+      "Present_Rush___Box_Puzzle": {
         "id": "39c9748b-c8c2-8186-af50-d008389b478b",
-        "title": "Present Rush: Box Puzzle",
+        "title": "Present Rush : Box Puzzle",
         "properties": {
           "ProductCatalog": [
             "39c9748b-c8c2-81db-be37-d9adb93944f0"
@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "prsnpzz - Present Rush: Box Puzzle"
+              "string": "prsnpzz - Present Rush : Box Puzzle"
             }
           },
           "MaxParentLinkToPromo": {
@@ -23,7 +23,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "https://drive.google.com/drive/folders/1a7isdy3jpjm3vxE9Q38vbHXWT-AsAOPO"
             }
           },
           "(List)BundleId": "com.dgstrmgms.prsnt.rush",
@@ -50,7 +50,7 @@
             "39c9748b-c8c2-8102-9166-e75774bc2e32"
           ],
           "(List)Bundle Version": "1",
-          "Platform": "",
+          "Platform": "AMZ",
           "💼 All Projects": [
             "4189748b-c8c2-831d-956c-81d2d4b04d05"
           ],
@@ -65,11 +65,11 @@
             }
           },
           "ProjectKey": "39c9748b-c8c2-8186-af50-d008389b478b",
-          "(List)LinkToPromo": "",
-          "Name": "Present Rush: Box Puzzle"
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1a7isdy3jpjm3vxE9Q38vbHXWT-AsAOPO",
+          "Name": "Present Rush : Box Puzzle"
         },
         "created_time": "2026-07-13T14:41:00.000Z",
-        "last_edited_time": "2026-07-14T08:45:00.000Z",
+        "last_edited_time": "2026-07-15T08:27:00.000Z",
         "url": "https://app.notion.com/p/Present-Rush-Box-Puzzle-39c9748bc8c28186af50d008389b478b",
         "children": {
           "Present_Rush___Box_Puzzle_ProductCatalog": {
@@ -93,7 +93,7 @@
               "Parent": [
                 "39c9748b-c8c2-8186-af50-d008389b478b"
               ],
-              "Platform": "",
+              "Platform": "AMZ",
               "Subscriptions": [],
               "Apply": null,
               "bundleID": {
@@ -117,7 +117,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1a7isdy3jpjm3vxE9Q38vbHXWT-AsAOPO"
                 }
               },
               "BundleVersionRollup": {
@@ -164,7 +164,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "https://drive.google.com/drive/folders/1a7isdy3jpjm3vxE9Q38vbHXWT-AsAOPO"
                 }
               },
               "VersionRollup": {
@@ -221,7 +221,7 @@
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "",
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1a7isdy3jpjm3vxE9Q38vbHXWT-AsAOPO",
                   "ProductName": "Present Rush: Box Puzzle",
                   "BundleIdentifier": "com.dgstrmgms.prsnt.rush",
                   "Version": "1.0.0",
@@ -304,7 +304,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 8
+                  "number": 9
                 }
               },
               "Are all prop. filled? ": {
@@ -380,7 +380,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Promo Link"
+                  "string": ""
                 }
               },
               "CPI": {
@@ -414,7 +414,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-07-14T08:45:00.000Z"
+                "last_edited_time": "2026-07-15T08:26:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -675,7 +675,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Quarter"
+                  "string": "⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Quarter"
                 }
               },
               "[Screenshots]": null,
@@ -967,7 +967,7 @@
                 "type": "number",
                 "number": null
               },
-              "Link to Promo": "",
+              "Link to Promo": "https://drive.google.com/drive/folders/1a7isdy3jpjm3vxE9Q38vbHXWT-AsAOPO",
               "[Creatives] Tasks": [],
               "ipm TEST": {
                 "id": "xWSH",
@@ -1058,7 +1058,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 8
+                  "number": 9
                 }
               },
               "BALANCE": "",
@@ -1083,7 +1083,7 @@
                   "boolean": false
                 }
               },
-              "Project": "prsnpzz - Present Rush: Box Puzzle",
+              "Project": "prsnpzz - Present Rush : Box Puzzle",
               "Description": "",
               "SubscriptionRevenueEvent": false,
               "AMZ Metrics Date & Comment": "",
@@ -1111,7 +1111,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-07-13T13:32:00.000Z",
-            "last_edited_time": "2026-07-14T08:45:00.000Z",
+            "last_edited_time": "2026-07-15T08:26:00.000Z",
             "url": "https://app.notion.com/p/prsnpzz-Present-Rush-Box-Puzzle-4189748bc8c2831d956c81d2d4b04d05"
           }
         }
