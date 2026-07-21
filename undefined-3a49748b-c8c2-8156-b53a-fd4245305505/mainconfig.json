@@ -3,9 +3,9 @@
   "notionToken": "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",
   "configData": {
     "pages": {
-      "Bus_Color_Frenzy": {
+      "Bus_Rush__": {
         "id": "3a49748b-c8c2-8156-b53a-fd4245305505",
-        "title": "Bus Color Frenzy",
+        "title": "Bus Rush!!",
         "properties": {
           "ProductCatalog": [
             "3a49748b-c8c2-815c-9723-d5aab0b25d4b"
@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "Bus Color Frenzy"
+              "string": "Bus Rush!!"
             }
           },
           "MaxParentLinkToPromo": {
@@ -23,16 +23,16 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "https://drive.google.com/drive/folders/1fer_yqKkfM898tC4XhewuZz253UgxmkB"
+              "string": "https://drive.google.com/drive/folders/1narMHtxuhzLCfWzyOZBCb-QfN5qRrVgn"
             }
           },
-          "(List)BundleId": "com.beecreator.skyrush",
+          "(List)BundleId": "com.beecreator.trafficconnect",
           "MaxParentBundleID": {
             "id": "LAsk",
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "com.beecreator.skyrush"
+              "string": "com.beecreator.trafficconnect"
             }
           },
           "MaxParentVersion": {
@@ -40,7 +40,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "1.0.3"
+              "string": "1.0.0"
             }
           },
           "Subscription Settings": [
@@ -49,46 +49,46 @@
           "MainData": [
             "3a49748b-c8c2-8182-949b-df822d4e6cdf"
           ],
-          "(List)Bundle Version": "4",
+          "(List)Bundle Version": "1",
           "Platform": "GP",
           "💼 All Projects": [
             "6fd9748b-c8c2-8315-9535-819e5ebb520b"
           ],
           "RefreshConfig": null,
-          "(List)Version": "1.0.3",
+          "(List)Version": "1.0.0",
           "MaxParentBundleVersion": {
             "id": "fVoO",
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "4"
+              "string": "1"
             }
           },
           "ProjectKey": "3a49748b-c8c2-8156-b53a-fd4245305505",
-          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1fer_yqKkfM898tC4XhewuZz253UgxmkB",
-          "Name": "Bus Color Frenzy"
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1narMHtxuhzLCfWzyOZBCb-QfN5qRrVgn",
+          "Name": "Bus Rush!!"
         },
         "created_time": "2026-07-21T10:55:00.000Z",
-        "last_edited_time": "2026-07-21T11:16:00.000Z",
-        "url": "https://app.notion.com/p/Bus-Color-Frenzy-3a49748bc8c28156b53afd4245305505",
+        "last_edited_time": "2026-07-21T12:18:00.000Z",
+        "url": "https://app.notion.com/p/Bus-Rush-3a49748bc8c28156b53afd4245305505",
         "children": {
-          "Bus_Color_Frenzy_ProductCatalog": {
+          "Bus_Rush___ProductCatalog": {
             "id": "3a49748b-c8c2-815c-9723-d5aab0b25d4b",
-            "title": "Bus Color Frenzy ProductCatalog",
+            "title": "Bus Rush!! ProductCatalog",
             "properties": {
               "Parent": [
                 "3a49748b-c8c2-8156-b53a-fd4245305505"
               ],
               "Products": [],
-              "Name": "Bus Color Frenzy ProductCatalog"
+              "Name": "Bus Rush!! ProductCatalog"
             },
             "created_time": "2026-07-21T10:55:00.000Z",
-            "last_edited_time": "2026-07-21T11:16:00.000Z",
-            "url": "https://app.notion.com/p/Bus-Color-Frenzy-ProductCatalog-3a49748bc8c2815c9723d5aab0b25d4b"
+            "last_edited_time": "2026-07-21T12:19:00.000Z",
+            "url": "https://app.notion.com/p/Bus-Rush-ProductCatalog-3a49748bc8c2815c9723d5aab0b25d4b"
           },
-          "Bus_Color_Frenzy_SubDataCatalog": {
+          "Bus_Rush___SubDataCatalog": {
             "id": "3a49748b-c8c2-81c4-a5eb-c6ed615d1659",
-            "title": "Bus Color Frenzy SubDataCatalog",
+            "title": "Bus Rush!! SubDataCatalog",
             "properties": {
               "Parent": [
                 "3a49748b-c8c2-8156-b53a-fd4245305505"
@@ -100,31 +100,31 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.beecreator.skyrush"
+                  "string": "com.beecreator.trafficconnect"
                 }
               },
-              "Name": "Bus Color Frenzy SubDataCatalog"
+              "Name": "Bus Rush!! SubDataCatalog"
             },
             "created_time": "2026-07-21T10:55:00.000Z",
-            "last_edited_time": "2026-07-21T11:16:00.000Z",
-            "url": "https://app.notion.com/p/Bus-Color-Frenzy-SubDataCatalog-3a49748bc8c281c4a5ebc6ed615d1659"
+            "last_edited_time": "2026-07-21T12:19:00.000Z",
+            "url": "https://app.notion.com/p/Bus-Rush-SubDataCatalog-3a49748bc8c281c4a5ebc6ed615d1659"
           },
-          "Bus_Color_Frenzy_MainData": {
+          "Bus_Rush___MainData": {
             "id": "3a49748b-c8c2-8182-949b-df822d4e6cdf",
-            "title": "Bus Color Frenzy MainData",
+            "title": "Bus Rush!! MainData",
             "properties": {
               "LinkToPromoRollup": {
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "https://drive.google.com/drive/folders/1fer_yqKkfM898tC4XhewuZz253UgxmkB"
+                  "string": "https://drive.google.com/drive/folders/1narMHtxuhzLCfWzyOZBCb-QfN5qRrVgn"
                 }
               },
               "BundleVersionRollup": {
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "4"
+                  "string": "1"
                 }
               },
               "Platform": {
@@ -149,13 +149,13 @@
                   }
                 ]
               },
-              "App Name": "Bus Color Frenzy",
+              "App Name": "Bus Rush!!",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.3"
+                  "string": "1.0.0"
                 }
               },
               "Vaveda_key": "",
@@ -164,14 +164,14 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "https://drive.google.com/drive/folders/1fer_yqKkfM898tC4XhewuZz253UgxmkB"
+                  "string": "https://drive.google.com/drive/folders/1narMHtxuhzLCfWzyOZBCb-QfN5qRrVgn"
                 }
               },
               "VersionRollup": {
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.3"
+                  "string": "1.0.0"
                 }
               },
               "Parent": [
@@ -182,7 +182,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "4"
+                  "string": "1"
                 }
               },
               "Bundle Id": {
@@ -190,7 +190,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.beecreator.skyrush"
+                  "string": "com.beecreator.trafficconnect"
                 }
               },
               "Account": {
@@ -204,35 +204,35 @@
                   }
                 ]
               },
-              "AF Key": "SNpt6MFP6mMgwAitvAd6Fo",
+              "AF Key": "LiKYcboiVVAQAVcWW8j4Kd",
               "Bundle Id Rollup": {
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.beecreator.skyrush"
+                  "string": "com.beecreator.trafficconnect"
                 }
               },
               "Vaveda_secret": "",
-              "Name": "Bus Color Frenzy MainData"
+              "Name": "Bus Rush!! MainData"
             },
             "created_time": "2026-07-21T10:55:00.000Z",
-            "last_edited_time": "2026-07-21T11:26:00.000Z",
-            "url": "https://app.notion.com/p/Bus-Color-Frenzy-MainData-3a49748bc8c28182949bdf822d4e6cdf",
+            "last_edited_time": "2026-07-21T12:22:00.000Z",
+            "url": "https://app.notion.com/p/Bus-Rush-MainData-3a49748bc8c28182949bdf822d4e6cdf",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
-                  "LinkToPromo": "https://drive.google.com/drive/folders/1fer_yqKkfM898tC4XhewuZz253UgxmkB",
-                  "ProductName": "Bus Color Frenzy",
-                  "BundleIdentifier": "com.beecreator.skyrush",
-                  "Version": "1.0.3",
-                  "BundleVersionCode": 4,
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1narMHtxuhzLCfWzyOZBCb-QfN5qRrVgn",
+                  "ProductName": "Bus Rush!!",
+                  "BundleIdentifier": "com.beecreator.trafficconnect",
+                  "Version": "1.0.0",
+                  "BundleVersionCode": 1,
                   "CompanyName": "BeeCreator"
                 },
                 "SDKSettings": {
                   "Keys": [
                     {
                       "KeyName": "AF_SdkKey",
-                      "Key": "SNpt6MFP6mMgwAitvAd6Fo"
+                      "Key": "LiKYcboiVVAQAVcWW8j4Kd"
                     }
                   ],
                   "IsAmazon": false
@@ -406,7 +406,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-07-21T11:16:00.000Z"
+                "last_edited_time": "2026-07-21T12:20:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -418,7 +418,7 @@
                 "type": "date",
                 "date": null
               },
-              "Bundle ID": "com.beecreator.skyrush",
+              "Bundle ID": "com.beecreator.trafficconnect",
               "Price": {
                 "id": "EUeu",
                 "type": "number",
@@ -575,7 +575,7 @@
                 "type": "url",
                 "url": null
               },
-              "Version": "1.0.3",
+              "Version": "1.0.0",
               "Show": {
                 "id": "RfDI",
                 "type": "number",
@@ -606,7 +606,7 @@
                 "type": "url",
                 "url": null
               },
-              "Bundle Version": "4",
+              "Bundle Version": "1",
               "Days for Art": {
                 "id": "T%3Edc",
                 "type": "formula",
@@ -849,7 +849,7 @@
               "Paid\\Free": "Paid",
               "AMZ AppStore": null,
               "RESULTS": "",
-              "AF Key": "",
+              "AF Key": "SNpt6MFP6mMgwAitvAd6Fo",
               "Goals": "",
               "Firebase JSON": [],
               "QA": "",
@@ -959,7 +959,7 @@
                 "type": "number",
                 "number": null
               },
-              "Link to Promo": "https://drive.google.com/drive/folders/1fer_yqKkfM898tC4XhewuZz253UgxmkB",
+              "Link to Promo": "https://drive.google.com/drive/folders/1narMHtxuhzLCfWzyOZBCb-QfN5qRrVgn",
               "[Creatives] Tasks": [],
               "ipm TEST": {
                 "id": "xWSH",
@@ -1077,7 +1077,7 @@
                   "boolean": false
                 }
               },
-              "Project": "Bus Color Frenzy",
+              "Project": "Bus Rush!!",
               "Description": "",
               "SubscriptionRevenueEvent": false,
               "AMZ Metrics Date & Comment": "",
@@ -1105,8 +1105,8 @@
               "Need a new Video?": false
             },
             "created_time": "2026-07-21T10:55:00.000Z",
-            "last_edited_time": "2026-07-21T11:16:00.000Z",
-            "url": "https://app.notion.com/p/Bus-Color-Frenzy-6fd9748bc8c283159535819e5ebb520b",
+            "last_edited_time": "2026-07-21T12:20:00.000Z",
+            "url": "https://app.notion.com/p/Bus-Rush-6fd9748bc8c283159535819e5ebb520b",
             "children": {
               "Page_39e9748b-c8c2-8031-825c-f887de5e8a16": {
                 "id": "39e9748b-c8c2-8031-825c-f887de5e8a16",
