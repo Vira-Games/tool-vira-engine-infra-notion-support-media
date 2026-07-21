@@ -69,7 +69,7 @@
           "Name": "Color Hole Frenzy"
         },
         "created_time": "2026-07-21T12:57:00.000Z",
-        "last_edited_time": "2026-07-21T12:57:00.000Z",
+        "last_edited_time": "2026-07-21T12:58:00.000Z",
         "url": "https://app.notion.com/p/Color-Hole-Frenzy-3a49748bc8c281208732c9d766ed959b",
         "children": {
           "Color_Hole_Frenzy_ProductCatalog": {
@@ -394,7 +394,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-07-21T12:57:00.000Z"
+                "last_edited_time": "2026-07-21T12:58:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -854,11 +854,14 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
-                  "name": "Tools Team Helper",
-                  "avatar_url": null,
-                  "type": "bot",
-                  "bot": {}
+                  "id": "1bdcb927-f7b9-4e71-8e0b-a4df107c273a",
+                  "name": "Hlib Lobach",
+                  "avatar_url": "https://lh3.googleusercontent.com/a/AEdFTp7vbx1YjRL4agrX_P6LB_2_wYWzgIL2LUIebP13=s100",
+                  "type": "person",
+                  "person": {
+                    "email": "gleb.lobach@vira.games",
+                    "email_verified": true
+                  }
                 }
               },
               "Account": {
@@ -1007,7 +1010,7 @@
                 "type": "date",
                 "date": null
               },
-              "Platform": "AMZ",
+              "Platform": "GP",
               "temp_tk_version_link": {
                 "id": "%7CeXN",
                 "type": "formula",
@@ -1090,7 +1093,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-07-21T12:54:00.000Z",
-            "last_edited_time": "2026-07-21T12:57:00.000Z",
+            "last_edited_time": "2026-07-21T12:58:00.000Z",
             "url": "https://app.notion.com/p/Color-Hole-Frenzy-5699748bc8c283928fd081aaaad09359",
             "children": {
               "Page_39e9748b-c8c2-80c3-a4be-f151ca0eb349": {
