@@ -1,0 +1,2523 @@
+{
+  "pageId": "3b19748b-c8c2-8174-8684-cb7149b4ad1b",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Pawscape__Run__Puppy__Run_": {
+        "id": "3b19748b-c8c2-8174-8684-cb7149b4ad1b",
+        "title": "Pawscape: Run, Puppy, Run!",
+        "properties": {
+          "ProductCatalog": [
+            "3b19748b-c8c2-81e8-b32b-f73adfc333b8"
+          ],
+          "MaxParent": {
+            "id": "F%7BpA",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "pwscppz - Pawscape: Run Puppy Run!"
+            }
+          },
+          "MaxParentLinkToPromo": {
+            "id": "GC%3FS",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "https://drive.google.com/drive/u/0/folders/1c19cCTgajEBiCqu42ffNyVKxiZJsUj6P"
+            }
+          },
+          "(List)BundleId": "com.vira.pawscape.run",
+          "MaxParentBundleID": {
+            "id": "LAsk",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "com.vira.pawscape.run"
+            }
+          },
+          "MaxParentVersion": {
+            "id": "Njfg",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1.0.9"
+            }
+          },
+          "Subscription Settings": [
+            "3b19748b-c8c2-8116-bf1d-ef5a1433d246"
+          ],
+          "MainData": [
+            "3b19748b-c8c2-817c-9be8-d20a9ca6b90c"
+          ],
+          "(List)Bundle Version": "22",
+          "Platform": "Fire TV",
+          "💼 All Projects": [
+            "2fd9748b-c8c2-803f-939c-e303ebe55eb1"
+          ],
+          "RefreshConfig": null,
+          "(List)Version": "1.0.9",
+          "MaxParentBundleVersion": {
+            "id": "fVoO",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "22"
+            }
+          },
+          "ProjectKey": "3b19748b-c8c2-8174-8684-cb7149b4ad1b",
+          "(List)LinkToPromo": "https://drive.google.com/drive/u/0/folders/1c19cCTgajEBiCqu42ffNyVKxiZJsUj6P",
+          "Name": "Pawscape: Run, Puppy, Run!"
+        },
+        "created_time": "2026-08-03T07:51:00.000Z",
+        "last_edited_time": "2026-08-03T07:55:00.000Z",
+        "url": "https://app.notion.com/p/Pawscape-Run-Puppy-Run-3b19748bc8c281748684cb7149b4ad1b",
+        "children": {
+          "Pawscape__Run__Puppy__Run__ProductCatalog": {
+            "id": "3b19748b-c8c2-81e8-b32b-f73adfc333b8",
+            "title": "Pawscape: Run, Puppy, Run! ProductCatalog",
+            "properties": {
+              "Parent": [
+                "3b19748b-c8c2-8174-8684-cb7149b4ad1b"
+              ],
+              "Products": [],
+              "Name": "Pawscape: Run, Puppy, Run! ProductCatalog"
+            },
+            "created_time": "2026-08-03T07:51:00.000Z",
+            "last_edited_time": "2026-08-03T07:51:00.000Z",
+            "url": "https://app.notion.com/p/Pawscape-Run-Puppy-Run-ProductCatalog-3b19748bc8c281e8b32bf73adfc333b8"
+          },
+          "Pawscape__Run__Puppy__Run__SubDataCatalog": {
+            "id": "3b19748b-c8c2-8116-bf1d-ef5a1433d246",
+            "title": "Pawscape: Run, Puppy, Run! SubDataCatalog",
+            "properties": {
+              "Parent": [
+                "3b19748b-c8c2-8174-8684-cb7149b4ad1b"
+              ],
+              "Platform": "Fire TV",
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "Name": "Pawscape: Run, Puppy, Run! SubDataCatalog"
+            },
+            "created_time": "2026-08-03T07:51:00.000Z",
+            "last_edited_time": "2026-08-03T07:51:00.000Z",
+            "url": "https://app.notion.com/p/Pawscape-Run-Puppy-Run-SubDataCatalog-3b19748bc8c28116bf1def5a1433d246"
+          },
+          "Pawscape__Run__Puppy__Run__MainData": {
+            "id": "3b19748b-c8c2-817c-9be8-d20a9ca6b90c",
+            "title": "Pawscape: Run, Puppy, Run! MainData",
+            "properties": {
+              "LinkToPromoRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/u/0/folders/1c19cCTgajEBiCqu42ffNyVKxiZJsUj6P"
+                }
+              },
+              "BundleVersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "22"
+                }
+              },
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Paid/Free": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "App Name": "",
+              "Version": {
+                "id": "PczY",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.9"
+                }
+              },
+              "Vaveda_key": "",
+              "Link to Promo": {
+                "id": "%5CVgk",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/u/0/folders/1c19cCTgajEBiCqu42ffNyVKxiZJsUj6P"
+                }
+              },
+              "VersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.9"
+                }
+              },
+              "Parent": [
+                "3b19748b-c8c2-8174-8684-cb7149b4ad1b"
+              ],
+              "Bundle Version": {
+                "id": "%5D~p%60",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "22"
+                }
+              },
+              "Bundle Id": {
+                "id": "%5E%7D%3Aj",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.vira.pawscape.run"
+                }
+              },
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "AF Key": "",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.vira.pawscape.run"
+                }
+              },
+              "Vaveda_secret": "",
+              "Name": "Pawscape: Run, Puppy, Run! MainData"
+            },
+            "created_time": "2026-08-03T07:51:00.000Z",
+            "last_edited_time": "2026-08-03T07:51:00.000Z",
+            "url": "https://app.notion.com/p/Pawscape-Run-Puppy-Run-MainData-3b19748bc8c2817c9be8d20a9ca6b90c",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/u/0/folders/1c19cCTgajEBiCqu42ffNyVKxiZJsUj6P",
+                  "ProductName": "",
+                  "BundleIdentifier": "com.vira.pawscape.run",
+                  "Version": "1.0.9",
+                  "BundleVersionCode": 22,
+                  "CompanyName": ""
+                },
+                "SDKSettings": {
+                  "Keys": [],
+                  "IsAmazon": false
+                }
+              }
+            }
+          },
+          "Page_2fd9748b-c8c2-803f-939c-e303ebe55eb1": {
+            "id": "2fd9748b-c8c2-803f-939c-e303ebe55eb1",
+            "title": "Page 2fd9748b-c8c2-803f-939c-e303ebe55eb1",
+            "properties": {
+              "CR_SUB_WW": {
+                "id": "%3A%3Br_",
+                "type": "number",
+                "number": null
+              },
+              "Create Paid Promo Rebuild ": null,
+              "Installs US": {
+                "id": "%3Au%7BN",
+                "type": "number",
+                "number": null
+              },
+              "Creatives Status": {
+                "id": "%3B%60E%3C",
+                "type": "status",
+                "status": {
+                  "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "[Icon]": null,
+              "TOP AMZ for Sub Screen Upates": [],
+              "Ref Name": "",
+              "ASIN": "B0DL88SYKQ",
+              "Missing Info for Dev(Cross)": {
+                "id": "%3Cv%60H",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "New promo link": {
+                "id": "%3DU%3BG",
+                "type": "url",
+                "url": null
+              },
+              "Date Dev Start": {
+                "id": "%3D%7B%3Ej",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-04",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Clone": null,
+              "Days in Dev -> Release": {
+                "id": "%3EkOQ",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 4
+                }
+              },
+              "Are all prop. filled? ": {
+                "id": "%3Epbv",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "false"
+                }
+              },
+              "All Projects Info Old": [],
+              "AF Link": {
+                "id": "%40G%5E%3A",
+                "type": "url",
+                "url": "https://hq1.appsflyer.com/unified-ltv/dashboard#appIds=com.vira.pawscape.run-Amazon"
+              },
+              "Long Description": "",
+              "BB SDK Key (Android)": "",
+              "Icon Promo Request": false,
+              "pLTV 180": {
+                "id": "%40zGB",
+                "type": "number",
+                "number": null
+              },
+              "Developer": {
+                "id": "%40%7Cvk",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "0731b4d9-9ba8-4dad-81c5-01ec2c730937"
+                  }
+                ]
+              },
+              "PROGRESSION": "",
+              "🎯 AllPages": [],
+              "Project Subs Metrics": [],
+              "Status (Copy)": {
+                "id": "BVo%40",
+                "type": "status",
+                "status": {
+                  "id": "nIxs",
+                  "name": "UA PAUSED",
+                  "color": "red"
+                }
+              },
+              "Mintegral Status": "",
+              "Creo Link": "https://drive.google.com/drive/u/0/folders/1PmEuMkLd0n8k1jUbVBlrXdaDHsCJ4Teo",
+              "Days Start-Finish": {
+                "id": "Bzh%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 0
+                }
+              },
+              "Sum SP": "",
+              "Created time": {
+                "id": "B~Qf",
+                "type": "created_time",
+                "created_time": "2026-02-04T10:34:00.000Z"
+              },
+              "All subscriptions for the current build are filled": true,
+              "Missing info for Promo rebuild": {
+                "id": "CkT%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "CPI": {
+                "id": "Cxr%40",
+                "type": "number",
+                "number": null
+              },
+              "Teams use": {
+                "id": "D%40CI",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Status": {
+                "id": "DYYJ",
+                "type": "status",
+                "status": {
+                  "id": "90bac3ba-be41-4b5d-8096-cf1217b11885",
+                  "name": "LIVE",
+                  "color": "green"
+                }
+              },
+              "Date Development Status Set": {
+                "id": "D%60fU",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-04",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Last edited time": {
+                "id": "Dj%3Fm",
+                "type": "last_edited_time",
+                "last_edited_time": "2026-08-03T07:51:00.000Z"
+              },
+              "Project Link": {
+                "id": "DjJJ",
+                "type": "url",
+                "url": null
+              },
+              "Date Art Finish": {
+                "id": "Do%3DG",
+                "type": "date",
+                "date": null
+              },
+              "Bundle ID": "com.vira.pawscape.run",
+              "Price": {
+                "id": "EUeu",
+                "type": "number",
+                "number": null
+              },
+              "Project Score Analysys": "",
+              "[Promo] Tasks ": [],
+              "TECH": "",
+              "CTR TEST": {
+                "id": "Ejyo",
+                "type": "number",
+                "number": null
+              },
+              "Subscription screen changes include links to actual references (expected UI)": true,
+              "GD": {
+                "id": "FHAP",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "e0257c78-9ef9-43d7-a5ba-2558204108f9",
+                    "name": "Maksym Shchevych",
+                    "avatar_url": null,
+                    "type": "person",
+                    "person": {
+                      "email": "maksym.shchevych@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "CONTENT": "",
+              "Due": {
+                "id": "FaCd",
+                "type": "date",
+                "date": null
+              },
+              "Link to Old Promo": {
+                "id": "FbpI",
+                "type": "url",
+                "url": null
+              },
+              "QA Task File": {
+                "type": "files",
+                "files": []
+              },
+              "Task from Growth": [],
+              "ASO Name & Description": null,
+              "External\\internal": "Internal",
+              "⏺️ ASO | Calendar": [],
+              "Product Features": "",
+              "Promo Task ": [],
+              "Monetization DB": [],
+              "Banner Key": "",
+              "Date Info Updated": {
+                "id": "HqDO",
+                "type": "date",
+                "date": null
+              },
+              "Short Description": "",
+              "Creo Status": "",
+              "Amz Int & Port Tasks Template": null,
+              "Tools": {
+                "id": "IZP%3F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "CreateTKSettings": null,
+              "Subscription JSON": [],
+              "GetGitlabInfo": null,
+              "Days Start-Release": {
+                "id": "JXlK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 2
+                }
+              },
+              "AMZ releaseId": "",
+              "[Logotype]": null,
+              "CR Subs, %": {
+                "id": "KKZH",
+                "type": "number",
+                "number": null
+              },
+              "Date": {
+                "id": "LkTZ",
+                "type": "date",
+                "date": null
+              },
+              "D3REW": {
+                "id": "M%5E%40L",
+                "type": "number",
+                "number": null
+              },
+              "Each config has its own separate description": true,
+              "CR Total, %": {
+                "id": "MguI",
+                "type": "number",
+                "number": null
+              },
+              "D7INT": {
+                "id": "MqkG",
+                "type": "number",
+                "number": null
+              },
+              "PaidConfigGroup": [],
+              "D1INT": {
+                "id": "N%3AM%60",
+                "type": "number",
+                "number": null
+              },
+              "Automation Info (AppStore)": "",
+              "Previous Status": {
+                "id": "NSz%7D",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Traffic Source": {
+                "id": "N%5E%3Cm",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "_bu?",
+                    "name": "AMZ Ads",
+                    "color": "default"
+                  }
+                ]
+              },
+              "Game Type": {
+                "id": "NcId",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Create Task (No Check)": null,
+              "Developer AMZ AppStore Link": "",
+              "pLTV 7": {
+                "id": "OPM%5C",
+                "type": "number",
+                "number": null
+              },
+              "Interstitial Key": "",
+              "BB Game ID (iOS)": "",
+              "Team ": "AMZ Direction",
+              "Ref Link": "",
+              "Build Paid Icon": null,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
+              "Create Paid Icon": null,
+              "ByteBrew Link": {
+                "id": "QD%3Cd",
+                "type": "url",
+                "url": null
+              },
+              "Outdated / unused elements are removed from GDD": true,
+              "Applovin Key": "",
+              "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
+              "Version": "1.0.9",
+              "Show": {
+                "id": "RfDI",
+                "type": "number",
+                "number": null
+              },
+              "QA | Tasks": [
+                "2fd9748b-c8c2-8125-a78d-ec396bdc040d"
+              ],
+              "Fullsreen Banner Promo Request": false,
+              "📽️ Creatives Team Tasks": [],
+              "Bright SDK Review Status": {
+                "id": "SXax",
+                "type": "status",
+                "status": {
+                  "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                  "name": "Implementation",
+                  "color": "default"
+                }
+              },
+              "Days for Art Test": {
+                "id": "SdR%3B",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
+              },
+              "Bundle Version": "22",
+              "Days for Art": {
+                "id": "T%3Edc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "BB SDK Key (iOS)": "",
+              "Feature description matches the latest implementation": true,
+              "Create New \"QA Task\"": null,
+              "Status  Promo": {
+                "id": "TWT%3A",
+                "type": "status",
+                "status": {
+                  "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Click": {
+                "id": "TkDm",
+                "type": "number",
+                "number": null
+              },
+              "GA Game Key": "",
+              "CTR Video link": "",
+              "Link to Automation": {
+                "id": "VRV%3B",
+                "type": "url",
+                "url": null
+              },
+              "Days in QA": {
+                "id": "VgPc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "parent": "Cat Escape",
+              "Genre": {
+                "id": "V~Gf",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "BB Game ID (Android)": "",
+              "Date QA Finished": {
+                "id": "X%5Cma",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-05T10:25:00.000+00:00",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Task Create Info": "✅ QA Task - Successfully Created! ",
+              "GDD Doc": "🐶",
+              "Full Pack Amz": null,
+              "Missing Info for QA Task": {
+                "id": "ZSo%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "[Screenshots]": null,
+              "Specialist": {
+                "id": "Zy%3F%3A",
+                "type": "people",
+                "people": []
+              },
+              "A/B Group": "",
+              "Full Pack TV Promo Request": false,
+              "Date Team Finish": {
+                "id": "%5B%5E%3AX",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-04",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "IPM STATIC": {
+                "id": "%5Bagu",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_key": "pwscppz",
+              "Groups": [],
+              "D1RET": {
+                "id": "%5D%3DAl",
+                "type": "number",
+                "number": null
+              },
+              "[Fullscreen Banner]": null,
+              "CR_SUB_US": {
+                "id": "%5Dz%7CJ",
+                "type": "number",
+                "number": null
+              },
+              "D7BAN": {
+                "id": "%5E%3A%3F%3B",
+                "type": "number",
+                "number": null
+              },
+              "MONETIZATION": "",
+              "D3BAN": {
+                "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "Full game name": "Pawscape: Run, Puppy, Run!",
+              "Firebase PLIST": [],
+              "Are all prop filled": {
+                "id": "_%5D%5E%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Ref Link\n⚠️ Date to QA"
+                }
+              },
+              "D1REW": {
+                "id": "_bnb",
+                "type": "number",
+                "number": null
+              },
+              "ASO Name & Descripton Request": false,
+              "Build changes are marked in the task": true,
+              "Unity version": "",
+              "Promo status info": "",
+              "Average FPS": {
+                "id": "a%3Fdf",
+                "type": "number",
+                "number": null
+              },
+              "Autobuild_buildNumber": "",
+              "Polishing": "",
+              "ExtraComments": "",
+              "Full Pack Promo Request": false,
+              "Art Subs Links": "",
+              "Sprint": {
+                "id": "afeU",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Documentation link": "Untitled",
+              "Clone From": "",
+              "D7RET": {
+                "id": "bE%7C%3A",
+                "type": "number",
+                "number": null
+              },
+              "Test - Button No Validation": null,
+              "Release Type": "Re-build",
+              "GDD is updated for the current game version": true,
+              "Link to ASO": {
+                "id": "d%3BwX",
+                "type": "url",
+                "url": null
+              },
+              "Create Paid Banner": null,
+              "Prod Promo Approve": "",
+              "RW Key": "",
+              "Art Content Table": null,
+              "What's new": "+ убрали остатки брайта",
+              "100% Release Date": {
+                "id": "e%5Ec%7C",
+                "type": "date",
+                "date": null
+              },
+              "Api key": "",
+              "[Static Banner]": null,
+              "Public key": [],
+              "Quarter": "Q1_26",
+              "Create AF & Vaveda Pages": null,
+              "LTV_180_WW": {
+                "id": "gCUp",
+                "type": "number",
+                "number": null
+              },
+              "Crit Bugs": "",
+              "IPM(CP)": {
+                "id": "hQ%5C%5B",
+                "type": "number",
+                "number": null
+              },
+              "Refund Rate": {
+                "id": "h%5Cxv",
+                "type": "number",
+                "number": null
+              },
+              "Keywords": "",
+              "IOS Distribution profile": [],
+              "Status 1": {
+                "id": "ihRL",
+                "type": "status",
+                "status": {
+                  "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Logotype Banner Promo Request": false,
+              "Slack Channel Link": "https://viragames.slack.com/archives/C08BGB9705Q",
+              "CTR": {
+                "id": "jqbZ",
+                "type": "number",
+                "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": null
+              },
+              "D3PTM": {
+                "id": "kamA",
+                "type": "number",
+                "number": null
+              },
+              "D7REW": {
+                "id": "kuEV",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_secret": "zFRTrjToWDHP34piUu05QEkvYe05f9ow",
+              "ViraToolKit version": "1.9.0",
+              "Priority": "",
+              "App ID(iOS)": "",
+              "Int&Port Epics": [],
+              "ToolKitSettings": [
+                "3b19748b-c8c2-8174-8684-cb7149b4ad1b"
+              ],
+              "Link to store": "https://www.amazon.com/dp/B0DL88SYKQ",
+              "QA checking": "",
+              "Date Release": {
+                "id": "nTQx",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-06T06:51:00.000+00:00",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D3RET": {
+                "id": "n%5CF~",
+                "type": "number",
+                "number": null
+              },
+              "Cross-Promo AMZ": [],
+              "Paid\\Free": "Free",
+              "AMZ AppStore": null,
+              "RESULTS": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Goals": "",
+              "Firebase JSON": [],
+              "QA": {
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "123d872b-594c-81ee-b257-0002268a7d53",
+                    "name": "Andriy Vashchenko",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/3eefd71b-f7fc-4b13-b1d6-ad598e2addf2/photo_2024-10-21_17-28-38.jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "andriy.vashchenko@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "Hypothesys": [],
+              "AMZ appId": "",
+              "Opt-In": {
+                "id": "p_Ic",
+                "type": "number",
+                "number": null
+              },
+              "New Tasks & Requests": [],
+              "Last edited by": {
+                "id": "qUWF",
+                "type": "last_edited_by",
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "b0a95c82-23ee-4ea0-b7e7-0c1fc1b3fa9e",
+                  "name": "Tools Team Helper",
+                  "avatar_url": null,
+                  "type": "bot",
+                  "bot": {}
+                }
+              },
+              "Account": {
+                "id": "qhXd",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "cd4ae8a7-72b6-4051-8d1d-1a17973ae494",
+                    "name": "Vira Games Inc",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "Date to QA": {
+                "id": "q%7D%3F%5C",
+                "type": "date",
+                "date": null
+              },
+              "Sub-team": "GRYFFINDOR",
+              "Date Team Start": {
+                "id": "rKeG",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-04",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Created by": {
+                "id": "r%5BBI",
+                "type": "created_by",
+                "created_by": {
+                  "object": "user",
+                  "id": "21cd872b-594c-81a8-8390-0002210a34c5",
+                  "name": "Ivan Pavliv",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "ivan.pavliv@vira.games",
+                    "email_verified": true
+                  }
+                }
+              },
+              "Tech Project Doc": "",
+              "Sub-subscription 1": {
+                "id": "sCtp",
+                "type": "url",
+                "url": null
+              },
+              "Automated Team": {
+                "id": "sDNL",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "If release is not required:  Need Release checkbox is unchecked": true,
+              "UI": "",
+              "Test - Button Validation": null,
+              "Admob Key": "",
+              "Firebase Link": {
+                "id": "upQD",
+                "type": "url",
+                "url": null
+              },
+              "Monetization": [],
+              "Cross Promo Video status": "",
+              "CPI (Mint) Test Dates": {
+                "id": "v%5Bi%60",
+                "type": "date",
+                "date": null
+              },
+              "Date Art Start": {
+                "id": "v%5D~D",
+                "type": "date",
+                "date": null
+              },
+              "Last Status Change": {
+                "id": "wQFr",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-06",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D1PTM": {
+                "id": "wgp%7B",
+                "type": "number",
+                "number": null
+              },
+              "Link to Promo": "https://drive.google.com/drive/u/0/folders/1c19cCTgajEBiCqu42ffNyVKxiZJsUj6P",
+              "[Creatives] Tasks": [],
+              "ipm TEST": {
+                "id": "xWSH",
+                "type": "number",
+                "number": null
+              },
+              "Art Assets Link": {
+                "id": "x%5C%3DY",
+                "type": "url",
+                "url": null
+              },
+              "Total installs": {
+                "id": "x%5DWz",
+                "type": "number",
+                "number": null
+              },
+              "LTV_180_US ": {
+                "id": "xfen",
+                "type": "number",
+                "number": null
+              },
+              "Sub-s Database": [],
+              "Amz Console: On Auto support": true,
+              "Create QA Task": true,
+              "Create UA Tasks": null,
+              "3D Artist": {
+                "id": "zHXV",
+                "type": "people",
+                "people": []
+              },
+              " GA Secret Key": "",
+              "Task Tracker Link": {
+                "id": "%7BIp%3F",
+                "type": "url",
+                "url": null
+              },
+              "D3INT": {
+                "id": "%7BL%5C%3B",
+                "type": "number",
+                "number": null
+              },
+              "Percent of Release": {
+                "id": "%7BRbl",
+                "type": "number",
+                "number": 100
+              },
+              "AppMagic Info": [],
+              "StartUp Time": {
+                "id": "%7BZ_P",
+                "type": "number",
+                "number": null
+              },
+              "D1BAN": {
+                "id": "%7BeFD",
+                "type": "number",
+                "number": null
+              },
+              "IPM (CP) Test Dates": {
+                "id": "%7Be%5E%3E",
+                "type": "date",
+                "date": null
+              },
+              "Platform": "Fire TV",
+              "temp_tk_version_link": {
+                "id": "%7CeXN",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "Open ImportPackageWindow.cs"
+                }
+              },
+              "Screenshot Promo Request": false,
+              "Sub-item": [],
+              "Date Art Finish Test": {
+                "id": "%7Dwfx",
+                "type": "date",
+                "date": null
+              },
+              "GIT LINK": "https://gitlab.com/vira-games/amazon-projects/paw-escape",
+              "D7PTM": {
+                "id": "~%3F%3B%40",
+                "type": "number",
+                "number": null
+              },
+              "Parent Project": [
+                "13c9748b-c8c2-81e4-bd1d-d5298f7deb96"
+              ],
+              "Days in Dev -> QA": {
+                "id": "~FLK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "BALANCE": "",
+              "Description for QA": "+ ребилд после реджекта из-за остатков брайта\n+ в остальном - ",
+              "Prod Approved": false,
+              "Static Banner Promo Request": false,
+              "IPM": {
+                "id": "~oXr",
+                "type": "number",
+                "number": null
+              },
+              "Sent To QA": {
+                "id": "~sjG",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-04",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Promo info checking": {
+                "id": "~wLr",
+                "type": "formula",
+                "formula": {
+                  "type": "boolean",
+                  "boolean": false
+                }
+              },
+              "Project": "pwscppz - Pawscape: Run, Puppy, Run!",
+              "Description": "",
+              "SubscriptionRevenueEvent": false,
+              "AMZ Metrics Date & Comment": "",
+              "GD 2": {
+                "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Amz StartUp Time": {
+                "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                "type": "number",
+                "number": null
+              },
+              "Status 2": "",
+              "Days": {
+                "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                "type": "number",
+                "number": null
+              },
+              "Asana Link": {
+                "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                "type": "url",
+                "url": null
+              },
+              "Need a new Video?": false
+            },
+            "created_time": "2026-02-04T10:34:00.000Z",
+            "last_edited_time": "2026-08-03T07:51:00.000Z",
+            "url": "https://app.notion.com/p/pwscppz-Pawscape-Run-Puppy-Run-2fd9748bc8c2803f939ce303ebe55eb1",
+            "children": {
+              "Pawscape__Run__Puppy__Run___Fire_TV_-_Free_": {
+                "id": "2fd9748b-c8c2-8125-a78d-ec396bdc040d",
+                "title": "Pawscape: Run, Puppy, Run! [Fire TV - Free]",
+                "properties": {
+                  "Send Bug-report for Review": null,
+                  "QA": {
+                    "id": "%3Akbv",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "123d872b-594c-81ee-b257-0002268a7d53",
+                        "name": "Andriy Vashchenko",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/3eefd71b-f7fc-4b13-b1d6-ad598e2addf2/photo_2024-10-21_17-28-38.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "andriy.vashchenko@vira.games",
+                          "email_verified": true
+                        }
+                      }
+                    ]
+                  },
+                  "Sent for Review Date": {
+                    "id": "%3B%3Dui",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-02-05T11:26:00.000+00:00",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Extra Story Point ": {
+                    "id": "%3Bmt%7D",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Previous status": "Done",
+                  "Get info for iterations": null,
+                  "Release Build Link:": {
+                    "id": "%3FUcg",
+                    "type": "url",
+                    "url": "https://viragames.slack.com/files/U07S2CH9JGP/F0ACUFLJULT/pawscape_run_puppy_run_firetv_amazon_release_v1.0.9_bundle22_new.aab"
+                  },
+                  "Main Checklist": {
+                    "id": "%40uPu",
+                    "type": "url",
+                    "url": "https://docs.google.com/spreadsheets/d/1CKuMc19EUKAxwQ8F3NRCfNLBjxJvVNA5-f0fON5iRgc/edit?usp=sharing"
+                  },
+                  "Test result": [],
+                  "Create-Start Testing days": {
+                    "id": "A%5Bv%5B",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0.859
+                    }
+                  },
+                  "Total Testing Time (hrs)": {
+                    "id": "AaPZ",
+                    "type": "number",
+                    "number": 0.73
+                  },
+                  "Total Old Bugs": {
+                    "id": "C%60br",
+                    "type": "number",
+                    "number": 0
+                  },
+                  "Total \"Major\"": {
+                    "id": "DB%7D%3F",
+                    "type": "number",
+                    "number": 2
+                  },
+                  "ViraToolKit version": "1.9.0",
+                  "Priority": "High",
+                  "What's new": "+ убрали остатки брайта",
+                  "All Projects Info": [
+                    "2fd9748b-c8c2-803f-939c-e303ebe55eb1"
+                  ],
+                  "Link To Promo": "https://drive.google.com/drive/u/0/folders/1c19cCTgajEBiCqu42ffNyVKxiZJsUj6P",
+                  "Created time": {
+                    "id": "Hli%3C",
+                    "type": "created_time",
+                    "created_time": "2026-02-04T13:02:00.000Z"
+                  },
+                  "AF test Screen ": [
+                    {
+                      "name": "photo_2026-02-04_18-34-34.jpg",
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/6163edf3-268b-40e6-b028-d3ea0a87d6a4/photo_2026-02-04_18-34-34.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SU4QS3DY%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T075540Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLXdlc3QtMiJIMEYCIQDY0Qk7eNX0e314n6FW%2BMVH8my0dfOagD9Uh096Dcm8bgIhAKk%2BoSZ3F1U9ib%2B6ZqMKI0hRasj%2FzWr3oC5pVxyhki2tKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxA%2FXKnnoYsGyxl1okq3AMMQc15s6dUsJL79cZMLCAOvDruxSRPSbXIVy%2Bueidw8PgJ4WT6ZnifAf8ubwwxNlry4W5Jhspy5lvT4GplaPM45YTXWFD7eDEw5f9oSX2PIpKR7JeyuAz90HD7It%2BIZarJuos%2BpkBc38ubB0zBPIxxgWSpdGYDm2QBHBIb8wSp4Y0pkbjOtPvu0IKD20AnaPvRxg%2FiayzL7pW6zgZv2Zemqyjz9U7LKJlND5qtl9nrMWRAT29vZVAIwRg37Whxq8tFsojcjM8AlXJIwIl%2B5eHIZbnxzXZ4Q4d6Q9JqiU0iThfvQ18HvJcGwmcKVE2pIwfRekgqSDIFBB%2FQPQ1Ycqjwj9plV2OkemzeM4lUVoKeBGJKQBNn5%2Fc43ZOXbob7%2F103n7sKaAacmbzVwhsGzaQTn9C1ZrMi6f9iKUP7keKDt54c7uoSDUbMJmgg109xoMGAaTL66GEnTe3v3k35SH4d8qQptXsrV69Ytg7luKXfGazxxTeFzKCymngS7KnbtIXccadTYUQEYIBxt7bd0OQvpS1lz89NnV8w2ss%2Ff85%2BKAuWYf6zeDjh9NRZk2yffqQQgIP4tDzmzyJeiswuAxq5TA8iin0HM%2FUFR3I8LBl6aFCCu1pczZF42QRk9DCGjMHTBjqkAW6%2B6nLk3iZV6w9MpyQA72Sg7oITseFRjUKxC0hQz6STMRMw44vr%2FEoCdZkq85jWpbJVVajUvdZB2gYLfHVEqPjIsp%2Bg8SCIOtvaUmsYiS2atORATN3VZ%2Blk9McpAj%2Blg0InGmmHlBrIs%2F498a62uCyS1oktQhq0grmmcxRcwpNo13zPXS8yzVSXKV%2BEY59yjApkkCDQey3oXCATGm9IeZ8ljo%2Bd&X-Amz-Signature=40a4d4c9f1178a76c18582bc86908f721eafd7398c22e9b67a900c4dbaf3c74e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                    },
+                    {
+                      "name": "photo_2026-02-04_18-34-32.jpg",
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/bfb013f1-cbc0-401b-9e82-74a5728feaeb/photo_2026-02-04_18-34-32.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SU4QS3DY%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T075540Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLXdlc3QtMiJIMEYCIQDY0Qk7eNX0e314n6FW%2BMVH8my0dfOagD9Uh096Dcm8bgIhAKk%2BoSZ3F1U9ib%2B6ZqMKI0hRasj%2FzWr3oC5pVxyhki2tKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxA%2FXKnnoYsGyxl1okq3AMMQc15s6dUsJL79cZMLCAOvDruxSRPSbXIVy%2Bueidw8PgJ4WT6ZnifAf8ubwwxNlry4W5Jhspy5lvT4GplaPM45YTXWFD7eDEw5f9oSX2PIpKR7JeyuAz90HD7It%2BIZarJuos%2BpkBc38ubB0zBPIxxgWSpdGYDm2QBHBIb8wSp4Y0pkbjOtPvu0IKD20AnaPvRxg%2FiayzL7pW6zgZv2Zemqyjz9U7LKJlND5qtl9nrMWRAT29vZVAIwRg37Whxq8tFsojcjM8AlXJIwIl%2B5eHIZbnxzXZ4Q4d6Q9JqiU0iThfvQ18HvJcGwmcKVE2pIwfRekgqSDIFBB%2FQPQ1Ycqjwj9plV2OkemzeM4lUVoKeBGJKQBNn5%2Fc43ZOXbob7%2F103n7sKaAacmbzVwhsGzaQTn9C1ZrMi6f9iKUP7keKDt54c7uoSDUbMJmgg109xoMGAaTL66GEnTe3v3k35SH4d8qQptXsrV69Ytg7luKXfGazxxTeFzKCymngS7KnbtIXccadTYUQEYIBxt7bd0OQvpS1lz89NnV8w2ss%2Ff85%2BKAuWYf6zeDjh9NRZk2yffqQQgIP4tDzmzyJeiswuAxq5TA8iin0HM%2FUFR3I8LBl6aFCCu1pczZF42QRk9DCGjMHTBjqkAW6%2B6nLk3iZV6w9MpyQA72Sg7oITseFRjUKxC0hQz6STMRMw44vr%2FEoCdZkq85jWpbJVVajUvdZB2gYLfHVEqPjIsp%2Bg8SCIOtvaUmsYiS2atORATN3VZ%2Blk9McpAj%2Blg0InGmmHlBrIs%2F498a62uCyS1oktQhq0grmmcxRcwpNo13zPXS8yzVSXKV%2BEY59yjApkkCDQey3oXCATGm9IeZ8ljo%2Bd&X-Amz-Signature=cad5d56d0e78bcdf641978de81744cdbcc5d414b0f423b03172b4251d1fbf87a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                    },
+                    {
+                      "name": "photo_2026-02-04_18-34-29.jpg",
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/2566741c-3628-4679-9d10-fc8620ef2df5/photo_2026-02-04_18-34-29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SU4QS3DY%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T075540Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLXdlc3QtMiJIMEYCIQDY0Qk7eNX0e314n6FW%2BMVH8my0dfOagD9Uh096Dcm8bgIhAKk%2BoSZ3F1U9ib%2B6ZqMKI0hRasj%2FzWr3oC5pVxyhki2tKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxA%2FXKnnoYsGyxl1okq3AMMQc15s6dUsJL79cZMLCAOvDruxSRPSbXIVy%2Bueidw8PgJ4WT6ZnifAf8ubwwxNlry4W5Jhspy5lvT4GplaPM45YTXWFD7eDEw5f9oSX2PIpKR7JeyuAz90HD7It%2BIZarJuos%2BpkBc38ubB0zBPIxxgWSpdGYDm2QBHBIb8wSp4Y0pkbjOtPvu0IKD20AnaPvRxg%2FiayzL7pW6zgZv2Zemqyjz9U7LKJlND5qtl9nrMWRAT29vZVAIwRg37Whxq8tFsojcjM8AlXJIwIl%2B5eHIZbnxzXZ4Q4d6Q9JqiU0iThfvQ18HvJcGwmcKVE2pIwfRekgqSDIFBB%2FQPQ1Ycqjwj9plV2OkemzeM4lUVoKeBGJKQBNn5%2Fc43ZOXbob7%2F103n7sKaAacmbzVwhsGzaQTn9C1ZrMi6f9iKUP7keKDt54c7uoSDUbMJmgg109xoMGAaTL66GEnTe3v3k35SH4d8qQptXsrV69Ytg7luKXfGazxxTeFzKCymngS7KnbtIXccadTYUQEYIBxt7bd0OQvpS1lz89NnV8w2ss%2Ff85%2BKAuWYf6zeDjh9NRZk2yffqQQgIP4tDzmzyJeiswuAxq5TA8iin0HM%2FUFR3I8LBl6aFCCu1pczZF42QRk9DCGjMHTBjqkAW6%2B6nLk3iZV6w9MpyQA72Sg7oITseFRjUKxC0hQz6STMRMw44vr%2FEoCdZkq85jWpbJVVajUvdZB2gYLfHVEqPjIsp%2Bg8SCIOtvaUmsYiS2atORATN3VZ%2Blk9McpAj%2Blg0InGmmHlBrIs%2F498a62uCyS1oktQhq0grmmcxRcwpNo13zPXS8yzVSXKV%2BEY59yjApkkCDQey3oXCATGm9IeZ8ljo%2Bd&X-Amz-Signature=dfb7c61b870f6ce496d2cd9085cdf46b574e7a15eb5633c73143f0d6f6559c9d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                    },
+                    {
+                      "name": "photo_2026-02-04_18-36-00.jpg",
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/4afdb9a4-86f9-4d76-b3b4-e02131c13731/photo_2026-02-04_18-36-00.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SU4QS3DY%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T075540Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLXdlc3QtMiJIMEYCIQDY0Qk7eNX0e314n6FW%2BMVH8my0dfOagD9Uh096Dcm8bgIhAKk%2BoSZ3F1U9ib%2B6ZqMKI0hRasj%2FzWr3oC5pVxyhki2tKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxA%2FXKnnoYsGyxl1okq3AMMQc15s6dUsJL79cZMLCAOvDruxSRPSbXIVy%2Bueidw8PgJ4WT6ZnifAf8ubwwxNlry4W5Jhspy5lvT4GplaPM45YTXWFD7eDEw5f9oSX2PIpKR7JeyuAz90HD7It%2BIZarJuos%2BpkBc38ubB0zBPIxxgWSpdGYDm2QBHBIb8wSp4Y0pkbjOtPvu0IKD20AnaPvRxg%2FiayzL7pW6zgZv2Zemqyjz9U7LKJlND5qtl9nrMWRAT29vZVAIwRg37Whxq8tFsojcjM8AlXJIwIl%2B5eHIZbnxzXZ4Q4d6Q9JqiU0iThfvQ18HvJcGwmcKVE2pIwfRekgqSDIFBB%2FQPQ1Ycqjwj9plV2OkemzeM4lUVoKeBGJKQBNn5%2Fc43ZOXbob7%2F103n7sKaAacmbzVwhsGzaQTn9C1ZrMi6f9iKUP7keKDt54c7uoSDUbMJmgg109xoMGAaTL66GEnTe3v3k35SH4d8qQptXsrV69Ytg7luKXfGazxxTeFzKCymngS7KnbtIXccadTYUQEYIBxt7bd0OQvpS1lz89NnV8w2ss%2Ff85%2BKAuWYf6zeDjh9NRZk2yffqQQgIP4tDzmzyJeiswuAxq5TA8iin0HM%2FUFR3I8LBl6aFCCu1pczZF42QRk9DCGjMHTBjqkAW6%2B6nLk3iZV6w9MpyQA72Sg7oITseFRjUKxC0hQz6STMRMw44vr%2FEoCdZkq85jWpbJVVajUvdZB2gYLfHVEqPjIsp%2Bg8SCIOtvaUmsYiS2atORATN3VZ%2Blk9McpAj%2Blg0InGmmHlBrIs%2F498a62uCyS1oktQhq0grmmcxRcwpNo13zPXS8yzVSXKV%2BEY59yjApkkCDQey3oXCATGm9IeZ8ljo%2Bd&X-Amz-Signature=5723f76b8bca880eedc80fd512dc77ee5200173f3b970a56fbc1e94630d9d8e7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                    }
+                  ],
+                  "Missed Crit-bugs in Live": {
+                    "id": "Jm%7B%3B",
+                    "type": "number",
+                    "number": null
+                  },
+                  "Documentation link": "Untitled",
+                  "Sub-tasks": [
+                    "2fd9748b-c8c2-800a-b42e-ee0cf4b29060",
+                    "2fd9748b-c8c2-800e-9312-f884464bf4ba",
+                    "2fd9748b-c8c2-807b-aaf4-e64f435133d3"
+                  ],
+                  "Max it test time (hrs)": {
+                    "id": "M%3AHd",
+                    "type": "number",
+                    "number": 0.73
+                  },
+                  "Total \"Minor\"": {
+                    "id": "M%7Dly",
+                    "type": "number",
+                    "number": 0
+                  },
+                  "Attach file": [],
+                  "% sub-tasks per other iterations": {
+                    "id": "OAKo",
+                    "type": "number",
+                    "number": 0
+                  },
+                  "Link to Slack release-updates": {
+                    "id": "OUVS",
+                    "type": "url",
+                    "url": "https://viragames.slack.com/archives/C04HLB0UERJ/p1770360615913279"
+                  },
+                  "Company": {
+                    "id": "Psch",
+                    "type": "multi_select",
+                    "multi_select": [
+                      {
+                        "id": "6e8cf8af-2854-4165-a661-bf3db747a969",
+                        "name": "Vira Games Inc",
+                        "color": "orange"
+                      }
+                    ]
+                  },
+                  "Release Build Link 2": {
+                    "id": "Q%40JT",
+                    "type": "url",
+                    "url": null
+                  },
+                  "Total \"Critical\"": {
+                    "id": "QRF%5E",
+                    "type": "number",
+                    "number": 1
+                  },
+                  "Place": {
+                    "id": "SQ%3F%5C",
+                    "type": "place",
+                    "place": null
+                  },
+                  "Release Checklist": {
+                    "id": "SXCS",
+                    "type": "url",
+                    "url": "https://docs.google.com/spreadsheets/d/1vzcnIxF1jbljGcPWjEBj-dt0J-ttypCL9V0GDBcoXzU/edit?usp=drivesdk"
+                  },
+                  "Slack Channel Link": {
+                    "id": "S%7C~u",
+                    "type": "url",
+                    "url": "https://viragames.slack.com/archives/C08BGB9705Q"
+                  },
+                  "Auto Test Status": {
+                    "id": "UErf",
+                    "type": "status",
+                    "status": {
+                      "id": "]acT",
+                      "name": "Error auto-test",
+                      "color": "orange"
+                    }
+                  },
+                  "Sub-task Iteration": {
+                    "id": "VafY",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "GameDesigner": {
+                    "id": "VuMY",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "e0257c78-9ef9-43d7-a5ba-2558204108f9",
+                        "name": "Maksym Shchevych",
+                        "avatar_url": null,
+                        "type": "person",
+                        "person": {
+                          "email": "maksym.shchevych@vira.games",
+                          "email_verified": true
+                        }
+                      }
+                    ]
+                  },
+                  "Total \"Skip\" bug-tasks": {
+                    "id": "WFjH",
+                    "type": "number",
+                    "number": 0
+                  },
+                  "Bundle Version": {
+                    "id": "WXSF",
+                    "type": "number",
+                    "number": 22
+                  },
+                  "Logs": [],
+                  "Need release?": true,
+                  "Max it time (hrs)": {
+                    "id": "X%5Dx%3D",
+                    "type": "number",
+                    "number": 0.87
+                  },
+                  "App Version": "1.0.9",
+                  "Previous Update Date": {
+                    "id": "Ztsi",
+                    "type": "date",
+                    "date": null
+                  },
+                  "AVG iteration time (days)": {
+                    "id": "%5BPCR",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0.11
+                    }
+                  },
+                  "Severity": "",
+                  "Release Percent": {
+                    "type": "number",
+                    "number": 100
+                  },
+                  "Long Description": "",
+                  "Monetization": [],
+                  "Story Point": {
+                    "id": "%5D~Vq",
+                    "type": "number",
+                    "number": 0.5
+                  },
+                  "Iteration": {
+                    "id": "_QS%3F",
+                    "type": "number",
+                    "number": 2
+                  },
+                  "Description": "+ ребилд после реджекта из-за остатков брайта\n+ в остальном - ,полный дубль крайней версии - 1.0.9",
+                  "Total \"Blocker\"": {
+                    "id": "%60ZaY",
+                    "type": "number",
+                    "number": 0
+                  },
+                  "Slack Release Message Link": {
+                    "id": "a%3CNh",
+                    "type": "url",
+                    "url": " https://viragames.slack.com/archives/C056D595H1N/p1770287127181119"
+                  },
+                  "Bundle ID": "com.vira.pawscape.run",
+                  "Developer": {
+                    "id": "aiP%7D",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "0731b4d9-9ba8-4dad-81c5-01ec2c730937"
+                      }
+                    ]
+                  },
+                  "Automation Info": "",
+                  "Store Type": "Fire TV",
+                  "Task Status": {
+                    "id": "cQM%5D",
+                    "type": "status",
+                    "status": {
+                      "id": "49ff2105-1e90-4362-9fbb-9c40cc0d0b98",
+                      "name": "Done",
+                      "color": "green"
+                    }
+                  },
+                  "Close time": {
+                    "id": "c%60ea",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-02-06T14:42:00.000+00:00",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Days in Review": {
+                    "id": "f%3B%3E%7B",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0.809
+                    }
+                  },
+                  "% sub-tasks per 1-2 iterations": {
+                    "id": "full",
+                    "type": "number",
+                    "number": 100
+                  },
+                  "Who sent to release": {
+                    "id": "fyNp",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "603beaea-e97d-4e5b-b37b-db9c23a28f07",
+                        "name": "Kostiantyn Panfilov",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/7985f3d2-f8a4-41b3-a0e4-f4b7e83b53d4/photo_2024-05-20_09-53-22.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "kostiantyn.panfilov@vira.games",
+                          "email_verified": true
+                        }
+                      }
+                    ]
+                  },
+                  "Change Status - Button": null,
+                  "💼 All Projects - Parental card": [
+                    "13c9748b-c8c2-81e4-bd1d-d5298f7deb96"
+                  ],
+                  "End Test-Review Days": {
+                    "id": "iH%5CQ",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0.042
+                    }
+                  },
+                  "Parent item": [],
+                  "Total Iterations Time (days)": {
+                    "id": "jewJ",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0.11
+                    }
+                  },
+                  "Longest it": {
+                    "id": "k%3Ea%7D",
+                    "type": "number",
+                    "number": 2
+                  },
+                  "Release Type ": "Re-build",
+                  "AVG test iteration time (hrs)": {
+                    "id": "lyw%3B",
+                    "type": "number",
+                    "number": 0.73
+                  },
+                  "Assignee": {
+                    "id": "mgO%5D",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "123d872b-594c-81ee-b257-0002268a7d53",
+                        "name": "Andriy Vashchenko",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/3eefd71b-f7fc-4b13-b1d6-ad598e2addf2/photo_2024-10-21_17-28-38.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "andriy.vashchenko@vira.games",
+                          "email_verified": true
+                        }
+                      }
+                    ]
+                  },
+                  "QA who checked Live Test": {
+                    "id": "mn~B",
+                    "type": "people",
+                    "people": [
+                      {
+                        "object": "user",
+                        "id": "118d872b-594c-81a2-aa13-000256dc2673",
+                        "name": "Dmytro Ladukha",
+                        "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/204f03b6-014e-46e4-812d-585d836e401e/pngtree-avatar-of-a-man-wearing-sunglasses-image_2569096.jpg",
+                        "type": "person",
+                        "person": {
+                          "email": "dmytro.ladukha@vira.games",
+                          "email_verified": true
+                        }
+                      }
+                    ]
+                  },
+                  "Total сhild-tasks": {
+                    "id": "oFKh",
+                    "type": "number",
+                    "number": 3
+                  },
+                  "Build in internal test": false,
+                  "Sub-Team": {
+                    "id": "q%3Cug",
+                    "type": "multi_select",
+                    "multi_select": [
+                      {
+                        "id": "57384dc7-2a5b-4512-92c5-814eee9d8073",
+                        "name": "GRYFFINDOR",
+                        "color": "green"
+                      }
+                    ]
+                  },
+                  "Extra QA": {
+                    "id": "q%5BX%5C",
+                    "type": "people",
+                    "people": []
+                  },
+                  "Testing End Date": {
+                    "id": "q%60yo",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-02-05T10:25:00.000+00:00",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Team": "AMZ Integration and Port Team",
+                  "Longest Test it": {
+                    "id": "sCIG",
+                    "type": "number",
+                    "number": 2
+                  },
+                  "Days in QA stage": {
+                    "id": "sQbV",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0.03
+                    }
+                  },
+                  "Device": {
+                    "id": "s%5D%5EA",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Live Release Date": {
+                    "id": "tZz%7D",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-02-06T06:51:00.000+00:00",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Delay Reason": {
+                    "id": "tj%7Ce",
+                    "type": "multi_select",
+                    "multi_select": []
+                  },
+                  "Total \"Trivial\"": {
+                    "id": "u%5Cdr",
+                    "type": "number",
+                    "number": 0
+                  },
+                  "Paid/free": "Free",
+                  "Reject Start Date": {
+                    "id": "udDX",
+                    "type": "date",
+                    "date": null
+                  },
+                  "Error Message": "There was an error when try to download file. File does not exist or not exist bundle id.",
+                  "Testing Start Date": {
+                    "id": "vON%5C",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-02-05T09:39:00.000+00:00",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "Total Iterations Time (hrs)": {
+                    "id": "w%5EKg",
+                    "type": "number",
+                    "number": 0.87
+                  },
+                  "Total Bug-tasks": {
+                    "id": "xcIA",
+                    "type": "number",
+                    "number": 3
+                  },
+                  "Total Sub-Tasks": {
+                    "id": "yQx%5D",
+                    "type": "number",
+                    "number": 0
+                  },
+                  "Total Task Story Point": {
+                    "id": "ziTL",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 0.5
+                    }
+                  },
+                  "Screens & Videos": [],
+                  "Project status": {
+                    "type": "status",
+                    "status": {
+                      "id": "90bac3ba-be41-4b5d-8096-cf1217b11885",
+                      "name": "LIVE",
+                      "color": "green"
+                    }
+                  },
+                  "Create-Close Days": {
+                    "id": "%7C%7BWX",
+                    "type": "formula",
+                    "formula": {
+                      "type": "number",
+                      "number": 2
+                    }
+                  },
+                  "Task Type": "Task",
+                  "AVG iteration time (hrs)": {
+                    "id": "%7DrCu",
+                    "type": "number",
+                    "number": 0.87
+                  },
+                  "Name": "Pawscape: Run, Puppy, Run! [Fire TV - Free]",
+                  "Google Drive File": []
+                },
+                "created_time": "2026-02-04T13:02:00.000Z",
+                "last_edited_time": "2026-02-06T14:44:00.000Z",
+                "url": "https://app.notion.com/p/Pawscape-Run-Puppy-Run-Fire-TV-Free-2fd9748bc8c28125a78dec396bdc040d",
+                "children": {
+                  "Page_13c9748b-c8c2-81e4-bd1d-d5298f7deb96": {
+                    "id": "13c9748b-c8c2-81e4-bd1d-d5298f7deb96",
+                    "title": "Page 13c9748b-c8c2-81e4-bd1d-d5298f7deb96",
+                    "properties": {
+                      "CR_SUB_WW": {
+                        "id": "%3A%3Br_",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Create Paid Promo Rebuild ": null,
+                      "Installs US": {
+                        "id": "%3Au%7BN",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Creatives Status": {
+                        "id": "%3B%60E%3C",
+                        "type": "status",
+                        "status": {
+                          "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "[Icon]": null,
+                      "TOP AMZ for Sub Screen Upates": [],
+                      "Ref Name": "",
+                      "ASIN": "B0FV3H2YTB",
+                      "Missing Info for Dev(Cross)": {
+                        "id": "%3Cv%60H",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Full game name\n⚠️ Company(Account)\n⚠️ Store Type\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ AF Link\n⚠️ Developer\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Finish\n⚠️ Bundle ID\n⚠️ Team"
+                        }
+                      },
+                      "New promo link": {
+                        "id": "%3DU%3BG",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Dev Start": {
+                        "id": "%3D%7B%3Ej",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Clone": null,
+                      "Days in Dev -> Release": {
+                        "id": "%3EkOQ",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": null
+                        }
+                      },
+                      "Are all prop. filled? ": {
+                        "id": "%3Epbv",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "false"
+                        }
+                      },
+                      "All Projects Info Old": [],
+                      "AF Link": {
+                        "id": "%40G%5E%3A",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Long Description": "",
+                      "BB SDK Key (Android)": "",
+                      "Icon Promo Request": false,
+                      "pLTV 180": {
+                        "id": "%40zGB",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Developer": {
+                        "id": "%40%7Cvk",
+                        "type": "people",
+                        "people": []
+                      },
+                      "PROGRESSION": "",
+                      "🎯 AllPages": [],
+                      "Project Subs Metrics": [],
+                      "Status (Copy)": {
+                        "id": "BVo%40",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Mintegral Status": "",
+                      "Creo Link": "",
+                      "Days Start-Finish": {
+                        "id": "Bzh%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": null
+                        }
+                      },
+                      "Sum SP": "",
+                      "Created time": {
+                        "id": "B~Qf",
+                        "type": "created_time",
+                        "created_time": "2024-11-12T21:36:00.000Z"
+                      },
+                      "All subscriptions for the current build are filled": false,
+                      "Missing info for Promo rebuild": {
+                        "id": "CkT%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Promo Link\n⚠️ Full Game name"
+                        }
+                      },
+                      "CPI": {
+                        "id": "Cxr%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Teams use": {
+                        "id": "D%40CI",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Status": {
+                        "id": "DYYJ",
+                        "type": "status",
+                        "status": {
+                          "id": "90bac3ba-be41-4b5d-8096-cf1217b11885",
+                          "name": "LIVE",
+                          "color": "green"
+                        }
+                      },
+                      "Date Development Status Set": {
+                        "id": "D%60fU",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Last edited time": {
+                        "id": "Dj%3Fm",
+                        "type": "last_edited_time",
+                        "last_edited_time": "2026-04-23T16:42:00.000Z"
+                      },
+                      "Project Link": {
+                        "id": "DjJJ",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Date Art Finish": {
+                        "id": "Do%3DG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Bundle ID": "",
+                      "Price": {
+                        "id": "EUeu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Project Score Analysys": "",
+                      "[Promo] Tasks ": [],
+                      "TECH": "",
+                      "CTR TEST": {
+                        "id": "Ejyo",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Subscription screen changes include links to actual references (expected UI)": false,
+                      "GD": {
+                        "id": "FHAP",
+                        "type": "people",
+                        "people": [
+                          {
+                            "object": "user",
+                            "id": "0a24fc2f-d948-4369-a7f5-93e48b78f05e"
+                          }
+                        ]
+                      },
+                      "CONTENT": "",
+                      "Due": {
+                        "id": "FaCd",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Link to Old Promo": {
+                        "id": "FbpI",
+                        "type": "url",
+                        "url": null
+                      },
+                      "QA Task File": "",
+                      "Task from Growth": [],
+                      "ASO Name & Description": null,
+                      "External\\internal": "Internal",
+                      "⏺️ ASO | Calendar": [],
+                      "Product Features": "",
+                      "Promo Task ": [],
+                      "Monetization DB": [],
+                      "Banner Key": "",
+                      "Date Info Updated": {
+                        "id": "HqDO",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Short Description": "",
+                      "Creo Status": "",
+                      "Amz Int & Port Tasks Template": null,
+                      "Tools": {
+                        "id": "IZP%3F",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "CreateTKSettings": null,
+                      "Subscription JSON": [],
+                      "GetGitlabInfo": null,
+                      "Days Start-Release": {
+                        "id": "JXlK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": null
+                        }
+                      },
+                      "AMZ releaseId": "",
+                      "[Logotype]": null,
+                      "CR Subs, %": {
+                        "id": "KKZH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Date": {
+                        "id": "LkTZ",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3REW": {
+                        "id": "M%5E%40L",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Each config has its own separate description": false,
+                      "CR Total, %": {
+                        "id": "MguI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7INT": {
+                        "id": "MqkG",
+                        "type": "number",
+                        "number": null
+                      },
+                      "PaidConfigGroup": [],
+                      "D1INT": {
+                        "id": "N%3AM%60",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Automation Info (AppStore)": "",
+                      "Previous Status": {
+                        "id": "NSz%7D",
+                        "type": "status",
+                        "status": {
+                          "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                          "name": "BACKLOG",
+                          "color": "gray"
+                        }
+                      },
+                      "Traffic Source": {
+                        "id": "N%5E%3Cm",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Game Type": {
+                        "id": "NcId",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "j=mr",
+                            "name": "Reskin",
+                            "color": "pink"
+                          }
+                        ]
+                      },
+                      "Create Task (No Check)": null,
+                      "Developer AMZ AppStore Link": "",
+                      "pLTV 7": {
+                        "id": "OPM%5C",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Interstitial Key": "",
+                      "BB Game ID (iOS)": "",
+                      "Team ": "",
+                      "Ref Link": "https://play.google.com/store/apps/details?gl=US&hl=en-US&id=gg.sunday.catescape",
+                      "Build Paid Icon": null,
+                      "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+                      "Create Paid Icon": null,
+                      "ByteBrew Link": {
+                        "id": "QD%3Cd",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Outdated / unused elements are removed from GDD": false,
+                      "Applovin Key": "",
+                      "Full Pack  Fire TV ": null,
+                      "iPad Screens": {
+                        "id": "R%5EzP",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Version": "",
+                      "Show": {
+                        "id": "RfDI",
+                        "type": "number",
+                        "number": null
+                      },
+                      "QA | Tasks": [],
+                      "Fullsreen Banner Promo Request": false,
+                      "📽️ Creatives Team Tasks": [],
+                      "Bright SDK Review Status": {
+                        "id": "SXax",
+                        "type": "status",
+                        "status": {
+                          "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                          "name": "Implementation",
+                          "color": "default"
+                        }
+                      },
+                      "Days for Art Test": {
+                        "id": "SdR%3B",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": null
+                        }
+                      },
+                      "iPhone Screens": {
+                        "id": "SeX%7C",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Bundle Version": "",
+                      "Days for Art": {
+                        "id": "T%3Edc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": null
+                        }
+                      },
+                      "BB SDK Key (iOS)": "",
+                      "Feature description matches the latest implementation": false,
+                      "Create New \"QA Task\"": null,
+                      "Status  Promo": {
+                        "id": "TWT%3A",
+                        "type": "status",
+                        "status": {
+                          "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Click": {
+                        "id": "TkDm",
+                        "type": "number",
+                        "number": null
+                      },
+                      "GA Game Key": "",
+                      "CTR Video link": "",
+                      "Link to Automation": {
+                        "id": "VRV%3B",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Days in QA": {
+                        "id": "VgPc",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": null
+                        }
+                      },
+                      "parent": "",
+                      "Genre": {
+                        "id": "V~Gf",
+                        "type": "multi_select",
+                        "multi_select": [
+                          {
+                            "id": "27a0f8f0-6303-4ed1-8fa6-f4e7fa74cc9e",
+                            "name": "Action",
+                            "color": "pink"
+                          }
+                        ]
+                      },
+                      "BB Game ID (Android)": "",
+                      "Date QA Finished": {
+                        "id": "X%5Cma",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Task Create Info": "",
+                      "GDD Doc": "Untitled",
+                      "Full Pack Amz": null,
+                      "Missing Info for QA Task": {
+                        "id": "ZSo%3D",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Full game name\n⚠️ Company(Account)\n⚠️ Store Type\n⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ Slack Channel Link\n⚠️ ViraToolKit version\n⚠️ AF Link\n⚠️ Developer\n⚠️ Version\n⚠️ Bundle Version\n⚠️ Date Team Finish\n⚠️ Promo Link\n⚠️ Bundle ID\n⚠️ Team"
+                        }
+                      },
+                      "[Screenshots]": null,
+                      "Specialist": {
+                        "id": "Zy%3F%3A",
+                        "type": "people",
+                        "people": []
+                      },
+                      "A/B Group": "",
+                      "Full Pack TV Promo Request": false,
+                      "Date Team Finish": {
+                        "id": "%5B%5E%3AX",
+                        "type": "date",
+                        "date": null
+                      },
+                      "IPM STATIC": {
+                        "id": "%5Bagu",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_key": "",
+                      "Groups": [],
+                      "D1RET": {
+                        "id": "%5D%3DAl",
+                        "type": "number",
+                        "number": null
+                      },
+                      "[Fullscreen Banner]": null,
+                      "CR_SUB_US": {
+                        "id": "%5Dz%7CJ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7BAN": {
+                        "id": "%5E%3A%3F%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "MONETIZATION": "",
+                      "D3BAN": {
+                        "id": "%5EQH%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full game name": "",
+                      "Firebase PLIST": [],
+                      "Are all prop filled": {
+                        "id": "_%5D%5E%3A",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "⚠️ Developer\n⚠️ Platform\n⚠️ Paid/Free\n⚠️ Slack channel\n⚠️ Date to QA"
+                        }
+                      },
+                      "D1REW": {
+                        "id": "_bnb",
+                        "type": "number",
+                        "number": null
+                      },
+                      "ASO Name & Descripton Request": false,
+                      "Build changes are marked in the task": false,
+                      "Unity version": "",
+                      "Promo status info": "",
+                      "Average FPS": {
+                        "id": "a%3Fdf",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Autobuild_buildNumber": "",
+                      "Polishing": "",
+                      "ExtraComments": "",
+                      "Full Pack Promo Request": false,
+                      "Art Subs Links": "",
+                      "Sprint": {
+                        "id": "afeU",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Documentation link": "",
+                      "Clone From": "",
+                      "D7RET": {
+                        "id": "bE%7C%3A",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Test - Button No Validation": null,
+                      "Release Type": "",
+                      "GDD is updated for the current game version": false,
+                      "Link to ASO": {
+                        "id": "d%3BwX",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Create Paid Banner": null,
+                      "Prod Promo Approve": "",
+                      "RW Key": "",
+                      "Art Content Table": null,
+                      "What's new": "",
+                      "100% Release Date": {
+                        "id": "e%5Ec%7C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Api key": "",
+                      "[Static Banner]": null,
+                      "Public key": [],
+                      "Quarter": "Q4_24",
+                      "Create AF & Vaveda Pages": null,
+                      "LTV_180_WW": {
+                        "id": "gCUp",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Crit Bugs": "",
+                      "IPM(CP)": {
+                        "id": "hQ%5C%5B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Refund Rate": {
+                        "id": "h%5Cxv",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Keywords": "",
+                      "IOS Distribution profile": [],
+                      "Status 1": {
+                        "id": "ihRL",
+                        "type": "status",
+                        "status": {
+                          "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                          "name": "Not started",
+                          "color": "default"
+                        }
+                      },
+                      "Logotype Banner Promo Request": false,
+                      "Slack Channel Link": "",
+                      "CTR": {
+                        "id": "jqbZ",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Full Pack GP": {
+                        "id": "k%60op",
+                        "type": "url",
+                        "url": null
+                      },
+                      "D3PTM": {
+                        "id": "kamA",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D7REW": {
+                        "id": "kuEV",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Vaveda_secret": "",
+                      "ViraToolKit version": "",
+                      "Priority": "Crit",
+                      "App ID(iOS)": "",
+                      "Int&Port Epics": [],
+                      "ToolKitSettings": [],
+                      "Link to store": "https://www.amazon.com/dp/B0FV3H2YTB",
+                      "QA checking": "",
+                      "Date Release": {
+                        "id": "nTQx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D3RET": {
+                        "id": "n%5CF~",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Cross-Promo AMZ": [],
+                      "Paid\\Free": "",
+                      "AMZ AppStore": null,
+                      "RESULTS": "",
+                      "AF Key": "",
+                      "Goals": "",
+                      "Firebase JSON": [],
+                      "QA": "",
+                      "Hypothesys": [],
+                      "AMZ appId": "",
+                      "Opt-In": {
+                        "id": "p_Ic",
+                        "type": "number",
+                        "number": null
+                      },
+                      "New Tasks & Requests": [],
+                      "Last edited by": {
+                        "id": "qUWF",
+                        "type": "last_edited_by",
+                        "last_edited_by": {
+                          "object": "user",
+                          "id": "3a63fa1d-90a4-4994-8888-1c62e9cd1c62",
+                          "name": "Maksim Hiadroits",
+                          "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/4e050820-1cfb-4769-857f-368f3be6313a/IMG_6173.jpeg",
+                          "type": "person",
+                          "person": {
+                            "email": "maxim.gedroit@vira.games",
+                            "email_verified": true
+                          }
+                        }
+                      },
+                      "Account": {
+                        "id": "qhXd",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Date to QA": {
+                        "id": "q%7D%3F%5C",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Sub-team": "FLEX",
+                      "Date Team Start": {
+                        "id": "rKeG",
+                        "type": "date",
+                        "date": {
+                          "start": "2024-07-03",
+                          "end": null,
+                          "time_zone": null
+                        }
+                      },
+                      "Created by": {
+                        "id": "r%5BBI",
+                        "type": "created_by",
+                        "created_by": {
+                          "object": "user",
+                          "id": "c83ce9bc-08fd-4af7-a25d-c3ba4bebf48f",
+                          "name": "ViraGames AllProject Helper",
+                          "avatar_url": null,
+                          "type": "bot",
+                          "bot": {}
+                        }
+                      },
+                      "Tech Project Doc": "",
+                      "Sub-subscription 1": {
+                        "id": "sCtp",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Automated Team": {
+                        "id": "sDNL",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "If release is not required:  Need Release checkbox is unchecked": false,
+                      "UI": "",
+                      "Test - Button Validation": null,
+                      "Admob Key": "",
+                      "Firebase Link": {
+                        "id": "upQD",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Monetization": [],
+                      "Cross Promo Video status": "",
+                      "CPI (Mint) Test Dates": {
+                        "id": "v%5Bi%60",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Date Art Start": {
+                        "id": "v%5D~D",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Last Status Change": {
+                        "id": "wQFr",
+                        "type": "date",
+                        "date": null
+                      },
+                      "D1PTM": {
+                        "id": "wgp%7B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Link to Promo": "",
+                      "[Creatives] Tasks": [],
+                      "ipm TEST": {
+                        "id": "xWSH",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Art Assets Link": {
+                        "id": "x%5C%3DY",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Total installs": {
+                        "id": "x%5DWz",
+                        "type": "number",
+                        "number": null
+                      },
+                      "LTV_180_US ": {
+                        "id": "xfen",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sub-s Database": [],
+                      "Amz Console: On Auto support": false,
+                      "Create QA Task": false,
+                      "Create UA Tasks": null,
+                      "3D Artist": {
+                        "id": "zHXV",
+                        "type": "people",
+                        "people": []
+                      },
+                      " GA Secret Key": "",
+                      "Task Tracker Link": {
+                        "id": "%7BIp%3F",
+                        "type": "url",
+                        "url": null
+                      },
+                      "D3INT": {
+                        "id": "%7BL%5C%3B",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Percent of Release": {
+                        "id": "%7BRbl",
+                        "type": "number",
+                        "number": null
+                      },
+                      "AppMagic Info": [],
+                      "StartUp Time": {
+                        "id": "%7BZ_P",
+                        "type": "number",
+                        "number": null
+                      },
+                      "D1BAN": {
+                        "id": "%7BeFD",
+                        "type": "number",
+                        "number": null
+                      },
+                      "IPM (CP) Test Dates": {
+                        "id": "%7Be%5E%3E",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Platform": "",
+                      "temp_tk_version_link": {
+                        "id": "%7CeXN",
+                        "type": "formula",
+                        "formula": {
+                          "type": "string",
+                          "string": "Open ImportPackageWindow.cs"
+                        }
+                      },
+                      "Screenshot Promo Request": false,
+                      "Sub-item": [
+                        "14c9748b-c8c2-8110-9b1c-f0a0cd97e465",
+                        "13c9748b-c8c2-8160-81d5-fdc287679365",
+                        "13c9748b-c8c2-81fe-afe2-c92c5600cbcb",
+                        "13c9748b-c8c2-817a-b9ea-cb239fadda16",
+                        "15f9748b-c8c2-8074-8262-cbfbee4bd2f0",
+                        "1ca9748b-c8c2-802f-85c7-cbd4dd79c4ea",
+                        "1f29748b-c8c2-80ba-a64b-ec1389b34463",
+                        "1f99748b-c8c2-80ab-b104-de0352cdb1ef",
+                        "1ff9748b-c8c2-8012-b8a0-c0d7ce155b3b",
+                        "2389748b-c8c2-8095-8546-ce89eb7aed34",
+                        "23e9748b-c8c2-80ff-9b33-e1e3037792f4",
+                        "2459748b-c8c2-8018-bdd3-f8ea60a2f73c",
+                        "2819748b-c8c2-802b-b299-c7df541f7c6f",
+                        "28c9748b-c8c2-802b-9dc2-e42a39bd6860",
+                        "2969748b-c8c2-80f7-a672-f76849088da3",
+                        "29d9748b-c8c2-80bb-8770-c5f6461ccc8c",
+                        "2a09748b-c8c2-802a-a0b2-cd70a557dfbd",
+                        "2a99748b-c8c2-8093-8e32-feb8417f76a3",
+                        "2bf9748b-c8c2-804d-bac1-fde0e86e713d",
+                        "2fb9748b-c8c2-81d6-94f0-f875319c6a3c",
+                        "2fb9748b-c8c2-8169-90e2-e9b038ffe4b0",
+                        "2fb9748b-c8c2-81ed-abe8-efb561148a53",
+                        "2fb9748b-c8c2-81c0-a866-c5973873dc9c",
+                        "2fd9748b-c8c2-803f-939c-e303ebe55eb1",
+                        "2fd9748b-c8c2-806e-881f-e822ab458a4f"
+                      ],
+                      "Date Art Finish Test": {
+                        "id": "%7Dwfx",
+                        "type": "date",
+                        "date": null
+                      },
+                      "GIT LINK": "https://gitlab.com/vira-games/amazon-projects/paw-escape",
+                      "D7PTM": {
+                        "id": "~%3F%3B%40",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Parent Project": [],
+                      "Days in Dev -> QA": {
+                        "id": "~FLK",
+                        "type": "formula",
+                        "formula": {
+                          "type": "number",
+                          "number": null
+                        }
+                      },
+                      "BALANCE": "",
+                      "Description for QA": "",
+                      "Prod Approved": false,
+                      "Static Banner Promo Request": false,
+                      "IPM": {
+                        "id": "~oXr",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Sent To QA": {
+                        "id": "~sjG",
+                        "type": "date",
+                        "date": null
+                      },
+                      "Promo info checking": {
+                        "id": "~wLr",
+                        "type": "formula",
+                        "formula": {
+                          "type": "boolean",
+                          "boolean": false
+                        }
+                      },
+                      "Project": "Cat Escape",
+                      "Description": "",
+                      "SubscriptionRevenueEvent": false,
+                      "AMZ Metrics Date & Comment": "",
+                      "GD 2": {
+                        "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                        "type": "multi_select",
+                        "multi_select": []
+                      },
+                      "Amz StartUp Time": {
+                        "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Status 2": "",
+                      "Days": {
+                        "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                        "type": "number",
+                        "number": null
+                      },
+                      "Asana Link": {
+                        "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                        "type": "url",
+                        "url": null
+                      },
+                      "Need a new Video?": false
+                    },
+                    "created_time": "2024-11-12T21:36:00.000Z",
+                    "last_edited_time": "2026-04-23T16:42:00.000Z",
+                    "url": "https://app.notion.com/p/Cat-Escape-13c9748bc8c281e4bd1dd5298f7deb96"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
