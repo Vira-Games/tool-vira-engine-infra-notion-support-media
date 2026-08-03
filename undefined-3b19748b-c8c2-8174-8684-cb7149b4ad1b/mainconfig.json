@@ -130,14 +130,26 @@
               "Platform": {
                 "id": "%3AyyE",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "139dd12c-6430-4f6c-9f32-0ec4ef9119d4",
+                    "name": "Fire TV",
+                    "color": "purple"
+                  }
+                ]
               },
               "Paid/Free": {
                 "id": "Bnjr",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
               },
-              "App Name": "",
+              "App Name": "Pawscape: Run, Puppy, Run!",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
@@ -184,7 +196,13 @@
               "Account": {
                 "id": "e%7C~F",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "9ecec9b7-588e-4561-be81-1d12af7a34f4",
+                    "name": "Vira Games Inc",
+                    "color": "pink"
+                  }
+                ]
               },
               "AF Key": "",
               "Bundle Id Rollup": {
@@ -198,21 +216,21 @@
               "Name": "Pawscape: Run, Puppy, Run! MainData"
             },
             "created_time": "2026-08-03T07:51:00.000Z",
-            "last_edited_time": "2026-08-03T07:51:00.000Z",
+            "last_edited_time": "2026-08-03T08:47:00.000Z",
             "url": "https://app.notion.com/p/Pawscape-Run-Puppy-Run-MainData-3b19748bc8c2817c9be8d20a9ca6b90c",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/u/0/folders/1c19cCTgajEBiCqu42ffNyVKxiZJsUj6P",
-                  "ProductName": "",
+                  "ProductName": "Pawscape: Run, Puppy, Run!",
                   "BundleIdentifier": "com.vira.pawscape.run",
                   "Version": "1.0.9",
                   "BundleVersionCode": 22,
-                  "CompanyName": ""
+                  "CompanyName": "Vira Games Inc"
                 },
                 "SDKSettings": {
                   "Keys": [],
-                  "IsAmazon": false
+                  "IsAmazon": true
                 }
               }
             }
@@ -1208,19 +1226,19 @@
                   "AF test Screen ": [
                     {
                       "name": "photo_2026-02-04_18-34-34.jpg",
-                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/6163edf3-268b-40e6-b028-d3ea0a87d6a4/photo_2026-02-04_18-34-34.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SU4QS3DY%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T075540Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLXdlc3QtMiJIMEYCIQDY0Qk7eNX0e314n6FW%2BMVH8my0dfOagD9Uh096Dcm8bgIhAKk%2BoSZ3F1U9ib%2B6ZqMKI0hRasj%2FzWr3oC5pVxyhki2tKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxA%2FXKnnoYsGyxl1okq3AMMQc15s6dUsJL79cZMLCAOvDruxSRPSbXIVy%2Bueidw8PgJ4WT6ZnifAf8ubwwxNlry4W5Jhspy5lvT4GplaPM45YTXWFD7eDEw5f9oSX2PIpKR7JeyuAz90HD7It%2BIZarJuos%2BpkBc38ubB0zBPIxxgWSpdGYDm2QBHBIb8wSp4Y0pkbjOtPvu0IKD20AnaPvRxg%2FiayzL7pW6zgZv2Zemqyjz9U7LKJlND5qtl9nrMWRAT29vZVAIwRg37Whxq8tFsojcjM8AlXJIwIl%2B5eHIZbnxzXZ4Q4d6Q9JqiU0iThfvQ18HvJcGwmcKVE2pIwfRekgqSDIFBB%2FQPQ1Ycqjwj9plV2OkemzeM4lUVoKeBGJKQBNn5%2Fc43ZOXbob7%2F103n7sKaAacmbzVwhsGzaQTn9C1ZrMi6f9iKUP7keKDt54c7uoSDUbMJmgg109xoMGAaTL66GEnTe3v3k35SH4d8qQptXsrV69Ytg7luKXfGazxxTeFzKCymngS7KnbtIXccadTYUQEYIBxt7bd0OQvpS1lz89NnV8w2ss%2Ff85%2BKAuWYf6zeDjh9NRZk2yffqQQgIP4tDzmzyJeiswuAxq5TA8iin0HM%2FUFR3I8LBl6aFCCu1pczZF42QRk9DCGjMHTBjqkAW6%2B6nLk3iZV6w9MpyQA72Sg7oITseFRjUKxC0hQz6STMRMw44vr%2FEoCdZkq85jWpbJVVajUvdZB2gYLfHVEqPjIsp%2Bg8SCIOtvaUmsYiS2atORATN3VZ%2Blk9McpAj%2Blg0InGmmHlBrIs%2F498a62uCyS1oktQhq0grmmcxRcwpNo13zPXS8yzVSXKV%2BEY59yjApkkCDQey3oXCATGm9IeZ8ljo%2Bd&X-Amz-Signature=40a4d4c9f1178a76c18582bc86908f721eafd7398c22e9b67a900c4dbaf3c74e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/6163edf3-268b-40e6-b028-d3ea0a87d6a4/photo_2026-02-04_18-34-34.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SCORX5MR%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T084741Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLXdlc3QtMiJIMEYCIQDo2xWDUvesfSdTAmycvtOGnmZ%2FX93MaU%2BR7jVfnFKXXQIhAOkC8dOZeuY2zzcs4LcMiaeq8bjiWUX%2BCdZnvs4CExloKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igy3nSvE1TwstyyYhgkq3AOik%2F1vMFXFmZsFXrpLTI%2BE05zRolPQpL75L72Ryy4cYnyvpHOH5%2BlB%2Bxx%2Fev%2B3RV%2Ftyv7jebpbGZJl%2BOvWbghba2InbFcvboMe5FNkKtQyzBcSa8vcvIt%2FJNjQzwxBlRReKDo3e2oicc4Mg4x4l0LyT1LDHaIBQpYbMQteuEkgr1fEh0x3HlwiqdSqIdAqCB3JpC2sYTIqDcAjvxo8ZgqE%2F7HkZmZYcg580DvTGE2yMxdnookuDOjYRbRs3SA32XY%2F%2FMoROovucsVo09Kt964SZsFXR8S9DZhGuqTslJeJGCsimY%2BnfpvrhchWBAywQgAV6SfqnW1%2BGXT6H3uis7FMxVbjbZ%2Fvb33y5dOdlIwEdgC7fd5tX0nm%2FyJ2sGnsEbLWHUezIQ5cAtg1gyy9rCqfADyF8rRov5CLcaz2DYEuWsn8um0LaCenZPFJ2iqWPcB4JEaK5NTNIywity9KhKMnEB755QEoCcLGwriuaPzj7HPYjL5rycDcuLqo8GYIROyNrIyrKZLpCr8M4HQIamVzERZj07Io%2BQsctpcjZkMCZOAmWIFyJkBh2QC2M78KO7MmQ%2FslwhzWcFuyE1YF%2BNUqjksMxL%2BnG7Y%2BgLsPS1F0wQ5hGPM%2BRHeciaCzjTDXiMHTBjqkAQjNgETJ724PuXsgNXxyRIB53Qtq6Wx5166Db0FlIfj8hQjhUpcQRsF3tb2TcT%2BynXLtK%2BAsZrmtsY2glioLseTZEDhg3FtqGcKWh8PY%2BX%2FSSRRbPMbzlIArQ7FgcN12AfDI%2BF8cAK1SeRxPjVtlx3EnCdrsB%2B6jAy7sMMYh7pyma2oRoSFIjAaaBInzVxq4tqbArSHIRVLLOoagYBpyqcZWlJgA&X-Amz-Signature=d7cee5e2e39a5dbfe02d4dba101495019d835ee96eda823405428926cc38c52e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                     },
                     {
                       "name": "photo_2026-02-04_18-34-32.jpg",
-                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/bfb013f1-cbc0-401b-9e82-74a5728feaeb/photo_2026-02-04_18-34-32.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SU4QS3DY%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T075540Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLXdlc3QtMiJIMEYCIQDY0Qk7eNX0e314n6FW%2BMVH8my0dfOagD9Uh096Dcm8bgIhAKk%2BoSZ3F1U9ib%2B6ZqMKI0hRasj%2FzWr3oC5pVxyhki2tKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxA%2FXKnnoYsGyxl1okq3AMMQc15s6dUsJL79cZMLCAOvDruxSRPSbXIVy%2Bueidw8PgJ4WT6ZnifAf8ubwwxNlry4W5Jhspy5lvT4GplaPM45YTXWFD7eDEw5f9oSX2PIpKR7JeyuAz90HD7It%2BIZarJuos%2BpkBc38ubB0zBPIxxgWSpdGYDm2QBHBIb8wSp4Y0pkbjOtPvu0IKD20AnaPvRxg%2FiayzL7pW6zgZv2Zemqyjz9U7LKJlND5qtl9nrMWRAT29vZVAIwRg37Whxq8tFsojcjM8AlXJIwIl%2B5eHIZbnxzXZ4Q4d6Q9JqiU0iThfvQ18HvJcGwmcKVE2pIwfRekgqSDIFBB%2FQPQ1Ycqjwj9plV2OkemzeM4lUVoKeBGJKQBNn5%2Fc43ZOXbob7%2F103n7sKaAacmbzVwhsGzaQTn9C1ZrMi6f9iKUP7keKDt54c7uoSDUbMJmgg109xoMGAaTL66GEnTe3v3k35SH4d8qQptXsrV69Ytg7luKXfGazxxTeFzKCymngS7KnbtIXccadTYUQEYIBxt7bd0OQvpS1lz89NnV8w2ss%2Ff85%2BKAuWYf6zeDjh9NRZk2yffqQQgIP4tDzmzyJeiswuAxq5TA8iin0HM%2FUFR3I8LBl6aFCCu1pczZF42QRk9DCGjMHTBjqkAW6%2B6nLk3iZV6w9MpyQA72Sg7oITseFRjUKxC0hQz6STMRMw44vr%2FEoCdZkq85jWpbJVVajUvdZB2gYLfHVEqPjIsp%2Bg8SCIOtvaUmsYiS2atORATN3VZ%2Blk9McpAj%2Blg0InGmmHlBrIs%2F498a62uCyS1oktQhq0grmmcxRcwpNo13zPXS8yzVSXKV%2BEY59yjApkkCDQey3oXCATGm9IeZ8ljo%2Bd&X-Amz-Signature=cad5d56d0e78bcdf641978de81744cdbcc5d414b0f423b03172b4251d1fbf87a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/bfb013f1-cbc0-401b-9e82-74a5728feaeb/photo_2026-02-04_18-34-32.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SCORX5MR%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T084741Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLXdlc3QtMiJIMEYCIQDo2xWDUvesfSdTAmycvtOGnmZ%2FX93MaU%2BR7jVfnFKXXQIhAOkC8dOZeuY2zzcs4LcMiaeq8bjiWUX%2BCdZnvs4CExloKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igy3nSvE1TwstyyYhgkq3AOik%2F1vMFXFmZsFXrpLTI%2BE05zRolPQpL75L72Ryy4cYnyvpHOH5%2BlB%2Bxx%2Fev%2B3RV%2Ftyv7jebpbGZJl%2BOvWbghba2InbFcvboMe5FNkKtQyzBcSa8vcvIt%2FJNjQzwxBlRReKDo3e2oicc4Mg4x4l0LyT1LDHaIBQpYbMQteuEkgr1fEh0x3HlwiqdSqIdAqCB3JpC2sYTIqDcAjvxo8ZgqE%2F7HkZmZYcg580DvTGE2yMxdnookuDOjYRbRs3SA32XY%2F%2FMoROovucsVo09Kt964SZsFXR8S9DZhGuqTslJeJGCsimY%2BnfpvrhchWBAywQgAV6SfqnW1%2BGXT6H3uis7FMxVbjbZ%2Fvb33y5dOdlIwEdgC7fd5tX0nm%2FyJ2sGnsEbLWHUezIQ5cAtg1gyy9rCqfADyF8rRov5CLcaz2DYEuWsn8um0LaCenZPFJ2iqWPcB4JEaK5NTNIywity9KhKMnEB755QEoCcLGwriuaPzj7HPYjL5rycDcuLqo8GYIROyNrIyrKZLpCr8M4HQIamVzERZj07Io%2BQsctpcjZkMCZOAmWIFyJkBh2QC2M78KO7MmQ%2FslwhzWcFuyE1YF%2BNUqjksMxL%2BnG7Y%2BgLsPS1F0wQ5hGPM%2BRHeciaCzjTDXiMHTBjqkAQjNgETJ724PuXsgNXxyRIB53Qtq6Wx5166Db0FlIfj8hQjhUpcQRsF3tb2TcT%2BynXLtK%2BAsZrmtsY2glioLseTZEDhg3FtqGcKWh8PY%2BX%2FSSRRbPMbzlIArQ7FgcN12AfDI%2BF8cAK1SeRxPjVtlx3EnCdrsB%2B6jAy7sMMYh7pyma2oRoSFIjAaaBInzVxq4tqbArSHIRVLLOoagYBpyqcZWlJgA&X-Amz-Signature=0734ebb2ca9d5b869b061d32dd429ed20d2ade3ef4274167edb5963564c90a8a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                     },
                     {
                       "name": "photo_2026-02-04_18-34-29.jpg",
-                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/2566741c-3628-4679-9d10-fc8620ef2df5/photo_2026-02-04_18-34-29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SU4QS3DY%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T075540Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLXdlc3QtMiJIMEYCIQDY0Qk7eNX0e314n6FW%2BMVH8my0dfOagD9Uh096Dcm8bgIhAKk%2BoSZ3F1U9ib%2B6ZqMKI0hRasj%2FzWr3oC5pVxyhki2tKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxA%2FXKnnoYsGyxl1okq3AMMQc15s6dUsJL79cZMLCAOvDruxSRPSbXIVy%2Bueidw8PgJ4WT6ZnifAf8ubwwxNlry4W5Jhspy5lvT4GplaPM45YTXWFD7eDEw5f9oSX2PIpKR7JeyuAz90HD7It%2BIZarJuos%2BpkBc38ubB0zBPIxxgWSpdGYDm2QBHBIb8wSp4Y0pkbjOtPvu0IKD20AnaPvRxg%2FiayzL7pW6zgZv2Zemqyjz9U7LKJlND5qtl9nrMWRAT29vZVAIwRg37Whxq8tFsojcjM8AlXJIwIl%2B5eHIZbnxzXZ4Q4d6Q9JqiU0iThfvQ18HvJcGwmcKVE2pIwfRekgqSDIFBB%2FQPQ1Ycqjwj9plV2OkemzeM4lUVoKeBGJKQBNn5%2Fc43ZOXbob7%2F103n7sKaAacmbzVwhsGzaQTn9C1ZrMi6f9iKUP7keKDt54c7uoSDUbMJmgg109xoMGAaTL66GEnTe3v3k35SH4d8qQptXsrV69Ytg7luKXfGazxxTeFzKCymngS7KnbtIXccadTYUQEYIBxt7bd0OQvpS1lz89NnV8w2ss%2Ff85%2BKAuWYf6zeDjh9NRZk2yffqQQgIP4tDzmzyJeiswuAxq5TA8iin0HM%2FUFR3I8LBl6aFCCu1pczZF42QRk9DCGjMHTBjqkAW6%2B6nLk3iZV6w9MpyQA72Sg7oITseFRjUKxC0hQz6STMRMw44vr%2FEoCdZkq85jWpbJVVajUvdZB2gYLfHVEqPjIsp%2Bg8SCIOtvaUmsYiS2atORATN3VZ%2Blk9McpAj%2Blg0InGmmHlBrIs%2F498a62uCyS1oktQhq0grmmcxRcwpNo13zPXS8yzVSXKV%2BEY59yjApkkCDQey3oXCATGm9IeZ8ljo%2Bd&X-Amz-Signature=dfb7c61b870f6ce496d2cd9085cdf46b574e7a15eb5633c73143f0d6f6559c9d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/2566741c-3628-4679-9d10-fc8620ef2df5/photo_2026-02-04_18-34-29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SCORX5MR%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T084741Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLXdlc3QtMiJIMEYCIQDo2xWDUvesfSdTAmycvtOGnmZ%2FX93MaU%2BR7jVfnFKXXQIhAOkC8dOZeuY2zzcs4LcMiaeq8bjiWUX%2BCdZnvs4CExloKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igy3nSvE1TwstyyYhgkq3AOik%2F1vMFXFmZsFXrpLTI%2BE05zRolPQpL75L72Ryy4cYnyvpHOH5%2BlB%2Bxx%2Fev%2B3RV%2Ftyv7jebpbGZJl%2BOvWbghba2InbFcvboMe5FNkKtQyzBcSa8vcvIt%2FJNjQzwxBlRReKDo3e2oicc4Mg4x4l0LyT1LDHaIBQpYbMQteuEkgr1fEh0x3HlwiqdSqIdAqCB3JpC2sYTIqDcAjvxo8ZgqE%2F7HkZmZYcg580DvTGE2yMxdnookuDOjYRbRs3SA32XY%2F%2FMoROovucsVo09Kt964SZsFXR8S9DZhGuqTslJeJGCsimY%2BnfpvrhchWBAywQgAV6SfqnW1%2BGXT6H3uis7FMxVbjbZ%2Fvb33y5dOdlIwEdgC7fd5tX0nm%2FyJ2sGnsEbLWHUezIQ5cAtg1gyy9rCqfADyF8rRov5CLcaz2DYEuWsn8um0LaCenZPFJ2iqWPcB4JEaK5NTNIywity9KhKMnEB755QEoCcLGwriuaPzj7HPYjL5rycDcuLqo8GYIROyNrIyrKZLpCr8M4HQIamVzERZj07Io%2BQsctpcjZkMCZOAmWIFyJkBh2QC2M78KO7MmQ%2FslwhzWcFuyE1YF%2BNUqjksMxL%2BnG7Y%2BgLsPS1F0wQ5hGPM%2BRHeciaCzjTDXiMHTBjqkAQjNgETJ724PuXsgNXxyRIB53Qtq6Wx5166Db0FlIfj8hQjhUpcQRsF3tb2TcT%2BynXLtK%2BAsZrmtsY2glioLseTZEDhg3FtqGcKWh8PY%2BX%2FSSRRbPMbzlIArQ7FgcN12AfDI%2BF8cAK1SeRxPjVtlx3EnCdrsB%2B6jAy7sMMYh7pyma2oRoSFIjAaaBInzVxq4tqbArSHIRVLLOoagYBpyqcZWlJgA&X-Amz-Signature=3b57e0ed20a91c6d4363057026b5db3dd987c5d23ecc1a0dce38affd9a656a9b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                     },
                     {
                       "name": "photo_2026-02-04_18-36-00.jpg",
-                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/4afdb9a4-86f9-4d76-b3b4-e02131c13731/photo_2026-02-04_18-36-00.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SU4QS3DY%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T075540Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLXdlc3QtMiJIMEYCIQDY0Qk7eNX0e314n6FW%2BMVH8my0dfOagD9Uh096Dcm8bgIhAKk%2BoSZ3F1U9ib%2B6ZqMKI0hRasj%2FzWr3oC5pVxyhki2tKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxA%2FXKnnoYsGyxl1okq3AMMQc15s6dUsJL79cZMLCAOvDruxSRPSbXIVy%2Bueidw8PgJ4WT6ZnifAf8ubwwxNlry4W5Jhspy5lvT4GplaPM45YTXWFD7eDEw5f9oSX2PIpKR7JeyuAz90HD7It%2BIZarJuos%2BpkBc38ubB0zBPIxxgWSpdGYDm2QBHBIb8wSp4Y0pkbjOtPvu0IKD20AnaPvRxg%2FiayzL7pW6zgZv2Zemqyjz9U7LKJlND5qtl9nrMWRAT29vZVAIwRg37Whxq8tFsojcjM8AlXJIwIl%2B5eHIZbnxzXZ4Q4d6Q9JqiU0iThfvQ18HvJcGwmcKVE2pIwfRekgqSDIFBB%2FQPQ1Ycqjwj9plV2OkemzeM4lUVoKeBGJKQBNn5%2Fc43ZOXbob7%2F103n7sKaAacmbzVwhsGzaQTn9C1ZrMi6f9iKUP7keKDt54c7uoSDUbMJmgg109xoMGAaTL66GEnTe3v3k35SH4d8qQptXsrV69Ytg7luKXfGazxxTeFzKCymngS7KnbtIXccadTYUQEYIBxt7bd0OQvpS1lz89NnV8w2ss%2Ff85%2BKAuWYf6zeDjh9NRZk2yffqQQgIP4tDzmzyJeiswuAxq5TA8iin0HM%2FUFR3I8LBl6aFCCu1pczZF42QRk9DCGjMHTBjqkAW6%2B6nLk3iZV6w9MpyQA72Sg7oITseFRjUKxC0hQz6STMRMw44vr%2FEoCdZkq85jWpbJVVajUvdZB2gYLfHVEqPjIsp%2Bg8SCIOtvaUmsYiS2atORATN3VZ%2Blk9McpAj%2Blg0InGmmHlBrIs%2F498a62uCyS1oktQhq0grmmcxRcwpNo13zPXS8yzVSXKV%2BEY59yjApkkCDQey3oXCATGm9IeZ8ljo%2Bd&X-Amz-Signature=5723f76b8bca880eedc80fd512dc77ee5200173f3b970a56fbc1e94630d9d8e7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/4afdb9a4-86f9-4d76-b3b4-e02131c13731/photo_2026-02-04_18-36-00.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SCORX5MR%2F20260803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260803T084741Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECgaCXVzLXdlc3QtMiJIMEYCIQDo2xWDUvesfSdTAmycvtOGnmZ%2FX93MaU%2BR7jVfnFKXXQIhAOkC8dOZeuY2zzcs4LcMiaeq8bjiWUX%2BCdZnvs4CExloKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igy3nSvE1TwstyyYhgkq3AOik%2F1vMFXFmZsFXrpLTI%2BE05zRolPQpL75L72Ryy4cYnyvpHOH5%2BlB%2Bxx%2Fev%2B3RV%2Ftyv7jebpbGZJl%2BOvWbghba2InbFcvboMe5FNkKtQyzBcSa8vcvIt%2FJNjQzwxBlRReKDo3e2oicc4Mg4x4l0LyT1LDHaIBQpYbMQteuEkgr1fEh0x3HlwiqdSqIdAqCB3JpC2sYTIqDcAjvxo8ZgqE%2F7HkZmZYcg580DvTGE2yMxdnookuDOjYRbRs3SA32XY%2F%2FMoROovucsVo09Kt964SZsFXR8S9DZhGuqTslJeJGCsimY%2BnfpvrhchWBAywQgAV6SfqnW1%2BGXT6H3uis7FMxVbjbZ%2Fvb33y5dOdlIwEdgC7fd5tX0nm%2FyJ2sGnsEbLWHUezIQ5cAtg1gyy9rCqfADyF8rRov5CLcaz2DYEuWsn8um0LaCenZPFJ2iqWPcB4JEaK5NTNIywity9KhKMnEB755QEoCcLGwriuaPzj7HPYjL5rycDcuLqo8GYIROyNrIyrKZLpCr8M4HQIamVzERZj07Io%2BQsctpcjZkMCZOAmWIFyJkBh2QC2M78KO7MmQ%2FslwhzWcFuyE1YF%2BNUqjksMxL%2BnG7Y%2BgLsPS1F0wQ5hGPM%2BRHeciaCzjTDXiMHTBjqkAQjNgETJ724PuXsgNXxyRIB53Qtq6Wx5166Db0FlIfj8hQjhUpcQRsF3tb2TcT%2BynXLtK%2BAsZrmtsY2glioLseTZEDhg3FtqGcKWh8PY%2BX%2FSSRRbPMbzlIArQ7FgcN12AfDI%2BF8cAK1SeRxPjVtlx3EnCdrsB%2B6jAy7sMMYh7pyma2oRoSFIjAaaBInzVxq4tqbArSHIRVLLOoagYBpyqcZWlJgA&X-Amz-Signature=d85849aa893585cab10da096e72b59340b0475ee6971cb0afc02ec1a06839f36&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                     }
                   ],
                   "Missed Crit-bugs in Live": {
