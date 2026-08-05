@@ -50,7 +50,7 @@
             "37c9748b-c8c2-8149-b30d-fb91c03a2878"
           ],
           "(List)Bundle Version": "5",
-          "Platform": "",
+          "Platform": "Fire TV",
           "💼 All Projects": [
             "96f9748b-c8c2-8388-a9f0-8156c116e102"
           ],
@@ -69,7 +69,7 @@
           "Name": "Cannon Master: Crowd Control"
         },
         "created_time": "2026-06-11T06:28:00.000Z",
-        "last_edited_time": "2026-06-11T06:28:00.000Z",
+        "last_edited_time": "2026-08-05T08:19:00.000Z",
         "url": "https://app.notion.com/p/Cannon-Master-Crowd-Control-37c9748bc8c28159a6d3e8d64079c584",
         "children": {
           "Cannon_Master__Crowd_Control_ProductCatalog": {
@@ -93,14 +93,14 @@
               "Parent": [
                 "37c9748b-c8c2-8159-a6d3-e8d64079c584"
               ],
-              "Platform": "",
+              "Platform": "Fire TV",
               "Subscriptions": [],
               "Apply": null,
               "bundleID": {
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "com.vira.control.master"
+                  "string": null
                 }
               },
               "Name": "Cannon Master: Crowd Control SubDataCatalog"
@@ -132,9 +132,9 @@
                 "type": "multi_select",
                 "multi_select": [
                   {
-                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
-                    "name": "AMZ",
-                    "color": "default"
+                    "id": "139dd12c-6430-4f6c-9f32-0ec4ef9119d4",
+                    "name": "Fire TV",
+                    "color": "purple"
                   }
                 ]
               },
@@ -216,7 +216,7 @@
               "Name": "Cannon Master: Crowd Control MainData"
             },
             "created_time": "2026-06-11T06:28:00.000Z",
-            "last_edited_time": "2026-06-11T07:14:00.000Z",
+            "last_edited_time": "2026-08-05T08:20:00.000Z",
             "url": "https://app.notion.com/p/Cannon-Master-Crowd-Control-MainData-37c9748bc8c28149b30dfb91c03a2878",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
@@ -293,7 +293,7 @@
                 "id": "%3D%7B%3Ej",
                 "type": "date",
                 "date": {
-                  "start": "2026-06-10",
+                  "start": "2026-06-09",
                   "end": null,
                   "time_zone": null
                 }
@@ -304,7 +304,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 3
+                  "number": 43
                 }
               },
               "Are all prop. filled? ": {
@@ -340,7 +340,8 @@
                     "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKUZSCSgZVSFpX9VSZCZb4OjKNznqK4MbH27s-_N09VMt6hzg=s100",
                     "type": "person",
                     "person": {
-                      "email": "yehor.lemberskyi@vira.games"
+                      "email": "yehor.lemberskyi@vira.games",
+                      "email_verified": true
                     }
                   }
                 ]
@@ -363,8 +364,8 @@
                 "id": "Bzh%3A",
                 "type": "formula",
                 "formula": {
-                  "type": "string",
-                  "string": null
+                  "type": "number",
+                  "number": null
                 }
               },
               "Sum SP": "",
@@ -373,7 +374,7 @@
                 "type": "created_time",
                 "created_time": "2026-06-10T11:01:00.000Z"
               },
-              "All subscriptions for the current build are filled": false,
+              "All subscriptions for the current build are filled": true,
               "Missing info for Promo rebuild": {
                 "id": "CkT%3A",
                 "type": "formula",
@@ -413,7 +414,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-06-11T07:13:00.000Z"
+                "last_edited_time": "2026-08-04T13:59:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -423,7 +424,11 @@
               "Date Art Finish": {
                 "id": "Do%3DG",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-04-16",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "Bundle ID": "com.vira.control.master",
               "Price": {
@@ -439,7 +444,7 @@
                 "type": "number",
                 "number": null
               },
-              "Subscription screen changes include links to actual references (expected UI)": false,
+              "Subscription screen changes include links to actual references (expected UI)": true,
               "GD": {
                 "id": "FHAP",
                 "type": "people",
@@ -451,7 +456,8 @@
                     "avatar_url": null,
                     "type": "person",
                     "person": {
-                      "email": "maksym.shchevych@vira.games"
+                      "email": "maksym.shchevych@vira.games",
+                      "email_verified": true
                     }
                   }
                 ]
@@ -496,8 +502,8 @@
                 "id": "JXlK",
                 "type": "formula",
                 "formula": {
-                  "type": "string",
-                  "string": null
+                  "type": "number",
+                  "number": null
                 }
               },
               "AMZ releaseId": "",
@@ -517,7 +523,7 @@
                 "type": "number",
                 "number": null
               },
-              "Each config has its own separate description": false,
+              "Each config has its own separate description": true,
               "CR Total, %": {
                 "id": "MguI",
                 "type": "number",
@@ -572,14 +578,14 @@
               "Team ": "AMZ Direction",
               "Ref Link": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=ru&gl=US",
               "Build Paid Icon": null,
-              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
               "Create Paid Icon": null,
               "ByteBrew Link": {
                 "id": "QD%3Cd",
                 "type": "url",
                 "url": null
               },
-              "Outdated / unused elements are removed from GDD": false,
+              "Outdated / unused elements are removed from GDD": true,
               "Applovin Key": "",
               "Full Pack  Fire TV ": null,
               "iPad Screens": {
@@ -609,8 +615,8 @@
                 "id": "SdR%3B",
                 "type": "formula",
                 "formula": {
-                  "type": "string",
-                  "string": null
+                  "type": "number",
+                  "number": 94
                 }
               },
               "iPhone Screens": {
@@ -623,12 +629,12 @@
                 "id": "T%3Edc",
                 "type": "formula",
                 "formula": {
-                  "type": "string",
-                  "string": null
+                  "type": "number",
+                  "number": 18
                 }
               },
               "BB SDK Key (iOS)": "",
-              "Feature description matches the latest implementation": false,
+              "Feature description matches the latest implementation": true,
               "Create New \"QA Task\"": null,
               "Status  Promo": {
                 "id": "TWT%3A",
@@ -746,7 +752,7 @@
                 "number": null
               },
               "ASO Name & Descripton Request": false,
-              "Build changes are marked in the task": false,
+              "Build changes are marked in the task": true,
               "Unity version": "",
               "Promo status info": "",
               "Average FPS": {
@@ -756,7 +762,7 @@
               },
               "Autobuild_buildNumber": "",
               "Polishing": "",
-              "ExtraComments": "Отключили Bright SDK, НЕТ новых подписок.",
+              "ExtraComments": "",
               "Full Pack Promo Request": false,
               "Art Subs Links": "",
               "Sprint": {
@@ -773,7 +779,7 @@
               },
               "Test - Button No Validation": null,
               "Release Type": "First Release + A/B Test",
-              "GDD is updated for the current game version": false,
+              "GDD is updated for the current game version": true,
               "Link to ASO": {
                 "id": "d%3BwX",
                 "type": "url",
@@ -782,6 +788,7 @@
               "Create Paid Banner": null,
               "Prod Promo Approve": "",
               "RW Key": "",
+              "Art Content Table": null,
               "What's new": "",
               "100% Release Date": {
                 "id": "e%5Ec%7C",
@@ -883,13 +890,11 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "2ccd872b-594c-816c-8c5f-000246118233",
-                  "name": "Yehor Lemberskyi",
-                  "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKUZSCSgZVSFpX9VSZCZb4OjKNznqK4MbH27s-_N09VMt6hzg=s100",
-                  "type": "person",
-                  "person": {
-                    "email": "yehor.lemberskyi@vira.games"
-                  }
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
+                  "type": "bot",
+                  "bot": {}
                 }
               },
               "Account": {
@@ -924,7 +929,8 @@
                   "avatar_url": null,
                   "type": "person",
                   "person": {
-                    "email": "maksym.shchevych@vira.games"
+                    "email": "maksym.shchevych@vira.games",
+                    "email_verified": true
                   }
                 }
               },
@@ -939,7 +945,7 @@
                 "type": "multi_select",
                 "multi_select": []
               },
-              "If release is not required:  Need Release checkbox is unchecked": false,
+              "If release is not required:  Need Release checkbox is unchecked": true,
               "UI": "",
               "Test - Button Validation": null,
               "Admob Key": "",
@@ -958,7 +964,11 @@
               "Date Art Start": {
                 "id": "v%5D~D",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-03-24",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "Last Status Change": {
                 "id": "wQFr",
@@ -1011,7 +1021,8 @@
                     "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/b43fc7bc-fec6-4e59-81a9-a3b79c67a62f/1.jpg",
                     "type": "person",
                     "person": {
-                      "email": "julia.rubannikova@vira.games"
+                      "email": "julia.rubannikova@vira.games",
+                      "email_verified": true
                     }
                   },
                   {
@@ -1021,7 +1032,8 @@
                     "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKow9DnqNgI82CneYnBwE0UNip8fCR7Lal8w5aU_i0ayJ8xzW8=s100",
                     "type": "person",
                     "person": {
-                      "email": "iryna.kozachenko@vira.games"
+                      "email": "iryna.kozachenko@vira.games",
+                      "email_verified": true
                     }
                   }
                 ]
@@ -1072,7 +1084,11 @@
               "Date Art Finish Test": {
                 "id": "%7Dwfx",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-07-31",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "GIT LINK": "https://gitlab.com/vira-games/amazon-projects/mob-control.git",
               "D7PTM": {
@@ -1088,7 +1104,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 3
+                  "number": 43
                 }
               },
               "BALANCE": "",
@@ -1141,7 +1157,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-06-10T11:01:00.000Z",
-            "last_edited_time": "2026-06-11T07:13:00.000Z",
+            "last_edited_time": "2026-08-04T13:59:00.000Z",
             "url": "https://app.notion.com/p/cnmscnz-Cannon-Master-Crowd-Control-96f9748bc8c28388a9f08156c116e102",
             "children": {
               "Page_13c9748b-c8c2-810a-9d2b-cea7d63622f9": {
@@ -1195,8 +1211,8 @@
                     "id": "%3EkOQ",
                     "type": "formula",
                     "formula": {
-                      "type": "string",
-                      "string": null
+                      "type": "number",
+                      "number": null
                     }
                   },
                   "Are all prop. filled? ": {
@@ -1290,7 +1306,7 @@
                   "Last edited time": {
                     "id": "Dj%3Fm",
                     "type": "last_edited_time",
-                    "last_edited_time": "2026-05-27T13:23:00.000Z"
+                    "last_edited_time": "2026-06-15T16:53:00.000Z"
                   },
                   "Project Link": {
                     "id": "DjJJ",
@@ -1323,13 +1339,7 @@
                     "people": [
                       {
                         "object": "user",
-                        "id": "0a24fc2f-d948-4369-a7f5-93e48b78f05e",
-                        "name": "Dmytro Zavoruiev",
-                        "avatar_url": "https://lh3.googleusercontent.com/a/AItbvmmd7upp_TV1itbZLkFvclQFEWrKTIZDw40MIDc=s100",
-                        "type": "person",
-                        "person": {
-                          "email": "dmytro.zavoruiev@vira.games"
-                        }
+                        "id": "0a24fc2f-d948-4369-a7f5-93e48b78f05e"
                       }
                     ]
                   },
@@ -1373,8 +1383,8 @@
                     "id": "JXlK",
                     "type": "formula",
                     "formula": {
-                      "type": "string",
-                      "string": null
+                      "type": "number",
+                      "number": null
                     }
                   },
                   "AMZ releaseId": "",
@@ -1486,8 +1496,8 @@
                     "id": "SdR%3B",
                     "type": "formula",
                     "formula": {
-                      "type": "string",
-                      "string": null
+                      "type": "number",
+                      "number": null
                     }
                   },
                   "iPhone Screens": {
@@ -1500,8 +1510,8 @@
                     "id": "T%3Edc",
                     "type": "formula",
                     "formula": {
-                      "type": "string",
-                      "string": null
+                      "type": "number",
+                      "number": null
                     }
                   },
                   "BB SDK Key (iOS)": "",
@@ -1532,8 +1542,8 @@
                     "id": "VgPc",
                     "type": "formula",
                     "formula": {
-                      "type": "string",
-                      "string": null
+                      "type": "number",
+                      "number": null
                     }
                   },
                   "parent": "",
@@ -1663,6 +1673,7 @@
                   "Create Paid Banner": null,
                   "Prod Promo Approve": "",
                   "RW Key": "",
+                  "Art Content Table": null,
                   "What's new": "",
                   "100% Release Date": {
                     "id": "e%5Ec%7C",
@@ -1762,12 +1773,13 @@
                     "type": "last_edited_by",
                     "last_edited_by": {
                       "object": "user",
-                      "id": "a57c8885-ece5-40fd-83aa-bcb1f32b4999",
-                      "name": "Vladyslav Krakhin",
-                      "avatar_url": "https://lh3.googleusercontent.com/a/AGNmyxZIVAJX9CuszY8SuYVOAS1KyYn_2Rmu4u7oJTHF=s100",
+                      "id": "2ccd872b-594c-816c-8c5f-000246118233",
+                      "name": "Yehor Lemberskyi",
+                      "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKUZSCSgZVSFpX9VSZCZb4OjKNznqK4MbH27s-_N09VMt6hzg=s100",
                       "type": "person",
                       "person": {
-                        "email": "vladyslav.krakhin@vira.games"
+                        "email": "yehor.lemberskyi@vira.games",
+                        "email_verified": true
                       }
                     }
                   },
@@ -1950,8 +1962,8 @@
                     "id": "~FLK",
                     "type": "formula",
                     "formula": {
-                      "type": "string",
-                      "string": null
+                      "type": "number",
+                      "number": null
                     }
                   },
                   "BALANCE": "",
@@ -2004,7 +2016,7 @@
                   "Need a new Video?": false
                 },
                 "created_time": "2024-11-12T22:03:00.000Z",
-                "last_edited_time": "2026-05-27T13:23:00.000Z",
+                "last_edited_time": "2026-06-15T16:53:00.000Z",
                 "url": "https://app.notion.com/p/Mob-Control-13c9748bc8c2810a9d2bcea7d63622f9"
               }
             }
