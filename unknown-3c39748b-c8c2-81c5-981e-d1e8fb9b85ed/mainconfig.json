@@ -1,0 +1,1177 @@
+{
+  "pageId": "3c39748b-c8c2-81c5-981e-d1e8fb9b85ed",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Magic_Master__Element_War": {
+        "id": "3c39748b-c8c2-81c5-981e-d1e8fb9b85ed",
+        "title": "Magic Master: Element War",
+        "properties": {
+          "ProductCatalog": [
+            "3c39748b-c8c2-81d7-81c6-e9adb602054e"
+          ],
+          "MaxParent": {
+            "id": "F%7BpA",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "mmslmnz - Magic Master: Element War"
+            }
+          },
+          "MaxParentLinkToPromo": {
+            "id": "GC%3FS",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "https://drive.google.com/drive/u/0/folders/1dqS15njQYvfXTuRZ7OVilCeh7Dq8tIkK"
+            }
+          },
+          "(List)BundleId": "com.master.magic",
+          "MaxParentBundleID": {
+            "id": "LAsk",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "com.master.magic"
+            }
+          },
+          "MaxParentVersion": {
+            "id": "Njfg",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1.3.20"
+            }
+          },
+          "Subscription Settings": [
+            "3c39748b-c8c2-8179-adeb-fe1b63b91270"
+          ],
+          "MainData": [
+            "3c39748b-c8c2-8190-b2a8-ef584ba5764f"
+          ],
+          "(List)Bundle Version": "42",
+          "Platform": "Fire TV",
+          "💼 All Projects": [
+            "6c29748b-c8c2-831c-a162-814d3da040a1"
+          ],
+          "RefreshConfig": null,
+          "(List)Version": "1.3.20",
+          "MaxParentBundleVersion": {
+            "id": "fVoO",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "42"
+            }
+          },
+          "ProjectKey": "3c39748b-c8c2-81c5-981e-d1e8fb9b85ed",
+          "(List)LinkToPromo": "https://drive.google.com/drive/u/0/folders/1dqS15njQYvfXTuRZ7OVilCeh7Dq8tIkK",
+          "Name": "Magic Master: Element War"
+        },
+        "created_time": "2026-08-21T08:06:00.000Z",
+        "last_edited_time": "2026-08-21T08:21:00.000Z",
+        "url": "https://app.notion.com/p/Magic-Master-Element-War-3c39748bc8c281c5981ed1e8fb9b85ed",
+        "children": {
+          "Magic_Master__Element_War_ProductCatalog": {
+            "id": "3c39748b-c8c2-81d7-81c6-e9adb602054e",
+            "title": "Magic Master: Element War ProductCatalog",
+            "properties": {
+              "Parent": [
+                "3c39748b-c8c2-81c5-981e-d1e8fb9b85ed"
+              ],
+              "Products": [],
+              "Name": "Magic Master: Element War ProductCatalog"
+            },
+            "created_time": "2026-08-21T08:06:00.000Z",
+            "last_edited_time": "2026-08-21T08:06:00.000Z",
+            "url": "https://app.notion.com/p/Magic-Master-Element-War-ProductCatalog-3c39748bc8c281d781c6e9adb602054e"
+          },
+          "Magic_Master__Element_War_SubDataCatalog": {
+            "id": "3c39748b-c8c2-8179-adeb-fe1b63b91270",
+            "title": "Magic Master: Element War SubDataCatalog",
+            "properties": {
+              "Parent": [
+                "3c39748b-c8c2-81c5-981e-d1e8fb9b85ed"
+              ],
+              "Platform": "Fire TV",
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "Name": "Magic Master: Element War SubDataCatalog"
+            },
+            "created_time": "2026-08-21T08:06:00.000Z",
+            "last_edited_time": "2026-08-21T08:06:00.000Z",
+            "url": "https://app.notion.com/p/Magic-Master-Element-War-SubDataCatalog-3c39748bc8c28179adebfe1b63b91270"
+          },
+          "Magic_Master__Element_War_MainData": {
+            "id": "3c39748b-c8c2-8190-b2a8-ef584ba5764f",
+            "title": "Magic Master: Element War MainData",
+            "properties": {
+              "LinkToPromoRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/u/0/folders/1dqS15njQYvfXTuRZ7OVilCeh7Dq8tIkK"
+                }
+              },
+              "BundleVersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "42"
+                }
+              },
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "139dd12c-6430-4f6c-9f32-0ec4ef9119d4",
+                    "name": "Fire TV",
+                    "color": "purple"
+                  }
+                ]
+              },
+              "Paid/Free": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "App Name": "Magic Master: Element War",
+              "Version": {
+                "id": "PczY",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.3.20"
+                }
+              },
+              "Vaveda_key": "mmslmnz",
+              "Link to Promo": {
+                "id": "%5CVgk",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/u/0/folders/1dqS15njQYvfXTuRZ7OVilCeh7Dq8tIkK"
+                }
+              },
+              "VersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.3.20"
+                }
+              },
+              "Parent": [
+                "3c39748b-c8c2-81c5-981e-d1e8fb9b85ed"
+              ],
+              "Bundle Version": {
+                "id": "%5D~p%60",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "42"
+                }
+              },
+              "Bundle Id": {
+                "id": "%5E%7D%3Aj",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.master.magic"
+                }
+              },
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "408006c9-5cbb-4ec1-a15d-4b7f3cbc703e",
+                    "name": "Medoc Games",
+                    "color": "red"
+                  }
+                ]
+              },
+              "AF Key": "mQvBH4wGQYL4EVg5UgUKNH",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.master.magic"
+                }
+              },
+              "Vaveda_secret": "A4VWvXaYyHPcWeB4YDhZrorIvOye0I8D",
+              "Name": "Magic Master: Element War MainData"
+            },
+            "created_time": "2026-08-21T08:06:00.000Z",
+            "last_edited_time": "2026-08-21T08:20:00.000Z",
+            "url": "https://app.notion.com/p/Magic-Master-Element-War-MainData-3c39748bc8c28190b2a8ef584ba5764f",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/u/0/folders/1dqS15njQYvfXTuRZ7OVilCeh7Dq8tIkK",
+                  "ProductName": "Magic Master: Element War",
+                  "BundleIdentifier": "com.master.magic",
+                  "Version": "1.3.20",
+                  "BundleVersionCode": 42,
+                  "CompanyName": "Medoc Games"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "mQvBH4wGQYL4EVg5UgUKNH"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "mmslmnz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "A4VWvXaYyHPcWeB4YDhZrorIvOye0I8D"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          },
+          "Page_6c29748b-c8c2-831c-a162-814d3da040a1": {
+            "id": "6c29748b-c8c2-831c-a162-814d3da040a1",
+            "title": "Page 6c29748b-c8c2-831c-a162-814d3da040a1",
+            "properties": {
+              "CR_SUB_WW": {
+                "id": "%3A%3Br_",
+                "type": "number",
+                "number": null
+              },
+              "Create Paid Promo Rebuild ": null,
+              "Installs US": {
+                "id": "%3Au%7BN",
+                "type": "number",
+                "number": null
+              },
+              "Creatives Status": {
+                "id": "%3B%60E%3C",
+                "type": "status",
+                "status": {
+                  "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "[Icon]": null,
+              "TOP AMZ for Sub Screen Upates": [
+                "1599748b-c8c2-8076-aaf2-cc344f66b540"
+              ],
+              "Ref Name": "",
+              "ASIN": "B0BRY88MDJ",
+              "Missing Info for Dev(Cross)": {
+                "id": "%3Cv%60H",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Description for QA\n⚠️ What's new\n⚠️ Date Team Finish"
+                }
+              },
+              "New promo link": {
+                "id": "%3DU%3BG",
+                "type": "url",
+                "url": null
+              },
+              "Date Dev Start": {
+                "id": "%3D%7B%3Ej",
+                "type": "date",
+                "date": {
+                  "start": "2026-08-20",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Clone": null,
+              "Days in Dev -> Release": {
+                "id": "%3EkOQ",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 10
+                }
+              },
+              "Are all prop. filled? ": {
+                "id": "%3Epbv",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "false"
+                }
+              },
+              "All Projects Info Old": [],
+              "AF Link": {
+                "id": "%40G%5E%3A",
+                "type": "url",
+                "url": "https://hq1.appsflyer.com/dashboard/events/com.master.magic-Amazon"
+              },
+              "Long Description": "",
+              "BB SDK Key (Android)": "",
+              "Icon Promo Request": false,
+              "pLTV 180": {
+                "id": "%40zGB",
+                "type": "number",
+                "number": null
+              },
+              "Developer": {
+                "id": "%40%7Cvk",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "26cd872b-594c-81ba-bd6b-00022cbd249d",
+                    "name": "Oleksandr Kovalevskyi",
+                    "avatar_url": null,
+                    "type": "person",
+                    "person": {
+                      "email": "oleksandr.kovalevskyi@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "PROGRESSION": "",
+              "🎯 AllPages": [],
+              "Project Subs Metrics": [],
+              "Status (Copy)": {
+                "id": "BVo%40",
+                "type": "status",
+                "status": {
+                  "id": "90bac3ba-be41-4b5d-8096-cf1217b11885",
+                  "name": "LIVE",
+                  "color": "green"
+                }
+              },
+              "Mintegral Status": "",
+              "Creo Link": "https://drive.google.com/drive/folders/1Di37oDSDawkBwt6veD2lzhwV7E8O8203",
+              "Days Start-Finish": {
+                "id": "Bzh%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Sum SP": "",
+              "Created time": {
+                "id": "B~Qf",
+                "type": "created_time",
+                "created_time": "2026-08-19T10:43:00.000Z"
+              },
+              "All subscriptions for the current build are filled": false,
+              "Missing info for Promo rebuild": {
+                "id": "CkT%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "CPI": {
+                "id": "Cxr%40",
+                "type": "number",
+                "number": null
+              },
+              "Teams use": {
+                "id": "D%40CI",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Status": {
+                "id": "DYYJ",
+                "type": "status",
+                "status": {
+                  "id": "k^_c",
+                  "name": "ART CREATION",
+                  "color": "blue"
+                }
+              },
+              "Date Development Status Set": {
+                "id": "D%60fU",
+                "type": "date",
+                "date": {
+                  "start": "2026-08-19",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Last edited time": {
+                "id": "Dj%3Fm",
+                "type": "last_edited_time",
+                "last_edited_time": "2026-08-31T13:58:00.000Z"
+              },
+              "Project Link": {
+                "id": "DjJJ",
+                "type": "url",
+                "url": "https://www.notion.so/mmslmnz-Magic-Master-Element-War-2259748bc8c280359d49f1c0ba418209"
+              },
+              "Date Art Finish": {
+                "id": "Do%3DG",
+                "type": "date",
+                "date": null
+              },
+              "Bundle ID": "com.master.magic",
+              "Price": {
+                "id": "EUeu",
+                "type": "number",
+                "number": null
+              },
+              "Project Score Analysys": "",
+              "[Promo] Tasks ": [],
+              "TECH": "",
+              "CTR TEST": {
+                "id": "Ejyo",
+                "type": "number",
+                "number": null
+              },
+              "Subscription screen changes include links to actual references (expected UI)": false,
+              "GD": {
+                "id": "FHAP",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "4b94dbc7-aa9d-4def-bc6b-eab9bf75afbe",
+                    "name": "Vitalii Samofal",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c212f624-ee7a-40b5-81cf-78ca906b33d8/photo_2023-06-13_12-51-08_(1).jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "vitalii.samofal@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "CONTENT": "",
+              "Due": {
+                "id": "FaCd",
+                "type": "date",
+                "date": null
+              },
+              "Link to Old Promo": {
+                "id": "FbpI",
+                "type": "url",
+                "url": null
+              },
+              "QA Task File": "",
+              "Task from Growth": [],
+              "ASO Name & Description": null,
+              "External\\internal": "",
+              "⏺️ ASO | Calendar": [],
+              "Product Features": "",
+              "Promo Task ": [],
+              "Monetization DB": [],
+              "Banner Key": "",
+              "Date Info Updated": {
+                "id": "HqDO",
+                "type": "date",
+                "date": null
+              },
+              "Short Description": "",
+              "Creo Status": {
+                "type": "status",
+                "status": {
+                  "id": "93aff142-8200-476d-8a68-92bc3b9040ee",
+                  "name": "Complete",
+                  "color": "green"
+                }
+              },
+              "Amz Int & Port Tasks Template": null,
+              "Tools": {
+                "id": "IZP%3F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "CreateTKSettings": null,
+              "Subscription JSON": [],
+              "GetGitlabInfo": null,
+              "Days Start-Release": {
+                "id": "JXlK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "AMZ releaseId": "",
+              "[Logotype]": null,
+              "CR Subs, %": {
+                "id": "KKZH",
+                "type": "number",
+                "number": null
+              },
+              "Date": {
+                "id": "LkTZ",
+                "type": "date",
+                "date": null
+              },
+              "D3REW": {
+                "id": "M%5E%40L",
+                "type": "number",
+                "number": null
+              },
+              "Each config has its own separate description": false,
+              "CR Total, %": {
+                "id": "MguI",
+                "type": "number",
+                "number": null
+              },
+              "D7INT": {
+                "id": "MqkG",
+                "type": "number",
+                "number": null
+              },
+              "PaidConfigGroup": [],
+              "D1INT": {
+                "id": "N%3AM%60",
+                "type": "number",
+                "number": null
+              },
+              "Automation Info (AppStore)": "",
+              "Estimate Art Days (by Velocity)": {
+                "id": "NE%5E%7C",
+                "type": "number",
+                "number": null
+              },
+              "Previous Status": {
+                "id": "NSz%7D",
+                "type": "status",
+                "status": {
+                  "id": "ZknJ",
+                  "name": "WAITING RELEASE",
+                  "color": "blue"
+                }
+              },
+              "Traffic Source": {
+                "id": "N%5E%3Cm",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "NNIQ",
+                    "name": "Mintergral",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "Game Type": {
+                "id": "NcId",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "j=mr",
+                    "name": "Reskin",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "Create Task (No Check)": null,
+              "Developer AMZ AppStore Link": "",
+              "pLTV 7": {
+                "id": "OPM%5C",
+                "type": "number",
+                "number": null
+              },
+              "Interstitial Key": "",
+              "BB Game ID (iOS)": "",
+              "Team ": "AMZ Direction",
+              "Ref Link": "https://play.google.com/store/apps/details?id=com.feofun.elementalmaster",
+              "Build Paid Icon": null,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+              "Create Paid Icon": null,
+              "ByteBrew Link": {
+                "id": "QD%3Cd",
+                "type": "url",
+                "url": null
+              },
+              "Outdated / unused elements are removed from GDD": false,
+              "Applovin Key": "",
+              "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
+              "Version": "1.3.20",
+              "Show": {
+                "id": "RfDI",
+                "type": "number",
+                "number": null
+              },
+              "QA | Tasks": [],
+              "Fullsreen Banner Promo Request": false,
+              "📽️ Creatives Team Tasks": [],
+              "Bright SDK Review Status": {
+                "id": "SXax",
+                "type": "status",
+                "status": {
+                  "id": "81dc43b3-1e99-49a6-a5e7-da9922f48214",
+                  "name": "Approved/Live",
+                  "color": "green"
+                }
+              },
+              "Days for Art Test": {
+                "id": "SdR%3B",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 14
+                }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
+              },
+              "Bundle Version": "42",
+              "Days for Art": {
+                "id": "T%3Edc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 14
+                }
+              },
+              "BB SDK Key (iOS)": "",
+              "Feature description matches the latest implementation": false,
+              "Create New \"QA Task\"": null,
+              "Status  Promo": {
+                "id": "TWT%3A",
+                "type": "status",
+                "status": {
+                  "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Click": {
+                "id": "TkDm",
+                "type": "number",
+                "number": null
+              },
+              "GA Game Key": "",
+              "CTR Video link": "",
+              "Link to Automation": {
+                "id": "VRV%3B",
+                "type": "url",
+                "url": null
+              },
+              "Estimate Dev Days  (by Velocity)": {
+                "id": "VZsx",
+                "type": "number",
+                "number": null
+              },
+              "Days in QA": {
+                "id": "VgPc",
+                "type": "number",
+                "number": null
+              },
+              "parent": "Elemental Master",
+              "Genre": {
+                "id": "V~Gf",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "b804cd9d-b806-4375-8642-e905bb76aee3",
+                    "name": "Arcade",
+                    "color": "default"
+                  }
+                ]
+              },
+              "BB Game ID (Android)": "",
+              "Date QA Finished": {
+                "id": "X%5Cma",
+                "type": "date",
+                "date": null
+              },
+              "Task Create Info": "",
+              "GDD Doc": "https://www.notion.so/viragames/Elemental-Master-05da80dd97bc48678a75523c67e4bb72",
+              "Full Pack Amz": null,
+              "Missing Info for QA Task": {
+                "id": "ZSo%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Description for QA\n⚠️ What's new\n⚠️ Date Team Finish"
+                }
+              },
+              "[Screenshots]": null,
+              "Specialist": {
+                "id": "Zy%3F%3A",
+                "type": "people",
+                "people": []
+              },
+              "A/B Group": "",
+              "Full Pack TV Promo Request": false,
+              "Date Team Finish": {
+                "id": "%5B%5E%3AX",
+                "type": "date",
+                "date": null
+              },
+              "IPM STATIC": {
+                "id": "%5Bagu",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_key": "mmslmnz",
+              "Groups": [],
+              "D1RET": {
+                "id": "%5D%3DAl",
+                "type": "number",
+                "number": null
+              },
+              "[Fullscreen Banner]": null,
+              "CR_SUB_US": {
+                "id": "%5Dz%7CJ",
+                "type": "number",
+                "number": null
+              },
+              "D7BAN": {
+                "id": "%5E%3A%3F%3B",
+                "type": "number",
+                "number": null
+              },
+              "MONETIZATION": "",
+              "D3BAN": {
+                "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "Full game name": "Elemental War: Magic Master – Element Gloves 3D, Superpower Attack Simulator with Telekinesis, Magic Hands, Fire, Ice & Water Control, Finger Powers & Epic Combat",
+              "Firebase PLIST": [],
+              "Are all prop filled": {
+                "id": "_%5D%5E%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Date to QA"
+                }
+              },
+              "D1REW": {
+                "id": "_bnb",
+                "type": "number",
+                "number": null
+              },
+              "ASO Name & Descripton Request": false,
+              "Build changes are marked in the task": false,
+              "Unity version": "",
+              "Promo status info": "",
+              "Average FPS": {
+                "id": "a%3Fdf",
+                "type": "number",
+                "number": null
+              },
+              "Autobuild_buildNumber": "",
+              "Polishing": "",
+              "ExtraComments": "",
+              "Full Pack Promo Request": false,
+              "Art Subs Links": "",
+              "Sprint": {
+                "id": "afeU",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Documentation link": "Elemental Master",
+              "Clone From": "",
+              "D7RET": {
+                "id": "bE%7C%3A",
+                "type": "number",
+                "number": null
+              },
+              "Test - Button No Validation": null,
+              "Release Type": "A/B Test",
+              "GDD is updated for the current game version": false,
+              "Link to ASO": {
+                "id": "d%3BwX",
+                "type": "url",
+                "url": null
+              },
+              "Create Paid Banner": null,
+              "Prod Promo Approve": "",
+              "RW Key": "",
+              "Art Content Table": null,
+              "What's new": "",
+              "Promo Icon": [],
+              "100% Release Date": {
+                "id": "e%5Ec%7C",
+                "type": "date",
+                "date": null
+              },
+              "Api key": "",
+              "[Static Banner]": null,
+              "Public key": [],
+              "Quarter": "Q3_26",
+              "Create AF & Vaveda Pages": null,
+              "LTV_180_WW": {
+                "id": "gCUp",
+                "type": "number",
+                "number": null
+              },
+              "Crit Bugs": "",
+              "IPM(CP)": {
+                "id": "hQ%5C%5B",
+                "type": "number",
+                "number": null
+              },
+              "Refund Rate": {
+                "id": "h%5Cxv",
+                "type": "number",
+                "number": null
+              },
+              "Keywords": "",
+              "IOS Distribution profile": [],
+              "Status 1": {
+                "id": "ihRL",
+                "type": "status",
+                "status": {
+                  "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Logotype Banner Promo Request": false,
+              "Slack Channel Link": "https://viragames.slack.com/archives/C08BGB9705Q",
+              "CTR": {
+                "id": "jqbZ",
+                "type": "number",
+                "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": null
+              },
+              "D3PTM": {
+                "id": "kamA",
+                "type": "number",
+                "number": null
+              },
+              "D7REW": {
+                "id": "kuEV",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_secret": "A4VWvXaYyHPcWeB4YDhZrorIvOye0I8D",
+              "ViraToolKit version": "2.0.2",
+              "Priority": "",
+              "App ID(iOS)": "",
+              "Int&Port Epics": [],
+              "ToolKitSettings": [
+                "3c39748b-c8c2-81c5-981e-d1e8fb9b85ed"
+              ],
+              "Link to store": "https://www.amazon.com/dp/B0BRY88MDJ",
+              "QA checking": "",
+              "Date Release": {
+                "id": "nTQx",
+                "type": "date",
+                "date": null
+              },
+              "D3RET": {
+                "id": "n%5CF~",
+                "type": "number",
+                "number": null
+              },
+              "Cross-Promo AMZ": [],
+              "Paid\\Free": "Free",
+              "AMZ AppStore": null,
+              "RESULTS": "",
+              "AF Key": "mQvBH4wGQYL4EVg5UgUKNH",
+              "Goals": "",
+              "Firebase JSON": [],
+              "QA": "",
+              "Hypothesys": [],
+              "AMZ appId": "",
+              "Opt-In": {
+                "id": "p_Ic",
+                "type": "number",
+                "number": null
+              },
+              "New Tasks & Requests": [],
+              "Last edited by": {
+                "id": "qUWF",
+                "type": "last_edited_by",
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
+                  "type": "bot",
+                  "bot": {}
+                }
+              },
+              "Account": {
+                "id": "qhXd",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "cd7d1e0c-0014-46ed-8537-a88e19fef662",
+                    "name": "Medoc Games",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "Date to QA": {
+                "id": "q%7D%3F%5C",
+                "type": "date",
+                "date": null
+              },
+              "Sub-team": "Maverick",
+              "Date Team Start": {
+                "id": "rKeG",
+                "type": "date",
+                "date": {
+                  "start": "2026-08-20",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Created by": {
+                "id": "r%5BBI",
+                "type": "created_by",
+                "created_by": {
+                  "object": "user",
+                  "id": "4b94dbc7-aa9d-4def-bc6b-eab9bf75afbe",
+                  "name": "Vitalii Samofal",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c212f624-ee7a-40b5-81cf-78ca906b33d8/photo_2023-06-13_12-51-08_(1).jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "vitalii.samofal@vira.games",
+                    "email_verified": true
+                  }
+                }
+              },
+              "Tech Project Doc": "",
+              "Sub-subscription 1": {
+                "id": "sCtp",
+                "type": "url",
+                "url": null
+              },
+              "Automated Team": {
+                "id": "sDNL",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "If release is not required:  Need Release checkbox is unchecked": false,
+              "UI": "",
+              "Test - Button Validation": null,
+              "Admob Key": "",
+              "Firebase Link": {
+                "id": "upQD",
+                "type": "url",
+                "url": null
+              },
+              "Monetization": [],
+              "Cross Promo Video status": "",
+              "CPI (Mint) Test Dates": {
+                "id": "v%5Bi%60",
+                "type": "date",
+                "date": null
+              },
+              "Date Art Start": {
+                "id": "v%5D~D",
+                "type": "date",
+                "date": {
+                  "start": "2026-08-14",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Last Status Change": {
+                "id": "wQFr",
+                "type": "date",
+                "date": {
+                  "start": "2026-08-19",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D1PTM": {
+                "id": "wgp%7B",
+                "type": "number",
+                "number": null
+              },
+              "Link to Promo": "https://drive.google.com/drive/u/0/folders/1dqS15njQYvfXTuRZ7OVilCeh7Dq8tIkK",
+              "[Creatives] Tasks": [
+                "27f9748b-c8c2-8081-a7de-eb9814aef531"
+              ],
+              "ipm TEST": {
+                "id": "xWSH",
+                "type": "number",
+                "number": null
+              },
+              "Art Assets Link": {
+                "id": "x%5C%3DY",
+                "type": "url",
+                "url": null
+              },
+              "Total installs": {
+                "id": "x%5DWz",
+                "type": "number",
+                "number": null
+              },
+              "LTV_180_US ": {
+                "id": "xfen",
+                "type": "number",
+                "number": null
+              },
+              "Sub-s Database": [],
+              "Amz Console: On Auto support": false,
+              "Create QA Task": true,
+              "Create UA Tasks": null,
+              "3D Artist": {
+                "id": "zHXV",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "2a1d872b-594c-81d6-b189-000204b72d2a",
+                    "name": "Oksana Maksymovych",
+                    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKDM42bo3wOfF9FDXNIGxGFu_Bt5b0DKTnBB5dp-3lYRs_1IA=s100",
+                    "type": "person",
+                    "person": {
+                      "email": "oksana.maksymovych@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              " GA Secret Key": "",
+              "Task Tracker Link": {
+                "id": "%7BIp%3F",
+                "type": "url",
+                "url": null
+              },
+              "D3INT": {
+                "id": "%7BL%5C%3B",
+                "type": "number",
+                "number": null
+              },
+              "Percent of Release": {
+                "id": "%7BRbl",
+                "type": "number",
+                "number": 100
+              },
+              "AppMagic Info": [],
+              "StartUp Time": {
+                "id": "%7BZ_P",
+                "type": "number",
+                "number": null
+              },
+              "D1BAN": {
+                "id": "%7BeFD",
+                "type": "number",
+                "number": null
+              },
+              "IPM (CP) Test Dates": {
+                "id": "%7Be%5E%3E",
+                "type": "date",
+                "date": null
+              },
+              "Platform": "Fire TV",
+              "temp_tk_version_link": {
+                "id": "%7CeXN",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "Open ImportPackageWindow.cs"
+                }
+              },
+              "Screenshot Promo Request": false,
+              "Sub-item": [],
+              "Date Art Finish Test": {
+                "id": "%7Dwfx",
+                "type": "date",
+                "date": null
+              },
+              "GIT LINK": "https://gitlab.com/vira-games/amazon-projects/elemental-master",
+              "D7PTM": {
+                "id": "~%3F%3B%40",
+                "type": "number",
+                "number": null
+              },
+              "Parent Project": [
+                "13c9748b-c8c2-8136-9e70-f98d6d016fda"
+              ],
+              "Days in Dev -> QA": {
+                "id": "~FLK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 10
+                }
+              },
+              "BALANCE": "",
+              "Description for QA": "",
+              "Prod Approved": false,
+              "Static Banner Promo Request": false,
+              "IPM": {
+                "id": "~oXr",
+                "type": "number",
+                "number": null
+              },
+              "Sent To QA": {
+                "id": "~sjG",
+                "type": "date",
+                "date": null
+              },
+              "Promo info checking": {
+                "id": "~wLr",
+                "type": "formula",
+                "formula": {
+                  "type": "boolean",
+                  "boolean": false
+                }
+              },
+              "Project": "mmslmnz - Magic Master: Element War",
+              "Description": "",
+              "SubscriptionRevenueEvent": false,
+              "AMZ Metrics Date & Comment": "",
+              "GD 2": {
+                "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Amz StartUp Time": {
+                "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                "type": "number",
+                "number": null
+              },
+              "Status 2": "",
+              "Days": {
+                "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                "type": "number",
+                "number": null
+              },
+              "Asana Link": {
+                "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                "type": "url",
+                "url": null
+              },
+              "Need a new Video?": false
+            },
+            "created_time": "2026-08-19T10:43:00.000Z",
+            "last_edited_time": "2026-08-31T13:58:00.000Z",
+            "url": "https://app.notion.com/p/mmslmnz-Magic-Master-Element-War-6c29748bc8c2831ca162814d3da040a1"
+          }
+        }
+      }
+    }
+  }
+}
