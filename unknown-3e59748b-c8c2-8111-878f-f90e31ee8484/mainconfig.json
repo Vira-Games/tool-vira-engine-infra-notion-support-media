@@ -1,0 +1,1220 @@
+{
+  "pageId": "3e59748b-c8c2-8111-878f-f90e31ee8484",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "DIY_Clothes__Fashion_Stylist": {
+        "id": "3e59748b-c8c2-8111-878f-f90e31ee8484",
+        "title": "DIY Clothes: Fashion Stylist",
+        "properties": {
+          "ProductCatalog": [
+            "3e59748b-c8c2-8156-b569-ed4f0fd7c60e"
+          ],
+          "MaxParent": {
+            "id": "F%7BpA",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "clfsstz - DIY Clothes: Fashion Stylist"
+            }
+          },
+          "MaxParentLinkToPromo": {
+            "id": "GC%3FS",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "https://drive.google.com/drive/folders/1dP5gcMOylpkQoWVlLprJTbm3LoIbNWDK"
+            }
+          },
+          "(List)BundleId": "com.fashion.clothes",
+          "MaxParentBundleID": {
+            "id": "LAsk",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "com.fashion.clothes"
+            }
+          },
+          "MaxParentVersion": {
+            "id": "Njfg",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1.0.8"
+            }
+          },
+          "Subscription Settings": [
+            "3e59748b-c8c2-8181-a94a-f08343a32a45"
+          ],
+          "MainData": [
+            "3e59748b-c8c2-81d8-8c41-c027ef064f85"
+          ],
+          "(List)Bundle Version": "13",
+          "Platform": "Fire TV",
+          "💼 All Projects": [
+            "3819748b-c8c2-8076-b141-fcfc6f0e320e"
+          ],
+          "RefreshConfig": null,
+          "(List)Version": "1.0.8",
+          "MaxParentBundleVersion": {
+            "id": "fVoO",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "13"
+            }
+          },
+          "ProjectKey": "3e59748b-c8c2-8111-878f-f90e31ee8484",
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1dP5gcMOylpkQoWVlLprJTbm3LoIbNWDK",
+          "Name": "DIY Clothes: Fashion Stylist"
+        },
+        "created_time": "2026-09-24T11:16:00.000Z",
+        "last_edited_time": "2026-09-24T11:17:00.000Z",
+        "url": "https://app.notion.com/p/DIY-Clothes-Fashion-Stylist-3e59748bc8c28111878ff90e31ee8484",
+        "children": {
+          "DIY_Clothes__Fashion_Stylist_ProductCatalog": {
+            "id": "3e59748b-c8c2-8156-b569-ed4f0fd7c60e",
+            "title": "DIY Clothes: Fashion Stylist ProductCatalog",
+            "properties": {
+              "Parent": [
+                "3e59748b-c8c2-8111-878f-f90e31ee8484"
+              ],
+              "Products": [],
+              "Name": "DIY Clothes: Fashion Stylist ProductCatalog"
+            },
+            "created_time": "2026-09-24T11:16:00.000Z",
+            "last_edited_time": "2026-09-24T11:16:00.000Z",
+            "url": "https://app.notion.com/p/DIY-Clothes-Fashion-Stylist-ProductCatalog-3e59748bc8c28156b569ed4f0fd7c60e"
+          },
+          "DIY_Clothes__Fashion_Stylist_SubDataCatalog": {
+            "id": "3e59748b-c8c2-8181-a94a-f08343a32a45",
+            "title": "DIY Clothes: Fashion Stylist SubDataCatalog",
+            "properties": {
+              "Parent": [
+                "3e59748b-c8c2-8111-878f-f90e31ee8484"
+              ],
+              "Platform": "Fire TV",
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "Name": "DIY Clothes: Fashion Stylist SubDataCatalog"
+            },
+            "created_time": "2026-09-24T11:16:00.000Z",
+            "last_edited_time": "2026-09-24T11:16:00.000Z",
+            "url": "https://app.notion.com/p/DIY-Clothes-Fashion-Stylist-SubDataCatalog-3e59748bc8c28181a94af08343a32a45"
+          },
+          "DIY_Clothes__Fashion_Stylist_MainData": {
+            "id": "3e59748b-c8c2-81d8-8c41-c027ef064f85",
+            "title": "DIY Clothes: Fashion Stylist MainData",
+            "properties": {
+              "LinkToPromoRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/folders/1dP5gcMOylpkQoWVlLprJTbm3LoIbNWDK"
+                }
+              },
+              "BundleVersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "13"
+                }
+              },
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "139dd12c-6430-4f6c-9f32-0ec4ef9119d4",
+                    "name": "Fire TV",
+                    "color": "purple"
+                  }
+                ]
+              },
+              "Paid/Free": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "App Name": "DIY Clothes: Fashion Stylist",
+              "Version": {
+                "id": "PczY",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.8"
+                }
+              },
+              "Vaveda_key": "clfsstz",
+              "Link to Promo": {
+                "id": "%5CVgk",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/folders/1dP5gcMOylpkQoWVlLprJTbm3LoIbNWDK"
+                }
+              },
+              "VersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.8"
+                }
+              },
+              "Parent": [
+                "3e59748b-c8c2-8111-878f-f90e31ee8484"
+              ],
+              "Bundle Version": {
+                "id": "%5D~p%60",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "13"
+                }
+              },
+              "Bundle Id": {
+                "id": "%5E%7D%3Aj",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.fashion.clothes"
+                }
+              },
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "408006c9-5cbb-4ec1-a15d-4b7f3cbc703e",
+                    "name": "Medoc Games",
+                    "color": "red"
+                  }
+                ]
+              },
+              "AF Key": "Sf6beLgni9ueKud3bbsRGo",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.fashion.clothes"
+                }
+              },
+              "Vaveda_secret": "0iundhMQ9hT8WIp05Ls6BFxt4a9Hu5qy",
+              "Name": "DIY Clothes: Fashion Stylist MainData"
+            },
+            "created_time": "2026-09-24T11:16:00.000Z",
+            "last_edited_time": "2026-09-24T11:17:00.000Z",
+            "url": "https://app.notion.com/p/DIY-Clothes-Fashion-Stylist-MainData-3e59748bc8c281d88c41c027ef064f85",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1dP5gcMOylpkQoWVlLprJTbm3LoIbNWDK",
+                  "ProductName": "DIY Clothes: Fashion Stylist",
+                  "BundleIdentifier": "com.fashion.clothes",
+                  "Version": "1.0.8",
+                  "BundleVersionCode": 13,
+                  "CompanyName": "Medoc Games"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "Sf6beLgni9ueKud3bbsRGo"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "clfsstz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "0iundhMQ9hT8WIp05Ls6BFxt4a9Hu5qy"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          },
+          "Page_3819748b-c8c2-8076-b141-fcfc6f0e320e": {
+            "id": "3819748b-c8c2-8076-b141-fcfc6f0e320e",
+            "title": "Page 3819748b-c8c2-8076-b141-fcfc6f0e320e",
+            "properties": {
+              "CR_SUB_WW": {
+                "id": "%3A%3Br_",
+                "type": "number",
+                "number": null
+              },
+              "Create Paid Promo Rebuild ": null,
+              "Installs US": {
+                "id": "%3Au%7BN",
+                "type": "number",
+                "number": null
+              },
+              "Creatives Status": {
+                "id": "%3B%60E%3C",
+                "type": "status",
+                "status": {
+                  "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "[Icon]": null,
+              "TOP AMZ for Sub Screen Upates": [
+                "1599748b-c8c2-807b-b657-f4a583f1e3e0"
+              ],
+              "Ref Name": "",
+              "ASIN": "B0BSFS5P38",
+              "Missing Info for Dev(Cross)": {
+                "id": "%3Cv%60H",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "New promo link": {
+                "id": "%3DU%3BG",
+                "type": "url",
+                "url": null
+              },
+              "Date Dev Start": {
+                "id": "%3D%7B%3Ej",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-19",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Clone": null,
+              "Days in Dev -> Release": {
+                "id": "%3EkOQ",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 157
+                }
+              },
+              "Are all prop. filled? ": {
+                "id": "%3Epbv",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "false"
+                }
+              },
+              "All Projects Info Old": [
+                "4bfc4c9c-baf8-400d-b800-ea0a6f5839bc"
+              ],
+              "AF Link": {
+                "id": "%40G%5E%3A",
+                "type": "url",
+                "url": "https://hq1.appsflyer.com/unified-ltv/dashboard#appIds=com.fashion.clothes-Amazon"
+              },
+              "Long Description": "",
+              "BB SDK Key (Android)": "",
+              "Icon Promo Request": false,
+              "pLTV 180": {
+                "id": "%40zGB",
+                "type": "number",
+                "number": 1.47
+              },
+              "Developer": {
+                "id": "%40%7Cvk",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "26cd872b-594c-81ba-bd6b-00022cbd249d",
+                    "name": "Oleksandr Kovalevskyi",
+                    "avatar_url": null,
+                    "type": "person",
+                    "person": {
+                      "email": "oleksandr.kovalevskyi@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "PROGRESSION": "",
+              "🎯 AllPages": [],
+              "Project Subs Metrics": [],
+              "Status (Copy)": {
+                "id": "BVo%40",
+                "type": "status",
+                "status": {
+                  "id": "90bac3ba-be41-4b5d-8096-cf1217b11885",
+                  "name": "LIVE",
+                  "color": "green"
+                }
+              },
+              "Mintegral Status": "",
+              "Creo Link": "https://drive.google.com/drive/folders/13BqtQA_nYlv5_EdQlnAnzbMIfKu_DWsC",
+              "Days Start-Finish": {
+                "id": "Bzh%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 0
+                }
+              },
+              "Sum SP": "",
+              "Created time": {
+                "id": "B~Qf",
+                "type": "created_time",
+                "created_time": "2026-06-16T14:44:00.000Z"
+              },
+              "All subscriptions for the current build are filled": true,
+              "Missing info for Promo rebuild": {
+                "id": "CkT%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "CPI": {
+                "id": "Cxr%40",
+                "type": "number",
+                "number": null
+              },
+              "Teams use": {
+                "id": "D%40CI",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Estimate Dev Days": {
+                "id": "DX%60A",
+                "type": "number",
+                "number": null
+              },
+              "Status": {
+                "id": "DYYJ",
+                "type": "status",
+                "status": {
+                  "id": "Y=]I",
+                  "name": "To Do",
+                  "color": "orange"
+                }
+              },
+              "Date Development Status Set": {
+                "id": "D%60fU",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-19",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Last edited time": {
+                "id": "Dj%3Fm",
+                "type": "last_edited_time",
+                "last_edited_time": "2026-09-24T11:16:00.000Z"
+              },
+              "Project Link": {
+                "id": "DjJJ",
+                "type": "url",
+                "url": null
+              },
+              "Date Art Finish": {
+                "id": "Do%3DG",
+                "type": "date",
+                "date": {
+                  "start": "2026-03-09",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Bundle ID": "com.fashion.clothes",
+              "Price": {
+                "id": "EUeu",
+                "type": "number",
+                "number": null
+              },
+              "Project Score Analysys": "",
+              "[Promo] Tasks ": [],
+              "TECH": "",
+              "CTR TEST": {
+                "id": "Ejyo",
+                "type": "number",
+                "number": null
+              },
+              "Subscription screen changes include links to actual references (expected UI)": true,
+              "GD": {
+                "id": "FHAP",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "4b94dbc7-aa9d-4def-bc6b-eab9bf75afbe",
+                    "name": "Vitalii Samofal",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c212f624-ee7a-40b5-81cf-78ca906b33d8/photo_2023-06-13_12-51-08_(1).jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "vitalii.samofal@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "CONTENT": "",
+              "Due": {
+                "id": "FaCd",
+                "type": "date",
+                "date": null
+              },
+              "Link to Old Promo": {
+                "id": "FbpI",
+                "type": "url",
+                "url": null
+              },
+              "QA Task File": {
+                "type": "files",
+                "files": []
+              },
+              "Task from Growth": [],
+              "ASO Name & Description": null,
+              "External\\internal": "Internal",
+              "⏺️ ASO | Calendar": [],
+              "Product Features": "",
+              "Promo Task ": [],
+              "Monetization DB": [],
+              "Banner Key": "",
+              "Date Info Updated": {
+                "id": "HqDO",
+                "type": "date",
+                "date": null
+              },
+              "Short Description": "",
+              "Creo Status": "",
+              "Amz Int & Port Tasks Template": null,
+              "Tools": {
+                "id": "IZP%3F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "CreateTKSettings": null,
+              "Subscription JSON": [],
+              "GetGitlabInfo": null,
+              "Days Start-Release": {
+                "id": "JXlK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "AMZ releaseId": "",
+              "[Logotype]": null,
+              "CR Subs, %": {
+                "id": "KKZH",
+                "type": "number",
+                "number": null
+              },
+              "Date": {
+                "id": "LkTZ",
+                "type": "date",
+                "date": null
+              },
+              "D3REW": {
+                "id": "M%5E%40L",
+                "type": "number",
+                "number": null
+              },
+              "Each config has its own separate description": true,
+              "CR Total, %": {
+                "id": "MguI",
+                "type": "number",
+                "number": 3.96
+              },
+              "D7INT": {
+                "id": "MqkG",
+                "type": "number",
+                "number": null
+              },
+              "PaidConfigGroup": [],
+              "D1INT": {
+                "id": "N%3AM%60",
+                "type": "number",
+                "number": null
+              },
+              "Automation Info (AppStore)": "",
+              "Estimate Art Days (by Velocity)": {
+                "id": "NE%5E%7C",
+                "type": "number",
+                "number": null
+              },
+              "Previous Status": {
+                "id": "NSz%7D",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Traffic Source": {
+                "id": "N%5E%3Cm",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Game Type": {
+                "id": "NcId",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "D~zu",
+                    "name": "Clone",
+                    "color": "yellow"
+                  }
+                ]
+              },
+              "Create Task (No Check)": null,
+              "Developer AMZ AppStore Link": "",
+              "pLTV 7": {
+                "id": "OPM%5C",
+                "type": "number",
+                "number": null
+              },
+              "Interstitial Key": "",
+              "BB Game ID (iOS)": "",
+              "Team ": "AMZ Direction",
+              "Ref Link": "https://www.amazon.com/DIY-Fashion-Star-Design-Clothing/dp/B07DQM4GZP",
+              "Build Paid Icon": null,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
+              "Create Paid Icon": null,
+              "ByteBrew Link": {
+                "id": "QD%3Cd",
+                "type": "url",
+                "url": null
+              },
+              "Outdated / unused elements are removed from GDD": true,
+              "Applovin Key": "",
+              "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
+              "Version": "1.0.8",
+              "Show": {
+                "id": "RfDI",
+                "type": "number",
+                "number": null
+              },
+              "QA | Tasks": [
+                "3e59748b-c8c2-8101-8243-f3721275a036"
+              ],
+              "Fullsreen Banner Promo Request": false,
+              "📽️ Creatives Team Tasks": [
+                "30d9748b-c8c2-8119-9f2c-f40fedc5795a"
+              ],
+              "Bright SDK Review Status": {
+                "id": "SXax",
+                "type": "status",
+                "status": {
+                  "id": "81dc43b3-1e99-49a6-a5e7-da9922f48214",
+                  "name": "Approved/Live",
+                  "color": "green"
+                }
+              },
+              "Days for Art Test": {
+                "id": "SdR%3B",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 39
+                }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
+              },
+              "Bundle Version": "13",
+              "Days for Art": {
+                "id": "T%3Edc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 24
+                }
+              },
+              "BB SDK Key (iOS)": "",
+              "Feature description matches the latest implementation": true,
+              "Create New \"QA Task\"": null,
+              "Status  Promo": {
+                "id": "TWT%3A",
+                "type": "status",
+                "status": {
+                  "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Click": {
+                "id": "TkDm",
+                "type": "number",
+                "number": null
+              },
+              "GA Game Key": "",
+              "CTR Video link": "",
+              "ASO/PROMO Full Pack GP/IOS: ProjectName": null,
+              "Link to Automation": {
+                "id": "VRV%3B",
+                "type": "url",
+                "url": null
+              },
+              "Estimate Dev Days  (by Velocity)": {
+                "id": "VZsx",
+                "type": "number",
+                "number": null
+              },
+              "Days in QA": {
+                "id": "VgPc",
+                "type": "number",
+                "number": null
+              },
+              "parent": "DIY Clothes: Fashion Stylist",
+              "Genre": {
+                "id": "V~Gf",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "6980a371-0bab-4c45-b774-c0322406ac31",
+                    "name": "diy",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "BB Game ID (Android)": "",
+              "Date QA Finished": {
+                "id": "X%5Cma",
+                "type": "date",
+                "date": null
+              },
+              "Task Create Info": "✅ QA Task - Successfully Created!",
+              "GDD Doc": "DIY Clothes: Fashion Stylist",
+              "Full Pack Amz": null,
+              "Missing Info for QA Task": {
+                "id": "ZSo%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "[Screenshots]": null,
+              "Specialist": {
+                "id": "Zy%3F%3A",
+                "type": "people",
+                "people": []
+              },
+              "A/B Group": "",
+              "Full Pack TV Promo Request": false,
+              "Date Team Finish": {
+                "id": "%5B%5E%3AX",
+                "type": "date",
+                "date": {
+                  "start": "2026-09-24",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "IPM STATIC": {
+                "id": "%5Bagu",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_key": "clfsstz",
+              "Groups": [],
+              "D1RET": {
+                "id": "%5D%3DAl",
+                "type": "number",
+                "number": null
+              },
+              "[Fullscreen Banner]": null,
+              "CR_SUB_US": {
+                "id": "%5Dz%7CJ",
+                "type": "number",
+                "number": null
+              },
+              "D7BAN": {
+                "id": "%5E%3A%3F%3B",
+                "type": "number",
+                "number": null
+              },
+              "MONETIZATION": "",
+              "D3BAN": {
+                "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "Full game name": "DIY Clothes: Fashion Stylist",
+              "Firebase PLIST": [],
+              "Are all prop filled": {
+                "id": "_%5D%5E%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Date to QA"
+                }
+              },
+              "D1REW": {
+                "id": "_bnb",
+                "type": "number",
+                "number": null
+              },
+              "ASO Name & Descripton Request": false,
+              "Build changes are marked in the task": true,
+              "Unity version": "",
+              "Promo status info": "",
+              "Average FPS": {
+                "id": "a%3Fdf",
+                "type": "number",
+                "number": null
+              },
+              "Autobuild_buildNumber": "",
+              "Polishing": "",
+              "ExtraComments": "",
+              "Full Pack Promo Request": false,
+              "Art Subs Links": "",
+              "Sprint": {
+                "id": "afeU",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Documentation link": "DIY Clothes: Fashion Stylist",
+              "Clone From": "",
+              "D7RET": {
+                "id": "bE%7C%3A",
+                "type": "number",
+                "number": null
+              },
+              "Test - Button No Validation": null,
+              "Release Type": "A/B Test",
+              "GDD is updated for the current game version": true,
+              "Link to ASO": {
+                "id": "d%3BwX",
+                "type": "url",
+                "url": null
+              },
+              "Create Paid Banner": null,
+              "Prod Promo Approve": "",
+              "RW Key": "",
+              "Art Content Table": null,
+              "What's new": "AB tes",
+              "Promo Icon": [],
+              "100% Release Date": {
+                "id": "e%5Ec%7C",
+                "type": "date",
+                "date": null
+              },
+              "Api key": "",
+              "[Static Banner]": null,
+              "Public key": [
+                {
+                  "name": "AppstoreAuthenticationKey (37).pem",
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/4bca5cbe-29b7-4787-8433-237472cd5694/AppstoreAuthenticationKey_%2837%29.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663R7JK2LH%2F20260924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260924T111802Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAoaCXVzLXdlc3QtMiJGMEQCIHOvfPqUSPfQ%2BVTYhyzmvXQeVXvxT3kd5J65W6hbfkXKAiAFb3HyIET3jevthKBGpmfyMDqZq%2BQipkxttrZghu%2BIZyqIBAjT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMsUtNBxhavoCLTSOlKtwD%2FBkU5g4%2BqhyrbEvFD%2F4d%2FDV2NB6TSCir21UWEy5dPFRyto1EB%2FkWTNNmnJ0L6P5OftwMj972aOL0gqkjdy4dRqKLPwT0g9iFzdCEUkjnWnf4ZilY0oG3yNEUb5prDv0HeKblSSgH%2FuXAZJG4wdzJqIRjF0aYa3eCUtAFj7qX2K8%2FK1QV7t7FJtsuMm0gucOk7TPxszclq5dM5Sw68yyF45DqByi%2BErcJgxMbHyIGMfSCIIYDsKGa2WikjnI5XjXeTFMmFGWaQ02j3K3783fOHmepIA%2Fh8BeF6zP9Ri5pWytg3czMVDB7n05SluOBzrXMdMJY7gX9XXGKrJ8MIFOE4jTymBwogFO910%2BrbuTgiMFNBBhvz3Yay2UfqQlbiBoF%2BCMzlxN4oWp9zRUic%2BehbDxrRirEz6YJ9%2FBaaEdBKzkhMvsenwWB9M79sE4vUgZbD19eq7WBSscHk4XMbgCelJiTa71epwdffYz1e8sqECxmVPIn0V%2BD8ZXCi3KFjp33f1D%2F8SlwY7O9B6uuGbycOmr%2FUJw5gyMTZT95mGSk4UfYL3Bp65dOv3ie%2F0Q1M6MbPWFqs%2BS1bqjWLA%2B4KfqoZuxa3QKzI150HXtlEDrA2p1wc564DNCDpQnRcrwwwN7T1QY6pgFI7Ot3VIWo%2FsSL351CPPTPdu6SDSdZ8cREllEr%2FbiofBfmW27BjOiNz%2BJih1HuSnAmCrCY8WHnJFg6%2B6Vrm%2BSXhx93dYjoi1g1CfjbukbTZJAowFPFwgZWVFiZQgqxK6Y%2F4G%2BhegHugjW3LqRkLQNvWzox%2FxXoyRDZn9nqpOeqrWF7QnvSQCCPLIR5zvk%2F9dx7ptmSOffQNzxD%2Br2COanBEE5UXJ%2B5&X-Amz-Signature=cbe713fcbb569d6fe316f0d1f68beb7c27f7dd3d621caa4185fcb6bb6405e23c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                }
+              ],
+              "Quarter": "Q3_26",
+              "Create AF & Vaveda Pages": null,
+              "LTV_180_WW": {
+                "id": "gCUp",
+                "type": "number",
+                "number": null
+              },
+              "Crit Bugs": "",
+              "IPM(CP)": {
+                "id": "hQ%5C%5B",
+                "type": "number",
+                "number": null
+              },
+              "Refund Rate": {
+                "id": "h%5Cxv",
+                "type": "number",
+                "number": 43
+              },
+              "PROMO: Loading Screen": null,
+              "Keywords": "",
+              "IOS Distribution profile": [],
+              "PROMO - Logo: Project Name": null,
+              "Status 1": {
+                "id": "ihRL",
+                "type": "status",
+                "status": {
+                  "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Logotype Banner Promo Request": false,
+              "Slack Channel Link": "https://viragames.slack.com/archives/C08E05HULLW/p1748519396792019",
+              "CTR": {
+                "id": "jqbZ",
+                "type": "number",
+                "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": null
+              },
+              "D3PTM": {
+                "id": "kamA",
+                "type": "number",
+                "number": null
+              },
+              "D7REW": {
+                "id": "kuEV",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_secret": "0iundhMQ9hT8WIp05Ls6BFxt4a9Hu5qy",
+              "ViraToolKit version": "2.0.2",
+              "Priority": "Mid",
+              "App ID(iOS)": "",
+              "Int&Port Epics": [],
+              "ToolKitSettings": [
+                "3e59748b-c8c2-8111-878f-f90e31ee8484"
+              ],
+              "Link to store": "https://www.amazon.com/gp/product/B0BSFS5P38",
+              "QA checking": "",
+              "Date Release": {
+                "id": "nTQx",
+                "type": "date",
+                "date": null
+              },
+              "D3RET": {
+                "id": "n%5CF~",
+                "type": "number",
+                "number": null
+              },
+              "Cross-Promo AMZ": [],
+              "Paid\\Free": "Free",
+              "AMZ AppStore": null,
+              "RESULTS": "",
+              "AF Key": "Sf6beLgni9ueKud3bbsRGo",
+              "Goals": "",
+              "Firebase JSON": [],
+              "QA": {
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "b88c594a-289f-42a7-9488-02f373fce103",
+                    "name": "Lizaveta Potsiah",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/08b30f3f-c4a5-41a9-926a-158657e9a8b6/IMG_20260129_104151.jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "lizaveta.potsiah@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "Hypothesys": [],
+              "AMZ appId": "",
+              "Opt-In": {
+                "id": "p_Ic",
+                "type": "number",
+                "number": 38.8
+              },
+              "New Tasks & Requests": [],
+              "Last edited by": {
+                "id": "qUWF",
+                "type": "last_edited_by",
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
+                  "type": "bot",
+                  "bot": {}
+                }
+              },
+              "Account": {
+                "id": "qhXd",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "cd7d1e0c-0014-46ed-8537-a88e19fef662",
+                    "name": "Medoc Games",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "Date to QA": {
+                "id": "q%7D%3F%5C",
+                "type": "date",
+                "date": null
+              },
+              "Sub-team": "Maverick",
+              "Date Team Start": {
+                "id": "rKeG",
+                "type": "date",
+                "date": {
+                  "start": "2026-09-24",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Created by": {
+                "id": "r%5BBI",
+                "type": "created_by",
+                "created_by": {
+                  "object": "user",
+                  "id": "21cd872b-594c-81a8-8390-0002210a34c5",
+                  "name": "Ivan Pavliv",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "ivan.pavliv@vira.games",
+                    "email_verified": true
+                  }
+                }
+              },
+              "Tech Project Doc": "",
+              "Sub-subscription 1": {
+                "id": "sCtp",
+                "type": "url",
+                "url": null
+              },
+              "Automated Team": {
+                "id": "sDNL",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "If release is not required:  Need Release checkbox is unchecked": true,
+              "UI": "",
+              "Test - Button Validation": null,
+              "Admob Key": "",
+              "Firebase Link": {
+                "id": "upQD",
+                "type": "url",
+                "url": null
+              },
+              "Monetization": [],
+              "Cross Promo Video status": "",
+              "CPI (Mint) Test Dates": {
+                "id": "v%5Bi%60",
+                "type": "date",
+                "date": null
+              },
+              "Date Art Start": {
+                "id": "v%5D~D",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-04",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Last Status Change": {
+                "id": "wQFr",
+                "type": "date",
+                "date": {
+                  "start": "2026-09-24",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D1PTM": {
+                "id": "wgp%7B",
+                "type": "number",
+                "number": null
+              },
+              "Link to Promo": "https://drive.google.com/drive/folders/1dP5gcMOylpkQoWVlLprJTbm3LoIbNWDK",
+              "[Creatives] Tasks": [],
+              "ipm TEST": {
+                "id": "xWSH",
+                "type": "number",
+                "number": null
+              },
+              "Art Assets Link": {
+                "id": "x%5C%3DY",
+                "type": "url",
+                "url": null
+              },
+              "Total installs": {
+                "id": "x%5DWz",
+                "type": "number",
+                "number": 1769
+              },
+              "LTV_180_US ": {
+                "id": "xfen",
+                "type": "number",
+                "number": null
+              },
+              "Sub-s Database": [],
+              "Amz Console: On Auto support": false,
+              "Create QA Task": true,
+              "Create UA Tasks": null,
+              "3D Artist": {
+                "id": "zHXV",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "2a1d872b-594c-81d6-b189-000204b72d2a",
+                    "name": "Oksana Maksymovych",
+                    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKDM42bo3wOfF9FDXNIGxGFu_Bt5b0DKTnBB5dp-3lYRs_1IA=s100",
+                    "type": "person",
+                    "person": {
+                      "email": "oksana.maksymovych@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              " GA Secret Key": "",
+              "Task Tracker Link": {
+                "id": "%7BIp%3F",
+                "type": "url",
+                "url": null
+              },
+              "D3INT": {
+                "id": "%7BL%5C%3B",
+                "type": "number",
+                "number": null
+              },
+              "Percent of Release": {
+                "id": "%7BRbl",
+                "type": "number",
+                "number": 100
+              },
+              "AppMagic Info": [],
+              "StartUp Time": {
+                "id": "%7BZ_P",
+                "type": "number",
+                "number": null
+              },
+              "D1BAN": {
+                "id": "%7BeFD",
+                "type": "number",
+                "number": null
+              },
+              "IPM (CP) Test Dates": {
+                "id": "%7Be%5E%3E",
+                "type": "date",
+                "date": null
+              },
+              "Platform": "Fire TV",
+              "temp_tk_version_link": {
+                "id": "%7CeXN",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "Open ImportPackageWindow.cs"
+                }
+              },
+              "Screenshot Promo Request": false,
+              "Sub-item": [],
+              "Date Art Finish Test": {
+                "id": "%7Dwfx",
+                "type": "date",
+                "date": {
+                  "start": "2026-03-30",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "GIT LINK": "https://github.com/Vira-Games/game-amz-division-diy-clothes",
+              "Estimate Art Days": {
+                "id": "~%3BYy",
+                "type": "number",
+                "number": null
+              },
+              "D7PTM": {
+                "id": "~%3F%3B%40",
+                "type": "number",
+                "number": null
+              },
+              "Parent Project": [
+                "13c9748b-c8c2-812e-9232-d6330769758e"
+              ],
+              "Days in Dev -> QA": {
+                "id": "~FLK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 25
+                }
+              },
+              "BALANCE": "",
+              "Description for QA": "AB tes",
+              "Prod Approved": false,
+              "Static Banner Promo Request": false,
+              "IPM": {
+                "id": "~oXr",
+                "type": "number",
+                "number": null
+              },
+              "Sent To QA": {
+                "id": "~sjG",
+                "type": "date",
+                "date": {
+                  "start": "2026-03-25",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Promo info checking": {
+                "id": "~wLr",
+                "type": "formula",
+                "formula": {
+                  "type": "boolean",
+                  "boolean": false
+                }
+              },
+              "Project": "clfsstz - DIY Clothes: Fashion Stylist",
+              "Description": "",
+              "SubscriptionRevenueEvent": false,
+              "AMZ Metrics Date & Comment": "",
+              "GD 2": {
+                "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Amz StartUp Time": {
+                "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                "type": "number",
+                "number": null
+              },
+              "Status 2": "",
+              "Days": {
+                "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                "type": "number",
+                "number": null
+              },
+              "Asana Link": {
+                "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                "type": "url",
+                "url": null
+              },
+              "Need a new Video?": false
+            },
+            "created_time": "2026-06-16T14:44:00.000Z",
+            "last_edited_time": "2026-09-24T11:16:00.000Z",
+            "url": "https://app.notion.com/p/clfsstz-DIY-Clothes-Fashion-Stylist-3819748bc8c28076b141fcfc6f0e320e"
+          }
+        }
+      }
+    }
+  }
+}
