@@ -69,7 +69,7 @@
           "Name": "Surprise Eggs 3D: Toys Hunt & Crack Game"
         },
         "created_time": "2026-09-25T08:56:00.000Z",
-        "last_edited_time": "2026-09-25T08:56:00.000Z",
+        "last_edited_time": "2026-09-25T08:58:00.000Z",
         "url": "https://app.notion.com/p/Surprise-Eggs-3D-Toys-Hunt-Crack-Game-3e69748bc8c281488a63fed78a573d67",
         "children": {
           "Surprise_Eggs_3D__Toys_Hunt___Crack_Game_ProductCatalog": {
@@ -158,7 +158,7 @@
                   "string": "1.1.3"
                 }
               },
-              "Vaveda_key": " srprscz",
+              "Vaveda_key": "srprscz",
               "Link to Promo": {
                 "id": "%5CVgk",
                 "type": "formula",
@@ -216,7 +216,7 @@
               "Name": "Surprise Eggs 3D: Toys Hunt & Crack Game MainData"
             },
             "created_time": "2026-09-25T08:56:00.000Z",
-            "last_edited_time": "2026-09-25T08:58:00.000Z",
+            "last_edited_time": "2026-09-25T10:43:00.000Z",
             "url": "https://app.notion.com/p/Surprise-Eggs-3D-Toys-Hunt-Crack-Game-MainData-3e69748bc8c281759236ebf356789e22",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
@@ -236,7 +236,7 @@
                     },
                     {
                       "KeyName": "JAM_AppKey",
-                      "Key": " srprscz"
+                      "Key": "srprscz"
                     },
                     {
                       "KeyName": "JAM_SecretKey",
@@ -421,7 +421,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-09-25T08:56:00.000Z"
+                "last_edited_time": "2026-09-25T10:20:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -822,7 +822,7 @@
               "Public key": [
                 {
                   "name": "AppstoreAuthenticationKey (3).pem",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/da03075f-e661-4b49-9e4e-e406f45b6696/AppstoreAuthenticationKey_%283%29.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RSMO3CUX%2F20260925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260925T085817Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECEaCXVzLXdlc3QtMiJGMEQCIBXbi7%2BekMAxwijfWNVBhPTdhHXC%2Bg8fx74wEm3kjFV4AiBw08sKpE6RSo%2FG1gM7o4PaGOxBwVk%2BVnv5b3x6Q23%2BnyqIBAjq%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMYjc9odcCXvnkPwzbKtwDAh7iTROc3Hf1Cz4KW8P5neUailVmnmt6ax25WzBAxFk3wt9ualc5XRuLIKTpaI7gI3YX2JdPaYt0pSxZ9H6rSTGObwDcl04%2BbI1KPDP1I3cPOlAQFPsSE1qsyJpxZav1GKYmutFbzKq6W08%2FN4x7FQJTVXAjPLXeqybn%2FYpDOWkeBH%2BAYil%2BwE5IuitDQtRf5A%2B5%2FmxIooB%2BeEu1bKZAsdP0RhWydSQYizyUgPCTjsndPe5kzF%2FyF6AhcM42r%2B31sYZOJWFmYJWilc2CjXsLIDpcHSdvb3xJSMUcTZk4sIhuB10aRkric2TBn1FVUtd2pTBM93Bpw76KARdrwmorsSW3TV1RNg%2FectKZR7liWDNXvsF1gNZe6KcUB3v52Xa9BoIol3LUMTYCT3raTdLX8sAtf1UEfqs3gO3nlaMkjF9pVHrjjxoN%2Frsv4RLLXL4ToUihmhWkASeBN4FL9HWX5RStz9nEZmU6ivqzJ9hOeify1oXA1iqDPs8MwwSoYIF0Wzu%2Fm2TOzL1R4eJbaNT70YGJz4FQ%2BuwEuzDkbIdKI%2B00VNPYlc2nuyNEvaPfTgV91dE9rWdpobgS%2F2ihtB%2BdKnrGmIqUKW0FtkAQgEDIbpiryhqX1wEW74hP1gAwu%2BXY1QY6pgEOlKtUXXQ642blXQq1xF0G170xaShC6sfD3sbA5OfKkNqtmhXZdwzcmCIIq5%2FTBl%2FUZ%2B1Kk0gX2fVaCstO99YqjtZZdTmGZ4I0tb0jTOX4eX9bUVZEw0vLO3EDK9t2%2BI2NqqKzjhMeCS1oxvUrxMTvw2IsHEpmjy8cBooCKN6EFvEqTwq07ie47U9PpbvBTvJAXS%2ByUkYl%2BL%2F6ocWuYSuZ1fVZRsPS&X-Amz-Signature=a3fd995cb2b8609eae292c99401e6fab845f8442465b8619b3b08137f5f467b8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/da03075f-e661-4b49-9e4e-e406f45b6696/AppstoreAuthenticationKey_%283%29.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YWOR7YCA%2F20260925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260925T104408Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECEaCXVzLXdlc3QtMiJGMEQCIHFTBAfDYzF%2Barg%2Bk9d8vzY9TCEhq1FTYt%2F%2B%2BYeDPptTAiAmOrXiogfTzj7akLB8aIkSj2Pm8cpRaBJ%2BPS3KslWcNiqIBAjq%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMpTeOlDXvgJyyWI9kKtwDXMW4UUTn0ArdjlQ08cEL7xzrmElgEr9BrGkmf12EKaDBxoGmuyd1NrtbhxwVu3cHDOhP1QxdFBu17RY58O%2B929e6lZaT5RvyR%2BADGHo9LuMRX9Sr82FARXoDkC7EyU3M2DKPN109dZISrv2YyEJBMNbPluCkx%2FEsxrKUrdUXH%2FBug5oDj8RPFhI7Ouf2YdkoTtz9v%2BcQZHueuSSmH3H0Ry0LuqS%2FTqzFn0rhLq7O3kaVH%2BD5FigDn9tvNIYkLUd1fMBvV8Bdc0H8yVLV5nTxH3S4buadQMZMvGybiM1k6Qplh3bQ3dAzUl89kywj4yFbGDxxGle%2FY0nKhXYud%2FO2CqxJnBClf5GKdt3jR8uLo%2Ffwt6E9SZUEi4d2eILENqY2yHwMlCH2UnMIvKK7BBx3OxNqdKeSNg%2FnONqPQnj%2FIQ%2BjtO7ZAyYSA7JAB150tBSImBHsyHOlJTfGJL%2B5OjkK1HELj6htgAaq6FOITKFVIGTLyuCGn0MjAR2hLv0JiCIslBCLSsZj0uBoag851HfizKhpv8pH7ifMjlq76%2FPOfhjAG6c4uDbWDFv%2F577qnN%2Bv10zJpevBfxuQOa92lTdTFRXflXe%2FAUv2BLRE0MIT69147LBTVee1yg6ubwkw%2BeLY1QY6pgF8fwrgjyfdprr0tQv5TXI%2BQkeG%2BUnTZaDpSugFaz%2FRokAlG4a1kCVfxFek2DwuhJhBGQukxhAPOYhmG1SN3nVq9bTZ1fFxnyfNkUpnHU3ReI0wzDW2R0Rv8yeFVKC%2FdfeRbwhPvIZcCTvGOnfxWKxw1%2Bn%2Bi7EWb%2FNDBTagEQLP6SkXm4rHjsE%2F%2Fx%2FzWX1msI3LFbtoNLhpSIj3MxxnIyhW6AOJc%2FHe&X-Amz-Signature=d024704b045b49eea54a49ee967856db469757dd9a2ed30958deea4151d2175a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "Q3_26",
@@ -919,11 +919,14 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
-                  "name": "Vira Games Bot",
-                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
-                  "type": "bot",
-                  "bot": {}
+                  "id": "e0257c78-9ef9-43d7-a5ba-2558204108f9",
+                  "name": "Maksym Shchevych",
+                  "avatar_url": null,
+                  "type": "person",
+                  "person": {
+                    "email": "maksym.shchevych@vira.games",
+                    "email_verified": true
+                  }
                 }
               },
               "Account": {
@@ -1123,7 +1126,7 @@
                 }
               },
               "BALANCE": "",
-              "Description for QA": "+ за основу взяли версию 1.1.2 (с ол ином)\n+ обновили тулкит до версии 2.0.3\n+ разлили на 2 конфига\n1.1.3.1 - стандартный набор подписок\n1.1.3.2 - те же подписки триалом",
+              "Description for QA": "+ за основу взяли версию 1.1.2 (без ол ина)\n+ обновили тулкит до версии 2.0.3\n+ разлили на 2 конфига\n1.1.3.1 - стандартный набор подписок\n1.1.3.2 - те же подписки триалом",
               "Prod Approved": false,
               "Static Banner Promo Request": false,
               "IPM": {
@@ -1176,7 +1179,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-09-23T10:58:00.000Z",
-            "last_edited_time": "2026-09-25T08:56:00.000Z",
+            "last_edited_time": "2026-09-25T10:20:00.000Z",
             "url": "https://app.notion.com/p/srprscz-Surprise-Eggs-3D-Toys-Hunt-Crack-Game-15e9748bc8c282c4967b0106f3f65906"
           }
         }
