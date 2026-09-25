@@ -40,7 +40,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "1.0.4"
+              "string": "1.0.5"
             }
           },
           "Subscription Settings": [
@@ -55,7 +55,7 @@
             "0c79748b-c8c2-82b6-ae72-81a301a18979"
           ],
           "RefreshConfig": null,
-          "(List)Version": "1.0.4",
+          "(List)Version": "1.0.5",
           "MaxParentBundleVersion": {
             "id": "fVoO",
             "type": "formula",
@@ -69,7 +69,7 @@
           "Name": "Hole Black: Super Fruit Swallow Game"
         },
         "created_time": "2026-09-25T11:41:00.000Z",
-        "last_edited_time": "2026-09-25T11:42:00.000Z",
+        "last_edited_time": "2026-09-25T11:45:00.000Z",
         "url": "https://app.notion.com/p/Hole-Black-Super-Fruit-Swallow-Game-3e69748bc8c281a8aff4f4f83ccb9b1e",
         "children": {
           "Hole_Black__Super_Fruit_Swallow_Game_ProductCatalog": {
@@ -155,7 +155,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.4"
+                  "string": "1.0.5"
                 }
               },
               "Vaveda_key": "frtblhz",
@@ -171,7 +171,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.4"
+                  "string": "1.0.5"
                 }
               },
               "Parent": [
@@ -224,7 +224,7 @@
                   "LinkToPromo": "https://drive.google.com/drive/folders/1fiCui9jnkBjlRJU9rNjsR2_a4FmLSCO2?usp=drive_link",
                   "ProductName": "Hole Black: Super Fruit Swallow Game",
                   "BundleIdentifier": "com.vira.fruit.hole",
-                  "Version": "1.0.4",
+                  "Version": "1.0.5",
                   "BundleVersionCode": 20,
                   "CompanyName": "Vira Games Inc"
                 },
@@ -419,7 +419,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-09-25T11:42:00.000Z"
+                "last_edited_time": "2026-09-25T12:12:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -606,7 +606,7 @@
                 "type": "url",
                 "url": null
               },
-              "Version": "1.0.4",
+              "Version": "1.0.5",
               "Show": {
                 "id": "RfDI",
                 "type": "number",
@@ -818,7 +818,7 @@
               "Promo Icon": [
                 {
                   "name": "com.vira.fruit.hole_HoleBlack_AMZ_TV_Free_1280x720.png",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/ba317882-0944-4ff6-9629-ce26994ce524/com.vira.fruit.hole_HoleBlack_AMZ_TV_Free_1280x720.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TGJUU34Z%2F20260925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260925T114521Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECMaCXVzLXdlc3QtMiJIMEYCIQC1NnbR5iAIJOIY67JQZ8c4lr4g4SyG7v8MsKGbm3vQ%2FQIhANsRSHWLdpyJ%2BluGPZHMa3YybYM7JxS5Zkq0iXFtn6vhKogECOz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwwnA6TuAwCrEO%2FoIAq3AOhK3AUtd4NkJENm%2FIYaZtmJ1FOLotbyiatJtJoXF%2BIudl0%2FuhzQupS2B%2FbWRAZQ75sbiVvkg%2FNiWsFGd0o%2Fn3M9E7nPpxIJhutZB0hbe24k%2FrejlD8cNo7kroCp1n%2BxE75xtrpq1TmdVz9ydac1btHfA9FGaMKcYbnxDXjwCmzWw8mS07qHUNItn%2FAGZGNe5fe8FWiQ4WXGuncZF7B2xUxJ4cT02AMtXOUMgh2y8eyBfQKVITQ71Gz%2BAoagYA3whMyApZkG7f6TJOnvrWQX8v50asg1niePdk%2By%2F0EGsdCFIdSyUMdW1Is8C0iETaMi%2BiGEF9UknvsF6QUWBES3R91nGM7dWJyf68NMuR1yMv%2F7OQRQnF5cDDvRfW9reI7BnTFkPrYc2f8g4lWWjtz1zbPcJzGG5eqhf6yLM9Gim3XufhEN%2F0A1nTpcLD1WmrXeZNfNjxxbwX3tWyksOL4c%2FC6fAYkpwbHK2dUugb9EBBykHtG6E5epPMhujQZCiweOVG6cIgu26zmahXvHb3j%2BY%2F8PrR7P9%2BOx8WVA2esCFm6Deyt1VE4PxjDV26rhxamaZBCc73ztSrqgpiYjwWY%2FFDfx1%2FMPlH0zM15B406x2qtmSGoowBRI4LhUvA9pDCQqNnVBjqkAcqGRRNC9mpv5Kgj%2BK%2BaJoq1OP8Fg82sEnBufkL6jrdFmY06bNNcKn56LghexgSS9efJclQplv%2BzCFO1Xz95b2WoR%2F8GTbEYxgptDCvPw9cK8T25%2BTrH1v1hDkdLOe4g3e8MgnjIaNA0tfZveBWdm5uYrM7AV6LmESjzzuzJ6W0sbvTcNRoeGRy3eHfDCfcotoTjzBZE7DFMRNd2g1ZsQNiRcsfb&X-Amz-Signature=1490ec1f9a30775f16a854dfc0e37d085c57d2f89e125f50c81fa8798e55fa26&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/ba317882-0944-4ff6-9629-ce26994ce524/com.vira.fruit.hole_HoleBlack_AMZ_TV_Free_1280x720.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VVKHCLOY%2F20260925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260925T121347Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECMaCXVzLXdlc3QtMiJHMEUCIQCR1nS7gy0cWWFiVCKYJRpDhtxavLinWTHjZp529n2CtAIgYIajoOeL52%2F13qtzU2O5yRB6%2B3bBZmoTTAZLiJnQH7gqiAQI7P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDLdvmZ0nE%2Fp0iBh0wSrcA8Pkpm4FBveReTontdfmRKcm3Z02KnkZ0P%2F1CnnsYK2szhmwBqZLtExcV93TwW7CgE179dwAZ1YbEgwSviq1cN2Xlhl6e9SH3ajKNMPlkqWnubGIJOO0qAmFhIjx1m%2BbUOJJJONKsVUKeFLBVPBhM5TeVJQCwvBQxyK5NbAGpJFPc88K1Anhiov57kzjfHRT236Bxu3vy3jwJ3X1szZ0HBJaJiQVnA7%2BirFhlOZhVMi7Kd9mAnciwgG56%2FYPOchpzc6vNrIhLBs9xEoTDHpXMzbArVRErLOa4MXbUGJzVT6bn2ahYzA1LvrkfEeMPE4nPuuRtg%2FOhlB9XFnEWs8ziDYOH%2BsAArCmk9LOFSVTzoX4%2BzyAXiPyuZgvJidFedTPLmWJGSjBG%2BwaqtRUobc9ggL2h18BGbFG7tTpIMEJeoHCGzQqvYro%2FvX%2BtIVWWp7yv7HnsyyLsXB%2F6Qycs0qbnwolFoHugDlPVru0ClOpjlArTKFshdphOnGI%2FwESQ9xbCk3ulhma7jBKxn7BZNh%2BRrym34XqG0JKzQDITOOpE5fXtw84aNj0%2Bpw%2FvIBX8mQ%2FbdqrGPb8U2EQAjOHLvdbXMhYnhTytq%2BT2%2BAz9MLlYVCz1sdZuS2CGL3UIz5LMJ%2Bn2dUGOqUBI7U0lfSb20l2E8p8Oc6rgH5EFKX6CVZ%2BId6vWiCm8JCjx2at%2B9IE6Uz024I45YYXJXptRqUSFbDxB4pqfiWHz2L8ris%2FfuSlXh2IkRd6CWe7jduAOdKfT5IxE6NRd%2BhLk%2BrhET49lsxdksQpt5WKkPjObyy2IOpMDGs9udSMwJJTF2woWUBQ7R%2F2tz1%2FwVZR7Lkik0iuMrSRWZUOpvaeo18CpU6r&X-Amz-Signature=94e321400be05e94a34e5d2dc8ce9a37a072f55ae0e0d67952d5edbb47fd814b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "100% Release Date": {
@@ -831,7 +831,7 @@
               "Public key": [
                 {
                   "name": "AppstoreAuthenticationKey.pem",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/df51cbd5-457a-40ec-b761-6a396c828f5f/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TGJUU34Z%2F20260925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260925T114521Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECMaCXVzLXdlc3QtMiJIMEYCIQC1NnbR5iAIJOIY67JQZ8c4lr4g4SyG7v8MsKGbm3vQ%2FQIhANsRSHWLdpyJ%2BluGPZHMa3YybYM7JxS5Zkq0iXFtn6vhKogECOz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwwnA6TuAwCrEO%2FoIAq3AOhK3AUtd4NkJENm%2FIYaZtmJ1FOLotbyiatJtJoXF%2BIudl0%2FuhzQupS2B%2FbWRAZQ75sbiVvkg%2FNiWsFGd0o%2Fn3M9E7nPpxIJhutZB0hbe24k%2FrejlD8cNo7kroCp1n%2BxE75xtrpq1TmdVz9ydac1btHfA9FGaMKcYbnxDXjwCmzWw8mS07qHUNItn%2FAGZGNe5fe8FWiQ4WXGuncZF7B2xUxJ4cT02AMtXOUMgh2y8eyBfQKVITQ71Gz%2BAoagYA3whMyApZkG7f6TJOnvrWQX8v50asg1niePdk%2By%2F0EGsdCFIdSyUMdW1Is8C0iETaMi%2BiGEF9UknvsF6QUWBES3R91nGM7dWJyf68NMuR1yMv%2F7OQRQnF5cDDvRfW9reI7BnTFkPrYc2f8g4lWWjtz1zbPcJzGG5eqhf6yLM9Gim3XufhEN%2F0A1nTpcLD1WmrXeZNfNjxxbwX3tWyksOL4c%2FC6fAYkpwbHK2dUugb9EBBykHtG6E5epPMhujQZCiweOVG6cIgu26zmahXvHb3j%2BY%2F8PrR7P9%2BOx8WVA2esCFm6Deyt1VE4PxjDV26rhxamaZBCc73ztSrqgpiYjwWY%2FFDfx1%2FMPlH0zM15B406x2qtmSGoowBRI4LhUvA9pDCQqNnVBjqkAcqGRRNC9mpv5Kgj%2BK%2BaJoq1OP8Fg82sEnBufkL6jrdFmY06bNNcKn56LghexgSS9efJclQplv%2BzCFO1Xz95b2WoR%2F8GTbEYxgptDCvPw9cK8T25%2BTrH1v1hDkdLOe4g3e8MgnjIaNA0tfZveBWdm5uYrM7AV6LmESjzzuzJ6W0sbvTcNRoeGRy3eHfDCfcotoTjzBZE7DFMRNd2g1ZsQNiRcsfb&X-Amz-Signature=0fe2e74a1ae1f37a953d49dba15f997a8e0dceabad62ea4fb61516fa02838585&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/df51cbd5-457a-40ec-b761-6a396c828f5f/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VVKHCLOY%2F20260925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260925T121347Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECMaCXVzLXdlc3QtMiJHMEUCIQCR1nS7gy0cWWFiVCKYJRpDhtxavLinWTHjZp529n2CtAIgYIajoOeL52%2F13qtzU2O5yRB6%2B3bBZmoTTAZLiJnQH7gqiAQI7P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDLdvmZ0nE%2Fp0iBh0wSrcA8Pkpm4FBveReTontdfmRKcm3Z02KnkZ0P%2F1CnnsYK2szhmwBqZLtExcV93TwW7CgE179dwAZ1YbEgwSviq1cN2Xlhl6e9SH3ajKNMPlkqWnubGIJOO0qAmFhIjx1m%2BbUOJJJONKsVUKeFLBVPBhM5TeVJQCwvBQxyK5NbAGpJFPc88K1Anhiov57kzjfHRT236Bxu3vy3jwJ3X1szZ0HBJaJiQVnA7%2BirFhlOZhVMi7Kd9mAnciwgG56%2FYPOchpzc6vNrIhLBs9xEoTDHpXMzbArVRErLOa4MXbUGJzVT6bn2ahYzA1LvrkfEeMPE4nPuuRtg%2FOhlB9XFnEWs8ziDYOH%2BsAArCmk9LOFSVTzoX4%2BzyAXiPyuZgvJidFedTPLmWJGSjBG%2BwaqtRUobc9ggL2h18BGbFG7tTpIMEJeoHCGzQqvYro%2FvX%2BtIVWWp7yv7HnsyyLsXB%2F6Qycs0qbnwolFoHugDlPVru0ClOpjlArTKFshdphOnGI%2FwESQ9xbCk3ulhma7jBKxn7BZNh%2BRrym34XqG0JKzQDITOOpE5fXtw84aNj0%2Bpw%2FvIBX8mQ%2FbdqrGPb8U2EQAjOHLvdbXMhYnhTytq%2BT2%2BAz9MLlYVCz1sdZuS2CGL3UIz5LMJ%2Bn2dUGOqUBI7U0lfSb20l2E8p8Oc6rgH5EFKX6CVZ%2BId6vWiCm8JCjx2at%2B9IE6Uz024I45YYXJXptRqUSFbDxB4pqfiWHz2L8ris%2FfuSlXh2IkRd6CWe7jduAOdKfT5IxE6NRd%2BhLk%2BrhET49lsxdksQpt5WKkPjObyy2IOpMDGs9udSMwJJTF2woWUBQ7R%2F2tz1%2FwVZR7Lkik0iuMrSRWZUOpvaeo18CpU6r&X-Amz-Signature=abea4ac7a500f0c699936bd88fcefff36687c4877581443cf372121e6b16a79d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "Q3_26",
@@ -1219,7 +1219,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-09-24T10:18:00.000Z",
-            "last_edited_time": "2026-09-25T11:42:00.000Z",
+            "last_edited_time": "2026-09-25T12:12:00.000Z",
             "url": "https://app.notion.com/p/frtblhz-Hole-Black-Super-Fruit-Swallow-Game-0c79748bc8c282b6ae7281a301a18979"
           }
         }
