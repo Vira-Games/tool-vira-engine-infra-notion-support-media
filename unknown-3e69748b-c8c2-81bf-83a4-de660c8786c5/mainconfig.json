@@ -69,7 +69,7 @@
           "Name": "Spinner Battle Merge Arena 3D"
         },
         "created_time": "2026-09-25T13:08:00.000Z",
-        "last_edited_time": "2026-09-25T13:08:00.000Z",
+        "last_edited_time": "2026-09-25T13:10:00.000Z",
         "url": "https://app.notion.com/p/Spinner-Battle-Merge-Arena-3D-3e69748bc8c281bf83a4de660c8786c5",
         "children": {
           "Spinner_Battle_Merge_Arena_3D_ProductCatalog": {
@@ -149,7 +149,7 @@
                   }
                 ]
               },
-              "App Name": "",
+              "App Name": "Spinner Battle Merge Arena 3D",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
@@ -216,13 +216,13 @@
               "Name": "Spinner Battle Merge Arena 3D MainData"
             },
             "created_time": "2026-09-25T13:08:00.000Z",
-            "last_edited_time": "2026-09-25T13:10:00.000Z",
+            "last_edited_time": "2026-09-25T13:11:00.000Z",
             "url": "https://app.notion.com/p/Spinner-Battle-Merge-Arena-3D-MainData-3e69748bc8c2817f891bfb55c5278594",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/folders/18eF2RWFSem3HJn0v9BO0iZUZ4GpFNmXm",
-                  "ProductName": "",
+                  "ProductName": "Spinner Battle Merge Arena 3D",
                   "BundleIdentifier": "com.vira.battle.spinner",
                   "Version": "1.0.7",
                   "BundleVersionCode": 20,
@@ -816,7 +816,7 @@
               "Promo Icon": [
                 {
                   "name": "com.vira.battle.spinner_icon_SpinnerBattle_AMZ_TV_Free_1280x720.png",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/4b778dd0-4b4b-4b99-8504-980194d0256b/com.vira.battle.spinner_icon_SpinnerBattle_AMZ_TV_Free_1280x720.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667PPUPLVC%2F20260925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260925T131023Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECMaCXVzLXdlc3QtMiJHMEUCIQCH1q53935aNah9KOPoN1IVtF2OPHmUwrhOMB1uDk%2FS6gIgeY7McV2Oh33oRP%2F6R5e6265WsM%2BMIxNXrdw%2FF2mCHHUqiAQI7P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDKbI6DarvjRYIaw%2FnyrcA6uKWKs4Y0vxhXLTWIqpO6t9hO79o9z83SITa6274UqiERDoxNTLh2fsLIfIF5Mlgcd9JH6aaq7d4W5QcyaAuAkFG6Xr3Y9npAKEmBKH2BaJIfTrV0CALLTS01RWCHD1st%2FZ4r7QOO8U5%2FcaIKBdpfA45vFCo4nA0PgM%2BtLmiHB5gmOeC7yQyRzGJumZQ%2FIJEWWTealVVzSV3qKaovTd42AypSrM%2FZyDSjFO0nX9HvrkOxxURtjvunSQnANGhfcM1A1yrFOlkrC6YQ8wM9p2pfh3ZHUwDSA92ffzXO9BVsJmZBekJ7XqnWv97%2FKci9oToEfP9nV6ItBHOtyw3phjkFdIxfT68%2FHEtwudVfA4QWXOGbAQm3xfzvV%2Beo0f4pY64tlNqFlSWY5kaDlQt5b0g%2B7Zds5cQozObLswZNbe47p0DbDgrgstkHeHcHkRnOjPU%2FBVHlY2JED4rOw5tB15tn96du5XWVyMlNkocfwM4IRlTM0FUCLl5U2KbSfeRIWwVTOaoej1T96%2BEpR6PZzBrY9U%2Flak%2FuSuCENzuW0GbZxnmsg0sDjah%2B6%2F9AMGYLZlHbmc8V6BbPACVw7zHJfx5OKWug2nepYAxz3L4%2BYAGOEEuz73r8nWuU3bOPIBMNen2dUGOqUBWPIipK2iDWujgr5QZZDdvP9HirFQ1FsYfBc%2FF%2FF53FQVZXHWyl9IjFv26ykvAsmnWEvkShOpYwzOfqUMFq%2Bqq5KamA5UqUry4Oe6e6d36wmWpaH559iHsfy2grQ4tfHDjxv0YNPFC9qpnoFxVmtHzp1Kyg8gGAea2Qf2LLO3nXZWZXhhF3dozaNBSccC3unalGOmq1J1r83SHalTEY7UlxzZ%2Buxg&X-Amz-Signature=378db771e9f207e03332381c3d715fdd7396414142b1bcff027e71711bca452e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/4b778dd0-4b4b-4b99-8504-980194d0256b/com.vira.battle.spinner_icon_SpinnerBattle_AMZ_TV_Free_1280x720.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46652XBO3TB%2F20260925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260925T131200Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECMaCXVzLXdlc3QtMiJIMEYCIQDgSzMCYeEFuiC%2B6n%2Bx0K4uZOIOBX0REDVJPFJbWkSghAIhAP4JAsyv72KtwvVyQeEe%2FaGeIE4EzLjoqLvxjp%2F0EFliKogECOz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgyHFq%2F3xMLrR5WGlNYq3APKdkM8IET6k%2FKMRz7h5th1O9n1Zz14I%2FleXaZPYq3B0A1gLh3DTlzAdZBBFiTAO0MiDkHX4o0Kwb0qlYcmFoEgmaUwOesDtsIron3gfik7FY5F155w6%2BEkarY4oZ6cCnOTxrIXbLp609XyoXSYbS2cpBg7tMgAD4TMGk8RwNCy4Br7zzQwdxF471vjOc%2Bfr3zjLFk7XVnNFoSgTUNXBr92xLJeZTU%2F9BaPHEcB9ktjMG0xpc%2BGhK%2FirvwTkK3m%2FhKwnfDi0gToF%2BraN%2B8tT4JKVyq9lWXuGLXiomvl0%2BHZqOl7SaWu6WnupKMlxo7%2FGQ6S8zRdogKjWUVb8b1QckaiViWyj1CzHL265XCnn8iBT0rXFcCDSLbGurzc2qUiRr25cI%2FVh0WEbL2QMSH1M57%2ByYQA98Fb6yzjPbGt05bPDmneIojCsfZ0Lii0OIn5ccDT3do6ulDB%2BBYU8Dt4quyAYWSeyifqn1DGJ5wQbPV2ijBa8S0KzdSXdvpx4MnVW%2BGdhbUmoe4muvYXqGJq9FBzsqeVy2nw9pyI9DKW5UA127Y9Dv8yoWx3m%2BWG1CCLju7YZ5YaSW1jCB1MnzSSl%2FM8M2kVGJzN2msAU96m109HHhnaV8uLlayJEDy%2BmjDRqNnVBjqkATmfWn7XYH%2FkBoF0hCeEMJxDlhSp456WQjd76MuWQFuJjOHsIVU3Ha5AxEiVy1pDaSFXa4dT5c4ZYSFQOwCUGJgZadNQWuJ3QObzNZM1Cc9KIvaPUMPrzim6oK1Lz3Gr8o51FpzvTo46hv1vP8AdZJzEiorOlMbWPtkTlrLWjhBGeUnY7asIExHDP2%2F8ST6wWCTSFm35DKQvqQgWD011BsXRFFC2&X-Amz-Signature=d91b30880d2527fa15bacb8d9a524f1f55b687cf18ad3b622a2b2c55f071d3bf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "100% Release Date": {
