@@ -1,0 +1,1191 @@
+{
+  "pageId": "3e69748b-c8c2-81bf-83a4-de660c8786c5",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Spinner_Battle_Merge_Arena_3D": {
+        "id": "3e69748b-c8c2-81bf-83a4-de660c8786c5",
+        "title": "Spinner Battle Merge Arena 3D",
+        "properties": {
+          "ProductCatalog": [
+            "3e69748b-c8c2-81f4-aa17-c849908fd57b"
+          ],
+          "MaxParent": {
+            "id": "F%7BpA",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "spnbtmz - Spinner Battle Merge Arena 3D"
+            }
+          },
+          "MaxParentLinkToPromo": {
+            "id": "GC%3FS",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "https://drive.google.com/drive/folders/18eF2RWFSem3HJn0v9BO0iZUZ4GpFNmXm"
+            }
+          },
+          "(List)BundleId": "com.vira.battle.spinner",
+          "MaxParentBundleID": {
+            "id": "LAsk",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "com.vira.battle.spinner"
+            }
+          },
+          "MaxParentVersion": {
+            "id": "Njfg",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1.0.7"
+            }
+          },
+          "Subscription Settings": [
+            "3e69748b-c8c2-8115-903e-ef09f6f41eb6"
+          ],
+          "MainData": [
+            "3e69748b-c8c2-817f-891b-fb55c5278594"
+          ],
+          "(List)Bundle Version": "20",
+          "Platform": "Fire TV",
+          "💼 All Projects": [
+            "2ed9748b-c8c2-82e9-8fbc-01960f227903"
+          ],
+          "RefreshConfig": null,
+          "(List)Version": "1.0.7",
+          "MaxParentBundleVersion": {
+            "id": "fVoO",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "20"
+            }
+          },
+          "ProjectKey": "3e69748b-c8c2-81bf-83a4-de660c8786c5",
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/18eF2RWFSem3HJn0v9BO0iZUZ4GpFNmXm",
+          "Name": "Spinner Battle Merge Arena 3D"
+        },
+        "created_time": "2026-09-25T13:08:00.000Z",
+        "last_edited_time": "2026-09-25T13:08:00.000Z",
+        "url": "https://app.notion.com/p/Spinner-Battle-Merge-Arena-3D-3e69748bc8c281bf83a4de660c8786c5",
+        "children": {
+          "Spinner_Battle_Merge_Arena_3D_ProductCatalog": {
+            "id": "3e69748b-c8c2-81f4-aa17-c849908fd57b",
+            "title": "Spinner Battle Merge Arena 3D ProductCatalog",
+            "properties": {
+              "Parent": [
+                "3e69748b-c8c2-81bf-83a4-de660c8786c5"
+              ],
+              "Products": [],
+              "Name": "Spinner Battle Merge Arena 3D ProductCatalog"
+            },
+            "created_time": "2026-09-25T13:08:00.000Z",
+            "last_edited_time": "2026-09-25T13:08:00.000Z",
+            "url": "https://app.notion.com/p/Spinner-Battle-Merge-Arena-3D-ProductCatalog-3e69748bc8c281f4aa17c849908fd57b"
+          },
+          "Spinner_Battle_Merge_Arena_3D_SubDataCatalog": {
+            "id": "3e69748b-c8c2-8115-903e-ef09f6f41eb6",
+            "title": "Spinner Battle Merge Arena 3D SubDataCatalog",
+            "properties": {
+              "Parent": [
+                "3e69748b-c8c2-81bf-83a4-de660c8786c5"
+              ],
+              "Platform": "Fire TV",
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "Name": "Spinner Battle Merge Arena 3D SubDataCatalog"
+            },
+            "created_time": "2026-09-25T13:08:00.000Z",
+            "last_edited_time": "2026-09-25T13:08:00.000Z",
+            "url": "https://app.notion.com/p/Spinner-Battle-Merge-Arena-3D-SubDataCatalog-3e69748bc8c28115903eef09f6f41eb6"
+          },
+          "Spinner_Battle_Merge_Arena_3D_MainData": {
+            "id": "3e69748b-c8c2-817f-891b-fb55c5278594",
+            "title": "Spinner Battle Merge Arena 3D MainData",
+            "properties": {
+              "LinkToPromoRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/folders/18eF2RWFSem3HJn0v9BO0iZUZ4GpFNmXm"
+                }
+              },
+              "BundleVersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "20"
+                }
+              },
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "139dd12c-6430-4f6c-9f32-0ec4ef9119d4",
+                    "name": "Fire TV",
+                    "color": "purple"
+                  }
+                ]
+              },
+              "Paid/Free": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "App Name": "",
+              "Version": {
+                "id": "PczY",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.7"
+                }
+              },
+              "Vaveda_key": "spnbtmz",
+              "Link to Promo": {
+                "id": "%5CVgk",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/folders/18eF2RWFSem3HJn0v9BO0iZUZ4GpFNmXm"
+                }
+              },
+              "VersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.7"
+                }
+              },
+              "Parent": [
+                "3e69748b-c8c2-81bf-83a4-de660c8786c5"
+              ],
+              "Bundle Version": {
+                "id": "%5D~p%60",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "20"
+                }
+              },
+              "Bundle Id": {
+                "id": "%5E%7D%3Aj",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.vira.battle.spinner"
+                }
+              },
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "9ecec9b7-588e-4561-be81-1d12af7a34f4",
+                    "name": "Vira Games Inc",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.vira.battle.spinner"
+                }
+              },
+              "Vaveda_secret": "xT53nzQkjzunGIDrtUKIeqlDnpvXkDBq",
+              "Name": "Spinner Battle Merge Arena 3D MainData"
+            },
+            "created_time": "2026-09-25T13:08:00.000Z",
+            "last_edited_time": "2026-09-25T13:10:00.000Z",
+            "url": "https://app.notion.com/p/Spinner-Battle-Merge-Arena-3D-MainData-3e69748bc8c2817f891bfb55c5278594",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/folders/18eF2RWFSem3HJn0v9BO0iZUZ4GpFNmXm",
+                  "ProductName": "",
+                  "BundleIdentifier": "com.vira.battle.spinner",
+                  "Version": "1.0.7",
+                  "BundleVersionCode": 20,
+                  "CompanyName": "Vira Games Inc"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "spnbtmz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "xT53nzQkjzunGIDrtUKIeqlDnpvXkDBq"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          },
+          "Page_2ed9748b-c8c2-82e9-8fbc-01960f227903": {
+            "id": "2ed9748b-c8c2-82e9-8fbc-01960f227903",
+            "title": "Page 2ed9748b-c8c2-82e9-8fbc-01960f227903",
+            "properties": {
+              "CR_SUB_WW": {
+                "id": "%3A%3Br_",
+                "type": "number",
+                "number": null
+              },
+              "Create Paid Promo Rebuild ": null,
+              "Installs US": {
+                "id": "%3Au%7BN",
+                "type": "number",
+                "number": null
+              },
+              "Creatives Status": {
+                "id": "%3B%60E%3C",
+                "type": "status",
+                "status": {
+                  "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "[Icon]": null,
+              "TOP AMZ for Sub Screen Upates": [],
+              "Ref Name": "",
+              "ASIN": "B0FCYPLRLD",
+              "Missing Info for Dev(Cross)": {
+                "id": "%3Cv%60H",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "New promo link": {
+                "id": "%3DU%3BG",
+                "type": "url",
+                "url": null
+              },
+              "Date Dev Start": {
+                "id": "%3D%7B%3Ej",
+                "type": "date",
+                "date": {
+                  "start": "2026-05-27",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Clone": null,
+              "Days in Dev -> Release": {
+                "id": "%3EkOQ",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 89
+                }
+              },
+              "Are all prop. filled? ": {
+                "id": "%3Epbv",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "false"
+                }
+              },
+              "All Projects Info Old": [],
+              "AF Link": {
+                "id": "%40G%5E%3A",
+                "type": "url",
+                "url": "https://hq1.appsflyer.com/apps/settings?appId=com.vira.battle.spinner-Amazon"
+              },
+              "Long Description": "",
+              "BB SDK Key (Android)": "",
+              "Icon Promo Request": false,
+              "pLTV 180": {
+                "id": "%40zGB",
+                "type": "number",
+                "number": null
+              },
+              "Developer": {
+                "id": "%40%7Cvk",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "26cd872b-594c-81ba-bd6b-00022cbd249d",
+                    "name": "Oleksandr Kovalevskyi",
+                    "avatar_url": null,
+                    "type": "person",
+                    "person": {
+                      "email": "oleksandr.kovalevskyi@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "PROGRESSION": "",
+              "🎯 AllPages": [],
+              "Project Subs Metrics": [],
+              "Status (Copy)": {
+                "id": "BVo%40",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Mintegral Status": "",
+              "Creo Link": "",
+              "Days Start-Finish": {
+                "id": "Bzh%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 0
+                }
+              },
+              "Sum SP": "",
+              "Created time": {
+                "id": "B~Qf",
+                "type": "created_time",
+                "created_time": "2026-09-24T16:01:00.000Z"
+              },
+              "All subscriptions for the current build are filled": true,
+              "Missing info for Promo rebuild": {
+                "id": "CkT%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "CPI": {
+                "id": "Cxr%40",
+                "type": "number",
+                "number": null
+              },
+              "Teams use": {
+                "id": "D%40CI",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Estimate Dev Days": {
+                "id": "DX%60A",
+                "type": "number",
+                "number": null
+              },
+              "Status": {
+                "id": "DYYJ",
+                "type": "status",
+                "status": {
+                  "id": "Y=]I",
+                  "name": "To Do",
+                  "color": "orange"
+                }
+              },
+              "Date Development Status Set": {
+                "id": "D%60fU",
+                "type": "date",
+                "date": null
+              },
+              "Last edited time": {
+                "id": "Dj%3Fm",
+                "type": "last_edited_time",
+                "last_edited_time": "2026-09-25T13:10:00.000Z"
+              },
+              "Project Link": {
+                "id": "DjJJ",
+                "type": "url",
+                "url": null
+              },
+              "Date Art Finish": {
+                "id": "Do%3DG",
+                "type": "date",
+                "date": null
+              },
+              "Bundle ID": "com.vira.battle.spinner",
+              "Price": {
+                "id": "EUeu",
+                "type": "number",
+                "number": null
+              },
+              "Project Score Analysys": "",
+              "[Promo] Tasks ": [],
+              "TECH": "",
+              "CTR TEST": {
+                "id": "Ejyo",
+                "type": "number",
+                "number": null
+              },
+              "Subscription screen changes include links to actual references (expected UI)": true,
+              "GD": {
+                "id": "FHAP",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "a57c8885-ece5-40fd-83aa-bcb1f32b4999"
+                  },
+                  {
+                    "object": "user",
+                    "id": "4b94dbc7-aa9d-4def-bc6b-eab9bf75afbe",
+                    "name": "Vitalii Samofal",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c212f624-ee7a-40b5-81cf-78ca906b33d8/photo_2023-06-13_12-51-08_(1).jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "vitalii.samofal@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "CONTENT": "",
+              "Due": {
+                "id": "FaCd",
+                "type": "date",
+                "date": null
+              },
+              "Link to Old Promo": {
+                "id": "FbpI",
+                "type": "url",
+                "url": null
+              },
+              "QA Task File": {
+                "type": "files",
+                "files": []
+              },
+              "Task from Growth": [],
+              "ASO Name & Description": null,
+              "External\\internal": "",
+              "⏺️ ASO | Calendar": [],
+              "Product Features": "",
+              "Promo Task ": [],
+              "Monetization DB": [],
+              "Banner Key": "",
+              "Date Info Updated": {
+                "id": "HqDO",
+                "type": "date",
+                "date": null
+              },
+              "Short Description": "",
+              "Creo Status": "",
+              "Amz Int & Port Tasks Template": null,
+              "Tools": {
+                "id": "IZP%3F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "CreateTKSettings": null,
+              "Subscription JSON": [],
+              "GetGitlabInfo": null,
+              "Days Start-Release": {
+                "id": "JXlK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "AMZ releaseId": "",
+              "[Logotype]": null,
+              "CR Subs, %": {
+                "id": "KKZH",
+                "type": "number",
+                "number": null
+              },
+              "Date": {
+                "id": "LkTZ",
+                "type": "date",
+                "date": null
+              },
+              "D3REW": {
+                "id": "M%5E%40L",
+                "type": "number",
+                "number": null
+              },
+              "Each config has its own separate description": true,
+              "CR Total, %": {
+                "id": "MguI",
+                "type": "number",
+                "number": null
+              },
+              "D7INT": {
+                "id": "MqkG",
+                "type": "number",
+                "number": null
+              },
+              "PaidConfigGroup": [],
+              "D1INT": {
+                "id": "N%3AM%60",
+                "type": "number",
+                "number": null
+              },
+              "Automation Info (AppStore)": "",
+              "Estimate Art Days (by Velocity)": {
+                "id": "NE%5E%7C",
+                "type": "number",
+                "number": null
+              },
+              "Previous Status": {
+                "id": "NSz%7D",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Traffic Source": {
+                "id": "N%5E%3Cm",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Game Type": {
+                "id": "NcId",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "D~zu",
+                    "name": "Clone",
+                    "color": "yellow"
+                  }
+                ]
+              },
+              "Create Task (No Check)": null,
+              "Developer AMZ AppStore Link": "",
+              "pLTV 7": {
+                "id": "OPM%5C",
+                "type": "number",
+                "number": null
+              },
+              "Interstitial Key": "",
+              "BB Game ID (iOS)": "",
+              "Team ": "AMZ Direction",
+              "Ref Link": "https://play.google.com/store/apps/details?gl=US&hl=en-US&id=com.YoBroStudios.MergeSpinner",
+              "Build Paid Icon": null,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
+              "Create Paid Icon": null,
+              "ByteBrew Link": {
+                "id": "QD%3Cd",
+                "type": "url",
+                "url": null
+              },
+              "Outdated / unused elements are removed from GDD": true,
+              "Applovin Key": "",
+              "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
+              "Version": "1.0.7",
+              "Show": {
+                "id": "RfDI",
+                "type": "number",
+                "number": null
+              },
+              "QA | Tasks": [
+                "3e69748b-c8c2-8197-a590-f15770a35e5e"
+              ],
+              "Fullsreen Banner Promo Request": false,
+              "📽️ Creatives Team Tasks": [],
+              "Bright SDK Review Status": {
+                "id": "SXax",
+                "type": "status",
+                "status": {
+                  "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                  "name": "Implementation",
+                  "color": "default"
+                }
+              },
+              "Days for Art Test": {
+                "id": "SdR%3B",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
+              },
+              "Bundle Version": "20",
+              "Days for Art": {
+                "id": "T%3Edc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "BB SDK Key (iOS)": "",
+              "Feature description matches the latest implementation": true,
+              "Create New \"QA Task\"": null,
+              "Status  Promo": {
+                "id": "TWT%3A",
+                "type": "status",
+                "status": {
+                  "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Click": {
+                "id": "TkDm",
+                "type": "number",
+                "number": null
+              },
+              "GA Game Key": "",
+              "CTR Video link": "",
+              "ASO/PROMO Full Pack GP/IOS: ProjectName": null,
+              "Link to Automation": {
+                "id": "VRV%3B",
+                "type": "url",
+                "url": null
+              },
+              "Estimate Dev Days  (by Velocity)": {
+                "id": "VZsx",
+                "type": "number",
+                "number": null
+              },
+              "Days in QA": {
+                "id": "VgPc",
+                "type": "number",
+                "number": null
+              },
+              "parent": "Spinner Merge",
+              "Genre": {
+                "id": "V~Gf",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "27a0f8f0-6303-4ed1-8fa6-f4e7fa74cc9e",
+                    "name": "Action",
+                    "color": "pink"
+                  },
+                  {
+                    "id": "00c12b3f-ffb4-4e32-8b81-5f6b2a0a58b2",
+                    "name": "Simulator",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "BB Game ID (Android)": "",
+              "Date QA Finished": {
+                "id": "X%5Cma",
+                "type": "date",
+                "date": null
+              },
+              "Task Create Info": "✅ QA Task - Successfully Created!",
+              "GDD Doc": "https://www.notion.so/viragames/Spinner-Merge-1c99748bc8c2806a8f66c93e97148d12?pvs=4",
+              "Full Pack Amz": null,
+              "Missing Info for QA Task": {
+                "id": "ZSo%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "[Screenshots]": null,
+              "Specialist": {
+                "id": "Zy%3F%3A",
+                "type": "people",
+                "people": []
+              },
+              "A/B Group": "",
+              "Full Pack TV Promo Request": false,
+              "Date Team Finish": {
+                "id": "%5B%5E%3AX",
+                "type": "date",
+                "date": {
+                  "start": "2026-09-25",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "IPM STATIC": {
+                "id": "%5Bagu",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_key": "spnbtmz",
+              "Groups": [],
+              "D1RET": {
+                "id": "%5D%3DAl",
+                "type": "number",
+                "number": null
+              },
+              "[Fullscreen Banner]": null,
+              "CR_SUB_US": {
+                "id": "%5Dz%7CJ",
+                "type": "number",
+                "number": null
+              },
+              "D7BAN": {
+                "id": "%5E%3A%3F%3B",
+                "type": "number",
+                "number": null
+              },
+              "MONETIZATION": "",
+              "D3BAN": {
+                "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "Full game name": "Spinner Battle Merge Arena 3D: Fidget spinner simulator io fight, blade fusion strategy, spin master, merge fighting",
+              "Firebase PLIST": [],
+              "Are all prop filled": {
+                "id": "_%5D%5E%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Date to QA"
+                }
+              },
+              "D1REW": {
+                "id": "_bnb",
+                "type": "number",
+                "number": null
+              },
+              "ASO Name & Descripton Request": false,
+              "Build changes are marked in the task": true,
+              "Unity version": "",
+              "Promo status info": "",
+              "Average FPS": {
+                "id": "a%3Fdf",
+                "type": "number",
+                "number": null
+              },
+              "Autobuild_buildNumber": "",
+              "Polishing": "",
+              "ExtraComments": "",
+              "Full Pack Promo Request": false,
+              "Art Subs Links": "",
+              "Sprint": {
+                "id": "afeU",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Documentation link": "AB tes",
+              "Clone From": "",
+              "D7RET": {
+                "id": "bE%7C%3A",
+                "type": "number",
+                "number": null
+              },
+              "Test - Button No Validation": null,
+              "Release Type": "A/B Test",
+              "GDD is updated for the current game version": true,
+              "Link to ASO": {
+                "id": "d%3BwX",
+                "type": "url",
+                "url": "https://app.asana.com/1/1173930693441958/task/1210378417309396/comment/1210475204276523?focus=true"
+              },
+              "Create Paid Banner": null,
+              "Prod Promo Approve": "",
+              "RW Key": "",
+              "Art Content Table": null,
+              "What's new": "AB tes",
+              "Promo Icon": [
+                {
+                  "name": "com.vira.battle.spinner_icon_SpinnerBattle_AMZ_TV_Free_1280x720.png",
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/4b778dd0-4b4b-4b99-8504-980194d0256b/com.vira.battle.spinner_icon_SpinnerBattle_AMZ_TV_Free_1280x720.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667PPUPLVC%2F20260925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260925T131023Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECMaCXVzLXdlc3QtMiJHMEUCIQCH1q53935aNah9KOPoN1IVtF2OPHmUwrhOMB1uDk%2FS6gIgeY7McV2Oh33oRP%2F6R5e6265WsM%2BMIxNXrdw%2FF2mCHHUqiAQI7P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDKbI6DarvjRYIaw%2FnyrcA6uKWKs4Y0vxhXLTWIqpO6t9hO79o9z83SITa6274UqiERDoxNTLh2fsLIfIF5Mlgcd9JH6aaq7d4W5QcyaAuAkFG6Xr3Y9npAKEmBKH2BaJIfTrV0CALLTS01RWCHD1st%2FZ4r7QOO8U5%2FcaIKBdpfA45vFCo4nA0PgM%2BtLmiHB5gmOeC7yQyRzGJumZQ%2FIJEWWTealVVzSV3qKaovTd42AypSrM%2FZyDSjFO0nX9HvrkOxxURtjvunSQnANGhfcM1A1yrFOlkrC6YQ8wM9p2pfh3ZHUwDSA92ffzXO9BVsJmZBekJ7XqnWv97%2FKci9oToEfP9nV6ItBHOtyw3phjkFdIxfT68%2FHEtwudVfA4QWXOGbAQm3xfzvV%2Beo0f4pY64tlNqFlSWY5kaDlQt5b0g%2B7Zds5cQozObLswZNbe47p0DbDgrgstkHeHcHkRnOjPU%2FBVHlY2JED4rOw5tB15tn96du5XWVyMlNkocfwM4IRlTM0FUCLl5U2KbSfeRIWwVTOaoej1T96%2BEpR6PZzBrY9U%2Flak%2FuSuCENzuW0GbZxnmsg0sDjah%2B6%2F9AMGYLZlHbmc8V6BbPACVw7zHJfx5OKWug2nepYAxz3L4%2BYAGOEEuz73r8nWuU3bOPIBMNen2dUGOqUBWPIipK2iDWujgr5QZZDdvP9HirFQ1FsYfBc%2FF%2FF53FQVZXHWyl9IjFv26ykvAsmnWEvkShOpYwzOfqUMFq%2Bqq5KamA5UqUry4Oe6e6d36wmWpaH559iHsfy2grQ4tfHDjxv0YNPFC9qpnoFxVmtHzp1Kyg8gGAea2Qf2LLO3nXZWZXhhF3dozaNBSccC3unalGOmq1J1r83SHalTEY7UlxzZ%2Buxg&X-Amz-Signature=378db771e9f207e03332381c3d715fdd7396414142b1bcff027e71711bca452e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                }
+              ],
+              "100% Release Date": {
+                "id": "e%5Ec%7C",
+                "type": "date",
+                "date": null
+              },
+              "Api key": "",
+              "[Static Banner]": null,
+              "Public key": [],
+              "Quarter": "Q3_26",
+              "Create AF & Vaveda Pages": null,
+              "LTV_180_WW": {
+                "id": "gCUp",
+                "type": "number",
+                "number": null
+              },
+              "Crit Bugs": "",
+              "IPM(CP)": {
+                "id": "hQ%5C%5B",
+                "type": "number",
+                "number": null
+              },
+              "Refund Rate": {
+                "id": "h%5Cxv",
+                "type": "number",
+                "number": null
+              },
+              "PROMO: Loading Screen": null,
+              "Keywords": "",
+              "IOS Distribution profile": [],
+              "PROMO - Logo: Project Name": null,
+              "Status 1": {
+                "id": "ihRL",
+                "type": "status",
+                "status": {
+                  "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Logotype Banner Promo Request": false,
+              "Slack Channel Link": "https://viragames.slack.com/archives/C0AGQ7QARKJ",
+              "CTR": {
+                "id": "jqbZ",
+                "type": "number",
+                "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": null
+              },
+              "D3PTM": {
+                "id": "kamA",
+                "type": "number",
+                "number": null
+              },
+              "D7REW": {
+                "id": "kuEV",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_secret": "xT53nzQkjzunGIDrtUKIeqlDnpvXkDBq",
+              "ViraToolKit version": "2.0.3",
+              "Priority": "",
+              "App ID(iOS)": "",
+              "Int&Port Epics": [],
+              "ToolKitSettings": [
+                "3e69748b-c8c2-81bf-83a4-de660c8786c5"
+              ],
+              "Link to store": "https://www.amazon.com/dp/B0FCYPLRLD",
+              "QA checking": "",
+              "Date Release": {
+                "id": "nTQx",
+                "type": "date",
+                "date": null
+              },
+              "D3RET": {
+                "id": "n%5CF~",
+                "type": "number",
+                "number": null
+              },
+              "Cross-Promo AMZ": [],
+              "Paid\\Free": "Free",
+              "AMZ AppStore": null,
+              "RESULTS": "",
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Goals": "",
+              "Firebase JSON": [],
+              "QA": {
+                "type": "people",
+                "people": []
+              },
+              "Hypothesys": [],
+              "AMZ appId": "",
+              "Opt-In": {
+                "id": "p_Ic",
+                "type": "number",
+                "number": null
+              },
+              "New Tasks & Requests": [],
+              "Last edited by": {
+                "id": "qUWF",
+                "type": "last_edited_by",
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "26cd872b-594c-81ba-bd6b-00022cbd249d",
+                  "name": "Oleksandr Kovalevskyi",
+                  "avatar_url": null,
+                  "type": "person",
+                  "person": {
+                    "email": "oleksandr.kovalevskyi@vira.games",
+                    "email_verified": true
+                  }
+                }
+              },
+              "Account": {
+                "id": "qhXd",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "cd4ae8a7-72b6-4051-8d1d-1a17973ae494",
+                    "name": "Vira Games Inc",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "Date to QA": {
+                "id": "q%7D%3F%5C",
+                "type": "date",
+                "date": null
+              },
+              "Sub-team": "Maverick",
+              "Date Team Start": {
+                "id": "rKeG",
+                "type": "date",
+                "date": {
+                  "start": "2026-09-25",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Created by": {
+                "id": "r%5BBI",
+                "type": "created_by",
+                "created_by": {
+                  "object": "user",
+                  "id": "4b94dbc7-aa9d-4def-bc6b-eab9bf75afbe",
+                  "name": "Vitalii Samofal",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c212f624-ee7a-40b5-81cf-78ca906b33d8/photo_2023-06-13_12-51-08_(1).jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "vitalii.samofal@vira.games",
+                    "email_verified": true
+                  }
+                }
+              },
+              "Tech Project Doc": "",
+              "Sub-subscription 1": {
+                "id": "sCtp",
+                "type": "url",
+                "url": null
+              },
+              "Automated Team": {
+                "id": "sDNL",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "If release is not required:  Need Release checkbox is unchecked": false,
+              "UI": "",
+              "Test - Button Validation": null,
+              "Admob Key": "",
+              "Firebase Link": {
+                "id": "upQD",
+                "type": "url",
+                "url": null
+              },
+              "Monetization": [],
+              "Cross Promo Video status": "",
+              "CPI (Mint) Test Dates": {
+                "id": "v%5Bi%60",
+                "type": "date",
+                "date": null
+              },
+              "Date Art Start": {
+                "id": "v%5D~D",
+                "type": "date",
+                "date": null
+              },
+              "Last Status Change": {
+                "id": "wQFr",
+                "type": "date",
+                "date": {
+                  "start": "2026-09-25",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D1PTM": {
+                "id": "wgp%7B",
+                "type": "number",
+                "number": null
+              },
+              "Link to Promo": "https://drive.google.com/drive/folders/18eF2RWFSem3HJn0v9BO0iZUZ4GpFNmXm",
+              "[Creatives] Tasks": [],
+              "ipm TEST": {
+                "id": "xWSH",
+                "type": "number",
+                "number": null
+              },
+              "Art Assets Link": {
+                "id": "x%5C%3DY",
+                "type": "url",
+                "url": null
+              },
+              "Total installs": {
+                "id": "x%5DWz",
+                "type": "number",
+                "number": null
+              },
+              "LTV_180_US ": {
+                "id": "xfen",
+                "type": "number",
+                "number": null
+              },
+              "Sub-s Database": [],
+              "Amz Console: On Auto support": false,
+              "Create QA Task": false,
+              "Create UA Tasks": null,
+              "3D Artist": {
+                "id": "zHXV",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "2b5c08c4-38b8-4ed8-ae5d-44007585ab35"
+                  }
+                ]
+              },
+              " GA Secret Key": "",
+              "Task Tracker Link": {
+                "id": "%7BIp%3F",
+                "type": "url",
+                "url": "https://www.notion.so/viragames/2089748bc8c281a6a7a7dc7558374703?v=2159748bc8c280d9b7bf000c4f2b6a2e&source=copy_link"
+              },
+              "D3INT": {
+                "id": "%7BL%5C%3B",
+                "type": "number",
+                "number": null
+              },
+              "Percent of Release": {
+                "id": "%7BRbl",
+                "type": "number",
+                "number": 100
+              },
+              "AppMagic Info": [],
+              "StartUp Time": {
+                "id": "%7BZ_P",
+                "type": "number",
+                "number": null
+              },
+              "D1BAN": {
+                "id": "%7BeFD",
+                "type": "number",
+                "number": null
+              },
+              "IPM (CP) Test Dates": {
+                "id": "%7Be%5E%3E",
+                "type": "date",
+                "date": null
+              },
+              "Platform": "Fire TV",
+              "temp_tk_version_link": {
+                "id": "%7CeXN",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "Open ImportPackageWindow.cs"
+                }
+              },
+              "Screenshot Promo Request": false,
+              "Sub-item": [],
+              "Date Art Finish Test": {
+                "id": "%7Dwfx",
+                "type": "date",
+                "date": null
+              },
+              "GIT LINK": "https://gitlab.com/vira-games/amazon-projects/spinner-master.git",
+              "Estimate Art Days": {
+                "id": "~%3BYy",
+                "type": "number",
+                "number": null
+              },
+              "D7PTM": {
+                "id": "~%3F%3B%40",
+                "type": "number",
+                "number": null
+              },
+              "Parent Project": [
+                "1b59748b-c8c2-80ac-9956-c38c6223b411"
+              ],
+              "Days in Dev -> QA": {
+                "id": "~FLK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "BALANCE": "",
+              "Description for QA": "AB tes",
+              "Prod Approved": false,
+              "Static Banner Promo Request": false,
+              "IPM": {
+                "id": "~oXr",
+                "type": "number",
+                "number": null
+              },
+              "Sent To QA": {
+                "id": "~sjG",
+                "type": "date",
+                "date": {
+                  "start": "2026-05-27",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Promo info checking": {
+                "id": "~wLr",
+                "type": "formula",
+                "formula": {
+                  "type": "boolean",
+                  "boolean": false
+                }
+              },
+              "Project": "spnbtmz - Spinner Battle Merge Arena 3D",
+              "Description": "",
+              "SubscriptionRevenueEvent": false,
+              "AMZ Metrics Date & Comment": "",
+              "GD 2": {
+                "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Amz StartUp Time": {
+                "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                "type": "number",
+                "number": null
+              },
+              "Status 2": "",
+              "Days": {
+                "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                "type": "number",
+                "number": null
+              },
+              "Asana Link": {
+                "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                "type": "url",
+                "url": null
+              },
+              "Need a new Video?": false
+            },
+            "created_time": "2026-09-24T16:01:00.000Z",
+            "last_edited_time": "2026-09-25T13:10:00.000Z",
+            "url": "https://app.notion.com/p/spnbtmz-Spinner-Battle-Merge-Arena-3D-2ed9748bc8c282e98fbc01960f227903"
+          }
+        }
+      }
+    }
+  }
+}
