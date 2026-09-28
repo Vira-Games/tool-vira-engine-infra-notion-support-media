@@ -49,7 +49,7 @@
           "MainData": [
             "3e99748b-c8c2-8190-976d-e59a8804878a"
           ],
-          "(List)Bundle Version": "",
+          "(List)Bundle Version": "26",
           "Platform": "Fire TV",
           "💼 All Projects": [
             "80d9748b-c8c2-8399-82aa-81cfa025c875"
@@ -61,7 +61,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": null
+              "string": "26"
             }
           },
           "ProjectKey": "3e99748b-c8c2-8173-b6cd-d4e2bf469033",
@@ -69,7 +69,7 @@
           "Name": "Build a Wedding: Fantasy Realms"
         },
         "created_time": "2026-09-28T08:42:00.000Z",
-        "last_edited_time": "2026-09-28T08:42:00.000Z",
+        "last_edited_time": "2026-09-28T08:44:00.000Z",
         "url": "https://app.notion.com/p/Build-a-Wedding-Fantasy-Realms-3e99748bc8c28173b6cdd4e2bf469033",
         "children": {
           "Build_a_Wedding__Fantasy_Realms_ProductCatalog": {
@@ -124,7 +124,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "26"
                 }
               },
               "Platform": {
@@ -182,7 +182,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": null
+                  "string": "26"
                 }
               },
               "Bundle Id": {
@@ -225,7 +225,7 @@
                   "ProductName": "Build a Wedding: Fantasy Realms",
                   "BundleIdentifier": "com.vira.wedding.realms",
                   "Version": "1.0.7",
-                  "BundleVersionCode": 1,
+                  "BundleVersionCode": 26,
                   "CompanyName": "Vira Games Inc"
                 },
                 "SDKSettings": {
@@ -281,7 +281,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Description for QA\n⚠️ What's new\n⚠️ Bundle Version"
+                  "string": "⚠️ Description for QA\n⚠️ What's new"
                 }
               },
               "New promo link": {
@@ -419,7 +419,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-09-28T08:42:00.000Z"
+                "last_edited_time": "2026-09-28T11:51:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -633,7 +633,7 @@
                 "type": "url",
                 "url": null
               },
-              "Bundle Version": "",
+              "Bundle Version": "26",
               "Days for Art": {
                 "id": "T%3Edc",
                 "type": "formula",
@@ -703,7 +703,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Description for QA\n⚠️ What's new\n⚠️ Bundle Version"
+                  "string": "⚠️ Description for QA\n⚠️ What's new"
                 }
               },
               "[Screenshots]": null,
@@ -809,7 +809,7 @@
               "Promo Icon": [
                 {
                   "name": "image.png",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/8bd421d8-ed62-4f8a-989f-8fbd474827d4/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665HSDDXRI%2F20260928%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260928T084434Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGYaCXVzLXdlc3QtMiJHMEUCIFuIGrn%2BdkO183c2uTVf2f6PkKOAhtB9OCw%2BZ9OhZI80AiEA5qIALFqM3JYDwIffz%2F59GgSVFYyi6VhRa2mrdENEDZwq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDKZoW0nS9vlHVmRDpCrcA9%2FeMettB9ucerDnlW84eWXOjW2D8QK2qfD0PHoEUWv%2BD1yCCtrNytuwcG0fyX%2B60VvV62bEUWoGRLM%2FJKPzpqyPkXBttv9%2BGyMkXeQoUHRd1%2BIhzODHFT9nFaGnxCto9purKRibCkWo3xyScSBckY2cBv1fpc43baYFs6iuY6wnvNs455F%2BXPZV2kIew3PvtJnuoBdYOaSebxkdrrQ4ZjjvyETYAzLg3F5W7vtMX%2Fm081jtHkqvEz%2FeSXVjJyXo6NySKsOtSueb5cf8duVuxmmXdLq3gezCFoo5BP0cmHKBGtCy7Tp%2BNUcpx434J1k6VVnhyzqn1jNpjfvfEXrz3XmRNuaGyJryzgaW75%2FMRHn9RftGcc7Kujza3cs2EohJW50zeb3a1mwXWIHG8kboGyPYAjx0kir7Hw4R4iGW%2FDBphb%2B8%2BP7Xec%2BNNrnlSECHQ9rPBvC%2F68etM5BhONTHFNOMxGz5lgBJjJDsombNuuXqhLIsQ3P970xyo0DH%2BXiNEyNxEDX0zhL1qiW9yHPyIvi2BxZ%2B7xu3%2BmhKhh1g12kd8Zw3xDhX4AMpFO7S1v%2FkjBQWFNNCY2mAjHr2LadpxmEy5loUKA%2BEVsNqzguv1K%2BKsmNZoVZZ8KOHg9t5MKv259UGOqUBM6XeLeU7xGjae3a70FWz026kngJXxwuUN8haD%2FpPHW9zTfh7mOILZIAwStK7ioaSjnTfx1BQW3NgxFEg9P6ZI0mVWBr3uDHFB5NwfPOXf5a9fjRV3ARx7ImOA3o6Z4Q63v3MKpCkV8a4b4VGRtvWBW7o5EyPZ7rKbv6yoxbj1t30wGS2qFcXXx5VDdbCk%2FSIh9PmnyAmpbTxzaBH7EzyyHBbVoYL&X-Amz-Signature=439714ee591d4361d556ac092bc927168ca98daf0b6c498142ca0d829d380d55&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/8bd421d8-ed62-4f8a-989f-8fbd474827d4/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663SCSGE4S%2F20260928%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260928T115202Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLXdlc3QtMiJHMEUCIQDU3NCmtJZ1bgOstoHd6VDf7bgxkIHKHjNrGKT8F2Ym8QIgdrCQsg3RRXGvq%2FL0iiiHDS8xJ31rPjt736b0Np4kqGsq%2FwMIMxAAGgw2Mzc0MjMxODM4MDUiDC2El%2F8KUEnaRqnFgircA0Izm54PEz%2FBaZ9cfHtDcmN2lmwHfC5OGqD1j3%2BfKDPD%2BeR0J%2B%2Fsa8EfreLW86vvjyjQJ%2FqiS6lXQlCfmwe2IYH2pg0FKmtUZPX5tv6PLf4tR7T8BEGhkWEY0i94jQUynh3KQaXECntdHcwox1xKOYjdmXgQ3gCltPRPzPPPEC%2Fd7hEyueGbo5RWfc5XI2Yum0h35To5C4JeSG7NmypOcdZ5PTmOandpYS2F2aQhH8KBYA8IxKeWUAstTzbL9uh8RS1j1PF8QpEgWkfLXp5vFKYQ2QGVVLuExRLYQKvZsDg%2F5tJUga%2BJ42wRY3smcAhURYKreDcYUrQ9wJK244bp95C5xkR2QW4EIHi6e97dthYBkzoOiwD47BvJgKQgQmNQ1aJERAKOpCxwfGEdd4Sh7a0mo22DQJwSBVR6wmagTSfhJGDGR%2B1DN%2Bxhl%2FUMgjK6G2o0qpMiUvwIXrz12%2B31H0vX6H4p7MvNT9pP%2BaBmpltiTQm7lb2Ul%2B6lTe0uqR0KYT5LSOfyhUR0jHZrrF%2B3rdy8E52SU6O8xLTWg7c5s27pwGQ%2Fs1hx%2FSQzYWcYexAftwuR2iUVABo20nL7i005yu9uR%2BLAbM9etbOI6NJiN%2ByEP4hfUOUOlJCnoX1xMKH06NUGOqUBMZIoQy9TXTGPOgCqLVz8Bi0y9ujmd9yCUmU6WrBUMwlUVbieIo8Q34afBgLcFIxZNaDKKkht2VK6ueSBsLgNvp%2BBd2OukawvjpM9Rs12EzpBi3%2Bem090Jbzchbb8p3wlyRjiWzjZ48trh31kuHuCE9VZFclPc2soSn55qF1jeujj6jPvsKuHG8WcWLo9N%2BWPKn4Uodyz%2BdxVBLI%2FmsGHn8NAO7Cy&X-Amz-Signature=2cdd2c24ca0a9e9f71caba5d00a8f8c53265ad3e6d637f34dbcda5237bae614e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "100% Release Date": {
@@ -914,11 +914,14 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
-                  "name": "Vira Games Bot",
-                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
-                  "type": "bot",
-                  "bot": {}
+                  "id": "e0257c78-9ef9-43d7-a5ba-2558204108f9",
+                  "name": "Maksym Shchevych",
+                  "avatar_url": null,
+                  "type": "person",
+                  "person": {
+                    "email": "maksym.shchevych@vira.games",
+                    "email_verified": true
+                  }
                 }
               },
               "Account": {
@@ -1190,7 +1193,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-09-28T08:11:00.000Z",
-            "last_edited_time": "2026-09-28T08:42:00.000Z",
+            "last_edited_time": "2026-09-28T11:51:00.000Z",
             "url": "https://app.notion.com/p/bwdfnrz-Build-a-Wedding-Fantasy-Realms-80d9748bc8c2839982aa81cfa025c875"
           }
         }
