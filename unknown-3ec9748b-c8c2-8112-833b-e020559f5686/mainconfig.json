@@ -15,7 +15,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "Street Bum: Burger Simulator"
+              "string": "Street Bum: Burger Simulator (1)"
             }
           },
           "MaxParentLinkToPromo": {
@@ -40,7 +40,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "1.0.0"
+              "string": "1.0.1"
             }
           },
           "Subscription Settings": [
@@ -49,10 +49,11 @@
           "MainData": [
             "3ec9748b-c8c2-81c3-982a-ddab5fe007d9"
           ],
-          "(List)Bundle Version": "",
+          "(List)Bundle Version": "1",
           "Platform": "",
           "💼 All Projects": [
-            "3069748b-c8c2-8027-9c48-d2048f78f787"
+            "3069748b-c8c2-8027-9c48-d2048f78f787",
+            "1439748b-c8c2-82c4-81ff-01cd80c511c8"
           ],
           "RefreshConfig": null,
           "(List)Version": "1.0.0",
@@ -69,7 +70,7 @@
           "Name": "Street Bum: Burger Simulator"
         },
         "created_time": "2026-10-01T13:41:00.000Z",
-        "last_edited_time": "2026-10-01T13:41:00.000Z",
+        "last_edited_time": "2026-10-01T14:19:00.000Z",
         "url": "https://app.notion.com/p/Street-Bum-Burger-Simulator-3ec9748bc8c28112833be020559f5686",
         "children": {
           "Street_Bum__Burger_Simulator_ProductCatalog": {
@@ -155,7 +156,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.0"
+                  "string": "1.0.1"
                 }
               },
               "Vaveda_key": "",
@@ -171,7 +172,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "1.0.0"
+                  "string": "1.0.1"
                 }
               },
               "Parent": [
@@ -224,7 +225,7 @@
                   "LinkToPromo": "https://drive.google.com/drive/folders/1ZtGeJa0hCaTQgHsT4ukRtBHXw3yMvRMs",
                   "ProductName": "Street Bum: Burger Simulator",
                   "BundleIdentifier": "com.vira.streetbum.burgersim",
-                  "Version": "1.0.0",
+                  "Version": "1.0.1",
                   "BundleVersionCode": 1,
                   "CompanyName": "Vira Games Inc"
                 },
@@ -267,7 +268,7 @@
               "[Icon]": null,
               "TOP AMZ for Sub Screen Upates": [],
               "Ref Name": "",
-              "Days for Dev Test ": {
+              "Days for Dev": {
                 "id": "%3C%3EbT",
                 "type": "formula",
                 "formula": {
@@ -281,7 +282,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Description for QA\n⚠️ What's new\n⚠️ ViraToolKit version\n⚠️ Bundle Version\n⚠️ Date Team Finish"
+                  "string": ""
                 }
               },
               "New promo link": {
@@ -289,7 +290,7 @@
                 "type": "url",
                 "url": null
               },
-              "Date Dev Start": {
+              "Date Dev Start (Notion)": {
                 "id": "%3D%7B%3Ej",
                 "type": "date",
                 "date": {
@@ -299,12 +300,12 @@
                 }
               },
               "Clone": null,
-              "Days in Dev -> Release": {
+              "Days in Dev -> Release (Notion)": {
                 "id": "%3EkOQ",
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 160
+                  "number": 163
                 }
               },
               "Are all prop. filled? ": {
@@ -322,9 +323,16 @@
                 "url": "https://hq1.appsflyer.com/onboarding/apps?appId=com.vira.streetbum.burgersim"
               },
               "Long Description": "",
-              "QA Task Status": "",
+              "QA Task Status": {
+                "type": "status",
+                "status": {
+                  "id": "Cl{b",
+                  "name": "Waiting fix",
+                  "color": "yellow"
+                }
+              },
               "BB SDK Key (Android)": "PUJvEnsmdDLB+F6uXQelOW0EkaXzXb1BOrUajogmV4cTYtPVM6wfO44+hzrcOoIJ",
-              "Days in Dev -> Release Test": {
+              "Days in Dev -> Release": {
                 "id": "%40gmG",
                 "type": "formula",
                 "formula": {
@@ -385,7 +393,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": null
+                  "number": 222
                 }
               },
               "Sum SP": "",
@@ -394,7 +402,7 @@
                 "type": "created_time",
                 "created_time": "2026-02-13T09:50:00.000Z"
               },
-              "All subscriptions for the current build are filled": false,
+              "All subscriptions for the current build are filled": true,
               "Missing info for Promo rebuild": {
                 "id": "CkT%3A",
                 "type": "formula",
@@ -436,7 +444,7 @@
                   "time_zone": null
                 }
               },
-              "Date Dev Start Test": {
+              "Date Dev Start": {
                 "id": "Data",
                 "type": "date",
                 "date": null
@@ -444,14 +452,14 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-10-01T13:41:00.000Z"
+                "last_edited_time": "2026-10-05T14:41:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
                 "type": "url",
                 "url": null
               },
-              "Date Art Finish": {
+              "Date Art Finish (Notion)": {
                 "id": "Do%3DG",
                 "type": "date",
                 "date": null
@@ -470,7 +478,7 @@
                 "type": "number",
                 "number": null
               },
-              "Subscription screen changes include links to actual references (expected UI)": false,
+              "Subscription screen changes include links to actual references (expected UI)": true,
               "Days Off Dev Release": {
                 "id": "F%3D%5DY",
                 "type": "number",
@@ -504,7 +512,10 @@
                 "type": "url",
                 "url": null
               },
-              "QA Task File": "",
+              "QA Task File": {
+                "type": "files",
+                "files": []
+              },
               "Task from Growth": [],
               "ASO Name & Description": null,
               "External\\internal": "",
@@ -514,7 +525,7 @@
               "Product Features": "",
               "Promo Task ": [],
               "Monetization DB": [],
-              "Banner Key": "",
+              "Banner Key": "6daf459b491d1e48",
               "Date Info Updated": {
                 "id": "HqDO",
                 "type": "date",
@@ -561,7 +572,7 @@
                 "type": "number",
                 "number": null
               },
-              "Each config has its own separate description": false,
+              "Each config has its own separate description": true,
               "CR Total, %": {
                 "id": "MguI",
                 "type": "number",
@@ -624,25 +635,25 @@
                   "date": null
                 }
               },
-              "Interstitial Key": "",
+              "Interstitial Key": "7a777820f66de53b",
               "BB Game ID (iOS)": "",
               "Team ": "RnD Production Team",
-              "Date Art Start Test": {
+              "Date Art Start": {
                 "id": "Pc%5DV",
                 "type": "date",
                 "date": null
               },
               "Ref Link": "https://store.steampowered.com/app/2916430/Fast_Food_Simulator/",
               "Build Paid Icon": null,
-              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
               "Create Paid Icon": null,
               "ByteBrew Link": {
                 "id": "QD%3Cd",
                 "type": "url",
                 "url": "https://dashboard.bytebrew.io/console/cFbXSQmc_/engagement"
               },
-              "Outdated / unused elements are removed from GDD": false,
-              "Applovin Key": "",
+              "Outdated / unused elements are removed from GDD": true,
+              "Applovin Key": "ZkOo78V5ga6pEBNIN0E3mJLRZFdhy5BQ7cv3ZXULM6vc4Tr1oP86mBOGN5pJcNTPN1FdBSpCL4dDw6zoWL08Ag",
               "Full Pack  Fire TV ": null,
               "iPad Screens": {
                 "id": "R%5EzP",
@@ -655,7 +666,9 @@
                 "type": "number",
                 "number": null
               },
-              "QA | Tasks": [],
+              "QA | Tasks": [
+                "3f09748b-c8c2-812b-a4ab-d6b09932d14d"
+              ],
               "Fullsreen Banner Promo Request": false,
               "📽️ Creatives Team Tasks": [
                 "33b9748b-c8c2-8065-ab83-e067720cddae",
@@ -663,7 +676,8 @@
                 "8619748b-c8c2-824e-9c55-8129da5492f3",
                 "3cf9748b-c8c2-80fa-af70-db8ab0cee390",
                 "86b9748b-c8c2-823c-8d4b-8153a370d91e",
-                "dc19748b-c8c2-83db-85e1-8148970b0791"
+                "dc19748b-c8c2-83db-85e1-8148970b0791",
+                "3f19748b-c8c2-8009-b9d3-f14a22714d4b"
               ],
               "Bright SDK Review Status": {
                 "id": "SXax",
@@ -674,7 +688,7 @@
                   "color": "default"
                 }
               },
-              "Days for Art Test": {
+              "Days for Art": {
                 "id": "SdR%3B",
                 "type": "formula",
                 "formula": {
@@ -687,8 +701,8 @@
                 "type": "url",
                 "url": null
               },
-              "Bundle Version": "",
-              "Days for Art": {
+              "Bundle Version": "1",
+              "Days for Art (Notion)": {
                 "id": "T%3Edc",
                 "type": "formula",
                 "formula": {
@@ -697,7 +711,7 @@
                 }
               },
               "BB SDK Key (iOS)": "",
-              "Feature description matches the latest implementation": false,
+              "Feature description matches the latest implementation": true,
               "Create New \"QA Task\"": null,
               "Status  Promo": {
                 "id": "TWT%3A",
@@ -726,7 +740,7 @@
                 "type": "number",
                 "number": null
               },
-              "Days in QA": {
+              "Days in QA (Notion)": {
                 "id": "VgPc",
                 "type": "formula",
                 "formula": {
@@ -752,7 +766,7 @@
                 "type": "date",
                 "date": null
               },
-              "Task Create Info": "",
+              "Task Create Info": "✅ QA Task - Successfully Created!",
               "GDD Doc": "Untitled",
               "Full Pack Amz": null,
               "Missing Info for QA Task": {
@@ -760,7 +774,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "⚠️ Description for QA\n⚠️ What's new\n⚠️ ViraToolKit version\n⚠️ Bundle Version\n⚠️ Date Team Finish"
+                  "string": ""
                 }
               },
               "[Screenshots]": null,
@@ -774,7 +788,11 @@
               "Date Team Finish": {
                 "id": "%5B%5E%3AX",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-10-05",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "IPM STATIC": {
                 "id": "%5Bagu",
@@ -782,7 +800,7 @@
                 "number": null
               },
               "Vaveda_key": "",
-              "Days in Dev -> QA Test": {
+              "Days in Dev -> QA": {
                 "id": "%5CMV%3A",
                 "type": "formula",
                 "formula": {
@@ -839,7 +857,7 @@
                 "number": null
               },
               "ASO Name & Descripton Request": false,
-              "Build changes are marked in the task": false,
+              "Build changes are marked in the task": true,
               "Unity version": "",
               "Promo status info": "",
               "Average FPS": {
@@ -857,7 +875,7 @@
                 "type": "multi_select",
                 "multi_select": []
               },
-              "Documentation link": "",
+              "Documentation link": "Untitled",
               "Clone From": "",
               "D7RET": {
                 "id": "bE%7C%3A",
@@ -866,7 +884,7 @@
               },
               "Test - Button No Validation": null,
               "Release Type": "First Release",
-              "GDD is updated for the current game version": false,
+              "GDD is updated for the current game version": true,
               "Link to ASO": {
                 "id": "d%3BwX",
                 "type": "url",
@@ -874,9 +892,9 @@
               },
               "Create Paid Banner": null,
               "Prod Promo Approve": "",
-              "RW Key": "",
+              "RW Key": "27f436679e045789",
               "Art Content Table": null,
-              "What's new": "",
+              "What's new": "First Release",
               "Promo Icon": [],
               "100% Release Date": {
                 "id": "e%5Ec%7C",
@@ -893,7 +911,1028 @@
                 "type": "number",
                 "number": null
               },
-              "Days in QA Test": {
+              "Days in QA": {
+                "id": "gmCu",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Crit Bugs": "",
+              "IPM(CP)": {
+                "id": "hQ%5C%5B",
+                "type": "number",
+                "number": null
+              },
+              "Refund Rate": {
+                "id": "h%5Cxv",
+                "type": "number",
+                "number": null
+              },
+              "PROMO: Loading Screen": null,
+              "Keywords": "",
+              "IOS Distribution profile": [],
+              "PROMO - Logo: Project Name": null,
+              "Status 1": {
+                "id": "ihRL",
+                "type": "status",
+                "status": {
+                  "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Logotype Banner Promo Request": false,
+              "Slack Channel Link": "https://viragames.slack.com/archives/C0AE9LW4F8W",
+              "CTR": {
+                "id": "jqbZ",
+                "type": "number",
+                "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": null
+              },
+              "D3PTM": {
+                "id": "kamA",
+                "type": "number",
+                "number": null
+              },
+              "D7REW": {
+                "id": "kuEV",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_secret": "",
+              "ViraToolKit version": "2.0.3",
+              "Priority": "",
+              "App ID(iOS)": "",
+              "Int&Port Epics": [],
+              "ToolKitSettings": [
+                "3ec9748b-c8c2-8112-833b-e020559f5686"
+              ],
+              "Link to store": "",
+              "QA checking": "",
+              "Date Release": {
+                "id": "nTQx",
+                "type": "date",
+                "date": null
+              },
+              "Days Off Art": {
+                "id": "nY%7D%5D",
+                "type": "number",
+                "number": null
+              },
+              "D3RET": {
+                "id": "n%5CF~",
+                "type": "number",
+                "number": null
+              },
+              "Cross-Promo AMZ": [],
+              "Paid\\Free": "Free",
+              "AMZ AppStore": null,
+              "RESULTS": "",
+              "Date Dev Finish": {
+                "id": "o%3B%3EM",
+                "type": "date",
+                "date": null
+              },
+              "AF Key": "akyoTe8YXFwsMn6c62iaiR",
+              "Goals": "",
+              "Firebase JSON": [
+                {
+                  "name": "google-services.json",
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/079d5c93-5108-4d85-9eb9-c7bfbf55207a/google-services.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UO76O7VF%2F20261006%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261006T131352Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECsaCXVzLXdlc3QtMiJGMEQCIGUiQv3bnSFggKxB9aa1AAkGoPI8r1Lq%2FozfDcTA4SYkAiARlxKh%2BCm1rslBV1ubmz4G84cuk3w74xDp52tf6UqrgyqIBAjz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMsCHlTuwtdTsOkDaoKtwDHba2o4G9ODhPo8wrll0gkkZIiLNnC8DJUmvbA90wp8RLSp5Nl56hlDvSCy6%2FUqIOnjAK6%2FCh09oWvGFDaRWlqPBlXADojZVsUjaL1v0CXtsG%2FpaZTQR05ZHl9FWu9R38%2BRPhJkSJUvqUAS0AeJTTNu8Zi5AGZH3IMGTvaAqfOSHSMvF5135PsTRG8YeWIAu0hsJbq6Y7ofKSSuR8SKqvjBpnn7NAGeDp2S96apyoR0pIKgMoFjs8gcdp7%2FqjPrlMPQDfsB9SP1dI%2Bb%2Bjf8TPiyCsJ90xbStlfYjefUKTdaKjTVuC1GRZwOQoWZXeJqRepxFF3jca8XrGQ1rzdQOCL%2B7n4JxM7MJxO0g5JV7C%2FFznP150IQV46rrE%2BlYM%2Bu%2BxUkeq3%2B5Md4rUOMxMxt7iKxscjxpFEspfznJtxWAt6MexCJrMrPjqeEyoM3fhmTiQLwYeW6NFgB%2Bil93hCraU1LkW8uj1lyE21pNzf7pDXBqvjV%2B6k3iGBA5pOP5t%2FLmlSdIyG5vZK7YUnZL1rrb949HZYtyunn3bisqCq66t5IM%2FE%2BmAwRMNBBzlcWdiePi0Kdo7hc8lUqDBC3077E5siCbFwUq46l3LCEHzDAu1wiZA56H6XCJyJifs%2BTMw%2B5qT1gY6pgHd3KYYMZn%2FmdlY21ya3tgOgHCv%2FOC%2BZPeortGdVo0C9mhYz4VMRvWvAtcJar0EfT0PK4iAfPfm9xVsgUDFQ0QcDl1zrDG8TVbInPlhOeRPvXPsOxIxHEhOmNUCsf7E25Bjra7%2FrxCzK2rR2E4OdbcvMUr8GgCEprQ7uCh%2BPxkDjHOAFYQqvrDHbB0NvCO491NI99PPGG6UX1%2BWzpr3ll09%2BJw9Q1Sp&X-Amz-Signature=6144fc6e4f7a1b4a2b88a7e99edebf665a6b14ebac05472ea49be76402e62ce0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                }
+              ],
+              "QA": {
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "118d872b-594c-81a2-aa13-000256dc2673",
+                    "name": "Dmytro Ladukha",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/204f03b6-014e-46e4-812d-585d836e401e/pngtree-avatar-of-a-man-wearing-sunglasses-image_2569096.jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "dmytro.ladukha@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "Hypothesys": [],
+              "AMZ appId": "",
+              "Opt-In": {
+                "id": "p_Ic",
+                "type": "number",
+                "number": null
+              },
+              "New Tasks & Requests": [],
+              "Last edited by": {
+                "id": "qUWF",
+                "type": "last_edited_by",
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "233d872b-594c-8130-9d01-0002039920c3",
+                  "name": "Vladyslav Petrenko",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/8f2ce141-f90f-456b-8cb8-8895b2d87c89/photo_5282768950872104018_y.jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "vladyslav.petrenko@vira.games",
+                    "email_verified": true
+                  }
+                }
+              },
+              "Account": {
+                "id": "qhXd",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "cd4ae8a7-72b6-4051-8d1d-1a17973ae494",
+                    "name": "Vira Games Inc",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "Date to QA": {
+                "id": "q%7D%3F%5C",
+                "type": "date",
+                "date": null
+              },
+              "Sub-team": "SHOTAKE",
+              "Date Team Start": {
+                "id": "rKeG",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-25",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Created by": {
+                "id": "r%5BBI",
+                "type": "created_by",
+                "created_by": {
+                  "object": "user",
+                  "id": "fc52c4da-4e8c-4b30-9c57-5ab76db0c14c",
+                  "name": "Alexandru Macovei",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/039d63ae-22de-4e4d-8f08-c4f4a5409983/photo_2023-05-27_20-57-35.jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "alexandr.macovei@vira.games",
+                    "email_verified": true
+                  }
+                }
+              },
+              "Tech Project Doc": "Untitled",
+              "Days Off Log": "",
+              "Sub-subscription 1": {
+                "id": "sCtp",
+                "type": "url",
+                "url": null
+              },
+              "Automated Team": {
+                "id": "sDNL",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "If release is not required:  Need Release checkbox is unchecked": true,
+              "UI": "",
+              "Test - Button Validation": null,
+              "Admob Key": "ca-app-pub-1156383915014504~7452284413",
+              "Firebase Link": {
+                "id": "upQD",
+                "type": "url",
+                "url": "https://console.firebase.google.com/project/vira-games-rnd-bum/overview"
+              },
+              "Monetization": [],
+              "Cross Promo Video status": "",
+              "CPI (Mint) Test Dates": {
+                "id": "v%5Bi%60",
+                "type": "date",
+                "date": null
+              },
+              "Date Art Start (Notion)": {
+                "id": "v%5D~D",
+                "type": "date",
+                "date": null
+              },
+              "Last Status Change": {
+                "id": "wQFr",
+                "type": "date",
+                "date": {
+                  "start": "2026-02-13",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D1PTM": {
+                "id": "wgp%7B",
+                "type": "number",
+                "number": null
+              },
+              "Link to Promo": "https://drive.google.com/drive/folders/1ZtGeJa0hCaTQgHsT4ukRtBHXw3yMvRMs",
+              "[Creatives] Tasks": [],
+              "ipm TEST": {
+                "id": "xWSH",
+                "type": "number",
+                "number": null
+              },
+              "Art Assets Link": {
+                "id": "x%5C%3DY",
+                "type": "url",
+                "url": null
+              },
+              "Total installs": {
+                "id": "x%5DWz",
+                "type": "number",
+                "number": null
+              },
+              "LTV_180_US ": {
+                "id": "xfen",
+                "type": "number",
+                "number": null
+              },
+              "Sub-s Database": [],
+              "Amz Console: On Auto support": false,
+              "Create QA Task": false,
+              "Create UA Tasks": null,
+              "3D Artist": {
+                "id": "zHXV",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "f007159c-c8d7-45b2-8529-08f66e4468a0"
+                  }
+                ]
+              },
+              "Testing Start Date Rollup": {
+                "type": "date",
+                "date": null
+              },
+              " GA Secret Key": "",
+              "Task Tracker Link": {
+                "id": "%7BIp%3F",
+                "type": "url",
+                "url": "https://app.notion.com/p/viragames/Shotake-2059748bc8c28135b12be3da0a2adabe"
+              },
+              "D3INT": {
+                "id": "%7BL%5C%3B",
+                "type": "number",
+                "number": null
+              },
+              "Percent of Release": {
+                "id": "%7BRbl",
+                "type": "number",
+                "number": 100
+              },
+              "AppMagic Info": [],
+              "StartUp Time": {
+                "id": "%7BZ_P",
+                "type": "number",
+                "number": null
+              },
+              "D1BAN": {
+                "id": "%7BeFD",
+                "type": "number",
+                "number": null
+              },
+              "IPM (CP) Test Dates": {
+                "id": "%7Be%5E%3E",
+                "type": "date",
+                "date": null
+              },
+              "Platform": "GP",
+              "temp_tk_version_link": {
+                "id": "%7CeXN",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "Open ImportPackageWindow.cs"
+                }
+              },
+              "Screenshot Promo Request": false,
+              "Days Off Dev Work": {
+                "id": "%7Dcb%5B",
+                "type": "number",
+                "number": null
+              },
+              "Sub-item": [],
+              "Date Art Finish": {
+                "id": "%7Dwfx",
+                "type": "date",
+                "date": null
+              },
+              "GIT LINK": "https://github.com/Vira-Games/game-rnd-shotake-bum-simulator.git",
+              "Estimate Art Days": {
+                "id": "~%3BYy",
+                "type": "number",
+                "number": null
+              },
+              "D7PTM": {
+                "id": "~%3F%3B%40",
+                "type": "number",
+                "number": null
+              },
+              "Parent Project": [
+                "3059748b-c8c2-8131-974f-c19e31e3e497"
+              ],
+              "Days in Dev -> QA (Notion)": {
+                "id": "~FLK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 163
+                }
+              },
+              "BALANCE": "",
+              "Description for QA": "Пометка для QA:\n-Тулкит и аналитика не подключена (тестим только геймплей)\n-Часть правок ещё в разработке\n-Изучить правки которые описаны в ",
+              "Prod Approved": false,
+              "Static Banner Promo Request": false,
+              "IPM": {
+                "id": "~oXr",
+                "type": "number",
+                "number": null
+              },
+              "Sent To QA": {
+                "id": "~sjG",
+                "type": "date",
+                "date": null
+              },
+              "Promo info checking": {
+                "id": "~wLr",
+                "type": "formula",
+                "formula": {
+                  "type": "boolean",
+                  "boolean": false
+                }
+              },
+              "Project": "Street Bum: Burger Simulator",
+              "Description": "",
+              "SubscriptionRevenueEvent": false,
+              "AMZ Metrics Date & Comment": "",
+              "GD 2": {
+                "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Amz StartUp Time": {
+                "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                "type": "number",
+                "number": null
+              },
+              "Status 2": "",
+              "Days": {
+                "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                "type": "number",
+                "number": null
+              },
+              "Asana Link": {
+                "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                "type": "url",
+                "url": null
+              },
+              "Need a new Video?": false
+            },
+            "created_time": "2026-02-13T09:50:00.000Z",
+            "last_edited_time": "2026-10-05T14:41:00.000Z",
+            "url": "https://app.notion.com/p/Street-Bum-Burger-Simulator-3069748bc8c280279c48d2048f78f787"
+          },
+          "Page_1439748b-c8c2-82c4-81ff-01cd80c511c8": {
+            "id": "1439748b-c8c2-82c4-81ff-01cd80c511c8",
+            "title": "Page 1439748b-c8c2-82c4-81ff-01cd80c511c8",
+            "properties": {
+              "CR_SUB_WW": {
+                "id": "%3A%3Br_",
+                "type": "number",
+                "number": null
+              },
+              "Create Paid Promo Rebuild ": null,
+              "Installs US": {
+                "id": "%3Au%7BN",
+                "type": "number",
+                "number": null
+              },
+              "Creatives Status": {
+                "id": "%3B%60E%3C",
+                "type": "status",
+                "status": {
+                  "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "[Icon]": null,
+              "TOP AMZ for Sub Screen Upates": [],
+              "Ref Name": "",
+              "Days for Dev": {
+                "id": "%3C%3EbT",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "ASIN": "",
+              "Missing Info for Dev(Cross)": {
+                "id": "%3Cv%60H",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ ViraToolKit version\n⚠️ Developer\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish"
+                }
+              },
+              "New promo link": {
+                "id": "%3DU%3BG",
+                "type": "url",
+                "url": null
+              },
+              "Date Dev Start (Notion)": {
+                "id": "%3D%7B%3Ej",
+                "type": "date",
+                "date": {
+                  "start": "2026-10-05",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Clone": null,
+              "Days in Dev -> Release (Notion)": {
+                "id": "%3EkOQ",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 3
+                }
+              },
+              "Are all prop. filled? ": {
+                "id": "%3Epbv",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "false"
+                }
+              },
+              "All Projects Info Old": [],
+              "AF Link": {
+                "id": "%40G%5E%3A",
+                "type": "url",
+                "url": "https://hq1.appsflyer.com/onboarding/apps?appId=com.vira.streetbum.burgersim"
+              },
+              "Long Description": "",
+              "QA Task Status": "",
+              "BB SDK Key (Android)": "PUJvEnsmdDLB+F6uXQelOW0EkaXzXb1BOrUajogmV4cTYtPVM6wfO44+hzrcOoIJ",
+              "Days in Dev -> Release": {
+                "id": "%40gmG",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Icon Promo Request": false,
+              "pLTV 180": {
+                "id": "%40zGB",
+                "type": "number",
+                "number": null
+              },
+              "Developer": {
+                "id": "%40%7Cvk",
+                "type": "people",
+                "people": []
+              },
+              "PROGRESSION": "",
+              "🎯 AllPages": [],
+              "Project Subs Metrics": [],
+              "Status (Copy)": {
+                "id": "BVo%40",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Mintegral Status": "",
+              "Creo Link": "",
+              "Days Start-Finish": {
+                "id": "Bzh%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Sum SP": "",
+              "Created time": {
+                "id": "B~Qf",
+                "type": "created_time",
+                "created_time": "2026-10-05T14:43:00.000Z"
+              },
+              "All subscriptions for the current build are filled": true,
+              "Missing info for Promo rebuild": {
+                "id": "CkT%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "CPI": {
+                "id": "Cxr%40",
+                "type": "number",
+                "number": null
+              },
+              "Teams use": {
+                "id": "D%40CI",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Estimate Dev Days": {
+                "id": "DX%60A",
+                "type": "number",
+                "number": null
+              },
+              "Status": {
+                "id": "DYYJ",
+                "type": "status",
+                "status": {
+                  "id": "Y=]I",
+                  "name": "To Do",
+                  "color": "orange"
+                }
+              },
+              "Date Development Status Set": {
+                "id": "D%60fU",
+                "type": "date",
+                "date": {
+                  "start": "2026-10-05",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Date Dev Start": {
+                "id": "Data",
+                "type": "date",
+                "date": null
+              },
+              "Last edited time": {
+                "id": "Dj%3Fm",
+                "type": "last_edited_time",
+                "last_edited_time": "2026-10-05T14:45:00.000Z"
+              },
+              "Project Link": {
+                "id": "DjJJ",
+                "type": "url",
+                "url": null
+              },
+              "Date Art Finish (Notion)": {
+                "id": "Do%3DG",
+                "type": "date",
+                "date": null
+              },
+              "Bundle ID": "com.vira.streetbum.burgersim",
+              "Price": {
+                "id": "EUeu",
+                "type": "number",
+                "number": null
+              },
+              "Project Score Analysys": "",
+              "[Promo] Tasks ": [],
+              "TECH": "",
+              "CTR TEST": {
+                "id": "Ejyo",
+                "type": "number",
+                "number": null
+              },
+              "Subscription screen changes include links to actual references (expected UI)": true,
+              "Days Off Dev Release": {
+                "id": "F%3D%5DY",
+                "type": "number",
+                "number": null
+              },
+              "GD": {
+                "id": "FHAP",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "fc52c4da-4e8c-4b30-9c57-5ab76db0c14c",
+                    "name": "Alexandru Macovei",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/039d63ae-22de-4e4d-8f08-c4f4a5409983/photo_2023-05-27_20-57-35.jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "alexandr.macovei@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "CONTENT": "",
+              "Due": {
+                "id": "FaCd",
+                "type": "date",
+                "date": null
+              },
+              "Link to Old Promo": {
+                "id": "FbpI",
+                "type": "url",
+                "url": null
+              },
+              "QA Task File": "",
+              "Task from Growth": [],
+              "ASO Name & Description": null,
+              "External\\internal": "",
+              "⏺️ ASO | Calendar": [
+                "3ca9748b-c8c2-8183-8bdd-e19df8475170"
+              ],
+              "Product Features": "",
+              "Promo Task ": [],
+              "Monetization DB": [],
+              "Banner Key": "6daf459b491d1e48",
+              "Date Info Updated": {
+                "id": "HqDO",
+                "type": "date",
+                "date": null
+              },
+              "Short Description": "",
+              "Creo Status": "",
+              "Amz Int & Port Tasks Template": null,
+              "Tools": {
+                "id": "IZP%3F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Days Off Dev": {
+                "id": "Ia%5BC",
+                "type": "number",
+                "number": null
+              },
+              "CreateTKSettings": null,
+              "Subscription JSON": [],
+              "GetGitlabInfo": null,
+              "Days Start-Release": {
+                "id": "JXlK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "AMZ releaseId": "",
+              "[Logotype]": null,
+              "CR Subs, %": {
+                "id": "KKZH",
+                "type": "number",
+                "number": null
+              },
+              "Date": {
+                "id": "LkTZ",
+                "type": "date",
+                "date": null
+              },
+              "D3REW": {
+                "id": "M%5E%40L",
+                "type": "number",
+                "number": null
+              },
+              "Each config has its own separate description": true,
+              "CR Total, %": {
+                "id": "MguI",
+                "type": "number",
+                "number": null
+              },
+              "D7INT": {
+                "id": "MqkG",
+                "type": "number",
+                "number": null
+              },
+              "PaidConfigGroup": [],
+              "D1INT": {
+                "id": "N%3AM%60",
+                "type": "number",
+                "number": null
+              },
+              "Automation Info (AppStore)": "",
+              "Estimate Art Days (by Velocity)": {
+                "id": "NE%5E%7C",
+                "type": "number",
+                "number": null
+              },
+              "Previous Status": {
+                "id": "NSz%7D",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Traffic Source": {
+                "id": "N%5E%3Cm",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Game Type": {
+                "id": "NcId",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "D~zu",
+                    "name": "Clone",
+                    "color": "yellow"
+                  }
+                ]
+              },
+              "Create Task (No Check)": null,
+              "Developer AMZ AppStore Link": "",
+              "pLTV 7": {
+                "id": "OPM%5C",
+                "type": "number",
+                "number": null
+              },
+              "Formula Testing Start Date": {
+                "id": "OgCj",
+                "type": "formula",
+                "formula": {
+                  "type": "date",
+                  "date": null
+                }
+              },
+              "Interstitial Key": "7a777820f66de53b",
+              "BB Game ID (iOS)": "",
+              "Team ": "RnD Production Team",
+              "Date Art Start": {
+                "id": "Pc%5DV",
+                "type": "date",
+                "date": null
+              },
+              "Ref Link": "https://store.steampowered.com/app/2916430/Fast_Food_Simulator/",
+              "Build Paid Icon": null,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
+              "Create Paid Icon": null,
+              "ByteBrew Link": {
+                "id": "QD%3Cd",
+                "type": "url",
+                "url": "https://dashboard.bytebrew.io/console/cFbXSQmc_/engagement"
+              },
+              "Outdated / unused elements are removed from GDD": true,
+              "Applovin Key": "ZkOo78V5ga6pEBNIN0E3mJLRZFdhy5BQ7cv3ZXULM6vc4Tr1oP86mBOGN5pJcNTPN1FdBSpCL4dDw6zoWL08Ag",
+              "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
+              "Version": "1.0.1",
+              "Show": {
+                "id": "RfDI",
+                "type": "number",
+                "number": null
+              },
+              "QA | Tasks": [],
+              "Fullsreen Banner Promo Request": false,
+              "📽️ Creatives Team Tasks": [
+                "33b9748b-c8c2-8065-ab83-e067720cddae",
+                "3a39748b-c8c2-80e7-b993-f07841ebc3fd",
+                "8619748b-c8c2-824e-9c55-8129da5492f3",
+                "3cf9748b-c8c2-80fa-af70-db8ab0cee390",
+                "86b9748b-c8c2-823c-8d4b-8153a370d91e",
+                "dc19748b-c8c2-83db-85e1-8148970b0791"
+              ],
+              "Bright SDK Review Status": {
+                "id": "SXax",
+                "type": "status",
+                "status": {
+                  "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                  "name": "Implementation",
+                  "color": "default"
+                }
+              },
+              "Days for Art": {
+                "id": "SdR%3B",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
+              },
+              "Bundle Version": "",
+              "Days for Art (Notion)": {
+                "id": "T%3Edc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "BB SDK Key (iOS)": "",
+              "Feature description matches the latest implementation": true,
+              "Create New \"QA Task\"": null,
+              "Status  Promo": {
+                "id": "TWT%3A",
+                "type": "status",
+                "status": {
+                  "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Click": {
+                "id": "TkDm",
+                "type": "number",
+                "number": null
+              },
+              "GA Game Key": "",
+              "CTR Video link": "",
+              "ASO/PROMO Full Pack GP/IOS: ProjectName": null,
+              "Link to Automation": {
+                "id": "VRV%3B",
+                "type": "url",
+                "url": null
+              },
+              "Estimate Dev Days  (by Velocity)": {
+                "id": "VZsx",
+                "type": "number",
+                "number": null
+              },
+              "Days in QA (Notion)": {
+                "id": "VgPc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 0
+                }
+              },
+              "parent": "Street Bum: Burger Simulator",
+              "Genre": {
+                "id": "V~Gf",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "00c12b3f-ffb4-4e32-8b81-5f6b2a0a58b2",
+                    "name": "Simulator",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "BB Game ID (Android)": "cFbXSQmc_",
+              "Date QA Finished": {
+                "id": "X%5Cma",
+                "type": "date",
+                "date": null
+              },
+              "Task Create Info": "",
+              "GDD Doc": "Untitled",
+              "Full Pack Amz": null,
+              "Missing Info for QA Task": {
+                "id": "ZSo%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ ViraToolKit version\n⚠️ Developer\n⚠️ Bundle Version\n⚠️ Date Team Start\n⚠️ Date Team Finish"
+                }
+              },
+              "[Screenshots]": null,
+              "Specialist": {
+                "id": "Zy%3F%3A",
+                "type": "people",
+                "people": []
+              },
+              "A/B Group": "",
+              "Full Pack TV Promo Request": false,
+              "Date Team Finish": {
+                "id": "%5B%5E%3AX",
+                "type": "date",
+                "date": null
+              },
+              "IPM STATIC": {
+                "id": "%5Bagu",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_key": "",
+              "Days in Dev -> QA": {
+                "id": "%5CMV%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Groups": [],
+              "D1RET": {
+                "id": "%5D%3DAl",
+                "type": "number",
+                "number": null
+              },
+              "Testing Start Date": {
+                "id": "%5DGkI",
+                "type": "date",
+                "date": null
+              },
+              "[Fullscreen Banner]": null,
+              "CR_SUB_US": {
+                "id": "%5Dz%7CJ",
+                "type": "number",
+                "number": null
+              },
+              "D7BAN": {
+                "id": "%5E%3A%3F%3B",
+                "type": "number",
+                "number": null
+              },
+              "MONETIZATION": "",
+              "D3BAN": {
+                "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "Full game name": "Street Bum: Burger Simulator",
+              "Firebase PLIST": [],
+              "Days Off QA": {
+                "id": "_Tj%5C",
+                "type": "number",
+                "number": null
+              },
+              "Are all prop filled": {
+                "id": "_%5D%5E%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Developer\n⚠️ Date to QA"
+                }
+              },
+              "D1REW": {
+                "id": "_bnb",
+                "type": "number",
+                "number": null
+              },
+              "ASO Name & Descripton Request": false,
+              "Build changes are marked in the task": true,
+              "Unity version": "",
+              "Promo status info": "",
+              "Average FPS": {
+                "id": "a%3Fdf",
+                "type": "number",
+                "number": null
+              },
+              "Autobuild_buildNumber": "",
+              "Polishing": "",
+              "ExtraComments": "",
+              "Full Pack Promo Request": false,
+              "Art Subs Links": "",
+              "Sprint": {
+                "id": "afeU",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Documentation link": "Untitled",
+              "Clone From": "",
+              "D7RET": {
+                "id": "bE%7C%3A",
+                "type": "number",
+                "number": null
+              },
+              "Test - Button No Validation": null,
+              "Release Type": "Update",
+              "GDD is updated for the current game version": true,
+              "Link to ASO": {
+                "id": "d%3BwX",
+                "type": "url",
+                "url": null
+              },
+              "Create Paid Banner": null,
+              "Prod Promo Approve": "",
+              "RW Key": "27f436679e045789",
+              "Art Content Table": null,
+              "What's new": "",
+              "Promo Icon": [],
+              "100% Release Date": {
+                "id": "e%5Ec%7C",
+                "type": "date",
+                "date": null
+              },
+              "Api key": "",
+              "[Static Banner]": null,
+              "Public key": [],
+              "Quarter": "Q4_26",
+              "Create AF & Vaveda Pages": null,
+              "LTV_180_WW": {
+                "id": "gCUp",
+                "type": "number",
+                "number": null
+              },
+              "Days in QA": {
                 "id": "gmCu",
                 "type": "formula",
                 "formula": {
@@ -976,7 +2015,7 @@
               "Paid\\Free": "Free",
               "AMZ AppStore": null,
               "RESULTS": "",
-              "Date Dev Finish Test": {
+              "Date Dev Finish": {
                 "id": "o%3B%3EM",
                 "type": "date",
                 "date": null
@@ -986,7 +2025,7 @@
               "Firebase JSON": [
                 {
                   "name": "google-services.json",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/079d5c93-5108-4d85-9eb9-c7bfbf55207a/google-services.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46672OUDVWR%2F20261001%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261001T141919Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIGnJ4eB1q2Fr3S3FeZcgLvJzh6zx3a8nhxlzoCkr9UTsAiBslZbXm8wepjjrYF8yVHh8pLmCNFcIWoQRHYU%2F6KYDFSr%2FAwh7EAAaDDYzNzQyMzE4MzgwNSIMU40WPmObYPrl6WHdKtwDHD2s64ZrgEQUZywfHgnmpn8erXOdSNmmZmpBOmAUDL86ZHllnSCNMtMCORuxoYTvCpVVyHGhp8INW43%2FMZiAuwbq46hka90s447E8qg%2F43PXGemxNM8AbfXTi18JcCv64f2U8avcwkiNfhS%2Fab1LyGexFBK7FWbjfFHgFqlvvuXvuk6i1w4vuQCNAdUtgK10Rw6oRS6nU%2F9xsv20hSeEpfG%2BQmve2bckf2KNk4kTrNq5aEhdqzFGuM1Za5dnLRsp%2B65P9XZOKLfk%2Fv0%2F%2BL%2FsginMNwHs8EHv4s8LyObDzvjB5tPYwgpwgefyfwhv7raGT2SEc7BbHMhA4nCr9HmjJSPW%2BLFlD9ZM%2BfNGBD6pBjs8V84GW%2BBpwNEmYMaxtztSbD%2BFNebiZ%2BjqUBq5jQ3txguGsOnfTJ62RRtigwlTQ2Q90LJdxh6cOGjjs6MQdhnmcrdmwIGL7wYIde4BdkAW6w%2FKSkl5kfL38wbiUPJfPlFPCQm5TQEYgQNsR%2BwbvolWEShWgY6XD05Y6WRTd5zLmiSgJCygAXS6WRoMb1DQHnJ1wTfKHF3Xvj8JEHjHz5PNRLwZCV%2BjpdUl2C3YhflhR3TK%2FWgXrqdRTMuPPXe0Zah%2FkUnB%2B1cM2ct1D5Yw4%2Bj41QY6pgG5nMxBa%2FZVkKkNSa2A9GAUfw9pG9XB%2F4qs%2FA1UmTjz9bHtASh09IaqtfP0ed%2B7lq%2BjKmdmpdnjn2XDgVheTXuha9zDKqoL5LQzPoFkz4TTlQX%2Bb3VmweMo%2B%2FEAxp2eH5jZaGLG70PYD8nBWUEMd%2FAjRLK9e%2B%2FXS4qtUhtmIPDI9b8gGbmFIz7ktbTP2roan1PGqsbvQvgWwbDq58dVpnaGRIPON61J&X-Amz-Signature=88b292226e58c859551fc0f74d4e978c2a731a9ef56064e7039557bad4b54784&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/079d5c93-5108-4d85-9eb9-c7bfbf55207a/google-services.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663HFFQVWN%2F20261006%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261006T131352Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECsaCXVzLXdlc3QtMiJHMEUCIQD5V0tSCurngdWd3NgXMd9UIOGin%2BcFlnaONmwvkHTQbQIgaG%2FZb6St6o%2By5X28XoBmOQldDkEQXJikzrF5DrePVaYqiAQI8%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDEgX8Tr7VXZ70JXSlCrcAzDTdWDkh3N7DfgcFiwZD4LarmpD%2FIaGHCMQP7ii6l4oJK10XwZxBwnWax4wdnMe2n9ifg7OR9yo79Ncl7MaFF1fTEpLcPAaqEiBzEqdbJKgphnLJ%2BaxNdrnHAKAFCHbE1pq7u0ovSSi5ncB1V91sLZMYzBKe8bbvyLiVB%2BQY1gK9%2FqaXK%2Frx82KSwFrNMB0Q61Ohn5AVwE%2B%2FNcUe8GAm65cx7aNtf68dmxEjo1owllAmz2OwUH7VCw3Ov7lZlBuyTnS3oqit3bUs%2FW%2FAbYxF36PrTHhQ%2BvCyJ7SsW167ivgdWfzplC%2BQe5tWQiaieGFwZIIz4ca9rDzh6sSN4ftgm61U0ajP5ce8a9NPLTbaie3kQf6aXoVyD9WGJWgaeLqyVrlrLVnWEKX5q0NuYo3qwIGIhfxlSle7ZcCkzkCM%2FSed7w4K47PK%2FIP0Yj5Lw%2FTYAgT9%2FSuuRqRisKBW2fRq64UmJVcgizhMq62wi%2FMixhedJoX8ix7wM3pbVsINh%2Fm18ekNZfQJguWkYbQaXOqPGjCBhqxXjFqKFvvfy80mbsvhCDu1CECGMEZ0aF8tebigFSYRoz%2FasdERWkN97V1y4%2FR%2FqUnZYF4jFSc3ti6NtsCPuF%2FPVJ1grLmEvSlMKKbk9YGOqUB6I4fBGCbnRvEvU2VeCw3yLit6ebvRzKgkmFQFD6vVv4FYkcgzenlu%2BcMcd4VU7Mu1MznSXByI7DECePL47hL25v32nnhpSMGu1yjLDQJgY4ZKIgnnQh49O2s7CklqnY9yJi4wQzwppu83kz1WZKTL7PeLHC4nFq0mDvAy5GAaEBbLC68ByAcB%2BwV%2Ba9LTzxU0Q3IZsTd08jheIJ2DUweI3FONg%2FU&X-Amz-Signature=6f52996d27ce1b016b9cd2f6a3d4db6ac020575c134936c2f14b61aa911a6afc&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "QA": "",
@@ -1003,11 +2042,14 @@
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
-                  "name": "Vira Games Bot",
-                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
-                  "type": "bot",
-                  "bot": {}
+                  "id": "233d872b-594c-8130-9d01-0002039920c3",
+                  "name": "Vladyslav Petrenko",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/8f2ce141-f90f-456b-8cb8-8895b2d87c89/photo_5282768950872104018_y.jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "vladyslav.petrenko@vira.games",
+                    "email_verified": true
+                  }
                 }
               },
               "Account": {
@@ -1030,23 +2072,19 @@
               "Date Team Start": {
                 "id": "rKeG",
                 "type": "date",
-                "date": {
-                  "start": "2026-02-25",
-                  "end": null,
-                  "time_zone": null
-                }
+                "date": null
               },
               "Created by": {
                 "id": "r%5BBI",
                 "type": "created_by",
                 "created_by": {
                   "object": "user",
-                  "id": "fc52c4da-4e8c-4b30-9c57-5ab76db0c14c",
-                  "name": "Alexandru Macovei",
-                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/039d63ae-22de-4e4d-8f08-c4f4a5409983/photo_2023-05-27_20-57-35.jpg",
+                  "id": "233d872b-594c-8130-9d01-0002039920c3",
+                  "name": "Vladyslav Petrenko",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/8f2ce141-f90f-456b-8cb8-8895b2d87c89/photo_5282768950872104018_y.jpg",
                   "type": "person",
                   "person": {
-                    "email": "alexandr.macovei@vira.games",
+                    "email": "vladyslav.petrenko@vira.games",
                     "email_verified": true
                   }
                 }
@@ -1063,10 +2101,10 @@
                 "type": "multi_select",
                 "multi_select": []
               },
-              "If release is not required:  Need Release checkbox is unchecked": false,
+              "If release is not required:  Need Release checkbox is unchecked": true,
               "UI": "",
               "Test - Button Validation": null,
-              "Admob Key": "",
+              "Admob Key": "ca-app-pub-1156383915014504~7452284413",
               "Firebase Link": {
                 "id": "upQD",
                 "type": "url",
@@ -1079,7 +2117,7 @@
                 "type": "date",
                 "date": null
               },
-              "Date Art Start": {
+              "Date Art Start (Notion)": {
                 "id": "v%5D~D",
                 "type": "date",
                 "date": null
@@ -1088,7 +2126,7 @@
                 "id": "wQFr",
                 "type": "date",
                 "date": {
-                  "start": "2026-02-13",
+                  "start": "2026-10-05",
                   "end": null,
                   "time_zone": null
                 }
@@ -1127,12 +2165,7 @@
               "3D Artist": {
                 "id": "zHXV",
                 "type": "people",
-                "people": [
-                  {
-                    "object": "user",
-                    "id": "f007159c-c8d7-45b2-8529-08f66e4468a0"
-                  }
-                ]
+                "people": []
               },
               "Testing Start Date Rollup": "",
               " GA Secret Key": "",
@@ -1149,7 +2182,7 @@
               "Percent of Release": {
                 "id": "%7BRbl",
                 "type": "number",
-                "number": 100
+                "number": null
               },
               "AppMagic Info": [],
               "StartUp Time": {
@@ -1183,7 +2216,7 @@
                 "number": null
               },
               "Sub-item": [],
-              "Date Art Finish Test": {
+              "Date Art Finish": {
                 "id": "%7Dwfx",
                 "type": "date",
                 "date": null
@@ -1202,12 +2235,12 @@
               "Parent Project": [
                 "3059748b-c8c2-8131-974f-c19e31e3e497"
               ],
-              "Days in Dev -> QA": {
+              "Days in Dev -> QA (Notion)": {
                 "id": "~FLK",
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 160
+                  "number": 3
                 }
               },
               "BALANCE": "",
@@ -1259,9 +2292,9 @@
               },
               "Need a new Video?": false
             },
-            "created_time": "2026-02-13T09:50:00.000Z",
-            "last_edited_time": "2026-10-01T13:41:00.000Z",
-            "url": "https://app.notion.com/p/Street-Bum-Burger-Simulator-3069748bc8c280279c48d2048f78f787"
+            "created_time": "2026-10-05T14:43:00.000Z",
+            "last_edited_time": "2026-10-05T14:45:00.000Z",
+            "url": "https://app.notion.com/p/Street-Bum-Burger-Simulator-1-1439748bc8c282c481ff01cd80c511c8"
           }
         }
       }
