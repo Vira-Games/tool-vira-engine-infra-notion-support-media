@@ -50,7 +50,7 @@
             "3fb9748b-c8c2-8126-9932-d8541ae711b5"
           ],
           "(List)Bundle Version": "1",
-          "Platform": "",
+          "Platform": "GP",
           "💼 All Projects": [
             "1769748b-c8c2-831c-8493-01b49d5e4e37"
           ],
@@ -69,7 +69,7 @@
           "Name": "Triple Bloom: Match Game"
         },
         "created_time": "2026-10-16T11:23:00.000Z",
-        "last_edited_time": "2026-10-16T11:23:00.000Z",
+        "last_edited_time": "2026-10-16T11:25:00.000Z",
         "url": "https://app.notion.com/p/Triple-Bloom-Match-Game-3fb9748bc8c281a58ed7e728647834d3",
         "children": {
           "Triple_Bloom__Match_Game_ProductCatalog": {
@@ -93,7 +93,7 @@
               "Parent": [
                 "3fb9748b-c8c2-81a5-8ed7-e728647834d3"
               ],
-              "Platform": "",
+              "Platform": "GP",
               "Subscriptions": [],
               "Apply": null,
               "bundleID": {
@@ -130,14 +130,26 @@
               "Platform": {
                 "id": "%3AyyE",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "1199d632-6232-4fa8-a5e3-3387a8afec5c",
+                    "name": "GP",
+                    "color": "brown"
+                  }
+                ]
               },
               "Paid/Free": {
                 "id": "Bnjr",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
               },
-              "App Name": "",
+              "App Name": "Triple Bloom: Match Game",
               "Version": {
                 "id": "PczY",
                 "type": "formula",
@@ -184,7 +196,13 @@
               "Account": {
                 "id": "e%7C~F",
                 "type": "multi_select",
-                "multi_select": []
+                "multi_select": [
+                  {
+                    "id": "aa606378-9a07-46ff-b8f8-3fea14f0e60b",
+                    "name": "BeeCreator",
+                    "color": "red"
+                  }
+                ]
               },
               "AF Key": "Y6p26b6oaoVfCXF97zr5vh",
               "Bundle Id Rollup": {
@@ -198,17 +216,17 @@
               "Name": "Triple Bloom: Match Game MainData"
             },
             "created_time": "2026-10-16T11:23:00.000Z",
-            "last_edited_time": "2026-10-16T11:23:00.000Z",
+            "last_edited_time": "2026-10-16T11:25:00.000Z",
             "url": "https://app.notion.com/p/Triple-Bloom-Match-Game-MainData-3fb9748bc8c281269932d8541ae711b5",
             "TkFormtProjectSettings": {
               "ProjectSettingsWindow": {
                 "Params": {
                   "LinkToPromo": "https://drive.google.com/drive/folders/1JRnN3iDEWw_TdIWXL4cIBm6usO1_MDtb?usp=drive_link",
-                  "ProductName": "",
+                  "ProductName": "Triple Bloom: Match Game",
                   "BundleIdentifier": "com.BeeCreator.TableSeatMatch",
                   "Version": "1.0.0",
                   "BundleVersionCode": 1,
-                  "CompanyName": ""
+                  "CompanyName": "BeeCreator"
                 },
                 "SDKSettings": {
                   "Keys": [
