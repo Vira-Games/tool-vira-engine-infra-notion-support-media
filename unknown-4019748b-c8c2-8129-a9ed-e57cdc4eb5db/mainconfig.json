@@ -1,0 +1,1313 @@
+{
+  "pageId": "4019748b-c8c2-8129-a9ed-e57cdc4eb5db",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Cars_Battle__Falling_Arena": {
+        "id": "4019748b-c8c2-8129-a9ed-e57cdc4eb5db",
+        "title": "Cars Battle: Falling Arena",
+        "properties": {
+          "ProductCatalog": [
+            "4019748b-c8c2-81c1-8440-e2a0d35c5640"
+          ],
+          "MaxParent": {
+            "id": "F%7BpA",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "btfllrz - Cars Battle: Falling Arena"
+            }
+          },
+          "MaxParentLinkToPromo": {
+            "id": "GC%3FS",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "https://drive.google.com/drive/folders/1Bi_vTKKQD5bbv-zn7bEGbcDkh4M6eAsC?usp=drive_link"
+            }
+          },
+          "(List)BundleId": "com.territory.cars.falling",
+          "MaxParentBundleID": {
+            "id": "LAsk",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "com.territory.cars.falling"
+            }
+          },
+          "MaxParentVersion": {
+            "id": "Njfg",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1.2.10"
+            }
+          },
+          "Subscription Settings": [
+            "4019748b-c8c2-8147-b2ec-da5ab21966eb"
+          ],
+          "MainData": [
+            "4019748b-c8c2-81bb-af27-c821dd537b42"
+          ],
+          "(List)Bundle Version": "20",
+          "Platform": "",
+          "💼 All Projects": [
+            "0869748b-c8c2-8269-8a2b-81a053b53e8d"
+          ],
+          "RefreshConfig": null,
+          "(List)Version": "1.2.10",
+          "MaxParentBundleVersion": {
+            "id": "fVoO",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "20"
+            }
+          },
+          "ProjectKey": "4019748b-c8c2-8129-a9ed-e57cdc4eb5db",
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1Bi_vTKKQD5bbv-zn7bEGbcDkh4M6eAsC?usp=drive_link",
+          "Name": "Cars Battle: Falling Arena"
+        },
+        "created_time": "2026-10-22T12:52:00.000Z",
+        "last_edited_time": "2026-10-22T12:52:00.000Z",
+        "url": "https://app.notion.com/p/Cars-Battle-Falling-Arena-4019748bc8c28129a9ede57cdc4eb5db",
+        "children": {
+          "Cars_Battle__Falling_Arena_ProductCatalog": {
+            "id": "4019748b-c8c2-81c1-8440-e2a0d35c5640",
+            "title": "Cars Battle: Falling Arena ProductCatalog",
+            "properties": {
+              "Parent": [
+                "4019748b-c8c2-8129-a9ed-e57cdc4eb5db"
+              ],
+              "Products": [],
+              "Name": "Cars Battle: Falling Arena ProductCatalog"
+            },
+            "created_time": "2026-10-22T12:52:00.000Z",
+            "last_edited_time": "2026-10-22T12:52:00.000Z",
+            "url": "https://app.notion.com/p/Cars-Battle-Falling-Arena-ProductCatalog-4019748bc8c281c18440e2a0d35c5640"
+          },
+          "Cars_Battle__Falling_Arena_SubDataCatalog": {
+            "id": "4019748b-c8c2-8147-b2ec-da5ab21966eb",
+            "title": "Cars Battle: Falling Arena SubDataCatalog",
+            "properties": {
+              "Parent": [
+                "4019748b-c8c2-8129-a9ed-e57cdc4eb5db"
+              ],
+              "Platform": "",
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "Name": "Cars Battle: Falling Arena SubDataCatalog"
+            },
+            "created_time": "2026-10-22T12:52:00.000Z",
+            "last_edited_time": "2026-10-22T12:52:00.000Z",
+            "url": "https://app.notion.com/p/Cars-Battle-Falling-Arena-SubDataCatalog-4019748bc8c28147b2ecda5ab21966eb"
+          },
+          "Cars_Battle__Falling_Arena_MainData": {
+            "id": "4019748b-c8c2-81bb-af27-c821dd537b42",
+            "title": "Cars Battle: Falling Arena MainData",
+            "properties": {
+              "LinkToPromoRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/folders/1Bi_vTKKQD5bbv-zn7bEGbcDkh4M6eAsC?usp=drive_link"
+                }
+              },
+              "BundleVersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "20"
+                }
+              },
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "139dd12c-6430-4f6c-9f32-0ec4ef9119d4",
+                    "name": "Fire TV",
+                    "color": "purple"
+                  }
+                ]
+              },
+              "Paid/Free": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "App Name": "Cars Battle: Falling Arena",
+              "Version": {
+                "id": "PczY",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.2.10"
+                }
+              },
+              "Vaveda_key": "btfllrz",
+              "Link to Promo": {
+                "id": "%5CVgk",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/folders/1Bi_vTKKQD5bbv-zn7bEGbcDkh4M6eAsC?usp=drive_link"
+                }
+              },
+              "VersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.2.10"
+                }
+              },
+              "Parent": [
+                "4019748b-c8c2-8129-a9ed-e57cdc4eb5db"
+              ],
+              "Bundle Version": {
+                "id": "%5D~p%60",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "20"
+                }
+              },
+              "Bundle Id": {
+                "id": "%5E%7D%3Aj",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.territory.cars.falling"
+                }
+              },
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "de18d9eb-e33b-4b85-9bc6-f5c35b7f6371",
+                    "name": "Coreleague Games",
+                    "color": "gray"
+                  }
+                ]
+              },
+              "AF Key": "QuZpqxuCYZj6Li9utXunZV",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.territory.cars.falling"
+                }
+              },
+              "Vaveda_secret": "QFjv832mmvv3fBmg9aa7GFZYmI0QAvzU",
+              "Name": "Cars Battle: Falling Arena MainData"
+            },
+            "created_time": "2026-10-22T12:52:00.000Z",
+            "last_edited_time": "2026-10-22T12:53:00.000Z",
+            "url": "https://app.notion.com/p/Cars-Battle-Falling-Arena-MainData-4019748bc8c281bbaf27c821dd537b42",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1Bi_vTKKQD5bbv-zn7bEGbcDkh4M6eAsC?usp=drive_link",
+                  "ProductName": "Cars Battle: Falling Arena",
+                  "BundleIdentifier": "com.territory.cars.falling",
+                  "Version": "1.2.10",
+                  "BundleVersionCode": 20,
+                  "CompanyName": "Coreleague Games"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "QuZpqxuCYZj6Li9utXunZV"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "btfllrz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "QFjv832mmvv3fBmg9aa7GFZYmI0QAvzU"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          },
+          "Page_0869748b-c8c2-8269-8a2b-81a053b53e8d": {
+            "id": "0869748b-c8c2-8269-8a2b-81a053b53e8d",
+            "title": "Page 0869748b-c8c2-8269-8a2b-81a053b53e8d",
+            "properties": {
+              "CR_SUB_WW": {
+                "id": "%3A%3Br_",
+                "type": "number",
+                "number": null
+              },
+              "Create Paid Promo Rebuild ": null,
+              "Dev Unique Days": {
+                "id": "%3ArkJ",
+                "type": "number",
+                "number": 21
+              },
+              "Installs US": {
+                "id": "%3Au%7BN",
+                "type": "number",
+                "number": null
+              },
+              "Creatives Status": {
+                "id": "%3B%60E%3C",
+                "type": "status",
+                "status": {
+                  "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "[Icon]": null,
+              "TOP AMZ for Sub Screen Upates": [],
+              "Ref Name": "",
+              "Days for Dev": {
+                "id": "%3C%3EbT",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 22
+                }
+              },
+              "ASIN": "B0CDQDV344",
+              "Missing Info for Dev(Cross)": {
+                "id": "%3Cv%60H",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ ViraToolKit version\n⚠️ Developer\n⚠️ Date Team Start\n⚠️ Date Team Finish"
+                }
+              },
+              "New promo link": {
+                "id": "%3DU%3BG",
+                "type": "url",
+                "url": null
+              },
+              "Date Dev Start (Notion)": {
+                "id": "%3D%7B%3Ej",
+                "type": "date",
+                "date": {
+                  "start": "2026-10-05",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Art Unique Days": {
+                "id": "%3EAsC",
+                "type": "number",
+                "number": 38.5
+              },
+              "Clone": null,
+              "Days in Dev -> Release (Notion)": {
+                "id": "%3EkOQ",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 15
+                }
+              },
+              "Are all prop. filled? ": {
+                "id": "%3Epbv",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "false"
+                }
+              },
+              "Paused Days": {
+                "id": "%3FIxp",
+                "type": "number",
+                "number": null
+              },
+              "All Projects Info Old": [
+                "13747003-0939-4f9b-9ab1-47b057a84a8c"
+              ],
+              "Paused QA Days": {
+                "id": "%3FnWO",
+                "type": "number",
+                "number": null
+              },
+              "AF Link": {
+                "id": "%40G%5E%3A",
+                "type": "url",
+                "url": "QuZpqxuCYZj6Li9utXunZV"
+              },
+              "Long Description": "",
+              "QA Task Status": "",
+              "BB SDK Key (Android)": "",
+              "Days in Dev -> Release": {
+                "id": "%40gmG",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 22
+                }
+              },
+              "Icon Promo Request": false,
+              "pLTV 180": {
+                "id": "%40zGB",
+                "type": "number",
+                "number": 1.97
+              },
+              "Developer": {
+                "id": "%40%7Cvk",
+                "type": "people",
+                "people": []
+              },
+              "PROGRESSION": "",
+              "🎯 AllPages": [],
+              "Project Subs Metrics": [],
+              "Status (Copy)": {
+                "id": "BVo%40",
+                "type": "status",
+                "status": {
+                  "id": "gPu~",
+                  "name": "DEVELOPMENT",
+                  "color": "blue"
+                }
+              },
+              "Mintegral Status": "",
+              "Creo Link": "",
+              "Days Start-Finish": {
+                "id": "Bzh%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Sum SP": "",
+              "Created time": {
+                "id": "B~Qf",
+                "type": "created_time",
+                "created_time": "2026-10-05T14:52:00.000Z"
+              },
+              "All subscriptions for the current build are filled": false,
+              "Missing info for Promo rebuild": {
+                "id": "CkT%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "CPI": {
+                "id": "Cxr%40",
+                "type": "number",
+                "number": null
+              },
+              "Teams use": {
+                "id": "D%40CI",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Estimate Dev Days": {
+                "id": "DX%60A",
+                "type": "number",
+                "number": 13
+              },
+              "Status": {
+                "id": "DYYJ",
+                "type": "status",
+                "status": {
+                  "id": "gPu~",
+                  "name": "DEVELOPMENT",
+                  "color": "blue"
+                }
+              },
+              "Date Development Status Set": {
+                "id": "D%60fU",
+                "type": "date",
+                "date": {
+                  "start": "2026-10-05",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Date Dev Start": {
+                "id": "Data",
+                "type": "date",
+                "date": {
+                  "start": "2026-09-21",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Last edited time": {
+                "id": "Dj%3Fm",
+                "type": "last_edited_time",
+                "last_edited_time": "2026-10-22T12:52:00.000Z"
+              },
+              "Project Link": {
+                "id": "DjJJ",
+                "type": "url",
+                "url": "https://www.notion.so/btfllrz-Cars-Battle-Falling-Arena-2479748bc8c280c98a2ef7be438a2d28"
+              },
+              "Date Art Finish (Notion)": {
+                "id": "Do%3DG",
+                "type": "date",
+                "date": null
+              },
+              "Bundle ID": "com.territory.cars.falling",
+              "Price": {
+                "id": "EUeu",
+                "type": "number",
+                "number": null
+              },
+              "Project Score Analysys": "",
+              "[Promo] Tasks ": [],
+              "TECH": "",
+              "CTR TEST": {
+                "id": "Ejyo",
+                "type": "number",
+                "number": null
+              },
+              "Subscription screen changes include links to actual references (expected UI)": false,
+              "Days Off Dev Release": {
+                "id": "F%3D%5DY",
+                "type": "number",
+                "number": 2
+              },
+              "GD": {
+                "id": "FHAP",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "23fd872b-594c-8113-8e19-0002c7464604",
+                    "name": "Kirill Kovalchuk",
+                    "avatar_url": null,
+                    "type": "person",
+                    "person": {
+                      "email": "kirill.kovalchuk@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "CONTENT": "",
+              "Due": {
+                "id": "FaCd",
+                "type": "date",
+                "date": null
+              },
+              "Link to Old Promo": {
+                "id": "FbpI",
+                "type": "url",
+                "url": null
+              },
+              "QA Task File": "",
+              "Task from Growth": [],
+              "ASO Name & Description": null,
+              "External\\internal": "Internal",
+              "⏺️ ASO | Calendar": [
+                "2f69748b-c8c2-8191-92ec-c7be969bc19e",
+                "2f69748b-c8c2-81e6-b46b-f21ae6ad7674",
+                "2f69748b-c8c2-814a-897f-dd0c37092479"
+              ],
+              "Product Features": "",
+              "Promo Task ": [],
+              "Monetization DB": [],
+              "Banner Key": "",
+              "Date Info Updated": {
+                "id": "HqDO",
+                "type": "date",
+                "date": null
+              },
+              "Short Description": "",
+              "Creo Status": "",
+              "Amz Int & Port Tasks Template": null,
+              "Tools": {
+                "id": "IZP%3F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Days Off Dev": {
+                "id": "Ia%5BC",
+                "type": "number",
+                "number": 2
+              },
+              "CreateTKSettings": null,
+              "Subscription JSON": [],
+              "GetGitlabInfo": null,
+              "Days Start-Release": {
+                "id": "JXlK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "AMZ releaseId": "",
+              "[Logotype]": null,
+              "CR Subs, %": {
+                "id": "KKZH",
+                "type": "number",
+                "number": null
+              },
+              "Data Check (Status)": {
+                "id": "KW%7C%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "Paused Dev Release Days": {
+                "id": "KilJ",
+                "type": "number",
+                "number": null
+              },
+              "Date": {
+                "id": "LkTZ",
+                "type": "date",
+                "date": null
+              },
+              "D3REW": {
+                "id": "M%5E%40L",
+                "type": "number",
+                "number": null
+              },
+              "Each config has its own separate description": false,
+              "CR Total, %": {
+                "id": "MguI",
+                "type": "number",
+                "number": 3.8
+              },
+              "D7INT": {
+                "id": "MqkG",
+                "type": "number",
+                "number": null
+              },
+              "PaidConfigGroup": [],
+              "D1INT": {
+                "id": "N%3AM%60",
+                "type": "number",
+                "number": null
+              },
+              "Automation Info (AppStore)": "❌ Automation \"Amazon AppStore Page Creation\" Failed ",
+              "Estimate Art Days (by Velocity)": {
+                "id": "NE%5E%7C",
+                "type": "number",
+                "number": 16.12
+              },
+              "Previous Status": {
+                "id": "NSz%7D",
+                "type": "status",
+                "status": {
+                  "id": "90bac3ba-be41-4b5d-8096-cf1217b11885",
+                  "name": "LIVE",
+                  "color": "green"
+                }
+              },
+              "Traffic Source": {
+                "id": "N%5E%3Cm",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Game Type": {
+                "id": "NcId",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "D~zu",
+                    "name": "Clone",
+                    "color": "yellow"
+                  }
+                ]
+              },
+              "Create Task (No Check)": null,
+              "Developer AMZ AppStore Link": "",
+              "pLTV 7": {
+                "id": "OPM%5C",
+                "type": "number",
+                "number": null
+              },
+              "Formula Testing Start Date": {
+                "id": "OgCj",
+                "type": "formula",
+                "formula": {
+                  "type": "date",
+                  "date": null
+                }
+              },
+              "Interstitial Key": "",
+              "BB Game ID (iOS)": "",
+              "Team ": "AMZ Direction",
+              "Date Art Start": {
+                "id": "Pc%5DV",
+                "type": "date",
+                "date": {
+                  "start": "2026-07-31",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Ref Link": "https://play.google.com/store/apps/details?id=racearena.io&hl=en_US",
+              "Build Paid Icon": null,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": false,
+              "Create Paid Icon": null,
+              "ByteBrew Link": {
+                "id": "QD%3Cd",
+                "type": "url",
+                "url": null
+              },
+              "Outdated / unused elements are removed from GDD": false,
+              "Applovin Key": "",
+              "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
+              "Version": "1.2.10",
+              "Show": {
+                "id": "RfDI",
+                "type": "number",
+                "number": null
+              },
+              "QA | Tasks": [],
+              "Fullsreen Banner Promo Request": false,
+              "📽️ Creatives Team Tasks": [
+                "2f69748b-c8c2-81ff-9ef0-ee298e8d596d"
+              ],
+              "Bright SDK Review Status": {
+                "id": "SXax",
+                "type": "status",
+                "status": {
+                  "id": "81dc43b3-1e99-49a6-a5e7-da9922f48214",
+                  "name": "Approved/Live",
+                  "color": "green"
+                }
+              },
+              "Days for Art": {
+                "id": "SdR%3B",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 53
+                }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
+              },
+              "Bundle Version": "20",
+              "Days for Art (Notion)": {
+                "id": "T%3Edc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "BB SDK Key (iOS)": "",
+              "Feature description matches the latest implementation": false,
+              "Create New \"QA Task\"": null,
+              "Status  Promo": {
+                "id": "TWT%3A",
+                "type": "status",
+                "status": {
+                  "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Click": {
+                "id": "TkDm",
+                "type": "number",
+                "number": null
+              },
+              "GA Game Key": "",
+              "CTR Video link": "",
+              "ASO/PROMO Full Pack GP/IOS: ProjectName": null,
+              "Link to Automation": {
+                "id": "VRV%3B",
+                "type": "url",
+                "url": null
+              },
+              "Estimate Dev Days  (by Velocity)": {
+                "id": "VZsx",
+                "type": "number",
+                "number": 22.4
+              },
+              "Days in QA (Notion)": {
+                "id": "VgPc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 0
+                }
+              },
+              "parent": "Cars Arena 3D",
+              "Genre": {
+                "id": "V~Gf",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "7f7ef6c0-e2a1-40d6-88ca-a8d5dafdb192",
+                    "name": "IO",
+                    "color": "yellow"
+                  }
+                ]
+              },
+              "BB Game ID (Android)": "",
+              "Date QA Finished": {
+                "id": "X%5Cma",
+                "type": "date",
+                "date": null
+              },
+              "Task Create Info": "",
+              "GDD Doc": "https://www.notion.so/viragames/Cars-Arena-877a9873e60d4a5ab25e52aeb87e316b",
+              "Status Log": "",
+              "Full Pack Amz": null,
+              "Missing Info for QA Task": {
+                "id": "ZSo%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Release Type\n⚠️ Release of Percent\n⚠️ Description for QA\n⚠️ What's new\n⚠️ ViraToolKit version\n⚠️ Developer\n⚠️ Date Team Start\n⚠️ Date Team Finish\n⚠️ Quarter"
+                }
+              },
+              "[Screenshots]": null,
+              "Specialist": {
+                "id": "Zy%3F%3A",
+                "type": "people",
+                "people": []
+              },
+              "A/B Group": "",
+              "Full Pack TV Promo Request": false,
+              "Date Team Finish": {
+                "id": "%5B%5E%3AX",
+                "type": "date",
+                "date": null
+              },
+              "IPM STATIC": {
+                "id": "%5Bagu",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_key": "btfllrz",
+              "Days in Dev -> QA": {
+                "id": "%5CMV%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 22
+                }
+              },
+              "Groups": [],
+              "D1RET": {
+                "id": "%5D%3DAl",
+                "type": "number",
+                "number": null
+              },
+              "Testing Start Date": {
+                "id": "%5DGkI",
+                "type": "date",
+                "date": null
+              },
+              "[Fullscreen Banner]": null,
+              "CR_SUB_US": {
+                "id": "%5Dz%7CJ",
+                "type": "number",
+                "number": null
+              },
+              "D7BAN": {
+                "id": "%5E%3A%3F%3B",
+                "type": "number",
+                "number": null
+              },
+              "MONETIZATION": "",
+              "D3BAN": {
+                "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "Full game name": "Cars Battle: Falling Arena",
+              "Firebase PLIST": [],
+              "Days Off QA": {
+                "id": "_Tj%5C",
+                "type": "number",
+                "number": null
+              },
+              "Are all prop filled": {
+                "id": "_%5D%5E%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Developer\n⚠️ Date to QA"
+                }
+              },
+              "D1REW": {
+                "id": "_bnb",
+                "type": "number",
+                "number": null
+              },
+              "Paused Dev Work Days": {
+                "id": "_sLx",
+                "type": "number",
+                "number": null
+              },
+              "ASO Name & Descripton Request": false,
+              "Build changes are marked in the task": false,
+              "Unity version": "",
+              "Promo status info": "",
+              "Average FPS": {
+                "id": "a%3Fdf",
+                "type": "number",
+                "number": null
+              },
+              "Autobuild_buildNumber": "",
+              "Polishing": "",
+              "ExtraComments": "",
+              "Full Pack Promo Request": false,
+              "Art Subs Links": "",
+              "Sprint": {
+                "id": "afeU",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "pXLJ",
+                    "name": "Sprint 1",
+                    "color": "gray"
+                  },
+                  {
+                    "id": "qJMl",
+                    "name": "Sprint 4",
+                    "color": "red"
+                  }
+                ]
+              },
+              "Documentation link": "https://www.notion.so/viragames/Cars-Battle-Falling-Arena-1ff9748bc8c280138d48dd221811007b",
+              "Clone From": "",
+              "D7RET": {
+                "id": "bE%7C%3A",
+                "type": "number",
+                "number": null
+              },
+              "Test - Button No Validation": null,
+              "Release Type": "",
+              "GDD is updated for the current game version": false,
+              "Link to ASO": {
+                "id": "d%3BwX",
+                "type": "url",
+                "url": null
+              },
+              "Create Paid Banner": null,
+              "Prod Promo Approve": "",
+              "RW Key": "",
+              "Art Content Table": null,
+              "What's new": "",
+              "Promo Icon": [],
+              "100% Release Date": {
+                "id": "e%5Ec%7C",
+                "type": "date",
+                "date": null
+              },
+              "Api key": "",
+              "[Static Banner]": null,
+              "Public key": [],
+              "Quarter": "",
+              "Create AF & Vaveda Pages": null,
+              "LTV_180_WW": {
+                "id": "gCUp",
+                "type": "number",
+                "number": null
+              },
+              "Days in QA": {
+                "id": "gmCu",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Crit Bugs": "",
+              "IPM(CP)": {
+                "id": "hQ%5C%5B",
+                "type": "number",
+                "number": null
+              },
+              "Refund Rate": {
+                "id": "h%5Cxv",
+                "type": "number",
+                "number": 27
+              },
+              "PROMO: Loading Screen": null,
+              "Keywords": "",
+              "IOS Distribution profile": [],
+              "PROMO - Logo: Project Name": null,
+              "Status 1": {
+                "id": "ihRL",
+                "type": "status",
+                "status": {
+                  "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Logotype Banner Promo Request": false,
+              "Slack Channel Link": "https://viragames.slack.com/archives/C08E05HULLW/p1750716369587769",
+              "CTR": {
+                "id": "jqbZ",
+                "type": "number",
+                "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": null
+              },
+              "D3PTM": {
+                "id": "kamA",
+                "type": "number",
+                "number": null
+              },
+              "D7REW": {
+                "id": "kuEV",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_secret": "QFjv832mmvv3fBmg9aa7GFZYmI0QAvzU",
+              "ViraToolKit version": "",
+              "Priority": "High",
+              "App ID(iOS)": "",
+              "Int&Port Epics": [],
+              "ToolKitSettings": [
+                "4019748b-c8c2-8129-a9ed-e57cdc4eb5db"
+              ],
+              "Link to store": "https://www.amazon.com/dp/B0CDQDV344",
+              "QA checking": "",
+              "Date Release": {
+                "id": "nTQx",
+                "type": "date",
+                "date": null
+              },
+              "Days Off Art": {
+                "id": "nY%7D%5D",
+                "type": "number",
+                "number": 5
+              },
+              "D3RET": {
+                "id": "n%5CF~",
+                "type": "number",
+                "number": null
+              },
+              "Cross-Promo AMZ": [],
+              "Paid\\Free": "Free",
+              "AMZ AppStore": null,
+              "RESULTS": "",
+              "Date Dev Finish": {
+                "id": "o%3B%3EM",
+                "type": "date",
+                "date": null
+              },
+              "AF Key": "QuZpqxuCYZj6Li9utXunZV",
+              "Goals": "",
+              "Firebase JSON": [],
+              "QA": "",
+              "Hypothesys": [],
+              "AMZ appId": "",
+              "Opt-In": {
+                "id": "p_Ic",
+                "type": "number",
+                "number": null
+              },
+              "Pause Reason": "",
+              "New Tasks & Requests": [],
+              "Last edited by": {
+                "id": "qUWF",
+                "type": "last_edited_by",
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
+                  "type": "bot",
+                  "bot": {}
+                }
+              },
+              "Account": {
+                "id": "qhXd",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "169ac9cc-fe06-49be-a3ac-e2a8e8ab5321",
+                    "name": "Coreleague Games",
+                    "color": "purple"
+                  }
+                ]
+              },
+              "Date to QA": {
+                "id": "q%7D%3F%5C",
+                "type": "date",
+                "date": null
+              },
+              "Sub-team": "Elder Scripts",
+              "Date Team Start": {
+                "id": "rKeG",
+                "type": "date",
+                "date": null
+              },
+              "Created by": {
+                "id": "r%5BBI",
+                "type": "created_by",
+                "created_by": {
+                  "object": "user",
+                  "id": "21cd872b-594c-81a8-8390-0002210a34c5",
+                  "name": "Ivan Pavliv",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bb4e6c56-2aa9-48eb-85d7-d98af6d37ac3/photo_2024-07-17_00-16-52_(2).jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "ivan.pavliv@vira.games",
+                    "email_verified": true
+                  }
+                }
+              },
+              "Tech Project Doc": "",
+              "Days Off Log": "ART 31.07–20.10: 07.08 Olena Shashkina; 21.08 Olena Shashkina; 24.08 day off; 26.08 Olena Shashkina; 02.10 day off\nDEV 21.09–22.10: 02.10 day off; 19.10 Oleksandr Chekhuta\nDEV_WORK 21.09–22.10: 02.10 day off; 19.10 Oleksandr Chekhuta\nDEV_RELEASE 21.09–22.10: 02.10 day off; 19.10 Oleksandr Chekhuta",
+              "Sub-subscription 1": {
+                "id": "sCtp",
+                "type": "url",
+                "url": null
+              },
+              "Automated Team": {
+                "id": "sDNL",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "If release is not required:  Need Release checkbox is unchecked": false,
+              "UI": "",
+              "Test - Button Validation": null,
+              "Admob Key": "",
+              "Firebase Link": {
+                "id": "upQD",
+                "type": "url",
+                "url": null
+              },
+              "Monetization": [],
+              "Cross Promo Video status": "",
+              "Paused Art Days": {
+                "id": "vUVR",
+                "type": "number",
+                "number": null
+              },
+              "CPI (Mint) Test Dates": {
+                "id": "v%5Bi%60",
+                "type": "date",
+                "date": null
+              },
+              "Date Art Start (Notion)": {
+                "id": "v%5D~D",
+                "type": "date",
+                "date": null
+              },
+              "Last Status Change": {
+                "id": "wQFr",
+                "type": "date",
+                "date": {
+                  "start": "2026-10-05",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D1PTM": {
+                "id": "wgp%7B",
+                "type": "number",
+                "number": null
+              },
+              "Link to Promo": "https://drive.google.com/drive/folders/1Bi_vTKKQD5bbv-zn7bEGbcDkh4M6eAsC?usp=drive_link",
+              "[Creatives] Tasks": [],
+              "ipm TEST": {
+                "id": "xWSH",
+                "type": "number",
+                "number": null
+              },
+              "Art Assets Link": {
+                "id": "x%5C%3DY",
+                "type": "url",
+                "url": null
+              },
+              "Total installs": {
+                "id": "x%5DWz",
+                "type": "number",
+                "number": 18179
+              },
+              "LTV_180_US ": {
+                "id": "xfen",
+                "type": "number",
+                "number": null
+              },
+              "Sub-s Database": [],
+              "Amz Console: On Auto support": false,
+              "Create QA Task": true,
+              "Create UA Tasks": null,
+              "Paused Dev Days": {
+                "id": "y~fY",
+                "type": "number",
+                "number": null
+              },
+              "3D Artist": {
+                "id": "zHXV",
+                "type": "people",
+                "people": []
+              },
+              "Testing Start Date Rollup": "",
+              " GA Secret Key": "",
+              "Task Tracker Link": {
+                "id": "%7BIp%3F",
+                "type": "url",
+                "url": null
+              },
+              "D3INT": {
+                "id": "%7BL%5C%3B",
+                "type": "number",
+                "number": null
+              },
+              "Percent of Release": {
+                "id": "%7BRbl",
+                "type": "number",
+                "number": null
+              },
+              "AppMagic Info": [],
+              "StartUp Time": {
+                "id": "%7BZ_P",
+                "type": "number",
+                "number": null
+              },
+              "D1BAN": {
+                "id": "%7BeFD",
+                "type": "number",
+                "number": null
+              },
+              "IPM (CP) Test Dates": {
+                "id": "%7Be%5E%3E",
+                "type": "date",
+                "date": null
+              },
+              "Platform": "Fire TV",
+              "temp_tk_version_link": {
+                "id": "%7CeXN",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "Open ImportPackageWindow.cs"
+                }
+              },
+              "Screenshot Promo Request": false,
+              "Days Off Dev Work": {
+                "id": "%7Dcb%5B",
+                "type": "number",
+                "number": 2
+              },
+              "Sub-item": [],
+              "Date Art Finish": {
+                "id": "%7Dwfx",
+                "type": "date",
+                "date": {
+                  "start": "2026-10-20",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "GIT LINK": "https://github.com/Vira-Games/game-amz-division-cars-battle",
+              "Estimate Art Days": {
+                "id": "~%3BYy",
+                "type": "number",
+                "number": null
+              },
+              "D7PTM": {
+                "id": "~%3F%3B%40",
+                "type": "number",
+                "number": null
+              },
+              "Parent Project": [
+                "13c9748b-c8c2-812e-a819-e27148f8978f"
+              ],
+              "Days in Dev -> QA (Notion)": {
+                "id": "~FLK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 15
+                }
+              },
+              "BALANCE": "",
+              "Description for QA": "",
+              "Prod Approved": false,
+              "Static Banner Promo Request": false,
+              "IPM": {
+                "id": "~oXr",
+                "type": "number",
+                "number": null
+              },
+              "Sent To QA": {
+                "id": "~sjG",
+                "type": "date",
+                "date": null
+              },
+              "Promo info checking": {
+                "id": "~wLr",
+                "type": "formula",
+                "formula": {
+                  "type": "boolean",
+                  "boolean": false
+                }
+              },
+              "Project": "btfllrz - Cars Battle: Falling Arena",
+              "Description": "",
+              "SubscriptionRevenueEvent": false,
+              "AMZ Metrics Date & Comment": "",
+              "GD 2": {
+                "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Amz StartUp Time": {
+                "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                "type": "number",
+                "number": null
+              },
+              "Status 2": "",
+              "Days": {
+                "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                "type": "number",
+                "number": null
+              },
+              "Asana Link": {
+                "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                "type": "url",
+                "url": null
+              },
+              "Need a new Video?": false
+            },
+            "created_time": "2026-10-05T14:52:00.000Z",
+            "last_edited_time": "2026-10-22T12:52:00.000Z",
+            "url": "https://app.notion.com/p/btfllrz-Cars-Battle-Falling-Arena-0869748bc8c282698a2b81a053b53e8d"
+          }
+        }
+      }
+    }
+  }
+}
