@@ -50,7 +50,7 @@
             "4059748b-c8c2-8133-bc26-eaca1522d375"
           ],
           "(List)Bundle Version": "49",
-          "Platform": "",
+          "Platform": "AMZ",
           "💼 All Projects": [
             "0f79748b-c8c2-83a1-91d8-0134379251f6"
           ],
@@ -69,7 +69,7 @@
           "Name": "Jelly Merge: Run & Match"
         },
         "created_time": "2026-10-26T11:40:00.000Z",
-        "last_edited_time": "2026-10-26T11:40:00.000Z",
+        "last_edited_time": "2026-10-26T11:41:00.000Z",
         "url": "https://app.notion.com/p/Jelly-Merge-Run-Match-4059748bc8c28170a312ebd4e5c905e7",
         "children": {
           "Jelly_Merge__Run___Match_ProductCatalog": {
@@ -93,7 +93,7 @@
               "Parent": [
                 "4059748b-c8c2-8170-a312-ebd4e5c905e7"
               ],
-              "Platform": "",
+              "Platform": "AMZ",
               "Subscriptions": [],
               "Apply": null,
               "bundleID": {
@@ -927,7 +927,7 @@
               "Public key": [
                 {
                   "name": "AppstoreAuthenticationKey.pem",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/a552e78a-7828-45f2-b330-e1ca2e32f247/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466237NRPVY%2F20261026%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261026T114149Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAsaCXVzLXdlc3QtMiJIMEYCIQD5awu2xo5ePcadktGfazVpAC%2FoovGzSt3%2B98xoBVzImwIhAPQ7%2BCa5ANeOXEuUvceSLEQvTw902%2BtyKQ%2F0Mme9YZjeKogECNT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgzkQKvSBzQ%2BwVNrHxoq3AN3zHXioW4y6cCUBZFsTRzDHQLHfUaXdvp5X%2BYlllV%2FIyoiVL83F4RHHeS8Jevkc4XxD2XVvHm4BaXqKF7KMizLzKXckfHc0QU9vP3N83gYIVYjwOBEnkbV%2Buqob65oy%2FunNrjoC9T1nE%2FkgyO0b68mryaXtxUgVm6qAlxFyqzxpfhoDQCx1YkoXY1foIe8ttDFNtjSCTU07zDSS9KeSw2Twt5BEFwdmvwO7t4YNa%2BXfOm7gQN8y6HeKiyuSywvrZW1F4GQmP5hW9PQjeGxn4RZxzZAjhRzMARYhG%2FIV9jQoTuhlNMLHT0%2BB0i24LMehPqSAcjVxkgjzUKqEih3y5%2FNJ5HCiTz4nEi7KNBLy16BdPD4j4PK7YmG2%2Bu%2BYrUZTb3fV89plLZqL3mqP3R60C4R8hbeFw%2FR8lQSS7%2BfpSThorDIAUa1%2F04RUq9P6dX2hpOqLu4VtLGaVO1ilhmhB6sCSlH1SPx2N8Jvaza%2FT0m%2Bgg1G0j2nG9VMJuiLz1Z%2BfbhVnnVSSJOGoU2vlmXlYvASOKfJ1vCP%2Bt3DI6nWwnIpRMscJ6p5JcnJpH4aFeACWQQ8fnXtemN70x8%2FOLrIPUJQpDSnpcF8iiqWNThSf5eNcMn2Fl02TVnEQ75lYzDg5fzWBjqkAcvhkumq%2BRclP7cNsSMYd67N8wes5cq9cma7bZZTl4xSjFRlZjT7HP565W7MOASz0j2cjlrjlPOXDJkG4oadcTaIk1tlsCr4mf6XXeEqe9ZKGaFsFZasc%2BiH%2BYoeoGHdfudecxv7DqAh4ABug4KEiqBNWk3S6tUs2%2Bbz6x1VGhlof2Y02q4BxkuXqdWm4wbrewOmXuFBcxcNLUXgKjTqnGYzJ%2Bss&X-Amz-Signature=dd716d4b2275ffbfec080171008a9179525ec330c0d6e235a42cd9674725dfaf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/a552e78a-7828-45f2-b330-e1ca2e32f247/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RWHHJQR7%2F20261026%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261026T114156Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAsaCXVzLXdlc3QtMiJGMEQCIHlAKXIfdKbhsrRM2Nt60IpX35QsR9wrkrxdZhS6WlqyAiANVvWMlvQwz3A7LzD4jvODrfYuIyF1Sde4o2tsjaD8DCqIBAjU%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMA0vC4WnDbH5Q%2BaP9KtwDTwtqBb4rtw6d9LPkoMrYCAlzOCikVleSxRbjSBFzKnUwiXsjBqpQF4urMFStGDUUEpSroayO2bhYe%2BX2he%2FreqndOq5QO2ryPHqUeqr%2Bvb92Z6HFuZGnOwWdf4m%2B0hymZJTnHYZfpLP6Zi%2B6C5pMI2mQSBWve2rPz72WniB53KmH%2FXmVmsRFdDUzfMIOyvWOPMbKKmMRWZyoU4WOujQb0T%2BxfU4uXKjmbwvDoTqrho9qJZua61z1Ei2ecrHOpSgc%2F6o6ctdBxKXuqPZWLSiQQbo6Io9SkZRkxg8rQFGsjV%2BJZSJqmf%2FF2vWYud9%2BkgBGpyHsQcB0ZpsOqkYl0cVSAKpU4WJ23SUQjVPal0ycu%2FyfyI0yI6AfFz36UYeBhRcPbKJqLJ1O3kAV8hTjvLv2ZqqmOfX9GZaF5ZZJsBTufJNWG89gtEqs66PABueRpBTL7MLsT7mV1f1yHvr%2FL2WZ5XlBpI4Ak%2Fk3YxzmT9Fo5BsMtEuIrK3OnLUOZDMA6%2BUxehevazsWjiWPEQlw0sDLhiGDazf0YH%2BCdFmJkIqxi2DGbeZn4BTGths9yboDPCrK4BXemRtS0HYuWVt2XnfI%2FgrDAmOYkKLgdwLvEwoGCeuUD%2BnZqpWEn3cV1m4wwub81gY6pgH60mCsdNukWJo4O6H8%2F42VFnO70hBfYhI8OTOMeBDmOmxSnxgOsQgqFqZiVX6C3TZHk6joXRxfhq%2B93yXTXgnBECzI7XO2jBPDVNbo240Lyq%2FIePyzUtuIsXgnuh2fM23TXtkT8TM4Uek07Ak8wNxFanNz7jgizadhOJcuZO046pmXOiTU6%2FWlxe1wV%2F1%2B44DFNi6cT8Y0pl264qrIn1JqEzfHByYH&X-Amz-Signature=fc199b7b713a763a6fa1929af9336f4427ba911cabe47726d27c097d13adf28d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "Q4_26",
