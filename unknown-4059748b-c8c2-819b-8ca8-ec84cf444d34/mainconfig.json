@@ -50,7 +50,7 @@
             "4059748b-c8c2-81f2-98e8-f54aa759e82d"
           ],
           "(List)Bundle Version": "33",
-          "Platform": "",
+          "Platform": "AMZ",
           "💼 All Projects": [
             "2cc9748b-c8c2-82c2-95ca-8107e4363869"
           ],
@@ -69,7 +69,7 @@
           "Name": "Teacher: School Sim"
         },
         "created_time": "2026-10-26T13:25:00.000Z",
-        "last_edited_time": "2026-10-26T13:25:00.000Z",
+        "last_edited_time": "2026-10-26T13:26:00.000Z",
         "url": "https://app.notion.com/p/Teacher-School-Sim-4059748bc8c2819b8ca8ec84cf444d34",
         "children": {
           "Teacher__School_Sim_ProductCatalog": {
@@ -93,7 +93,7 @@
               "Parent": [
                 "4059748b-c8c2-819b-8ca8-ec84cf444d34"
               ],
-              "Platform": "",
+              "Platform": "AMZ",
               "Subscriptions": [],
               "Apply": null,
               "bundleID": {
@@ -558,7 +558,7 @@
               "Subscription JSON": [
                 {
                   "name": "amazon.sdktester.json",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/69b4aeb3-7719-4144-9ba6-afa8f179c1fe/amazon.sdktester.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466475XKUV5%2F20261026%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261026T132636Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA0aCXVzLXdlc3QtMiJIMEYCIQCOmUjm3Hz6zUswhvFB%2FVlPiTT2v9E%2BFYNWARLuKzdcJQIhAKa1eezHp8oOLU3IqcEQSylMBy59KhjR14wqKzdOyLI0KogECNX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwkuEBADACZJryiYfgq3AMxFi6LVR40didJ3pnzOtOChFsPtLmGuX5kMW03Y6IzDtEOnBcbgc3zc0dy%2B5ctRxf5eE2iBo6GCc5X08Ofs%2B35TCPdrfvPMf%2B7phrleLpGPnd8K4Sg%2BnCZ2cYNeyJgySXNumIPtXHqv%2BZPyB66K9o8Oqqdg6CBpanlg6WC2INsa7pUgp439hhZ3tBibMMPs29oy6PvZSNox1YXfaFfrl1qiPkzCIF2t5jMFdo4IvlONmqhaDumSkFzQonSfP%2Fznr%2FO82ns8d81n72dP2X%2FhmOBxFJx4m1DxAQEswmb6cFHXybzg5zi7LfPiWVzXAn0Et7tkdGaAnDMxpOQb%2B6ceXBdz21VWpZwI1yPgYz0pDr7YSIZi6XVdtphauTqnM%2FL%2BXCsRT4HePVx5YaJ8GMYFZ9vbrTYVmKcJBVpJ9amWLoQi4ZuH%2Fq2krsKDfqnuzZ376KliwJ0aoQlJRgxC%2F48BO%2F0TuayOxh%2Fpcs6ilsQ9y%2By8ilc3k47ej%2BK6GvEf%2F91GoBbNIUg%2FqpeUYSidkGFEboElz3RJf6%2FrxYIhJxbfVbuJmWJDoPakO7uXCiZJEM671TUGUrF6jaG4Flk7NqxarDkOeFr15JYYbEUkWCUmuGlRTqP9zgSy8GcNkpycDD%2Fnf3WBjqkAfunqBvpJ4tZWuk12KB5QVOzwKv8hfDb3N%2F%2BI%2Bk3ykP8QNSddlSW7mBrNHkdVcBvKgetTbHQfIyuVFwE60NUVUMl7ith20eazYO9qx2gFcKVSSQiIRuU%2Fy6XI4a7RWceyw8eHK8zmrIJstbjeaxyacJ9R1EbOXj4E8yWhOtm0jdcmYq%2Bohuu5z8tNVFGq4IsXLC9GIYs6myQk58iDpIENs2l1kS6&X-Amz-Signature=c963d0fed50f091a6796e0b9c10fee5b7bb11a88372e7222c4b33b25e9f29366&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/69b4aeb3-7719-4144-9ba6-afa8f179c1fe/amazon.sdktester.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VMRXYSJS%2F20261026%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261026T132640Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA0aCXVzLXdlc3QtMiJGMEQCIAf290baskx%2Fp81uI2Z4u04NoT3Z%2FJw0SHyuRLCoJ0EtAiBn%2BgilcOVstQDzJgHlxj79ZpjoJDmfiQCJy6ey%2FiEGISqIBAjW%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIML34U7bWqwcVuoNhCKtwD1fUctkOTNfaPzvfdVfIxgQCwrJpEn9JZEmbT8ThqOiYIljqv5IFv5WMkeEVRo%2BNZtNX8reRWGMOPVaUdSgouRU%2F3glZrqpNsE4vDMlsSAbK0jq6kI0gnS8gh9EnfEn5rJZJCS4joIX7ubLwRnyUm1ZrNqu8O314vEN8c2TFkCBjV5Jc%2BgIdLSe88bEX15x4TnHnsyejsPSvNBzCQ025%2BDZlq%2Bj00XSfX2YfZ6nRRoHYfdYNU%2FsKMtZkpPMxrGUxAomtdsL3Ki9JQB6VycioX7xEV5KQELH0tmjGqDRGeepto1lAQ7szoLveRTNr%2FptrjiL1XfvMmzoe53nLD%2FdKr5JP0SIVdNc%2Fp1WXlm3ut0J1IeitvISBnr0hY7RtKaLkrEkaRC6Pxo7IFRkkKAgMusbR%2BwKgKWVyHs96DLwer4%2FQD4X6SK979lL%2Fnb8gMOaCyVfaAmdmZW8%2B9kFwgL9FiUX%2FP8XMw6PAyf2y2FwIsVqHKEbQoKu5jJ93snDCAAphwDIdrl8G16RcTfPxiQXGQov%2FGbxEdxLeeGa13rsvJf%2BGW47TftKyURg1W2HKwGfOqmpcznm5p3KnKR1iJ66Tm%2B%2Fj0ofhgxPaZrHNQ10o8CIChrVTjW66Eqqe8iPgw9qD91gY6pgHOB1bQt7NOUhK%2Bik0KbH7NkloMQaZROCJHWb%2FfeLccAycUWp1V04Tg9C4azHW33geng641cMuau3OaqEeEVidl2DnqUv%2BfMOFtlTWny6oIVEKA2Rr3YHMmVstwhNxWPyXsGZrWSlf17OUockk%2FVE8ldwl%2BfOaxlrACawSCMCm7A7Xxsls7ghyXyJBiVOYyxSt8tTQibxpzjydip3CyEg1wzueopYV9&X-Amz-Signature=c9098b4aa69720344ec3f8541785dd58119a687f1b2312789d8c48f855e41a01&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "GetGitlabInfo": null,
@@ -954,7 +954,7 @@
               "Public key": [
                 {
                   "name": "AppstoreAuthenticationKey.pem",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/b158ad77-3bd8-48da-9ac9-118e584cf0ac/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466475XKUV5%2F20261026%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261026T132636Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA0aCXVzLXdlc3QtMiJIMEYCIQCOmUjm3Hz6zUswhvFB%2FVlPiTT2v9E%2BFYNWARLuKzdcJQIhAKa1eezHp8oOLU3IqcEQSylMBy59KhjR14wqKzdOyLI0KogECNX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwkuEBADACZJryiYfgq3AMxFi6LVR40didJ3pnzOtOChFsPtLmGuX5kMW03Y6IzDtEOnBcbgc3zc0dy%2B5ctRxf5eE2iBo6GCc5X08Ofs%2B35TCPdrfvPMf%2B7phrleLpGPnd8K4Sg%2BnCZ2cYNeyJgySXNumIPtXHqv%2BZPyB66K9o8Oqqdg6CBpanlg6WC2INsa7pUgp439hhZ3tBibMMPs29oy6PvZSNox1YXfaFfrl1qiPkzCIF2t5jMFdo4IvlONmqhaDumSkFzQonSfP%2Fznr%2FO82ns8d81n72dP2X%2FhmOBxFJx4m1DxAQEswmb6cFHXybzg5zi7LfPiWVzXAn0Et7tkdGaAnDMxpOQb%2B6ceXBdz21VWpZwI1yPgYz0pDr7YSIZi6XVdtphauTqnM%2FL%2BXCsRT4HePVx5YaJ8GMYFZ9vbrTYVmKcJBVpJ9amWLoQi4ZuH%2Fq2krsKDfqnuzZ376KliwJ0aoQlJRgxC%2F48BO%2F0TuayOxh%2Fpcs6ilsQ9y%2By8ilc3k47ej%2BK6GvEf%2F91GoBbNIUg%2FqpeUYSidkGFEboElz3RJf6%2FrxYIhJxbfVbuJmWJDoPakO7uXCiZJEM671TUGUrF6jaG4Flk7NqxarDkOeFr15JYYbEUkWCUmuGlRTqP9zgSy8GcNkpycDD%2Fnf3WBjqkAfunqBvpJ4tZWuk12KB5QVOzwKv8hfDb3N%2F%2BI%2Bk3ykP8QNSddlSW7mBrNHkdVcBvKgetTbHQfIyuVFwE60NUVUMl7ith20eazYO9qx2gFcKVSSQiIRuU%2Fy6XI4a7RWceyw8eHK8zmrIJstbjeaxyacJ9R1EbOXj4E8yWhOtm0jdcmYq%2Bohuu5z8tNVFGq4IsXLC9GIYs6myQk58iDpIENs2l1kS6&X-Amz-Signature=f014c48c65a1a7251ac8e925312d9f37aa16590f36ecea72658d86bdf08b63bd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/b158ad77-3bd8-48da-9ac9-118e584cf0ac/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VMRXYSJS%2F20261026%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261026T132640Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA0aCXVzLXdlc3QtMiJGMEQCIAf290baskx%2Fp81uI2Z4u04NoT3Z%2FJw0SHyuRLCoJ0EtAiBn%2BgilcOVstQDzJgHlxj79ZpjoJDmfiQCJy6ey%2FiEGISqIBAjW%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIML34U7bWqwcVuoNhCKtwD1fUctkOTNfaPzvfdVfIxgQCwrJpEn9JZEmbT8ThqOiYIljqv5IFv5WMkeEVRo%2BNZtNX8reRWGMOPVaUdSgouRU%2F3glZrqpNsE4vDMlsSAbK0jq6kI0gnS8gh9EnfEn5rJZJCS4joIX7ubLwRnyUm1ZrNqu8O314vEN8c2TFkCBjV5Jc%2BgIdLSe88bEX15x4TnHnsyejsPSvNBzCQ025%2BDZlq%2Bj00XSfX2YfZ6nRRoHYfdYNU%2FsKMtZkpPMxrGUxAomtdsL3Ki9JQB6VycioX7xEV5KQELH0tmjGqDRGeepto1lAQ7szoLveRTNr%2FptrjiL1XfvMmzoe53nLD%2FdKr5JP0SIVdNc%2Fp1WXlm3ut0J1IeitvISBnr0hY7RtKaLkrEkaRC6Pxo7IFRkkKAgMusbR%2BwKgKWVyHs96DLwer4%2FQD4X6SK979lL%2Fnb8gMOaCyVfaAmdmZW8%2B9kFwgL9FiUX%2FP8XMw6PAyf2y2FwIsVqHKEbQoKu5jJ93snDCAAphwDIdrl8G16RcTfPxiQXGQov%2FGbxEdxLeeGa13rsvJf%2BGW47TftKyURg1W2HKwGfOqmpcznm5p3KnKR1iJ66Tm%2B%2Fj0ofhgxPaZrHNQ10o8CIChrVTjW66Eqqe8iPgw9qD91gY6pgHOB1bQt7NOUhK%2Bik0KbH7NkloMQaZROCJHWb%2FfeLccAycUWp1V04Tg9C4azHW33geng641cMuau3OaqEeEVidl2DnqUv%2BfMOFtlTWny6oIVEKA2Rr3YHMmVstwhNxWPyXsGZrWSlf17OUockk%2FVE8ldwl%2BfOaxlrACawSCMCm7A7Xxsls7ghyXyJBiVOYyxSt8tTQibxpzjydip3CyEg1wzueopYV9&X-Amz-Signature=f883b24dea1683a82dffd7ae7fda7ae54bcc6be9f42d914b82a863a6ed3c3d93&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "Q4_26",
