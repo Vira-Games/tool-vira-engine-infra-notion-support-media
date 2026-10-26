@@ -1,0 +1,1315 @@
+{
+  "pageId": "4059748b-c8c2-8170-a312-ebd4e5c905e7",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Jelly_Merge__Run___Match": {
+        "id": "4059748b-c8c2-8170-a312-ebd4e5c905e7",
+        "title": "Jelly Merge: Run & Match",
+        "properties": {
+          "ProductCatalog": [
+            "4059748b-c8c2-81af-b0a0-ef0ad9c3d3d6"
+          ],
+          "MaxParent": {
+            "id": "F%7BpA",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "jlmrmtz - Jelly Merge: Run & Match"
+            }
+          },
+          "MaxParentLinkToPromo": {
+            "id": "GC%3FS",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "https://drive.google.com/drive/u/0/folders/13XlTP6aCTkmEjxo4bAa_J_IYQTWkrLV3"
+            }
+          },
+          "(List)BundleId": "com.jelly.merge.run",
+          "MaxParentBundleID": {
+            "id": "LAsk",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "com.jelly.merge.run"
+            }
+          },
+          "MaxParentVersion": {
+            "id": "Njfg",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1.0.17"
+            }
+          },
+          "Subscription Settings": [
+            "4059748b-c8c2-8172-b43a-ef108124537d"
+          ],
+          "MainData": [
+            "4059748b-c8c2-8133-bc26-eaca1522d375"
+          ],
+          "(List)Bundle Version": "49",
+          "Platform": "",
+          "💼 All Projects": [
+            "0f79748b-c8c2-83a1-91d8-0134379251f6"
+          ],
+          "RefreshConfig": null,
+          "(List)Version": "1.0.17",
+          "MaxParentBundleVersion": {
+            "id": "fVoO",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "49"
+            }
+          },
+          "ProjectKey": "4059748b-c8c2-8170-a312-ebd4e5c905e7",
+          "(List)LinkToPromo": "https://drive.google.com/drive/u/0/folders/13XlTP6aCTkmEjxo4bAa_J_IYQTWkrLV3",
+          "Name": "Jelly Merge: Run & Match"
+        },
+        "created_time": "2026-10-26T11:40:00.000Z",
+        "last_edited_time": "2026-10-26T11:40:00.000Z",
+        "url": "https://app.notion.com/p/Jelly-Merge-Run-Match-4059748bc8c28170a312ebd4e5c905e7",
+        "children": {
+          "Jelly_Merge__Run___Match_ProductCatalog": {
+            "id": "4059748b-c8c2-81af-b0a0-ef0ad9c3d3d6",
+            "title": "Jelly Merge: Run & Match ProductCatalog",
+            "properties": {
+              "Parent": [
+                "4059748b-c8c2-8170-a312-ebd4e5c905e7"
+              ],
+              "Products": [],
+              "Name": "Jelly Merge: Run & Match ProductCatalog"
+            },
+            "created_time": "2026-10-26T11:40:00.000Z",
+            "last_edited_time": "2026-10-26T11:40:00.000Z",
+            "url": "https://app.notion.com/p/Jelly-Merge-Run-Match-ProductCatalog-4059748bc8c281afb0a0ef0ad9c3d3d6"
+          },
+          "Jelly_Merge__Run___Match_SubDataCatalog": {
+            "id": "4059748b-c8c2-8172-b43a-ef108124537d",
+            "title": "Jelly Merge: Run & Match SubDataCatalog",
+            "properties": {
+              "Parent": [
+                "4059748b-c8c2-8170-a312-ebd4e5c905e7"
+              ],
+              "Platform": "",
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "Name": "Jelly Merge: Run & Match SubDataCatalog"
+            },
+            "created_time": "2026-10-26T11:40:00.000Z",
+            "last_edited_time": "2026-10-26T11:40:00.000Z",
+            "url": "https://app.notion.com/p/Jelly-Merge-Run-Match-SubDataCatalog-4059748bc8c28172b43aef108124537d"
+          },
+          "Jelly_Merge__Run___Match_MainData": {
+            "id": "4059748b-c8c2-8133-bc26-eaca1522d375",
+            "title": "Jelly Merge: Run & Match MainData",
+            "properties": {
+              "LinkToPromoRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/u/0/folders/13XlTP6aCTkmEjxo4bAa_J_IYQTWkrLV3"
+                }
+              },
+              "BundleVersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "49"
+                }
+              },
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "0a495f1a-12bd-480f-876b-9e15a4dc4370",
+                    "name": "AMZ",
+                    "color": "default"
+                  }
+                ]
+              },
+              "Paid/Free": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "App Name": "Jelly Merge: Run & Match",
+              "Version": {
+                "id": "PczY",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.17"
+                }
+              },
+              "Vaveda_key": "jlmrmtz",
+              "Link to Promo": {
+                "id": "%5CVgk",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/u/0/folders/13XlTP6aCTkmEjxo4bAa_J_IYQTWkrLV3"
+                }
+              },
+              "VersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.0.17"
+                }
+              },
+              "Parent": [
+                "4059748b-c8c2-8170-a312-ebd4e5c905e7"
+              ],
+              "Bundle Version": {
+                "id": "%5D~p%60",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "49"
+                }
+              },
+              "Bundle Id": {
+                "id": "%5E%7D%3Aj",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.jelly.merge.run"
+                }
+              },
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "1e3001c3-ff59-42d3-a33b-e2f639e7bdc9",
+                    "name": "VG Interactive Ltd",
+                    "color": "orange"
+                  }
+                ]
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.jelly.merge.run"
+                }
+              },
+              "Vaveda_secret": "JbRkwfmTi1KYoAQtDwcCAFLNyXOr45N3",
+              "Name": "Jelly Merge: Run & Match MainData"
+            },
+            "created_time": "2026-10-26T11:40:00.000Z",
+            "last_edited_time": "2026-10-26T11:41:00.000Z",
+            "url": "https://app.notion.com/p/Jelly-Merge-Run-Match-MainData-4059748bc8c28133bc26eaca1522d375",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/u/0/folders/13XlTP6aCTkmEjxo4bAa_J_IYQTWkrLV3",
+                  "ProductName": "Jelly Merge: Run & Match",
+                  "BundleIdentifier": "com.jelly.merge.run",
+                  "Version": "1.0.17",
+                  "BundleVersionCode": 49,
+                  "CompanyName": "VG Interactive Ltd"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "jlmrmtz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "JbRkwfmTi1KYoAQtDwcCAFLNyXOr45N3"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          },
+          "Page_0f79748b-c8c2-83a1-91d8-0134379251f6": {
+            "id": "0f79748b-c8c2-83a1-91d8-0134379251f6",
+            "title": "Page 0f79748b-c8c2-83a1-91d8-0134379251f6",
+            "properties": {
+              "CR_SUB_WW": {
+                "id": "%3A%3Br_",
+                "type": "number",
+                "number": null
+              },
+              "Create Paid Promo Rebuild ": null,
+              "Dev Unique Days": {
+                "id": "%3ArkJ",
+                "type": "number",
+                "number": null
+              },
+              "Installs US": {
+                "id": "%3Au%7BN",
+                "type": "number",
+                "number": null
+              },
+              "Creatives Status": {
+                "id": "%3B%60E%3C",
+                "type": "status",
+                "status": {
+                  "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "[Icon]": null,
+              "TOP AMZ for Sub Screen Upates": [
+                "1599748b-c8c2-8016-923c-cdb9dcf790f8"
+              ],
+              "Ref Name": "",
+              "Days for Dev": {
+                "id": "%3C%3EbT",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "ASIN": "B0DBVWW5CV",
+              "Missing Info for Dev(Cross)": {
+                "id": "%3Cv%60H",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "New promo link": {
+                "id": "%3DU%3BG",
+                "type": "url",
+                "url": null
+              },
+              "Date Dev Start (Notion)": {
+                "id": "%3D%7B%3Ej",
+                "type": "date",
+                "date": {
+                  "start": "2026-10-26",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Art Unique Days": {
+                "id": "%3EAsC",
+                "type": "number",
+                "number": null
+              },
+              "Clone": null,
+              "Days in Dev -> Release (Notion)": {
+                "id": "%3EkOQ",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 2
+                }
+              },
+              "Are all prop. filled? ": {
+                "id": "%3Epbv",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "false"
+                }
+              },
+              "Paused Days": {
+                "id": "%3FIxp",
+                "type": "number",
+                "number": 0
+              },
+              "All Projects Info Old": [
+                "e35b4505-4441-4ff4-a5ce-29b7750fd7a4"
+              ],
+              "Paused QA Days": {
+                "id": "%3FnWO",
+                "type": "number",
+                "number": null
+              },
+              "AF Link": {
+                "id": "%40G%5E%3A",
+                "type": "url",
+                "url": "https://hq1.appsflyer.com/unified-ltv/dashboard#appIds=com.jelly.merge.run-Amazon"
+              },
+              "Long Description": "",
+              "QA Task Status": "",
+              "BB SDK Key (Android)": "",
+              "Days in Dev -> Release": {
+                "id": "%40gmG",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Icon Promo Request": false,
+              "pLTV 180": {
+                "id": "%40zGB",
+                "type": "number",
+                "number": null
+              },
+              "Developer": {
+                "id": "%40%7Cvk",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "2d1d872b-594c-810b-b7b3-0002094a6fd8",
+                    "name": "Maksym Zynych",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6d883be-2230-4c92-8fac-6f77bf2fcf9d/photo_2025-12-24_21-30-36_(2).jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "maksym.zynych@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "PROGRESSION": "",
+              "🎯 AllPages": [],
+              "Project Subs Metrics": [],
+              "Status (Copy)": {
+                "id": "BVo%40",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Mintegral Status": "",
+              "Creo Link": "https://drive.google.com/drive/u/0/folders/1BPqBleQ__We199svkkUVKqZb1jKqQQNl",
+              "Days Start-Finish": {
+                "id": "Bzh%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 0
+                }
+              },
+              "Sum SP": "",
+              "Created time": {
+                "id": "B~Qf",
+                "type": "created_time",
+                "created_time": "2026-10-26T08:41:00.000Z"
+              },
+              "All subscriptions for the current build are filled": true,
+              "Missing info for Promo rebuild": {
+                "id": "CkT%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "CPI": {
+                "id": "Cxr%40",
+                "type": "number",
+                "number": null
+              },
+              "Teams use": {
+                "id": "D%40CI",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Estimate Dev Days": {
+                "id": "DX%60A",
+                "type": "number",
+                "number": null
+              },
+              "Status": {
+                "id": "DYYJ",
+                "type": "status",
+                "status": {
+                  "id": "gPu~",
+                  "name": "DEVELOPMENT",
+                  "color": "blue"
+                }
+              },
+              "Date Development Status Set": {
+                "id": "D%60fU",
+                "type": "date",
+                "date": {
+                  "start": "2026-10-26",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Date Dev Start": {
+                "id": "Data",
+                "type": "date",
+                "date": null
+              },
+              "Last edited time": {
+                "id": "Dj%3Fm",
+                "type": "last_edited_time",
+                "last_edited_time": "2026-10-26T11:40:00.000Z"
+              },
+              "Project Link": {
+                "id": "DjJJ",
+                "type": "url",
+                "url": null
+              },
+              "Date Art Finish (Notion)": {
+                "id": "Do%3DG",
+                "type": "date",
+                "date": null
+              },
+              "Bundle ID": "com.jelly.merge.run",
+              "Price": {
+                "id": "EUeu",
+                "type": "number",
+                "number": null
+              },
+              "Project Score Analysys": "",
+              "[Promo] Tasks ": [],
+              "TECH": "",
+              "CTR TEST": {
+                "id": "Ejyo",
+                "type": "number",
+                "number": null
+              },
+              "Subscription screen changes include links to actual references (expected UI)": true,
+              "Days Off Dev Release": {
+                "id": "F%3D%5DY",
+                "type": "number",
+                "number": null
+              },
+              "GD": {
+                "id": "FHAP",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "29cd872b-594c-815b-9c2f-000273f33979",
+                    "name": "Ivan Baryshevskyi",
+                    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLtWb3GtuytBCdkOqwPyT_azoc5_-FhfALTY-iDe7y3l9Ax0A=s100",
+                    "type": "person",
+                    "person": {
+                      "email": "ivan.baryshevskyi@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "CONTENT": "",
+              "Due": {
+                "id": "FaCd",
+                "type": "date",
+                "date": null
+              },
+              "Link to Old Promo": {
+                "id": "FbpI",
+                "type": "url",
+                "url": null
+              },
+              "QA Task File": "",
+              "Task from Growth": [],
+              "ASO Name & Description": null,
+              "External\\internal": "Internal",
+              "⏺️ ASO | Calendar": [],
+              "Product Features": "",
+              "Promo Task ": [],
+              "Monetization DB": [],
+              "Banner Key": "",
+              "Date Info Updated": {
+                "id": "HqDO",
+                "type": "date",
+                "date": null
+              },
+              "Short Description": "",
+              "Creo Status": "",
+              "Amz Int & Port Tasks Template": null,
+              "Tools": {
+                "id": "IZP%3F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Days Off Dev": {
+                "id": "Ia%5BC",
+                "type": "number",
+                "number": null
+              },
+              "CreateTKSettings": null,
+              "Subscription JSON": [],
+              "GetGitlabInfo": null,
+              "Days Start-Release": {
+                "id": "JXlK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "AMZ releaseId": "",
+              "[Logotype]": null,
+              "CR Subs, %": {
+                "id": "KKZH",
+                "type": "number",
+                "number": null
+              },
+              "Data Check (Status)": {
+                "id": "KW%7C%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "Paused Dev Release Days": {
+                "id": "KilJ",
+                "type": "number",
+                "number": null
+              },
+              "Date": {
+                "id": "LkTZ",
+                "type": "date",
+                "date": null
+              },
+              "D3REW": {
+                "id": "M%5E%40L",
+                "type": "number",
+                "number": null
+              },
+              "Each config has its own separate description": true,
+              "CR Total, %": {
+                "id": "MguI",
+                "type": "number",
+                "number": null
+              },
+              "D7INT": {
+                "id": "MqkG",
+                "type": "number",
+                "number": null
+              },
+              "PaidConfigGroup": [],
+              "D1INT": {
+                "id": "N%3AM%60",
+                "type": "number",
+                "number": null
+              },
+              "Automation Info (AppStore)": "",
+              "Estimate Art Days (by Velocity)": {
+                "id": "NE%5E%7C",
+                "type": "number",
+                "number": null
+              },
+              "Previous Status": {
+                "id": "NSz%7D",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Traffic Source": {
+                "id": "N%5E%3Cm",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "NNIQ",
+                    "name": "Mintergral",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "Game Type": {
+                "id": "NcId",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "j=mr",
+                    "name": "Reskin",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "Create Task (No Check)": null,
+              "Developer AMZ AppStore Link": "",
+              "pLTV 7": {
+                "id": "OPM%5C",
+                "type": "number",
+                "number": null
+              },
+              "Formula Testing Start Date": {
+                "id": "OgCj",
+                "type": "formula",
+                "formula": {
+                  "type": "date",
+                  "date": null
+                }
+              },
+              "Interstitial Key": "",
+              "BB Game ID (iOS)": "",
+              "Team ": "AMZ Direction (Growth)",
+              "Date Art Start": {
+                "id": "Pc%5DV",
+                "type": "date",
+                "date": null
+              },
+              "Ref Link": "https://play.google.com/store/apps/details?gl=US&hl=en&id=com.goolny.Split2048",
+              "Build Paid Icon": null,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
+              "Create Paid Icon": null,
+              "ByteBrew Link": {
+                "id": "QD%3Cd",
+                "type": "url",
+                "url": null
+              },
+              "Outdated / unused elements are removed from GDD": true,
+              "Applovin Key": "",
+              "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
+              "Version": "1.0.17",
+              "Show": {
+                "id": "RfDI",
+                "type": "number",
+                "number": null
+              },
+              "QA | Tasks": [],
+              "Fullsreen Banner Promo Request": false,
+              "📽️ Creatives Team Tasks": [
+                "2389748b-c8c2-801b-a230-ed65f9f67d3b",
+                "22a9748b-c8c2-8002-9fa8-e40d80408df7",
+                "2fe9748b-c8c2-8027-9456-cfcd09420612"
+              ],
+              "Bright SDK Review Status": {
+                "id": "SXax",
+                "type": "status",
+                "status": {
+                  "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                  "name": "Implementation",
+                  "color": "default"
+                }
+              },
+              "Days for Art": {
+                "id": "SdR%3B",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
+              },
+              "Bundle Version": "49",
+              "Days for Art (Notion)": {
+                "id": "T%3Edc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "BB SDK Key (iOS)": "",
+              "Feature description matches the latest implementation": true,
+              "Create New \"QA Task\"": null,
+              "Status  Promo": {
+                "id": "TWT%3A",
+                "type": "status",
+                "status": {
+                  "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Click": {
+                "id": "TkDm",
+                "type": "number",
+                "number": null
+              },
+              "GA Game Key": "",
+              "CTR Video link": "",
+              "ASO/PROMO Full Pack GP/IOS: ProjectName": null,
+              "Link to Automation": {
+                "id": "VRV%3B",
+                "type": "url",
+                "url": null
+              },
+              "Estimate Dev Days  (by Velocity)": {
+                "id": "VZsx",
+                "type": "number",
+                "number": null
+              },
+              "Days in QA (Notion)": {
+                "id": "VgPc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 0
+                }
+              },
+              "parent": "jlmrmtz - Jelly Merge",
+              "Genre": {
+                "id": "V~Gf",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "BB Game ID (Android)": "",
+              "Date QA Finished": {
+                "id": "X%5Cma",
+                "type": "date",
+                "date": null
+              },
+              "Task Create Info": "",
+              "GDD Doc": "Jelly Run",
+              "Status Log": "2026-10-26 BACKLOG\n2026-10-26 WAITING FOR DEV\n2026-10-26 DEVELOPMENT",
+              "Full Pack Amz": null,
+              "Missing Info for QA Task": {
+                "id": "ZSo%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "[Screenshots]": null,
+              "Specialist": {
+                "id": "Zy%3F%3A",
+                "type": "people",
+                "people": []
+              },
+              "A/B Group": "",
+              "Full Pack TV Promo Request": false,
+              "Date Team Finish": {
+                "id": "%5B%5E%3AX",
+                "type": "date",
+                "date": {
+                  "start": "2026-10-26",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "IPM STATIC": {
+                "id": "%5Bagu",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_key": "jlmrmtz",
+              "Days in Dev -> QA": {
+                "id": "%5CMV%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Groups": [],
+              "D1RET": {
+                "id": "%5D%3DAl",
+                "type": "number",
+                "number": null
+              },
+              "Testing Start Date": {
+                "id": "%5DGkI",
+                "type": "date",
+                "date": null
+              },
+              "[Fullscreen Banner]": null,
+              "CR_SUB_US": {
+                "id": "%5Dz%7CJ",
+                "type": "number",
+                "number": null
+              },
+              "D7BAN": {
+                "id": "%5E%3A%3F%3B",
+                "type": "number",
+                "number": null
+              },
+              "MONETIZATION": "",
+              "D3BAN": {
+                "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "Full game name": "Jelly Merge: Run & Match",
+              "Firebase PLIST": [],
+              "Days Off QA": {
+                "id": "_Tj%5C",
+                "type": "number",
+                "number": null
+              },
+              "Are all prop filled": {
+                "id": "_%5D%5E%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Date to QA"
+                }
+              },
+              "D1REW": {
+                "id": "_bnb",
+                "type": "number",
+                "number": null
+              },
+              "Paused Dev Work Days": {
+                "id": "_sLx",
+                "type": "number",
+                "number": null
+              },
+              "ASO Name & Descripton Request": false,
+              "Build changes are marked in the task": true,
+              "Unity version": "",
+              "Promo status info": "",
+              "Average FPS": {
+                "id": "a%3Fdf",
+                "type": "number",
+                "number": null
+              },
+              "Autobuild_buildNumber": "",
+              "Polishing": "",
+              "ExtraComments": "",
+              "Full Pack Promo Request": false,
+              "Art Subs Links": "",
+              "Sprint": {
+                "id": "afeU",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Documentation link": "https://app.notion.com/p/viragames/TK-2-0-2-update-3a59748bc8c28038ac3de2652b073864?source=copy_link",
+              "Clone From": "",
+              "D7RET": {
+                "id": "bE%7C%3A",
+                "type": "number",
+                "number": null
+              },
+              "Test - Button No Validation": null,
+              "Release Type": "A/B Test",
+              "GDD is updated for the current game version": true,
+              "Link to ASO": {
+                "id": "d%3BwX",
+                "type": "url",
+                "url": null
+              },
+              "Create Paid Banner": null,
+              "Prod Promo Approve": "",
+              "RW Key": "",
+              "Art Content Table": null,
+              "What's new": "в тестовом сегменте подписки аналогичные базовому, но с триалом в 7 дней",
+              "Promo Icon": [],
+              "100% Release Date": {
+                "id": "e%5Ec%7C",
+                "type": "date",
+                "date": null
+              },
+              "Api key": "",
+              "[Static Banner]": null,
+              "Public key": [
+                {
+                  "name": "AppstoreAuthenticationKey.pem",
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/a552e78a-7828-45f2-b330-e1ca2e32f247/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466237NRPVY%2F20261026%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261026T114149Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAsaCXVzLXdlc3QtMiJIMEYCIQD5awu2xo5ePcadktGfazVpAC%2FoovGzSt3%2B98xoBVzImwIhAPQ7%2BCa5ANeOXEuUvceSLEQvTw902%2BtyKQ%2F0Mme9YZjeKogECNT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgzkQKvSBzQ%2BwVNrHxoq3AN3zHXioW4y6cCUBZFsTRzDHQLHfUaXdvp5X%2BYlllV%2FIyoiVL83F4RHHeS8Jevkc4XxD2XVvHm4BaXqKF7KMizLzKXckfHc0QU9vP3N83gYIVYjwOBEnkbV%2Buqob65oy%2FunNrjoC9T1nE%2FkgyO0b68mryaXtxUgVm6qAlxFyqzxpfhoDQCx1YkoXY1foIe8ttDFNtjSCTU07zDSS9KeSw2Twt5BEFwdmvwO7t4YNa%2BXfOm7gQN8y6HeKiyuSywvrZW1F4GQmP5hW9PQjeGxn4RZxzZAjhRzMARYhG%2FIV9jQoTuhlNMLHT0%2BB0i24LMehPqSAcjVxkgjzUKqEih3y5%2FNJ5HCiTz4nEi7KNBLy16BdPD4j4PK7YmG2%2Bu%2BYrUZTb3fV89plLZqL3mqP3R60C4R8hbeFw%2FR8lQSS7%2BfpSThorDIAUa1%2F04RUq9P6dX2hpOqLu4VtLGaVO1ilhmhB6sCSlH1SPx2N8Jvaza%2FT0m%2Bgg1G0j2nG9VMJuiLz1Z%2BfbhVnnVSSJOGoU2vlmXlYvASOKfJ1vCP%2Bt3DI6nWwnIpRMscJ6p5JcnJpH4aFeACWQQ8fnXtemN70x8%2FOLrIPUJQpDSnpcF8iiqWNThSf5eNcMn2Fl02TVnEQ75lYzDg5fzWBjqkAcvhkumq%2BRclP7cNsSMYd67N8wes5cq9cma7bZZTl4xSjFRlZjT7HP565W7MOASz0j2cjlrjlPOXDJkG4oadcTaIk1tlsCr4mf6XXeEqe9ZKGaFsFZasc%2BiH%2BYoeoGHdfudecxv7DqAh4ABug4KEiqBNWk3S6tUs2%2Bbz6x1VGhlof2Y02q4BxkuXqdWm4wbrewOmXuFBcxcNLUXgKjTqnGYzJ%2Bss&X-Amz-Signature=dd716d4b2275ffbfec080171008a9179525ec330c0d6e235a42cd9674725dfaf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                }
+              ],
+              "Quarter": "Q4_26",
+              "Create AF & Vaveda Pages": null,
+              "LTV_180_WW": {
+                "id": "gCUp",
+                "type": "number",
+                "number": null
+              },
+              "Days in QA": {
+                "id": "gmCu",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Crit Bugs": "",
+              "IPM(CP)": {
+                "id": "hQ%5C%5B",
+                "type": "number",
+                "number": null
+              },
+              "Refund Rate": {
+                "id": "h%5Cxv",
+                "type": "number",
+                "number": null
+              },
+              "PROMO: Loading Screen": null,
+              "Keywords": "",
+              "IOS Distribution profile": [],
+              "PROMO - Logo: Project Name": null,
+              "Status 1": {
+                "id": "ihRL",
+                "type": "status",
+                "status": {
+                  "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Logotype Banner Promo Request": false,
+              "Slack Channel Link": "https://viragames.slack.com/archives/C06RBRGFNJW",
+              "CTR": {
+                "id": "jqbZ",
+                "type": "number",
+                "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": null
+              },
+              "D3PTM": {
+                "id": "kamA",
+                "type": "number",
+                "number": null
+              },
+              "D7REW": {
+                "id": "kuEV",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_secret": "JbRkwfmTi1KYoAQtDwcCAFLNyXOr45N3",
+              "ViraToolKit version": "2.0.2",
+              "Priority": "Mid",
+              "App ID(iOS)": "",
+              "Int&Port Epics": [],
+              "ToolKitSettings": [
+                "4059748b-c8c2-8170-a312-ebd4e5c905e7"
+              ],
+              "Link to store": "Jelly Merge: Run & Match - App on Amazon Appstore",
+              "QA checking": "",
+              "Date Release": {
+                "id": "nTQx",
+                "type": "date",
+                "date": null
+              },
+              "Days Off Art": {
+                "id": "nY%7D%5D",
+                "type": "number",
+                "number": null
+              },
+              "D3RET": {
+                "id": "n%5CF~",
+                "type": "number",
+                "number": null
+              },
+              "Cross-Promo AMZ": [],
+              "Paid\\Free": "Free",
+              "AMZ AppStore": null,
+              "RESULTS": "",
+              "Date Dev Finish": {
+                "id": "o%3B%3EM",
+                "type": "date",
+                "date": null
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Goals": "",
+              "Firebase JSON": [],
+              "QA": "",
+              "Hypothesys": [],
+              "AMZ appId": "",
+              "Opt-In": {
+                "id": "p_Ic",
+                "type": "number",
+                "number": null
+              },
+              "Pause Reason": "",
+              "New Tasks & Requests": [],
+              "Last edited by": {
+                "id": "qUWF",
+                "type": "last_edited_by",
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
+                  "name": "Vira Games Bot",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
+                  "type": "bot",
+                  "bot": {}
+                }
+              },
+              "Account": {
+                "id": "qhXd",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "tGb=",
+                    "name": "VG Interactive Ltd",
+                    "color": "purple"
+                  }
+                ]
+              },
+              "Date to QA": {
+                "id": "q%7D%3F%5C",
+                "type": "date",
+                "date": null
+              },
+              "Sub-team": "AMZ Growth Team",
+              "Date Team Start": {
+                "id": "rKeG",
+                "type": "date",
+                "date": {
+                  "start": "2026-10-26",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "Created by": {
+                "id": "r%5BBI",
+                "type": "created_by",
+                "created_by": {
+                  "object": "user",
+                  "id": "29cd872b-594c-815b-9c2f-000273f33979",
+                  "name": "Ivan Baryshevskyi",
+                  "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLtWb3GtuytBCdkOqwPyT_azoc5_-FhfALTY-iDe7y3l9Ax0A=s100",
+                  "type": "person",
+                  "person": {
+                    "email": "ivan.baryshevskyi@vira.games",
+                    "email_verified": true
+                  }
+                }
+              },
+              "Tech Project Doc": "",
+              "Days Off Log": "",
+              "Sub-subscription 1": {
+                "id": "sCtp",
+                "type": "url",
+                "url": null
+              },
+              "Automated Team": {
+                "id": "sDNL",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "If release is not required:  Need Release checkbox is unchecked": false,
+              "UI": "",
+              "Test - Button Validation": null,
+              "Admob Key": "",
+              "Firebase Link": {
+                "id": "upQD",
+                "type": "url",
+                "url": null
+              },
+              "Monetization": [],
+              "Cross Promo Video status": "",
+              "Paused Art Days": {
+                "id": "vUVR",
+                "type": "number",
+                "number": null
+              },
+              "CPI (Mint) Test Dates": {
+                "id": "v%5Bi%60",
+                "type": "date",
+                "date": null
+              },
+              "Date Art Start (Notion)": {
+                "id": "v%5D~D",
+                "type": "date",
+                "date": null
+              },
+              "Last Status Change": {
+                "id": "wQFr",
+                "type": "date",
+                "date": {
+                  "start": "2026-10-26",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D1PTM": {
+                "id": "wgp%7B",
+                "type": "number",
+                "number": null
+              },
+              "Link to Promo": "https://drive.google.com/drive/u/0/folders/13XlTP6aCTkmEjxo4bAa_J_IYQTWkrLV3",
+              "[Creatives] Tasks": [],
+              "ipm TEST": {
+                "id": "xWSH",
+                "type": "number",
+                "number": null
+              },
+              "Art Assets Link": {
+                "id": "x%5C%3DY",
+                "type": "url",
+                "url": null
+              },
+              "Total installs": {
+                "id": "x%5DWz",
+                "type": "number",
+                "number": null
+              },
+              "LTV_180_US ": {
+                "id": "xfen",
+                "type": "number",
+                "number": null
+              },
+              "Sub-s Database": [],
+              "Amz Console: On Auto support": false,
+              "Create QA Task": true,
+              "Create UA Tasks": null,
+              "Paused Dev Days": {
+                "id": "y~fY",
+                "type": "number",
+                "number": null
+              },
+              "3D Artist": {
+                "id": "zHXV",
+                "type": "people",
+                "people": []
+              },
+              "Testing Start Date Rollup": "",
+              " GA Secret Key": "",
+              "Task Tracker Link": {
+                "id": "%7BIp%3F",
+                "type": "url",
+                "url": null
+              },
+              "D3INT": {
+                "id": "%7BL%5C%3B",
+                "type": "number",
+                "number": null
+              },
+              "Percent of Release": {
+                "id": "%7BRbl",
+                "type": "number",
+                "number": 100
+              },
+              "AppMagic Info": [],
+              "StartUp Time": {
+                "id": "%7BZ_P",
+                "type": "number",
+                "number": null
+              },
+              "D1BAN": {
+                "id": "%7BeFD",
+                "type": "number",
+                "number": null
+              },
+              "IPM (CP) Test Dates": {
+                "id": "%7Be%5E%3E",
+                "type": "date",
+                "date": null
+              },
+              "Platform": "AMZ",
+              "temp_tk_version_link": {
+                "id": "%7CeXN",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "Open ImportPackageWindow.cs"
+                }
+              },
+              "Screenshot Promo Request": false,
+              "Days Off Dev Work": {
+                "id": "%7Dcb%5B",
+                "type": "number",
+                "number": null
+              },
+              "Sub-item": [],
+              "Date Art Finish": {
+                "id": "%7Dwfx",
+                "type": "date",
+                "date": null
+              },
+              "GIT LINK": "https://gitlab.com/vira-games/amazon-projects/lyap-jelly-run-2048.git",
+              "Estimate Art Days": {
+                "id": "~%3BYy",
+                "type": "number",
+                "number": null
+              },
+              "D7PTM": {
+                "id": "~%3F%3B%40",
+                "type": "number",
+                "number": null
+              },
+              "Parent Project": [
+                "15b9748b-c8c2-80ba-bbc1-ff8572c55444"
+              ],
+              "Days in Dev -> QA (Notion)": {
+                "id": "~FLK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": 2
+                }
+              },
+              "BALANCE": "",
+              "Description for QA": "1.0.17",
+              "Prod Approved": false,
+              "Static Banner Promo Request": false,
+              "IPM": {
+                "id": "~oXr",
+                "type": "number",
+                "number": null
+              },
+              "Sent To QA": {
+                "id": "~sjG",
+                "type": "date",
+                "date": null
+              },
+              "Promo info checking": {
+                "id": "~wLr",
+                "type": "formula",
+                "formula": {
+                  "type": "boolean",
+                  "boolean": false
+                }
+              },
+              "Project": "jlmrmtz - Jelly Merge: Run & Match",
+              "Description": "",
+              "SubscriptionRevenueEvent": false,
+              "AMZ Metrics Date & Comment": "",
+              "GD 2": {
+                "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Amz StartUp Time": {
+                "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                "type": "number",
+                "number": null
+              },
+              "Status 2": "",
+              "Days": {
+                "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                "type": "number",
+                "number": null
+              },
+              "Asana Link": {
+                "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                "type": "url",
+                "url": null
+              },
+              "Need a new Video?": false
+            },
+            "created_time": "2026-10-26T08:41:00.000Z",
+            "last_edited_time": "2026-10-26T11:40:00.000Z",
+            "url": "https://app.notion.com/p/jlmrmtz-Jelly-Merge-Run-Match-0f79748bc8c283a191d80134379251f6"
+          }
+        }
+      }
+    }
+  }
+}
