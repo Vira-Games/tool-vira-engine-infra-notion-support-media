@@ -49,7 +49,7 @@
           "MainData": [
             "4059748b-c8c2-8133-bc26-eaca1522d375"
           ],
-          "(List)Bundle Version": "49",
+          "(List)Bundle Version": "50",
           "Platform": "AMZ",
           "💼 All Projects": [
             "0f79748b-c8c2-83a1-91d8-0134379251f6"
@@ -61,7 +61,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "49"
+              "string": "50"
             }
           },
           "ProjectKey": "4059748b-c8c2-8170-a312-ebd4e5c905e7",
@@ -124,7 +124,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "49"
+                  "string": "50"
                 }
               },
               "Platform": {
@@ -182,7 +182,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "49"
+                  "string": "50"
                 }
               },
               "Bundle Id": {
@@ -225,7 +225,7 @@
                   "ProductName": "Jelly Merge: Run & Match",
                   "BundleIdentifier": "com.jelly.merge.run",
                   "Version": "1.0.17",
-                  "BundleVersionCode": 49,
+                  "BundleVersionCode": 50,
                   "CompanyName": "VG Interactive Ltd"
                 },
                 "SDKSettings": {
@@ -324,7 +324,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 2
+                  "number": 4
                 }
               },
               "Are all prop. filled? ": {
@@ -354,7 +354,14 @@
                 "url": "https://hq1.appsflyer.com/unified-ltv/dashboard#appIds=com.jelly.merge.run-Amazon"
               },
               "Long Description": "",
-              "QA Task Status": "",
+              "QA Task Status": {
+                "type": "status",
+                "status": {
+                  "id": "Cl{b",
+                  "name": "Waiting fix",
+                  "color": "yellow"
+                }
+              },
               "BB SDK Key (Android)": "",
               "Days in Dev -> Release": {
                 "id": "%40gmG",
@@ -443,8 +450,8 @@
                 "id": "DYYJ",
                 "type": "status",
                 "status": {
-                  "id": "gPu~",
-                  "name": "DEVELOPMENT",
+                  "id": "wJo?",
+                  "name": "QA",
                   "color": "blue"
                 }
               },
@@ -465,7 +472,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-10-26T11:40:00.000Z"
+                "last_edited_time": "2026-10-28T13:59:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -525,7 +532,10 @@
                 "type": "url",
                 "url": null
               },
-              "QA Task File": "",
+              "QA Task File": {
+                "type": "files",
+                "files": []
+              },
               "Task from Growth": [],
               "ASO Name & Description": null,
               "External\\internal": "Internal",
@@ -659,7 +669,11 @@
                 "type": "formula",
                 "formula": {
                   "type": "date",
-                  "date": null
+                  "date": {
+                    "start": "2026-10-28T11:09:00.000+02:00",
+                    "end": null,
+                    "time_zone": null
+                  }
                 }
               },
               "Interstitial Key": "",
@@ -693,7 +707,9 @@
                 "type": "number",
                 "number": null
               },
-              "QA | Tasks": [],
+              "QA | Tasks": [
+                "4059748b-c8c2-81af-bd28-feec16849dc6"
+              ],
               "Fullsreen Banner Promo Request": false,
               "📽️ Creatives Team Tasks": [
                 "2389748b-c8c2-801b-a230-ed65f9f67d3b",
@@ -722,7 +738,7 @@
                 "type": "url",
                 "url": null
               },
-              "Bundle Version": "49",
+              "Bundle Version": "50",
               "Days for Art (Notion)": {
                 "id": "T%3Edc",
                 "type": "formula",
@@ -766,7 +782,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 0
+                  "number": 2
                 }
               },
               "parent": "jlmrmtz - Jelly Merge",
@@ -781,9 +797,9 @@
                 "type": "date",
                 "date": null
               },
-              "Task Create Info": "",
+              "Task Create Info": "✅ QA Task - Successfully Created!",
               "GDD Doc": "Jelly Run",
-              "Status Log": "2026-10-26 BACKLOG\n2026-10-26 WAITING FOR DEV\n2026-10-26 DEVELOPMENT",
+              "Status Log": "2026-10-26 BACKLOG\n2026-10-26 WAITING FOR DEV\n2026-10-26 DEVELOPMENT\n2026-10-27 QA",
               "Full Pack Amz": null,
               "Missing Info for QA Task": {
                 "id": "ZSo%3D",
@@ -833,7 +849,11 @@
               "Testing Start Date": {
                 "id": "%5DGkI",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-10-28T11:09:00.000+02:00",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "[Fullscreen Banner]": null,
               "CR_SUB_US": {
@@ -927,7 +947,7 @@
               "Public key": [
                 {
                   "name": "AppstoreAuthenticationKey.pem",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/a552e78a-7828-45f2-b330-e1ca2e32f247/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RWHHJQR7%2F20261026%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261026T114156Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAsaCXVzLXdlc3QtMiJGMEQCIHlAKXIfdKbhsrRM2Nt60IpX35QsR9wrkrxdZhS6WlqyAiANVvWMlvQwz3A7LzD4jvODrfYuIyF1Sde4o2tsjaD8DCqIBAjU%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMA0vC4WnDbH5Q%2BaP9KtwDTwtqBb4rtw6d9LPkoMrYCAlzOCikVleSxRbjSBFzKnUwiXsjBqpQF4urMFStGDUUEpSroayO2bhYe%2BX2he%2FreqndOq5QO2ryPHqUeqr%2Bvb92Z6HFuZGnOwWdf4m%2B0hymZJTnHYZfpLP6Zi%2B6C5pMI2mQSBWve2rPz72WniB53KmH%2FXmVmsRFdDUzfMIOyvWOPMbKKmMRWZyoU4WOujQb0T%2BxfU4uXKjmbwvDoTqrho9qJZua61z1Ei2ecrHOpSgc%2F6o6ctdBxKXuqPZWLSiQQbo6Io9SkZRkxg8rQFGsjV%2BJZSJqmf%2FF2vWYud9%2BkgBGpyHsQcB0ZpsOqkYl0cVSAKpU4WJ23SUQjVPal0ycu%2FyfyI0yI6AfFz36UYeBhRcPbKJqLJ1O3kAV8hTjvLv2ZqqmOfX9GZaF5ZZJsBTufJNWG89gtEqs66PABueRpBTL7MLsT7mV1f1yHvr%2FL2WZ5XlBpI4Ak%2Fk3YxzmT9Fo5BsMtEuIrK3OnLUOZDMA6%2BUxehevazsWjiWPEQlw0sDLhiGDazf0YH%2BCdFmJkIqxi2DGbeZn4BTGths9yboDPCrK4BXemRtS0HYuWVt2XnfI%2FgrDAmOYkKLgdwLvEwoGCeuUD%2BnZqpWEn3cV1m4wwub81gY6pgH60mCsdNukWJo4O6H8%2F42VFnO70hBfYhI8OTOMeBDmOmxSnxgOsQgqFqZiVX6C3TZHk6joXRxfhq%2B93yXTXgnBECzI7XO2jBPDVNbo240Lyq%2FIePyzUtuIsXgnuh2fM23TXtkT8TM4Uek07Ak8wNxFanNz7jgizadhOJcuZO046pmXOiTU6%2FWlxe1wV%2F1%2B44DFNi6cT8Y0pl264qrIn1JqEzfHByYH&X-Amz-Signature=fc199b7b713a763a6fa1929af9336f4427ba911cabe47726d27c097d13adf28d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/a552e78a-7828-45f2-b330-e1ca2e32f247/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WOPX2YLH%2F20261028%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261028T140134Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED0aCXVzLXdlc3QtMiJGMEQCIAX3%2Bn8nZq7VJaPyx4uCXWlEv8ZHhNFgj8dNQGHkemvNAiBUDyafljFFzbVNfQUt%2BxrWvlMPUc%2B6wu%2FA2Vt4mHkcMir%2FAwgFEAAaDDYzNzQyMzE4MzgwNSIM0AV6kfdHWWYb83EWKtwDnZ2TIuh1w5Td6U2wu5HSuHlqttpQf0bO62A65zrxB0vW0C102f3raunvMhyZHBSqLTvjIUd%2FeKg7cxSGPtC0reFMdOBFefYbH1XobmUM3ybmPRYVUtz8IvVULfuVeR3n50npN14hh%2FCXGstVm3vz%2BxG4NRH1zlNiG7X0kPDjo3JIozWpnTNCBk2MleNoopFMassUOrGDQr7uR4%2Fw0sG8wTO68hatoSLqGk%2BdFfM4Fx%2BlVthjl2MBsUQbvQUEILpvO%2BGZLxc1mgN%2B0HAq3Ikt859%2Fx6cvQ4f21xGAlHlGx8%2FMa1x%2FWWi1WVx53XFTBF%2FRBaU5CHX6GFVJbNx2RYC3a28TXnjjLFjE3H2p4MFIbByYbraA5xd8w9CDnxw8X3VBeggWVG66YMAoqTr2F1D1GDTxc6dWpPQ5eB4vk4TZr5PM%2BFLi3HYlERJyKBRV4qkz1ekjDgT4L8bldAd1d6ltcCLubHZxqDaLUS0UmDRs2vu7rswvrLAZ9F3Q17dzot1eQNtHShiXUn5%2BLiHr3RHre%2B98ezayy24zDn5PU68a61z6y%2Fe3mbzXoEVP3FS5vRURoQYxhZ30EhscNIDoEvVCnFOKOCfcpmJXv%2BgQVYSwtL6ZTbt7zK%2FZgvauBAsw8OCH1wY6pgF1zlWZCSa0tqx70hEcfSQY7jIgsz%2FtXle3TWO0%2FZMgQLX0IDGrdgBqb7KX6M0QgIpyp38IEB%2B0t00K%2B6KG0D7KtWAZVSMselxrN5qwSP3pbrsM6pGnv%2B6RTXDLp414se662PTWLV0reDSzhZgsi9X%2FW8kShtqCfU54Njdnl5W584JYQfshXw%2FHPUV256I5doX8ucwz8ndBMIGiFMGVADUNmORLZEs2&X-Amz-Signature=82aa539484c1dd44caae8b5a2d1da2bb735aabf28f383618a3646a8d6e3b8984&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "Q4_26",
@@ -942,7 +962,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": null
+                  "number": 1
                 }
               },
               "Crit Bugs": "",
@@ -992,7 +1012,7 @@
                 "number": null
               },
               "Vaveda_secret": "JbRkwfmTi1KYoAQtDwcCAFLNyXOr45N3",
-              "ViraToolKit version": "2.0.2",
+              "ViraToolKit version": "2.1.0",
               "Priority": "Mid",
               "App ID(iOS)": "",
               "Int&Port Epics": [],
@@ -1028,7 +1048,22 @@
               "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
               "Goals": "",
               "Firebase JSON": [],
-              "QA": "",
+              "QA": {
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "123d872b-594c-81ee-b257-0002268a7d53",
+                    "name": "Andriy Vashchenko",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/3eefd71b-f7fc-4b13-b1d6-ad598e2addf2/photo_2024-10-21_17-28-38.jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "andriy.vashchenko@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
               "Hypothesys": [],
               "AMZ appId": "",
               "Opt-In": {
@@ -1037,17 +1072,22 @@
                 "number": null
               },
               "Pause Reason": "",
-              "New Tasks & Requests": [],
+              "New Tasks & Requests": [
+                "3e49748b-c8c2-8017-9459-f5b145a1877a"
+              ],
               "Last edited by": {
                 "id": "qUWF",
                 "type": "last_edited_by",
                 "last_edited_by": {
                   "object": "user",
-                  "id": "d2a40019-35c7-4f1d-ba7d-60b6e69156cf",
-                  "name": "Vira Games Bot",
-                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/fd380fc7-4a92-46e4-a41a-6ad344658455/769f4190-9660-4651-b591-23baedfed961png.png",
-                  "type": "bot",
-                  "bot": {}
+                  "id": "2d1d872b-594c-810b-b7b3-0002094a6fd8",
+                  "name": "Maksym Zynych",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6d883be-2230-4c92-8fac-6f77bf2fcf9d/photo_2025-12-24_21-30-36_(2).jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "maksym.zynych@vira.games",
+                    "email_verified": true
+                  }
                 }
               },
               "Account": {
@@ -1133,7 +1173,7 @@
                 "id": "wQFr",
                 "type": "date",
                 "date": {
-                  "start": "2026-10-26",
+                  "start": "2026-10-27",
                   "end": null,
                   "time_zone": null
                 }
@@ -1179,7 +1219,14 @@
                 "type": "people",
                 "people": []
               },
-              "Testing Start Date Rollup": "",
+              "Testing Start Date Rollup": {
+                "type": "date",
+                "date": {
+                  "start": "2026-10-28T11:09:00.000+02:00",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
               " GA Secret Key": "",
               "Task Tracker Link": {
                 "id": "%7BIp%3F",
@@ -1267,7 +1314,11 @@
               "Sent To QA": {
                 "id": "~sjG",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-10-27",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "Promo info checking": {
                 "id": "~wLr",
@@ -1305,7 +1356,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-10-26T08:41:00.000Z",
-            "last_edited_time": "2026-10-26T11:40:00.000Z",
+            "last_edited_time": "2026-10-28T13:59:00.000Z",
             "url": "https://app.notion.com/p/jlmrmtz-Jelly-Merge-Run-Match-0f79748bc8c283a191d80134379251f6"
           }
         }
