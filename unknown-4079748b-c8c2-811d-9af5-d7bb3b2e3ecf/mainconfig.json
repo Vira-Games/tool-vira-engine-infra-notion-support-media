@@ -1,0 +1,1305 @@
+{
+  "pageId": "4079748b-c8c2-811d-9af5-d7bb3b2e3ecf",
+  "notionToken": "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",
+  "configData": {
+    "pages": {
+      "Snake_Rush__Clash_Battle_3D__TV_": {
+        "id": "4079748b-c8c2-811d-9af5-d7bb3b2e3ecf",
+        "title": "Snake Rush: Clash Battle 3D [TV]",
+        "properties": {
+          "ProductCatalog": [
+            "4079748b-c8c2-810d-96a4-d5a3384a9163"
+          ],
+          "MaxParent": {
+            "id": "F%7BpA",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "snrcbtz - Snake Rush: Clash Battle 3D [TV]"
+            }
+          },
+          "MaxParentLinkToPromo": {
+            "id": "GC%3FS",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "https://drive.google.com/drive/folders/1oubTDcI9bPMGCRl2PjrbeQ5pnYUNFGQ6"
+            }
+          },
+          "(List)BundleId": "com.vira.snake.battle",
+          "MaxParentBundleID": {
+            "id": "LAsk",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "com.vira.snake.battle"
+            }
+          },
+          "MaxParentVersion": {
+            "id": "Njfg",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "1.3.9"
+            }
+          },
+          "Subscription Settings": [
+            "4079748b-c8c2-8101-9ab2-ef82fa94a079"
+          ],
+          "MainData": [
+            "4079748b-c8c2-8188-82a8-c55843ab6ad6"
+          ],
+          "(List)Bundle Version": "27",
+          "Platform": "Fire TV",
+          "💼 All Projects": [
+            "7799748b-c8c2-828f-af5a-81b7187f2b21"
+          ],
+          "RefreshConfig": null,
+          "(List)Version": "1.3.9",
+          "MaxParentBundleVersion": {
+            "id": "fVoO",
+            "type": "formula",
+            "formula": {
+              "type": "string",
+              "string": "27"
+            }
+          },
+          "ProjectKey": "4079748b-c8c2-811d-9af5-d7bb3b2e3ecf",
+          "(List)LinkToPromo": "https://drive.google.com/drive/folders/1oubTDcI9bPMGCRl2PjrbeQ5pnYUNFGQ6",
+          "Name": "Snake Rush: Clash Battle 3D [TV]"
+        },
+        "created_time": "2026-10-28T08:50:00.000Z",
+        "last_edited_time": "2026-10-28T08:50:00.000Z",
+        "url": "https://app.notion.com/p/Snake-Rush-Clash-Battle-3D-TV-4079748bc8c2811d9af5d7bb3b2e3ecf",
+        "children": {
+          "Snake_Rush__Clash_Battle_3D__TV__ProductCatalog": {
+            "id": "4079748b-c8c2-810d-96a4-d5a3384a9163",
+            "title": "Snake Rush: Clash Battle 3D [TV] ProductCatalog",
+            "properties": {
+              "Parent": [
+                "4079748b-c8c2-811d-9af5-d7bb3b2e3ecf"
+              ],
+              "Products": [],
+              "Name": "Snake Rush: Clash Battle 3D [TV] ProductCatalog"
+            },
+            "created_time": "2026-10-28T08:50:00.000Z",
+            "last_edited_time": "2026-10-28T08:50:00.000Z",
+            "url": "https://app.notion.com/p/Snake-Rush-Clash-Battle-3D-TV-ProductCatalog-4079748bc8c2810d96a4d5a3384a9163"
+          },
+          "Snake_Rush__Clash_Battle_3D__TV__SubDataCatalog": {
+            "id": "4079748b-c8c2-8101-9ab2-ef82fa94a079",
+            "title": "Snake Rush: Clash Battle 3D [TV] SubDataCatalog",
+            "properties": {
+              "Parent": [
+                "4079748b-c8c2-811d-9af5-d7bb3b2e3ecf"
+              ],
+              "Platform": "Fire TV",
+              "Subscriptions": [],
+              "Apply": null,
+              "bundleID": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": null
+                }
+              },
+              "Name": "Snake Rush: Clash Battle 3D [TV] SubDataCatalog"
+            },
+            "created_time": "2026-10-28T08:50:00.000Z",
+            "last_edited_time": "2026-10-28T08:50:00.000Z",
+            "url": "https://app.notion.com/p/Snake-Rush-Clash-Battle-3D-TV-SubDataCatalog-4079748bc8c281019ab2ef82fa94a079"
+          },
+          "Snake_Rush__Clash_Battle_3D__TV__MainData": {
+            "id": "4079748b-c8c2-8188-82a8-c55843ab6ad6",
+            "title": "Snake Rush: Clash Battle 3D [TV] MainData",
+            "properties": {
+              "LinkToPromoRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/folders/1oubTDcI9bPMGCRl2PjrbeQ5pnYUNFGQ6"
+                }
+              },
+              "BundleVersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "27"
+                }
+              },
+              "Platform": {
+                "id": "%3AyyE",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "139dd12c-6430-4f6c-9f32-0ec4ef9119d4",
+                    "name": "Fire TV",
+                    "color": "purple"
+                  }
+                ]
+              },
+              "Paid/Free": {
+                "id": "Bnjr",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "6d413263-fd96-4e54-b9d6-149ca9645a38",
+                    "name": "Free",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "App Name": "Snake Rush: Clash Battle 3D",
+              "Version": {
+                "id": "PczY",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.3.9"
+                }
+              },
+              "Vaveda_key": "snrcbtz",
+              "Link to Promo": {
+                "id": "%5CVgk",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "https://drive.google.com/drive/folders/1oubTDcI9bPMGCRl2PjrbeQ5pnYUNFGQ6"
+                }
+              },
+              "VersionRollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "1.3.9"
+                }
+              },
+              "Parent": [
+                "4079748b-c8c2-811d-9af5-d7bb3b2e3ecf"
+              ],
+              "Bundle Version": {
+                "id": "%5D~p%60",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "27"
+                }
+              },
+              "Bundle Id": {
+                "id": "%5E%7D%3Aj",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.vira.snake.battle"
+                }
+              },
+              "Account": {
+                "id": "e%7C~F",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "9ecec9b7-588e-4561-be81-1d12af7a34f4",
+                    "name": "Vira Games Inc",
+                    "color": "pink"
+                  }
+                ]
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Bundle Id Rollup": {
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "com.vira.snake.battle"
+                }
+              },
+              "Vaveda_secret": "E7vz2rUbyWqPmlyoiSwUwD2YNmX7jC8s",
+              "Name": "Snake Rush: Clash Battle 3D [TV] MainData"
+            },
+            "created_time": "2026-10-28T08:50:00.000Z",
+            "last_edited_time": "2026-10-28T08:52:00.000Z",
+            "url": "https://app.notion.com/p/Snake-Rush-Clash-Battle-3D-TV-MainData-4079748bc8c2818882a8c55843ab6ad6",
+            "TkFormtProjectSettings": {
+              "ProjectSettingsWindow": {
+                "Params": {
+                  "LinkToPromo": "https://drive.google.com/drive/folders/1oubTDcI9bPMGCRl2PjrbeQ5pnYUNFGQ6",
+                  "ProductName": "Snake Rush: Clash Battle 3D",
+                  "BundleIdentifier": "com.vira.snake.battle",
+                  "Version": "1.3.9",
+                  "BundleVersionCode": 27,
+                  "CompanyName": "Vira Games Inc"
+                },
+                "SDKSettings": {
+                  "Keys": [
+                    {
+                      "KeyName": "AF_SdkKey",
+                      "Key": "c5Lyueqt3HREQyHzEAiE9M"
+                    },
+                    {
+                      "KeyName": "JAM_AppKey",
+                      "Key": "snrcbtz"
+                    },
+                    {
+                      "KeyName": "JAM_SecretKey",
+                      "Key": "E7vz2rUbyWqPmlyoiSwUwD2YNmX7jC8s"
+                    }
+                  ],
+                  "IsAmazon": true
+                }
+              }
+            }
+          },
+          "Page_7799748b-c8c2-828f-af5a-81b7187f2b21": {
+            "id": "7799748b-c8c2-828f-af5a-81b7187f2b21",
+            "title": "Page 7799748b-c8c2-828f-af5a-81b7187f2b21",
+            "properties": {
+              "CR_SUB_WW": {
+                "id": "%3A%3Br_",
+                "type": "number",
+                "number": null
+              },
+              "Create Paid Promo Rebuild ": null,
+              "Dev Unique Days": {
+                "id": "%3ArkJ",
+                "type": "number",
+                "number": null
+              },
+              "Installs US": {
+                "id": "%3Au%7BN",
+                "type": "number",
+                "number": null
+              },
+              "Creatives Status": {
+                "id": "%3B%60E%3C",
+                "type": "status",
+                "status": {
+                  "id": "d54d8b19-0679-4eb1-9b84-e40229ae1fbc",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "[Icon]": null,
+              "TOP AMZ for Sub Screen Upates": [],
+              "Ref Name": "",
+              "Days for Dev": {
+                "id": "%3C%3EbT",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "ASIN": "B0FH9Z1B91",
+              "Missing Info for Dev(Cross)": {
+                "id": "%3Cv%60H",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Date Team Start\n⚠️ Date Team Finish"
+                }
+              },
+              "New promo link": {
+                "id": "%3DU%3BG",
+                "type": "url",
+                "url": null
+              },
+              "Date Dev Start (Notion)": {
+                "id": "%3D%7B%3Ej",
+                "type": "date",
+                "date": null
+              },
+              "Art Unique Days": {
+                "id": "%3EAsC",
+                "type": "number",
+                "number": null
+              },
+              "Clone": null,
+              "Days in Dev -> Release (Notion)": {
+                "id": "%3EkOQ",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Are all prop. filled? ": {
+                "id": "%3Epbv",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "false"
+                }
+              },
+              "Paused Days": {
+                "id": "%3FIxp",
+                "type": "number",
+                "number": null
+              },
+              "All Projects Info Old": [],
+              "Paused QA Days": {
+                "id": "%3FnWO",
+                "type": "number",
+                "number": null
+              },
+              "AF Link": {
+                "id": "%40G%5E%3A",
+                "type": "url",
+                "url": "https://hq1.appsflyer.com/unified-ltv/dashboard#appIds=com.vira.snake.battle"
+              },
+              "Long Description": "",
+              "QA Task Status": "",
+              "BB SDK Key (Android)": "",
+              "Days in Dev -> Release": {
+                "id": "%40gmG",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Icon Promo Request": false,
+              "pLTV 180": {
+                "id": "%40zGB",
+                "type": "number",
+                "number": null
+              },
+              "Developer": {
+                "id": "%40%7Cvk",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "2d1d872b-594c-810b-b7b3-0002094a6fd8",
+                    "name": "Maksym Zynych",
+                    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6d883be-2230-4c92-8fac-6f77bf2fcf9d/photo_2025-12-24_21-30-36_(2).jpg",
+                    "type": "person",
+                    "person": {
+                      "email": "maksym.zynych@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "PROGRESSION": "",
+              "🎯 AllPages": [],
+              "Project Subs Metrics": [],
+              "Status (Copy)": {
+                "id": "BVo%40",
+                "type": "status",
+                "status": {
+                  "id": "gPu~",
+                  "name": "DEVELOPMENT",
+                  "color": "blue"
+                }
+              },
+              "Mintegral Status": "",
+              "Creo Link": "",
+              "Days Start-Finish": {
+                "id": "Bzh%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Sum SP": "",
+              "Created time": {
+                "id": "B~Qf",
+                "type": "created_time",
+                "created_time": "2026-10-27T12:46:00.000Z"
+              },
+              "All subscriptions for the current build are filled": true,
+              "Missing info for Promo rebuild": {
+                "id": "CkT%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "CPI": {
+                "id": "Cxr%40",
+                "type": "number",
+                "number": null
+              },
+              "Teams use": {
+                "id": "D%40CI",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Estimate Dev Days": {
+                "id": "DX%60A",
+                "type": "number",
+                "number": null
+              },
+              "Status": {
+                "id": "DYYJ",
+                "type": "status",
+                "status": {
+                  "id": "5b34ebb7-5193-48a8-914d-34edd1e9868b",
+                  "name": "BACKLOG",
+                  "color": "gray"
+                }
+              },
+              "Date Development Status Set": {
+                "id": "D%60fU",
+                "type": "date",
+                "date": null
+              },
+              "Date Dev Start": {
+                "id": "Data",
+                "type": "date",
+                "date": null
+              },
+              "Last edited time": {
+                "id": "Dj%3Fm",
+                "type": "last_edited_time",
+                "last_edited_time": "2026-10-28T08:51:00.000Z"
+              },
+              "Project Link": {
+                "id": "DjJJ",
+                "type": "url",
+                "url": "https://www.notion.so/Snake-Rush-Clash-Battle-3D-2349748bc8c280f6aa33c372452b1381"
+              },
+              "Date Art Finish (Notion)": {
+                "id": "Do%3DG",
+                "type": "date",
+                "date": null
+              },
+              "Bundle ID": "com.vira.snake.battle",
+              "Price": {
+                "id": "EUeu",
+                "type": "number",
+                "number": null
+              },
+              "Project Score Analysys": "",
+              "[Promo] Tasks ": [],
+              "TECH": "",
+              "CTR TEST": {
+                "id": "Ejyo",
+                "type": "number",
+                "number": null
+              },
+              "Subscription screen changes include links to actual references (expected UI)": true,
+              "Days Off Dev Release": {
+                "id": "F%3D%5DY",
+                "type": "number",
+                "number": null
+              },
+              "GD": {
+                "id": "FHAP",
+                "type": "people",
+                "people": [
+                  {
+                    "object": "user",
+                    "id": "29cd872b-594c-815b-9c2f-000273f33979",
+                    "name": "Ivan Baryshevskyi",
+                    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLtWb3GtuytBCdkOqwPyT_azoc5_-FhfALTY-iDe7y3l9Ax0A=s100",
+                    "type": "person",
+                    "person": {
+                      "email": "ivan.baryshevskyi@vira.games",
+                      "email_verified": true
+                    }
+                  }
+                ]
+              },
+              "CONTENT": "",
+              "Due": {
+                "id": "FaCd",
+                "type": "date",
+                "date": null
+              },
+              "Link to Old Promo": {
+                "id": "FbpI",
+                "type": "url",
+                "url": null
+              },
+              "QA Task File": "",
+              "Task from Growth": [],
+              "ASO Name & Description": null,
+              "External\\internal": "",
+              "⏺️ ASO | Calendar": [
+                "2389748b-c8c2-81e6-8d66-f03cbb7c8a78",
+                "2389748b-c8c2-81c0-975c-d0fc2540c094",
+                "2389748b-c8c2-8104-a27c-f6aede59e7eb"
+              ],
+              "Product Features": "",
+              "Promo Task ": [],
+              "Monetization DB": [],
+              "Banner Key": "",
+              "Date Info Updated": {
+                "id": "HqDO",
+                "type": "date",
+                "date": null
+              },
+              "Short Description": "",
+              "Creo Status": "",
+              "Amz Int & Port Tasks Template": null,
+              "Tools": {
+                "id": "IZP%3F",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Days Off Dev": {
+                "id": "Ia%5BC",
+                "type": "number",
+                "number": null
+              },
+              "CreateTKSettings": null,
+              "Subscription JSON": [],
+              "GetGitlabInfo": null,
+              "Days Start-Release": {
+                "id": "JXlK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "AMZ releaseId": "",
+              "[Logotype]": null,
+              "CR Subs, %": {
+                "id": "KKZH",
+                "type": "number",
+                "number": null
+              },
+              "Data Check (Status)": {
+                "id": "KW%7C%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": ""
+                }
+              },
+              "Paused Dev Release Days": {
+                "id": "KilJ",
+                "type": "number",
+                "number": null
+              },
+              "Date": {
+                "id": "LkTZ",
+                "type": "date",
+                "date": null
+              },
+              "D3REW": {
+                "id": "M%5E%40L",
+                "type": "number",
+                "number": null
+              },
+              "Each config has its own separate description": true,
+              "CR Total, %": {
+                "id": "MguI",
+                "type": "number",
+                "number": null
+              },
+              "D7INT": {
+                "id": "MqkG",
+                "type": "number",
+                "number": null
+              },
+              "PaidConfigGroup": [],
+              "D1INT": {
+                "id": "N%3AM%60",
+                "type": "number",
+                "number": null
+              },
+              "Automation Info (AppStore)": "",
+              "Estimate Art Days (by Velocity)": {
+                "id": "NE%5E%7C",
+                "type": "number",
+                "number": null
+              },
+              "Previous Status": {
+                "id": "NSz%7D",
+                "type": "status",
+                "status": {
+                  "id": "wJo?",
+                  "name": "QA",
+                  "color": "blue"
+                }
+              },
+              "Traffic Source": {
+                "id": "N%5E%3Cm",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Game Type": {
+                "id": "NcId",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "j=mr",
+                    "name": "Reskin",
+                    "color": "pink"
+                  },
+                  {
+                    "id": "D~zu",
+                    "name": "Clone",
+                    "color": "yellow"
+                  }
+                ]
+              },
+              "Create Task (No Check)": null,
+              "Developer AMZ AppStore Link": "",
+              "pLTV 7": {
+                "id": "OPM%5C",
+                "type": "number",
+                "number": null
+              },
+              "Formula Testing Start Date": {
+                "id": "OgCj",
+                "type": "formula",
+                "formula": {
+                  "type": "date",
+                  "date": null
+                }
+              },
+              "Interstitial Key": "",
+              "BB Game ID (iOS)": "",
+              "Team ": "AMZ Direction (Growth)",
+              "Date Art Start": {
+                "id": "Pc%5DV",
+                "type": "date",
+                "date": null
+              },
+              "Ref Link": "https://play.google.com/store/apps/details?gl=US&hl=en-US&id=io.supercent.linkedcubic",
+              "Build Paid Icon": null,
+              "Bugs with status “Fix in Next Update” from previous iterations are reviewed": true,
+              "Create Paid Icon": null,
+              "ByteBrew Link": {
+                "id": "QD%3Cd",
+                "type": "url",
+                "url": null
+              },
+              "Outdated / unused elements are removed from GDD": true,
+              "Applovin Key": "",
+              "Full Pack  Fire TV ": null,
+              "iPad Screens": {
+                "id": "R%5EzP",
+                "type": "url",
+                "url": null
+              },
+              "Version": "1.3.9",
+              "Show": {
+                "id": "RfDI",
+                "type": "number",
+                "number": null
+              },
+              "QA | Tasks": [],
+              "Fullsreen Banner Promo Request": false,
+              "📽️ Creatives Team Tasks": [
+                "3299748b-c8c2-81e2-8449-dff2e82b6a11"
+              ],
+              "Bright SDK Review Status": {
+                "id": "SXax",
+                "type": "status",
+                "status": {
+                  "id": "f59166a1-3c86-4c75-9e4a-4b7434a37043",
+                  "name": "Implementation",
+                  "color": "default"
+                }
+              },
+              "Days for Art": {
+                "id": "SdR%3B",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "iPhone Screens": {
+                "id": "SeX%7C",
+                "type": "url",
+                "url": null
+              },
+              "Bundle Version": "27",
+              "Days for Art (Notion)": {
+                "id": "T%3Edc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "BB SDK Key (iOS)": "",
+              "Feature description matches the latest implementation": true,
+              "Create New \"QA Task\"": null,
+              "Status  Promo": {
+                "id": "TWT%3A",
+                "type": "status",
+                "status": {
+                  "id": "b83712a1-5e87-48dd-9ebf-99670c500f14",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Click": {
+                "id": "TkDm",
+                "type": "number",
+                "number": null
+              },
+              "GA Game Key": "",
+              "CTR Video link": "",
+              "ASO/PROMO Full Pack GP/IOS: ProjectName": null,
+              "Link to Automation": {
+                "id": "VRV%3B",
+                "type": "url",
+                "url": null
+              },
+              "Estimate Dev Days  (by Velocity)": {
+                "id": "VZsx",
+                "type": "number",
+                "number": null
+              },
+              "Days in QA (Notion)": {
+                "id": "VgPc",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "parent": "Snake Clash!",
+              "Genre": {
+                "id": "V~Gf",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "7f7ef6c0-e2a1-40d6-88ca-a8d5dafdb192",
+                    "name": "IO",
+                    "color": "yellow"
+                  }
+                ]
+              },
+              "BB Game ID (Android)": "",
+              "Date QA Finished": {
+                "id": "X%5Cma",
+                "type": "date",
+                "date": null
+              },
+              "Task Create Info": "",
+              "GDD Doc": "Snake Clash",
+              "Status Log": "2026-10-27 BACKLOG",
+              "Full Pack Amz": null,
+              "Missing Info for QA Task": {
+                "id": "ZSo%3D",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Date Team Start\n⚠️ Date Team Finish"
+                }
+              },
+              "[Screenshots]": null,
+              "Specialist": {
+                "id": "Zy%3F%3A",
+                "type": "people",
+                "people": []
+              },
+              "A/B Group": "",
+              "Full Pack TV Promo Request": false,
+              "Date Team Finish": {
+                "id": "%5B%5E%3AX",
+                "type": "date",
+                "date": null
+              },
+              "IPM STATIC": {
+                "id": "%5Bagu",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_key": "snrcbtz",
+              "Days in Dev -> QA": {
+                "id": "%5CMV%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Groups": [],
+              "D1RET": {
+                "id": "%5D%3DAl",
+                "type": "number",
+                "number": null
+              },
+              "Testing Start Date": {
+                "id": "%5DGkI",
+                "type": "date",
+                "date": null
+              },
+              "[Fullscreen Banner]": null,
+              "CR_SUB_US": {
+                "id": "%5Dz%7CJ",
+                "type": "number",
+                "number": null
+              },
+              "D7BAN": {
+                "id": "%5E%3A%3F%3B",
+                "type": "number",
+                "number": null
+              },
+              "MONETIZATION": "",
+              "D3BAN": {
+                "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "Full game name": "Snake Rush: Clash Battle 3D",
+              "Firebase PLIST": [],
+              "Days Off QA": {
+                "id": "_Tj%5C",
+                "type": "number",
+                "number": null
+              },
+              "Are all prop filled": {
+                "id": "_%5D%5E%3A",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "⚠️ Date to QA"
+                }
+              },
+              "D1REW": {
+                "id": "_bnb",
+                "type": "number",
+                "number": null
+              },
+              "Paused Dev Work Days": {
+                "id": "_sLx",
+                "type": "number",
+                "number": null
+              },
+              "ASO Name & Descripton Request": false,
+              "Build changes are marked in the task": true,
+              "Unity version": "",
+              "Promo status info": "",
+              "Average FPS": {
+                "id": "a%3Fdf",
+                "type": "number",
+                "number": null
+              },
+              "Autobuild_buildNumber": "",
+              "Polishing": "",
+              "ExtraComments": "",
+              "Full Pack Promo Request": false,
+              "Art Subs Links": "",
+              "Sprint": {
+                "id": "afeU",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Documentation link": "Snake Rush",
+              "Clone From": "",
+              "D7RET": {
+                "id": "bE%7C%3A",
+                "type": "number",
+                "number": null
+              },
+              "Test - Button No Validation": null,
+              "Release Type": "A/B Test",
+              "GDD is updated for the current game version": true,
+              "Link to ASO": {
+                "id": "d%3BwX",
+                "type": "url",
+                "url": "https://app.asana.com/1/1173930693441958/project/1204202760463983/task/1210522091558317?focus=true"
+              },
+              "Create Paid Banner": null,
+              "Prod Promo Approve": "",
+              "RW Key": "",
+              "Art Content Table": null,
+              "What's new": "1 конфигурация  релизная\n2 конфигурация - тест триал пописки",
+              "Promo Icon": [],
+              "100% Release Date": {
+                "id": "e%5Ec%7C",
+                "type": "date",
+                "date": null
+              },
+              "Api key": "",
+              "[Static Banner]": null,
+              "Public key": [
+                {
+                  "name": "AppstoreAuthenticationKey.pem",
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/0a87e184-f4bf-48e2-8e23-b9687de53b33/AppstoreAuthenticationKey.pem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VZY4BUOT%2F20261028%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261028T085211Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDgaCXVzLXdlc3QtMiJHMEUCIQCD3PYdzHcp251Xtot59hFU2PbD3vf2D8%2FrJB%2FqfEPfqAIgA8Y%2FSQDfutcq2WZKdehofRGt%2FMhz%2BNOPPHz%2FmNtOb%2Fsq%2FwMIARAAGgw2Mzc0MjMxODM4MDUiDIF8hcarWcpkxnh57yrcAysfEIJ%2B0FyRja9rj4VbvySHdT9RqQdBXm%2B5ExZ%2BoZYVWgp0ajPjrMWu8IKYG3ECB5m0TMpb8pTuCXkcMfUkXrYqCNkD0Hs7%2BiY6BMmZ1fd1LrdbYf4ye6yZzPjGocVRICB28k%2FBOfAgTohf%2BuFFA1h%2FpoZVeoDtIzGeg20ghWGW6PESmdCTwyxN2Yt0A2HiebLzYTm6mzYSreJw2R%2FGaCJQz9oEYsAjE5yHOiMlX872cFJTGdoZkTDznMmyULupsNbtlv8lf380ycehSW07WrSluFl7%2Bkoh%2B7%2BhV8dw2tfGRXq6A7wr8TZD2SUXbyDH1WITNpFaKXBQiaAPffjQQik0q05wZlXaqObMwNlmZwv12Zh2JSpoD8khPumX6P0%2Bp1a6YFuBppmO%2B6WESZ2l1RRmUEIIkyUb8dRGwnwr4bKxrGBTCVnVxQCaJwbJWZawHsJdDAJJ5xJrhluEdLi544D6A1QxfJgJxr0LWsb6j%2B78p%2B5jw6jjgN2Witk5LAuMcX7R5z7QrXA%2FYAAlE0KlplqVMu4s4GJNlsG2VYaOCYu0G188zkn4krkRExbCvZ8ho95pjlk4gWDex%2BlxWzFTodNACCHAj%2F9YYkCY6bd42We7on2rkusGHZfb2SrVMLHXhtcGOqUBKH7ylYgyn9tfRzsw1b0kAQtmEStyZfgakX8BLG3o2x92Mc0VibuJCoKw3Pahv%2BdZrmdDBguzn60ZlGB9oPiqEoAqEeGPeqL0DKIhDkXpQp1LWBzfuTuaAamPhIL946d%2B3HW2epgjkg3cpwCAEXOlHRI4LevpMG7bKBbevYpjrSSyqPnTTmK20sUwmQoHGE%2BsVJ3vCu5%2BBNVOQhxGzghUKmrxOYYt&X-Amz-Signature=e046a8c0b35f7a5c9bd1493c667884402859e12a7c0dc4365f149e4512318102&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                }
+              ],
+              "Quarter": "Q4_26",
+              "Create AF & Vaveda Pages": null,
+              "LTV_180_WW": {
+                "id": "gCUp",
+                "type": "number",
+                "number": null
+              },
+              "Days in QA": {
+                "id": "gmCu",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "Crit Bugs": "",
+              "IPM(CP)": {
+                "id": "hQ%5C%5B",
+                "type": "number",
+                "number": null
+              },
+              "Refund Rate": {
+                "id": "h%5Cxv",
+                "type": "number",
+                "number": null
+              },
+              "PROMO: Loading Screen": null,
+              "Keywords": "",
+              "IOS Distribution profile": [],
+              "PROMO - Logo: Project Name": null,
+              "Status 1": {
+                "id": "ihRL",
+                "type": "status",
+                "status": {
+                  "id": "613cbe9e-ed36-4e08-b69f-b25fa3966e84",
+                  "name": "Not started",
+                  "color": "default"
+                }
+              },
+              "Logotype Banner Promo Request": false,
+              "Slack Channel Link": "https://viragames.slack.com/archives/C08PTDMDSE4",
+              "CTR": {
+                "id": "jqbZ",
+                "type": "number",
+                "number": null
+              },
+              "Full Pack GP": {
+                "id": "k%60op",
+                "type": "url",
+                "url": null
+              },
+              "D3PTM": {
+                "id": "kamA",
+                "type": "number",
+                "number": null
+              },
+              "D7REW": {
+                "id": "kuEV",
+                "type": "number",
+                "number": null
+              },
+              "Vaveda_secret": "E7vz2rUbyWqPmlyoiSwUwD2YNmX7jC8s",
+              "ViraToolKit version": "2.0.2",
+              "Priority": "",
+              "App ID(iOS)": "",
+              "Int&Port Epics": [],
+              "ToolKitSettings": [
+                "4079748b-c8c2-811d-9af5-d7bb3b2e3ecf"
+              ],
+              "Link to store": "https://www.amazon.com/dp/B0FH9Z1B91",
+              "QA checking": "",
+              "Date Release": {
+                "id": "nTQx",
+                "type": "date",
+                "date": null
+              },
+              "Days Off Art": {
+                "id": "nY%7D%5D",
+                "type": "number",
+                "number": null
+              },
+              "D3RET": {
+                "id": "n%5CF~",
+                "type": "number",
+                "number": null
+              },
+              "Cross-Promo AMZ": [],
+              "Paid\\Free": "Free",
+              "AMZ AppStore": null,
+              "RESULTS": "",
+              "Date Dev Finish": {
+                "id": "o%3B%3EM",
+                "type": "date",
+                "date": null
+              },
+              "AF Key": "c5Lyueqt3HREQyHzEAiE9M",
+              "Goals": "",
+              "Firebase JSON": [],
+              "QA": "",
+              "Hypothesys": [],
+              "AMZ appId": "",
+              "Opt-In": {
+                "id": "p_Ic",
+                "type": "number",
+                "number": null
+              },
+              "Pause Reason": "",
+              "New Tasks & Requests": [],
+              "Last edited by": {
+                "id": "qUWF",
+                "type": "last_edited_by",
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "2d1d872b-594c-810b-b7b3-0002094a6fd8",
+                  "name": "Maksym Zynych",
+                  "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c6d883be-2230-4c92-8fac-6f77bf2fcf9d/photo_2025-12-24_21-30-36_(2).jpg",
+                  "type": "person",
+                  "person": {
+                    "email": "maksym.zynych@vira.games",
+                    "email_verified": true
+                  }
+                }
+              },
+              "Account": {
+                "id": "qhXd",
+                "type": "multi_select",
+                "multi_select": [
+                  {
+                    "id": "cd4ae8a7-72b6-4051-8d1d-1a17973ae494",
+                    "name": "Vira Games Inc",
+                    "color": "blue"
+                  }
+                ]
+              },
+              "Date to QA": {
+                "id": "q%7D%3F%5C",
+                "type": "date",
+                "date": null
+              },
+              "Sub-team": "AMZ Growth Team",
+              "Date Team Start": {
+                "id": "rKeG",
+                "type": "date",
+                "date": null
+              },
+              "Created by": {
+                "id": "r%5BBI",
+                "type": "created_by",
+                "created_by": {
+                  "object": "user",
+                  "id": "29cd872b-594c-815b-9c2f-000273f33979",
+                  "name": "Ivan Baryshevskyi",
+                  "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLtWb3GtuytBCdkOqwPyT_azoc5_-FhfALTY-iDe7y3l9Ax0A=s100",
+                  "type": "person",
+                  "person": {
+                    "email": "ivan.baryshevskyi@vira.games",
+                    "email_verified": true
+                  }
+                }
+              },
+              "Tech Project Doc": "",
+              "Days Off Log": "",
+              "Sub-subscription 1": {
+                "id": "sCtp",
+                "type": "url",
+                "url": null
+              },
+              "Automated Team": {
+                "id": "sDNL",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "If release is not required:  Need Release checkbox is unchecked": true,
+              "UI": "",
+              "Test - Button Validation": null,
+              "Admob Key": "",
+              "Firebase Link": {
+                "id": "upQD",
+                "type": "url",
+                "url": null
+              },
+              "Monetization": [],
+              "Cross Promo Video status": "",
+              "Paused Art Days": {
+                "id": "vUVR",
+                "type": "number",
+                "number": null
+              },
+              "CPI (Mint) Test Dates": {
+                "id": "v%5Bi%60",
+                "type": "date",
+                "date": null
+              },
+              "Date Art Start (Notion)": {
+                "id": "v%5D~D",
+                "type": "date",
+                "date": null
+              },
+              "Last Status Change": {
+                "id": "wQFr",
+                "type": "date",
+                "date": {
+                  "start": "2026-10-27",
+                  "end": null,
+                  "time_zone": null
+                }
+              },
+              "D1PTM": {
+                "id": "wgp%7B",
+                "type": "number",
+                "number": null
+              },
+              "Link to Promo": "https://drive.google.com/drive/folders/1oubTDcI9bPMGCRl2PjrbeQ5pnYUNFGQ6",
+              "[Creatives] Tasks": [],
+              "ipm TEST": {
+                "id": "xWSH",
+                "type": "number",
+                "number": null
+              },
+              "Art Assets Link": {
+                "id": "x%5C%3DY",
+                "type": "url",
+                "url": null
+              },
+              "Total installs": {
+                "id": "x%5DWz",
+                "type": "number",
+                "number": null
+              },
+              "LTV_180_US ": {
+                "id": "xfen",
+                "type": "number",
+                "number": null
+              },
+              "Sub-s Database": [],
+              "Amz Console: On Auto support": false,
+              "Create QA Task": true,
+              "Create UA Tasks": null,
+              "Paused Dev Days": {
+                "id": "y~fY",
+                "type": "number",
+                "number": null
+              },
+              "3D Artist": {
+                "id": "zHXV",
+                "type": "people",
+                "people": []
+              },
+              "Testing Start Date Rollup": "",
+              " GA Secret Key": "",
+              "Task Tracker Link": {
+                "id": "%7BIp%3F",
+                "type": "url",
+                "url": "https://www.notion.so/viragames/C14-2059748bc8c281c4a6f3c7a56cef43f1"
+              },
+              "D3INT": {
+                "id": "%7BL%5C%3B",
+                "type": "number",
+                "number": null
+              },
+              "Percent of Release": {
+                "id": "%7BRbl",
+                "type": "number",
+                "number": 100
+              },
+              "AppMagic Info": [],
+              "StartUp Time": {
+                "id": "%7BZ_P",
+                "type": "number",
+                "number": null
+              },
+              "D1BAN": {
+                "id": "%7BeFD",
+                "type": "number",
+                "number": null
+              },
+              "IPM (CP) Test Dates": {
+                "id": "%7Be%5E%3E",
+                "type": "date",
+                "date": null
+              },
+              "Platform": "Fire TV",
+              "temp_tk_version_link": {
+                "id": "%7CeXN",
+                "type": "formula",
+                "formula": {
+                  "type": "string",
+                  "string": "Open ImportPackageWindow.cs"
+                }
+              },
+              "Screenshot Promo Request": false,
+              "Days Off Dev Work": {
+                "id": "%7Dcb%5B",
+                "type": "number",
+                "number": null
+              },
+              "Sub-item": [],
+              "Date Art Finish": {
+                "id": "%7Dwfx",
+                "type": "date",
+                "date": null
+              },
+              "GIT LINK": "https://github.com/Vira-Games/game-amz-division-merge-race",
+              "Estimate Art Days": {
+                "id": "~%3BYy",
+                "type": "number",
+                "number": null
+              },
+              "D7PTM": {
+                "id": "~%3F%3B%40",
+                "type": "number",
+                "number": null
+              },
+              "Parent Project": [
+                "1d79748b-c8c2-808a-bf32-fc67cab4f904"
+              ],
+              "Days in Dev -> QA (Notion)": {
+                "id": "~FLK",
+                "type": "formula",
+                "formula": {
+                  "type": "number",
+                  "number": null
+                }
+              },
+              "BALANCE": "",
+              "Description for QA": "1.3.9.1 - as is",
+              "Prod Approved": false,
+              "Static Banner Promo Request": false,
+              "IPM": {
+                "id": "~oXr",
+                "type": "number",
+                "number": null
+              },
+              "Sent To QA": {
+                "id": "~sjG",
+                "type": "date",
+                "date": null
+              },
+              "Promo info checking": {
+                "id": "~wLr",
+                "type": "formula",
+                "formula": {
+                  "type": "boolean",
+                  "boolean": false
+                }
+              },
+              "Project": "snrcbtz - Snake Rush: Clash Battle 3D [TV]",
+              "Description": "",
+              "SubscriptionRevenueEvent": false,
+              "AMZ Metrics Date & Comment": "",
+              "GD 2": {
+                "id": "525b7481-eedc-47dc-8bbe-be6148a797a1",
+                "type": "multi_select",
+                "multi_select": []
+              },
+              "Amz StartUp Time": {
+                "id": "5377ac79-0664-414f-ac87-9382f50e7579",
+                "type": "number",
+                "number": null
+              },
+              "Status 2": "",
+              "Days": {
+                "id": "954c0bd9-5461-4532-98f8-eeedb99403e9",
+                "type": "number",
+                "number": null
+              },
+              "Asana Link": {
+                "id": "bd0e24db-adc1-43c1-89c6-4aa5dcbf467b",
+                "type": "url",
+                "url": null
+              },
+              "Need a new Video?": false
+            },
+            "created_time": "2026-10-27T12:46:00.000Z",
+            "last_edited_time": "2026-10-28T08:51:00.000Z",
+            "url": "https://app.notion.com/p/snrcbtz-Snake-Rush-Clash-Battle-3D-TV-7799748bc8c2828faf5a81b7187f2b21"
+          }
+        }
+      }
+    }
+  }
+}
