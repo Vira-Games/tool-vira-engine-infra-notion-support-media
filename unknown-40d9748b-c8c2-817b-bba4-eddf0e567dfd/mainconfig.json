@@ -49,7 +49,7 @@
           "MainData": [
             "40d9748b-c8c2-81cc-8fb6-d9785fa4f54f"
           ],
-          "(List)Bundle Version": "45",
+          "(List)Bundle Version": "46",
           "Platform": "Fire TV",
           "💼 All Projects": [
             "2899748b-c8c2-8242-8eef-81cfd58019b9"
@@ -61,7 +61,7 @@
             "type": "formula",
             "formula": {
               "type": "string",
-              "string": "45"
+              "string": "46"
             }
           },
           "ProjectKey": "40d9748b-c8c2-817b-bba4-eddf0e567dfd",
@@ -124,7 +124,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "45"
+                  "string": "46"
                 }
               },
               "Platform": {
@@ -182,7 +182,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "string",
-                  "string": "45"
+                  "string": "46"
                 }
               },
               "Bundle Id": {
@@ -225,7 +225,7 @@
                   "ProductName": "Bottle Flip: Jump 3D",
                   "BundleIdentifier": "com.game.jump.flip",
                   "Version": "1.4.25",
-                  "BundleVersionCode": 45,
+                  "BundleVersionCode": 46,
                   "CompanyName": "Medoc Games"
                 },
                 "SDKSettings": {
@@ -257,11 +257,21 @@
                 "type": "number",
                 "number": null
               },
+              "Last collected": {
+                "id": "%3ACcL",
+                "type": "date",
+                "date": null
+              },
               "Create Paid Promo Rebuild ": null,
+              "pLTV 180 A": {
+                "id": "%3AkZ%5D",
+                "type": "number",
+                "number": null
+              },
               "Dev Unique Days": {
                 "id": "%3ArkJ",
                 "type": "number",
-                "number": 2
+                "number": 5.5
               },
               "Installs US": {
                 "id": "%3Au%7BN",
@@ -287,7 +297,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 3
+                  "number": 9
                 }
               },
               "ASIN": "B0BTQYWZCH",
@@ -324,7 +334,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 4
+                  "number": 10
                 }
               },
               "Are all prop. filled? ": {
@@ -359,7 +369,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 3
+                  "number": 9
                 }
               },
               "Icon Promo Request": false,
@@ -432,6 +442,11 @@
                 "type": "multi_select",
                 "multi_select": []
               },
+              "Custom End Date": {
+                "id": "DItH",
+                "type": "date",
+                "date": null
+              },
               "Estimate Dev Days": {
                 "id": "DX%60A",
                 "type": "number",
@@ -467,7 +482,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-11-03T11:15:00.000Z"
+                "last_edited_time": "2026-11-11T08:02:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -486,6 +501,11 @@
                 "number": null
               },
               "Project Score Analysys": "",
+              "pLTV 180 B": {
+                "id": "EVLk",
+                "type": "number",
+                "number": null
+              },
               "[Promo] Tasks ": [],
               "TECH": "",
               "CTR TEST": {
@@ -532,6 +552,11 @@
               "ASO Name & Description": null,
               "External\\internal": "",
               "⏺️ ASO | Calendar": [],
+              "CR Total A": {
+                "id": "G%3D%7Dl",
+                "type": "number",
+                "number": null
+              },
               "Product Features": "",
               "Promo Task ": [],
               "Monetization DB": [],
@@ -567,6 +592,11 @@
               },
               "AMZ releaseId": "",
               "[Logotype]": null,
+              "LTV d30 A": {
+                "id": "KJQ~",
+                "type": "number",
+                "number": null
+              },
               "CR Subs, %": {
                 "id": "KKZH",
                 "type": "number",
@@ -616,7 +646,7 @@
               "Estimate Art Days (by Velocity)": {
                 "id": "NE%5E%7C",
                 "type": "number",
-                "number": 9.1
+                "number": 8.8
               },
               "Previous Status": {
                 "id": "NSz%7D",
@@ -702,7 +732,8 @@
               "Fullsreen Banner Promo Request": false,
               "📽️ Creatives Team Tasks": [
                 "20d9748b-c8c2-80bc-9a80-f9cfc83dd912",
-                "ea19748b-c8c2-8318-8d29-01f47d75fe2e"
+                "ea19748b-c8c2-8318-8d29-01f47d75fe2e",
+                "4149748b-c8c2-80d0-918d-f08996e5d008"
               ],
               "Bright SDK Review Status": {
                 "id": "SXax",
@@ -726,7 +757,7 @@
                 "type": "url",
                 "url": null
               },
-              "Bundle Version": "45",
+              "Bundle Version": "46",
               "Days for Art (Notion)": {
                 "id": "T%3Edc",
                 "type": "formula",
@@ -763,7 +794,7 @@
               "Estimate Dev Days  (by Velocity)": {
                 "id": "VZsx",
                 "type": "number",
-                "number": 7.9
+                "number": 7.7
               },
               "Days in QA (Notion)": {
                 "id": "VgPc",
@@ -784,6 +815,11 @@
                 "id": "X%5Cma",
                 "type": "date",
                 "date": null
+              },
+              "Installs A": {
+                "id": "YOn%7D",
+                "type": "number",
+                "number": null
               },
               "Task Create Info": "",
               "GDD Doc": "",
@@ -821,7 +857,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 3
+                  "number": 9
                 }
               },
               "Groups": [],
@@ -849,6 +885,11 @@
               "MONETIZATION": "",
               "D3BAN": {
                 "id": "%5EQH%40",
+                "type": "number",
+                "number": null
+              },
+              "LTV d30 B": {
+                "id": "%5ERf%3F",
                 "type": "number",
                 "number": null
               },
@@ -903,6 +944,11 @@
                 "type": "number",
                 "number": null
               },
+              "Extended metrics": {
+                "id": "bv%60z",
+                "type": "url",
+                "url": null
+              },
               "Test - Button No Validation": null,
               "Release Type": "A/B Test",
               "GDD is updated for the current game version": true,
@@ -927,11 +973,12 @@
               "Public key": [
                 {
                   "name": "PublicKey_BottleFlip.txt",
-                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/efb00eea-6e7a-48a2-a375-22395e77c650/PublicKey_BottleFlip.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VSUEEQFN%2F20261103%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261103T111648Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCCa6ZMR9t6ThmnylC0eDm8VUv%2BGi6afxAdr3g98lFWlgIgY2fmXSSC%2FLXhO2NGwq76OAoF2OuW5LtlowUbcrb9hL8qiAQIkv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDA7BvaBS7kY4tZRKJSrcAyogQLKalVr%2FeO92f2Ki4q1oK1yxhEL6XHx1iyDMGfpV8RFm7vtY8kkVkUNnc8%2FnJqKR%2BsFPUYyWKex4cct%2Ft91B19eDwOiCKCp9kRjiRUK2FWBZyMxwW2HOAH3fOiAmq4Asj5jbCC7vV9d2N8JGDhNt2qePxov2E4h1b8Ajguu10g9qOopVBgVD07PJwKcUgFrHhb2FKnT25mzkmu7nml7abSstnhyvgLvSJpnJo%2BUJ6OHFHrOiNUE%2BEecPUhSv4mw6Y1golrnT5rN2vlVSka%2Fu%2BUcnOWV%2BtM9RQrAjcr%2BOfO8RsjCoqOxxU3vui9xBKGQBRg2MI2bP9uBRI9JBO70Z54z3zokdCTkX%2BeJXws6trtnn04qfYutNZGQM8SZ25GETxuiy7zes31LmobEgUBl63y9bdS9JLQeevO4B%2BkRJSgkhII82MndPU2vVRQGpzAPYWh9kNVlRpZVzFUnaTwtzusd9H13pdNfr4UiQoYKy3A1pQk5M2w5lsJhTIhhu3LqVF1CK20Z1t2A%2BogLQXCynjCq9cI5ZiE1qFGFWTzhIPWjAxTIhfi2iMLJhmhBatER31R2OdesluFRK9ysqPljhH8UxsTYPQgnXNcVo3lOy%2BE36ucmfbvoJLMXIMIHMptcGOqUB4CFelBBkAaqL7u8abCGZtg9jFnmWBp4W0pM4xy9K7JfOBJZohPv6OVyhUmdV8vh79fKtWarjQpfLVFb9tCIYCKySyDfQMW9DwZNeovyfSLxiITQVMrPA9VbE%2FNVxPy2%2FwvnhzisT9MKsNy46GmmTJJdwOV%2BmULgy6U9plZ3s7XLN%2BIuKqhWaBqfavX3Y1%2BncJE9Uw5WTYXb4d1k8d6xMnfkrQrrL&X-Amz-Signature=7cd2b5bbff811f3508fbb9f930438a2a6159db529c855c3d800432b3579400e1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/adac88b0-9096-4622-92a6-2d8a9dbd2509/efb00eea-6e7a-48a2-a375-22395e77c650/PublicKey_BottleFlip.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZGRXQPY2%2F20261111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261111T090508Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDx4TbPRYDUIC2nmVV7SMc52Ow3XVkVdH2hUNGXqvQZCAIgR7iv3lif51F68UcNnoZb%2B4pebYM3Fuz46FmoTi6kFgYq%2FwMIUBAAGgw2Mzc0MjMxODM4MDUiDE2ckudvV%2F0xVm%2FlPCrcA0t%2Fz5fRCBEmNjt4TtuAmkFT1ZQVfhoETYOmtluwB%2FD5zZyGgIxbSaHKLb%2BmL%2BKXrWGD8dHw1To8wZm3oky85VZsVOwd%2F88lX9E6UzdL%2BrCJ5vbFAMqy8EIOpgfo5StYn%2FBc0wuYjrQnJ8R2%2BCLXlQv8Wytsp%2F7pKTXY6j0uZl864ZbOAFHiVDaMdWlvtUIoglKp4O2gCmrVrB%2FkiQ0iUKt2bh%2FP38R%2FDCuzbI2c%2FCz%2BMSd3cxI1j3wtVwlNUwrvs37W4pJvTk0j9FYAB%2BkmsGqkKqO%2Fd%2BVRhZNeNOHdb%2FFRMK2T7QDB8jI%2F2xNkc7qNIloySUnpvzxA%2BBsqTJS0G2oRDy%2BSWbSLFaqJ7cjH7QNZ1REFhlYur7VhOgvudFviL19vVrsQkdBfOQB6sSTcX3YERpsU%2BLJRKaJhhGgdDnBpEIWsxJVfxnh201YMGHY1ahXIFvwaO%2Fh%2FspZvRyvSazXE%2B2NzaEPa%2BwnqigfHnbsCXoqGPRTD7aAHniRT4Fw0GY5LuWy%2BklfW9K6%2F9lUdoirX6ID828HULJWKSV3PUIeDQB64p29GueANv8UsFafh2Qe9vMljoXrFhFkBactFSZVHS9AFwKn5OrRa05%2Bg7SsIY773y6WNaqiHtwQ3MOiz0NcGOqUBPw27U7WDglCLImTPfRiaxUQkVM0Znu8Ax%2FtQN2ACz2708spjCjxAGUZJyVK2dd9rqR0LNvtdinVXjxUmn4vF8dOUf5cad0wznP0mkXZDJ1DZe6ft3F9vTI78rjwW7L0l0kdoakx1W%2B%2BOKeyhNFv18EgAKN3GbyGsqmpHrUHqJL4T6wCj0DoBPLpS4yE4tgtGI%2BLuOJjg2KIgtj19AmNzQh%2BZN5IL&X-Amz-Signature=6fe0f2de34235cdbfd47f50cd9b918eee4a19cffd535188a378496862953a323&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
                 }
               ],
               "Quarter": "Q4_26",
               "Create AF & Vaveda Pages": null,
+              "Collect Status": "",
               "LTV_180_WW": {
                 "id": "gCUp",
                 "type": "number",
@@ -968,6 +1015,11 @@
                   "name": "Not started",
                   "color": "default"
                 }
+              },
+              "LTV d7 A": {
+                "id": "iie~",
+                "type": "number",
+                "number": null
               },
               "Logotype Banner Promo Request": false,
               "Slack Channel Link": "https://viragames.slack.com/archives/C08AF8S8Z1U",
@@ -1009,12 +1061,17 @@
               "Days Off Art": {
                 "id": "nY%7D%5D",
                 "type": "number",
-                "number": null
+                "number": 0
               },
               "D3RET": {
                 "id": "n%5CF~",
                 "type": "number",
                 "number": null
+              },
+              "A/B test end date": {
+                "id": "nhmk",
+                "type": "date",
+                "date": null
               },
               "Cross-Promo AMZ": [],
               "Paid\\Free": "Free",
@@ -1027,6 +1084,11 @@
               },
               "AF Key": "LfLGVvzyvMQPuyNrWDbtt7",
               "Goals": "",
+              "Installs B": {
+                "id": "o%7Bh%5E",
+                "type": "number",
+                "number": null
+              },
               "Firebase JSON": [],
               "QA": "",
               "Hypothesys": [],
@@ -1050,6 +1112,7 @@
                   "bot": {}
                 }
               },
+              "Tableau Game Name": "",
               "Account": {
                 "id": "qhXd",
                 "type": "multi_select",
@@ -1138,12 +1201,19 @@
                   "time_zone": null
                 }
               },
+              "Config Version": "",
               "D1PTM": {
                 "id": "wgp%7B",
                 "type": "number",
                 "number": null
               },
               "Link to Promo": "https://drive.google.com/drive/folders/131TL_IQFUCU5N6QUcZ4CzeC00cluQb3I",
+              "Collect A/B Test Data": null,
+              "CR Total B": {
+                "id": "xCk%5C",
+                "type": "number",
+                "number": null
+              },
               "[Creatives] Tasks": [],
               "ipm TEST": {
                 "id": "xWSH",
@@ -1171,6 +1241,11 @@
               "Create UA Tasks": null,
               "Paused Dev Days": {
                 "id": "y~fY",
+                "type": "number",
+                "number": null
+              },
+              "LTV d14 A": {
+                "id": "z%3B%7C%5D",
                 "type": "number",
                 "number": null
               },
@@ -1213,6 +1288,11 @@
                 "date": null
               },
               "Platform": "Fire TV",
+              "LTV d14 B": {
+                "id": "%7CV%5B%5D",
+                "type": "number",
+                "number": null
+              },
               "temp_tk_version_link": {
                 "id": "%7CeXN",
                 "type": "formula",
@@ -1221,7 +1301,13 @@
                   "string": "Open ImportPackageWindow.cs"
                 }
               },
+              "Collect error": "",
               "Screenshot Promo Request": false,
+              "LTV d7 B": {
+                "id": "%7DW%3AA",
+                "type": "number",
+                "number": null
+              },
               "Days Off Dev Work": {
                 "id": "%7Dcb%5B",
                 "type": "number",
@@ -1231,7 +1317,11 @@
               "Date Art Finish": {
                 "id": "%7Dwfx",
                 "type": "date",
-                "date": null
+                "date": {
+                  "start": "2026-11-03",
+                  "end": null,
+                  "time_zone": null
+                }
               },
               "GIT LINK": "https://gitlab.com/vira-games/amazon-projects/bottleflip",
               "Estimate Art Days": {
@@ -1252,7 +1342,7 @@
                 "type": "formula",
                 "formula": {
                   "type": "number",
-                  "number": 4
+                  "number": 10
                 }
               },
               "BALANCE": "",
@@ -1305,7 +1395,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-10-30T15:40:00.000Z",
-            "last_edited_time": "2026-11-03T11:15:00.000Z",
+            "last_edited_time": "2026-11-11T08:02:00.000Z",
             "url": "https://app.notion.com/p/bttlfjz-Bottle-Flip-Jump-3D-2899748bc8c282428eef81cfd58019b9"
           }
         }
