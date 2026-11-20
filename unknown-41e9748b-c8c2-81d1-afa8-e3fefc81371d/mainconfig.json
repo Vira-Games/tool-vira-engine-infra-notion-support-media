@@ -69,7 +69,7 @@
           "Name": "[Highway Legends] - android"
         },
         "created_time": "2026-11-20T15:51:00.000Z",
-        "last_edited_time": "2026-11-20T15:51:00.000Z",
+        "last_edited_time": "2026-11-20T15:57:00.000Z",
         "url": "https://app.notion.com/p/Highway-Legends-android-41e9748bc8c281d1afa8e3fefc81371d",
         "children": {
           "_Highway_Legends__-_android_ProductCatalog": {
@@ -448,7 +448,7 @@
               "Last edited time": {
                 "id": "Dj%3Fm",
                 "type": "last_edited_time",
-                "last_edited_time": "2026-11-20T15:55:00.000Z"
+                "last_edited_time": "2026-11-20T16:00:00.000Z"
               },
               "Project Link": {
                 "id": "DjJJ",
@@ -654,7 +654,7 @@
                   "date": null
                 }
               },
-              "Interstitial Key": "543c6cfb5ee0eaf4",
+              "Interstitial Key": "543c6cfb5ee0eaf4i",
               "BB Game ID (iOS)": "",
               "Team ": "Bee Creator",
               "Date Art Start": {
@@ -672,7 +672,7 @@
                 "url": null
               },
               "Outdated / unused elements are removed from GDD": false,
-              "Applovin Key": "ZkOo78V5ga6pEBNIN0E3mJLRZFdhy5BQ7cv3ZXULM6vc4Tr1oP86mBOGN5pJcNTPN1FdBSpCL4dDw6zoWL08Ag",
+              "Applovin Key": "ZkOo78V5ga6pEBNIN0E3mJLRZFdhy5BQ7cv3ZXULM6vc4Tr1oP86mBOGN5pJcNTPN1FdBSpCL4dDw6zoWL08Agi",
               "Full Pack  Fire TV ": null,
               "iPad Screens": {
                 "id": "R%5EzP",
@@ -922,7 +922,7 @@
               },
               "Create Paid Banner": null,
               "Prod Promo Approve": "",
-              "RW Key": "f63dcad9dddf4056",
+              "RW Key": "f63dcad9dddf4056i",
               "Art Content Table": null,
               "What's new": "",
               "Promo Icon": [],
@@ -1044,7 +1044,7 @@
                 "type": "date",
                 "date": null
               },
-              "AF Key": "VVXqDgGj349dHqPNadtV6G",
+              "AF Key": "VVXqDgGj349dHqPNadtV6Gi",
               "Goals": "",
               "Installs B": {
                 "id": "o%7Bh%5E",
@@ -1134,7 +1134,7 @@
               "If release is not required:  Need Release checkbox is unchecked": false,
               "UI": "",
               "Test - Button Validation": null,
-              "Admob Key": "ca-app-pub-1156383915014504~7476196496",
+              "Admob Key": "ca-app-pub-1156383915014504~7476196496i",
               "Firebase Link": {
                 "id": "upQD",
                 "type": "url",
@@ -1355,7 +1355,7 @@
               "Need a new Video?": false
             },
             "created_time": "2026-11-20T15:50:00.000Z",
-            "last_edited_time": "2026-11-20T15:55:00.000Z",
+            "last_edited_time": "2026-11-20T16:00:00.000Z",
             "url": "https://app.notion.com/p/Highway-Legends-android-9539748bc8c283ed994101670759386a"
           }
         }
